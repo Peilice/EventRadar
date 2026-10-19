@@ -132,6 +132,10 @@ a { color: inherit; text-underline-offset: 0.2em; text-decoration-thickness: 2px
     var(--sea);
   color: var(--on-sea);
   padding: 28px 16px 64px;
+  /* 從主畫面全螢幕開啟時，避開瀏海與狀態列 */
+  padding-top: calc(28px + env(safe-area-inset-top));
+  padding-left: max(16px, env(safe-area-inset-left));
+  padding-right: max(16px, env(safe-area-inset-right));
   overflow: hidden;
 }
 .hero-inner {
@@ -146,7 +150,7 @@ a { color: inherit; text-underline-offset: 0.2em; text-decoration-thickness: 2px
 .logo-disc { fill: var(--sea-deep); stroke: var(--on-sea); stroke-width: 4; }
 .logo-ring { fill: none; stroke: color-mix(in oklab, var(--on-sea) 45%, transparent); stroke-width: 2.5; }
 .logo-sweep { transform-origin: 50px 50px; animation: sweep 5s linear infinite; }
-.logo-sweep path { fill: color-mix(in oklab, var(--sun) 55%, transparent); }
+.logo-sweep path { fill: color-mix(in oklab, var(--sun) 88%, transparent); }
 .logo-blip { fill: var(--sunset); stroke: var(--on-sea); stroke-width: 2; animation: blip 5s ease-out infinite; }
 .logo-blip.b2 { fill: var(--sun); animation-delay: -1.9s; }
 .logo-blip.b3 { fill: #ffffff; animation-delay: -3.3s; }
@@ -625,7 +629,7 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 /* ---------- 手機 ---------- */
 @media (max-width: 640px) {
   .hero {
-    padding: 22px 16px 54px;
+    padding: calc(22px + env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) 54px max(16px, env(safe-area-inset-left));
     background:
       radial-gradient(circle at calc(100% - 30px) 10px, var(--sun) 0 44px, transparent 45px),
       var(--sea);

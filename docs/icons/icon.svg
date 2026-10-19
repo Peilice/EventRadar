@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- 主畫面圖示：海藍底、港口波浪、雷達盤。雷達盤落在 maskable 安全區（中心 80% 圓）內 -->
+  <rect width="512" height="512" fill="#1e4fc7"/>
+  <circle cx="420" cy="92" r="58" fill="#ffc93c"/>
+  <path d="M0 438c43 16 85 16 128 0s85-16 128 0 85 16 128 0 85-16 128 0v74H0z" fill="#fff5e3"/>
+  <circle cx="268" cy="252" r="150" fill="#0f2a73"/>
+  <circle cx="256" cy="240" r="150" fill="#15379a" stroke="#fff8ea" stroke-width="14"/>
+  <circle cx="256" cy="240" r="100" fill="none" stroke="#fff8ea" stroke-opacity="0.45" stroke-width="7"/>
+  <circle cx="256" cy="240" r="52" fill="none" stroke="#fff8ea" stroke-opacity="0.45" stroke-width="7"/>
+  <path d="M256 240V97a143 143 0 0 1 123.8 71.5z" fill="#ffd45e" fill-opacity="0.92"/>
+  <circle cx="320" cy="160" r="17" fill="#ff6b35" stroke="#fff8ea" stroke-width="6"/>
+  <circle cx="186" cy="290" r="14" fill="#ffc93c" stroke="#fff8ea" stroke-width="6"/>
+  <circle cx="296" cy="318" r="11" fill="#ffffff"/>
+  <circle cx="256" cy="240" r="15" fill="#fff8ea"/>
+</svg>
