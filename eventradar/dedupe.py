@@ -108,4 +108,5 @@ def _merge(group: list[Event]) -> Event:
         links=links,
         lat=_first([e.lat for e in group]),
         lng=_first([e.lng for e in group]),
+        aliases=[i for e in group for i in [e.id, *e.aliases] if i != base.id],
     )

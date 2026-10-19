@@ -338,6 +338,11 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
   font-variant-numeric: tabular-nums;
 }
 .chip[aria-pressed="true"] .chip-count { background: var(--sun); color: #15213f; }
+.chip-mark[data-mark="want"] .icon { color: var(--sunset); }
+.chip-mark[data-mark="going"] .icon { color: var(--accent); }
+.chip-mark[aria-pressed="true"] .icon { color: inherit; fill: currentColor; }
+.chip-mark[aria-pressed="true"] .icon { --tear: var(--text); }
+.field input:disabled { opacity: 0.45; cursor: not-allowed; }
 
 .reset {
   justify-self: start;
@@ -467,6 +472,7 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 
 .event-cat {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 8px;
   margin: 0 -16px 12px !important;
@@ -479,6 +485,39 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
   font-size: 0.88rem;
 }
 .event-cat .icon { width: 1.3em; height: 1.3em; }
+
+/* 想去／已報名：疊在標題連結的整張卡片點擊範圍之上 */
+.mark-btns {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  gap: 6px;
+  margin-left: auto;
+}
+.mark-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 32px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  border: var(--border) solid var(--line);
+  background: var(--surface);
+  color: var(--muted);
+  box-shadow: 2px 2px 0 var(--shadow-c);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.8rem;
+  transition: transform 0.18s var(--ease), box-shadow 0.18s var(--ease), background-color 0.18s;
+}
+.mark-btn .icon { width: 1.15em; height: 1.15em; }
+.mark-btn:hover { color: var(--text); transform: translate(-1px, -1px); box-shadow: 3px 3px 0 var(--shadow-c); }
+.mark-btn:active { transform: translate(2px, 2px); box-shadow: 0 0 0 var(--shadow-c); }
+.mark-btn[aria-pressed="true"] { color: #15213f; border-color: #15213f; }
+.mark-btn[aria-pressed="true"] .icon { fill: currentColor; }
+.mark-btn[aria-pressed="true"] .icon { --tear: var(--btn-bg); }
+.mark-btn[data-mark="want"][aria-pressed="true"] { --btn-bg: var(--sunset); background: var(--btn-bg); }
+.mark-btn[data-mark="going"][aria-pressed="true"] { --btn-bg: var(--sun); background: var(--btn-bg); }
 
 .event-title {
   margin: 0 0 10px;

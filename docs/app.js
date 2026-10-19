@@ -15,6 +15,9 @@ const CATEGORY_KEYS = {
 const catKey = (c) => CATEGORY_KEYS[c] || "other";
 const WEEKDAYS = ["日", "一", "二", "三", "四", "五", "六"];
 const DEFAULT_RANGE_DAYS = 30;
+// 個人標記：存在瀏覽器的 localStorage，格式 { 活動 ID: "want" | "going" }
+const MARK_KEY = "eventradar.marks";
+const MARK_LABELS = { want: "想去", going: "已報名" };
 
 const state = {
   events: [],
@@ -22,6 +25,9 @@ const state = {
   categories: new Set(),
   sources: new Set(),
   sourceChips: new Map(),
+  marks: {},
+  markFilter: new Set(),
+  markChips: new Map(),
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -64,6 +70,51 @@ function safeUrl(url) {
   return /^https?:\/\//i.test(url || "") ? url : null;
 }
 
+// --- 標記 ---
+
+// 無痕模式或封鎖網站資料時 localStorage 會丟例外，此時標記只在這次瀏覽有效
+function loadMarks() {
+  try {
+    const m = JSON.parse(localStorage.getItem(MARK_KEY));
+    return m && typeof m === "object" ? m : {};
+  } catch {
+    return {};
+  }
+}
+
+function saveMarks() {
+  try {
+    localStorage.setItem(MARK_KEY, JSON.stringify(state.marks));
+  } catch {}
+}
+
+// 對照目前的資料：去重後主 ID 若改變，從 aliases 找回標記；已結束或已下架的活動清掉
+function syncMarks(events) {
+  const saved = loadMarks();
+  const today = taipeiToday();
+  state.marks = {};
+  for (const e of events) {
+    if (dayOf(e.end) < today) continue;
+    const id = [e.id, ...(e.aliases || [])].find((i) => MARK_LABELS[saved[i]]);
+    if (id) state.marks[e.id] = saved[id];
+  }
+  saveMarks();
+}
+
+function toggleMark(e, kind) {
+  if (state.marks[e.id] === kind) delete state.marks[e.id];
+  else state.marks[e.id] = kind;
+  saveMarks();
+}
+
+function updateMarkCounts() {
+  const counts = {};
+  for (const kind of Object.values(state.marks)) counts[kind] = (counts[kind] || 0) + 1;
+  for (const [kind, chip] of state.markChips) {
+    chip.querySelector(".chip-count").textContent = counts[kind] || 0;
+  }
+}
+
 // --- 篩選 ---
 
 function readFilters() {
@@ -77,6 +128,7 @@ function readFilters() {
     organizer_type: f.get("organizer_type"),
     categories: state.categories,
     sources: state.sources,
+    marks: state.markFilter,
   };
 }
 
@@ -87,6 +139,7 @@ function matches(e, f) {
   if (f.organizer_type && e.organizer_type !== f.organizer_type) return false;
   if (f.categories.size && !f.categories.has(e.category)) return false;
   if (f.sources.size && !e.sources.some((s) => f.sources.has(s))) return false;
+  if (f.marks.size && !f.marks.has(state.marks[e.id])) return false;
   if (f.q) {
     const hay = [e.title, e.venue, e.address, e.organizer, e.description].join(" ").toLowerCase();
     if (!f.q.split(/\s+/).every((w) => hay.includes(w))) return false;
@@ -98,12 +151,13 @@ function countActiveFilters(f) {
   const today = taipeiToday();
   let n = 0;
   if (f.q) n++;
-  if (f.from !== today || f.to !== addDays(today, DEFAULT_RANGE_DAYS)) n++;
+  if (!f.marks.size && (f.from !== today || f.to !== addDays(today, DEFAULT_RANGE_DAYS))) n++;
   if (f.district) n++;
   if (f.fee) n++;
   if (f.organizer_type) n++;
   if (f.categories.size) n++;
   if (f.sources.size) n++;
+  if (f.marks.size) n++;
   return n;
 }
 
@@ -117,6 +171,22 @@ function renderEvent(e) {
   node.dataset.cat = key;
   node.querySelector(".event-cat use").setAttribute("href", `#i-${key}`);
   node.querySelector(".event-cat span").textContent = e.category;
+
+  const markBtns = node.querySelectorAll(".mark-btn");
+  const syncMarkBtns = () => {
+    for (const b of markBtns) b.setAttribute("aria-pressed", String(state.marks[e.id] === b.dataset.mark));
+  };
+  for (const b of markBtns) {
+    b.setAttribute("aria-label", `${MARK_LABELS[b.dataset.mark]}：${e.title}`);
+    b.addEventListener("click", () => {
+      toggleMark(e, b.dataset.mark);
+      syncMarkBtns();
+      // 只看標記時，取消標記的活動要從列表移除
+      if (state.markFilter.size) render();
+      else updateMarkCounts();
+    });
+  }
+  syncMarkBtns();
 
   const link = node.querySelector(".event-title a");
   link.textContent = e.title;
@@ -171,6 +241,8 @@ function renderEvent(e) {
 }
 
 function render() {
+  // 只看標記時不限日期：停用的欄位不會出現在 FormData，readFilters 會改用預設值
+  form.elements.from.disabled = form.elements.to.disabled = state.markFilter.size > 0;
   const f = readFilters();
   const filtered = state.events.filter((e) => matches(e, f));
   const upcoming = filtered.filter((e) => dayOf(e.start) >= f.from);
@@ -179,6 +251,7 @@ function render() {
     .sort((a, b) => a.end.localeCompare(b.end));
 
   updateSourceCounts(f);
+  updateMarkCounts();
 
   const active = countActiveFilters(f);
   $("#active-count").textContent = active ? `（${active} 項）` : "";
@@ -248,7 +321,10 @@ function renderEmpty(activeFilters) {
   const box = document.createElement("div");
   box.className = "empty";
   box.innerHTML = `<svg class="empty-icon" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-radar"/></svg><p></p>`;
-  box.querySelector("p").textContent = "這段期間沒有符合條件的新活動。";
+  box.querySelector("p").textContent =
+    state.markFilter.size && !Object.keys(state.marks).length
+      ? "還沒有標記任何活動。點活動卡片上的「想去」或「已報名」就會出現在這裡。"
+      : "這段期間沒有符合條件的新活動。";
   if (activeFilters) {
     const b = document.createElement("button");
     b.type = "button";
@@ -329,6 +405,19 @@ function makeChip(selected, value, label) {
 }
 
 function setupFilters() {
+  const markChips = $("#mark-chips");
+  for (const [kind, label] of Object.entries(MARK_LABELS)) {
+    const b = makeChip(state.markFilter, kind, label);
+    b.classList.add("chip-mark");
+    b.dataset.mark = kind;
+    b.insertAdjacentHTML("afterbegin", `<svg class="icon" aria-hidden="true"><use href="#i-${kind}"/></svg>`);
+    const count = document.createElement("span");
+    count.className = "chip-count";
+    b.append(" ", count);
+    state.markChips.set(kind, b);
+    markChips.append(b);
+  }
+
   const chips = $("#category-chips");
   for (const c of CATEGORIES) {
     const b = makeChip(state.categories, c, c);
@@ -374,6 +463,7 @@ function resetFilters() {
   form.elements.to.value = addDays(today, DEFAULT_RANGE_DAYS);
   state.categories.clear();
   state.sources.clear();
+  state.markFilter.clear();
   document.querySelectorAll(".chip").forEach((b) => b.setAttribute("aria-pressed", "false"));
 }
 
@@ -387,6 +477,7 @@ async function main() {
     const data = await eventsRes.json();
     const status = statusRes.ok ? await statusRes.json() : { sources: {} };
     state.events = data.events;
+    syncMarks(data.events);
     renderStatus(status);
     $("#meta").textContent = `更新於 ${fmtDateTime(data.generated_at)} · 共 ${data.events.length} 筆活動`;
     setupFilters();

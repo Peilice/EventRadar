@@ -36,6 +36,7 @@ class Event:
     links: list[Link] = field(default_factory=list)
     lat: float | None = None
     lng: float | None = None
+    aliases: list[str] = field(default_factory=list)  # 去重時併入的其他活動 ID，讓網頁上的標記不因主 ID 改變而遺失
 
     @property
     def sources(self) -> list[str]:

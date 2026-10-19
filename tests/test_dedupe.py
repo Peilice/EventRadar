@@ -35,6 +35,7 @@ def test_merges_across_sources():
     assert len(merged) == 1
     m = merged[0]
     assert m.id == "iculture:1"
+    assert m.aliases == ["khh_travel:2", "kktix:3"]
     assert m.sources == ["iculture", "khh_travel", "kktix"]
     assert m.fee == "付費"
     # 主辦單位與類型出自同一來源
