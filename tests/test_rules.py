@@ -92,3 +92,25 @@ def test_fee_of(texts, expected):
 )
 def test_organizer_type_of(organizer, expected):
     assert organizer_type_of(organizer) == expected
+
+
+@pytest.mark.parametrize(
+    "texts, expected",
+    [
+        (("807高雄市三民區安發里",), "三民區"),  # 有區名時直接用
+        (("807 高雄市九如一路",), "三民區"),  # 只有郵遞區號
+        (("台灣高雄市自強一路207巷12號",), ""),  # 沒有線索就留空
+        (("高雄市大勇路1號", "駁二藝術特區"), "鹽埕區"),  # 地標
+        (("台灣高雄市民權一路251號830室",), ""),  # 門牌號碼不是郵遞區號
+    ],
+)
+def test_district_fallbacks(texts, expected):
+    assert district_of(*texts) == expected
+
+
+@pytest.mark.parametrize(
+    "text, expected",
+    [("NT$3,600 / NT$2,800", "付費"), ("預售單人＄1400", "付費"), ("$2880(對號座)", "付費"), ("3,680 元", "付費")],
+)
+def test_fee_of_currency_formats(text, expected):
+    assert fee_of(text) == expected

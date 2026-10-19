@@ -38,7 +38,7 @@ CATEGORY_MAP = {
 DESCRIPTION_LIMIT = 300
 
 
-def fetch() -> bytes:
+def fetch(previous=None) -> bytes:
     return http.get(URL, params={"method": "doFindTypeJ", "category": "all"}, timeout=120).content
 
 

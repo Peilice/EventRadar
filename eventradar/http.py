@@ -33,3 +33,24 @@ def get(url: str, *, params: dict | None = None, timeout: int = 60, retries: int
                 time.sleep(3 * (attempt + 1))
     assert last_error is not None
     raise last_error
+
+
+def post_json(url: str, body: dict, *, timeout: int = 60, retries: int = 2) -> dict:
+    last_error: Exception | None = None
+    for attempt in range(retries + 1):
+        try:
+            resp = requests.post(
+                url,
+                json=body,
+                timeout=timeout,
+                impersonate=IMPERSONATE,
+                headers={"Accept-Language": "zh-TW,zh;q=0.9"},
+            )
+            resp.raise_for_status()
+            return resp.json()
+        except Exception as e:
+            last_error = e
+            if attempt < retries:
+                time.sleep(3 * (attempt + 1))
+    assert last_error is not None
+    raise last_error

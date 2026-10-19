@@ -9,8 +9,8 @@ _KEYWORD_RULES: list[tuple[str, re.Pattern]] = [
     ("市集", re.compile(r"市集|跳蚤|二手市|農夫市")),
     ("運動", re.compile(r"馬拉松|路跑|鐵人|單車|自行車|球賽|運動會|錦標賽|健走|登山|瑜珈|瑜伽")),
     ("親子", re.compile(r"親子|兒童|童趣|小朋友|繪本|故事屋|說故事")),
-    ("講座／課程", re.compile(r"講座|課程|工作坊|研習|培訓|講堂|論壇|讀書會|分享會|班\b|班」|實務班|學堂|導覽")),
-    ("展覽", re.compile(r"展覽|特展|常設展|個展|聯展|邀請展|作品展|藝術展|攝影展|書法展|畫展|展出|展$")),
+    ("講座／課程", re.compile(r"講座|課程|工作坊|研習|培訓|講堂|論壇|讀書會|分享會|班\b|班」|班\)|班）|實務班|學堂|導覽|手作|DIY|體驗課|共讀|共學|大師班|訓練營")),
+    ("展覽", re.compile(r"展覽|特展|常設展|個展|聯展|邀請展|作品展|藝術展|攝影展|書法展|畫展|展出|展$|EXHIBITION|Exhibition|博覽會")),
     ("表演／音樂", re.compile(r"演唱會|音樂會|音樂節|音樂祭|演奏|演出|巡演|巡迴|live|劇場|劇團|戲劇|舞蹈|舞團|歌劇|音樂劇|偶戲|脫口秀|單口|喜劇|樂團|合唱|管弦|交響|國樂|爵士|電影", re.IGNORECASE)),
     ("節慶／觀光", re.compile(r"節$|節 |季$|祭|嘉年華|燈會|燈節|煙火|跨年|觀光|旅展|遶境|巡安|廟會|生活節|藝術節|國際節")),
 ]
@@ -62,7 +62,10 @@ def organizer_type_of(organizer: str) -> str:
 # --- 費用 ---
 
 _FREE_RE = re.compile(r"免費|免票|免報名費|不收費|自由入場|自由參加|免門票")
-_PRICE_RE = re.compile(r"(\d{2,6})\s*元|NT\$?\s*(\d{2,6})|NTD\s*(\d{2,6})|\+\s*(\d{2,6})", re.IGNORECASE)
+_PRICE_RE = re.compile(
+    r"(\d[\d,]{1,7})\s*元|NT\$?\s*(\d[\d,]{1,7})|NTD\s*(\d[\d,]{1,7})|[$＄]\s*(\d[\d,]{1,7})|\+\s*(\d{2,6})",
+    re.IGNORECASE,
+)
 
 
 def mentions_free(text: str) -> bool:
@@ -76,7 +79,7 @@ def fee_of(*texts: str) -> str:
         return "未知"
     for m in _PRICE_RE.finditer(joined):
         amount = next(g for g in m.groups() if g)
-        if int(amount) > 0:
+        if int(amount.replace(",", "")) > 0:
             return "付費"
     if _FREE_RE.search(joined):
         return "免費"

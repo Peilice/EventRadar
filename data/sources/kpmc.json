@@ -1,0 +1,1130 @@
+{
+ "fetched_at": "2026-10-19T18:32:11.623257+08:00",
+ "events": [
+  {
+   "id": "kpmc:16031",
+   "title": "一直咧做眠夢 —— 等阮返來首張EP《毋甘》全台巡迴－高雄場",
+   "start": "2027-01-08T20:00:00+08:00",
+   "end": "2027-01-08T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "等阮返來 w/煙雨飄渺、眠氣 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：等阮返來 w/煙雨飄渺、眠氣\n票價：預售票700元 現場票800元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0108/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16190",
+   "title": "《桑心男孩俱樂部 SONNIE BOYZ CLUB》2026 發片專場",
+   "start": "2027-01-09T19:30:00+08:00",
+   "end": "2027-01-09T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "躁音製造所 MKSN",
+   "organizer_type": "不確定",
+   "description": "演出：SONNIE 桑尼\n票價：預售雙人 $1500 預售單人 $800 現場 $1000",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0109/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16027",
+   "title": "周治平『有一首歌』演唱會－高雄場",
+   "start": "2027-01-23T19:00:00+08:00",
+   "end": "2027-01-23T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "周治平＋波士頓派樂團 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：周治平＋波士頓派樂團\n票價：預售票2,800元 現場票3,200元 身障票 1,400 元（線上購票）",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0123/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16102",
+   "title": "LUCKY RECORDS pre. 「FLY & DIVE」：bacho & KOTORI LIVE in TAIWAN",
+   "start": "2027-01-29T20:00:00+08:00",
+   "end": "2027-01-29T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "KOTORI (JP)、bacho (JP)、EmptyORio x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：KOTORI (JP)、bacho (JP)、EmptyORio\n票價：預售單人＄1400 預售雙人$2600 現場＄1000",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0129/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16083",
+   "title": "【The Oldies but Goodies】午後西洋金曲時光：Bee Gees & Phil Collins",
+   "start": "2026-10-23T15:00:00+08:00",
+   "end": "2026-10-23T15:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：蘇珊Susan、王威凱、林長志\n票價：單人400元 含150元午茶飲品，現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e3%80%90the-oldies-but-goodies%e3%80%91%e5%8d%88%e5%be%8c%e8%a5%bf%e6%b4%8b%e9%87%91%e6%9b%b2%e6%99%82%e5%85%89%ef%bc%9abee-gees-phil-collins/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16085",
+   "title": "Maria Kim爵士三重奏",
+   "start": "2026-10-23T20:00:00+08:00",
+   "end": "2026-10-23T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：Maria Kim、Bruce Kang、 Bobo\n票價：單人800元 雙人1500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/maria-kim%e7%88%b5%e5%a3%ab%e4%b8%89%e9%87%8d%e5%a5%8f/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15889",
+   "title": "尤雅- 2026《往事只能回味》演唱會-高雄站",
+   "start": "2026-10-24T19:30:00+08:00",
+   "end": "2026-10-24T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "全球音樂經紀有限公司",
+   "organizer_type": "民間",
+   "description": "演出：尤雅\n票價：NT$4200 NT$3600 NT$3000 NT$2400 NT$1800 NT$1600(視線不良區) 身障票NT$1500 NT$1200",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1024/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15829",
+   "title": "有些故事，家人就是最好的陪伴｜Matt Fullen《Family Tree 我們這一家》新專輯發表會",
+   "start": "2026-10-24T20:00:00+08:00",
+   "end": "2026-10-24T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：Matt Fullen傅麥特\n票價：雙人800元 單人450元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e6%9c%89%e4%ba%9b%e6%95%85%e4%ba%8b%ef%bc%8c%e5%ae%b6%e4%ba%ba%e5%b0%b1%e6%98%af%e6%9c%80%e5%a5%bd%e7%9a%84%e9%99%aa%e4%bc%b4%ef%bd%9cmatt-fullen%e3%80%8afamily-tree-%e6%88%91%e5%80%91%e9%80%99/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15891",
+   "title": "《Disney in Concert: Once Upon a Time》",
+   "start": "2026-10-25T13:00:00+08:00",
+   "end": "2026-10-25T13:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "全球音樂經紀有限公司",
+   "organizer_type": "民間",
+   "description": "演出：Andrew Johnson x Whitney Claire Kaufman x Aaron Phillips x Lisa Livesay\n票價：NT$3580 NT$3180 NT$2780 NT$2480 NT$2180 NT$1180(視線不良區) 身障票NT$1380 NT$1090",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1025/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15897",
+   "title": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 – 高雄",
+   "start": "2026-10-25T19:00:00+08:00",
+   "end": "2026-10-25T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "Eüreka、墨聲 Moshound",
+   "organizer_type": "不確定",
+   "description": "演出：Eüreka\n票價：預售票700元 現場票900元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1025/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16087",
+   "title": "JACK CONQUEROO LIVE 2：密西西比藍調夜",
+   "start": "2026-10-25T20:00:00+08:00",
+   "end": "2026-10-25T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：Jack Conqueroo\n票價：單人350元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/jack-conqueroo-live-2%ef%bc%9a%e5%af%86%e8%a5%bf%e8%a5%bf%e6%af%94%e8%97%8d%e8%aa%bf%e5%a4%9c/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15899",
+   "title": "PHANTASMAGORIA： Psychedelic Halloween Party",
+   "start": "2026-10-30T19:30:00+08:00",
+   "end": "2026-10-30T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "HOLOTROPICS、BILLY WALSHAW & THE FILTERS、MIKE-BEAT x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：HOLOTROPICS、BILLY WALSHAW & THE FILTERS、MIKE-BEAT\n票價：預售票500元 現場票700元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1030/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16089",
+   "title": "新世代拉丁爵⼠聲響｜Dan Costa Quartet",
+   "start": "2026-10-30T20:00:00+08:00",
+   "end": "2026-10-30T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：Dan Costa、李世鈞、劉育嘉、Somesh Putcha\n票價：單人500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e6%96%b0%e4%b8%96%e4%bb%a3%e6%8b%89%e4%b8%81%e7%88%b5%e2%bc%a0%e8%81%b2%e9%9f%bf%ef%bd%9cdan-costa-quartet/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15578",
+   "title": "2026 Takao Rock 打狗祭 ➤ V FUTURE PARTY 未來趴",
+   "start": "2026-10-31T13:30:00+08:00",
+   "end": "2026-10-31T13:30:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：● 春魚創意Springfish Studio｜極深空計畫 Xtreme Deep Field Project、厄倫蒂兒 Earendel、涅默 Nemesis、埃穆亞 Oumua、熙歌 Cygnus ●子午計畫Meridian Project｜玥Itsuki、祈Iruni、煦Hiyori、煌Kirali、澪Rei ●箱箱The Box｜森森鈴蘭 Lily Linglan、瑪格麗特 · 諾爾絲 Margaret North\n票價：3,680 2,680",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1031/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16036",
+   "title": "2026 漢堡好港節 HARBOUR BEATS",
+   "start": "2026-10-31T15:00:00+08:00",
+   "end": "2026-10-31T15:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄流行音樂中心、德國經濟辦事處 German Trade Office Taipei (AHK Taiwan)、德國漢堡自由漢薩市文化與媒體部 Ministry of Culture and Media of the Free and Hanseatic City of Hamburg",
+   "organizer_type": "政府",
+   "description": "票價：免費參加",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-%e6%bc%a2%e5%a0%a1%e5%a5%bd%e6%b8%af%e7%af%80-harbour-beats/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16062",
+   "title": "義大利指彈天團 — 40 Fingers亞洲巡迴演出",
+   "start": "2026-10-31T19:00:00+08:00",
+   "end": "2026-10-31T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 鯨魚堤岸 03",
+   "address": "高雄市苓雅區海邊路",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "好滿意音樂",
+   "organizer_type": "不確定",
+   "description": "演出：40 Fingers\n票價：NT$3,600 / NT$2,800 / NT$2,200 / NT$1,800 / NT$1,400 / NT$1,000",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15903",
+   "title": "Abandoned Teddy 奔等泰迪『心宿』發片巡迴-高雄場",
+   "start": "2026-10-31T19:00:00+08:00",
+   "end": "2026-10-31T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "Abandoned Teddy 奔等泰迪 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：Abandoned Teddy 奔等泰迪　w/夕陽武士\n票價：預售票500元 現場票600元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1031/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16091",
+   "title": "Jun Iida 飯田潤四重奏『Bellflower』亞洲巡演｜高雄場",
+   "start": "2026-10-31T19:30:00+08:00",
+   "end": "2026-10-31T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：Jun Iida 飯田潤、 Yasumasa Kumagai 熊谷ヤスマサ、 Shin Sakaino シンサカイノ、Kazuhiro Odagiri 小田桐和寛\n票價：單人700元 門票含100元餐飲抵用券 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/jun-iida-%e9%a3%af%e7%94%b0%e6%bd%a4%e5%9b%9b%e9%87%8d%e5%a5%8f%e3%80%8ebellflower%e3%80%8f%e4%ba%9e%e6%b4%b2%e5%b7%a1%e6%bc%94%ef%bd%9c%e9%ab%98%e9%9b%84%e5%a0%b4/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15694",
+   "title": "「圓 Circle of Harmony 」藥師寺寬邦般若心經MUSIC 10週年世界巡演 In 高雄",
+   "start": "2026-11-01T19:30:00+08:00",
+   "end": "2026-11-01T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "藥師寺寬邦 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：藥師寺寬邦\n票價：預售票2,000元 現場票2,200元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1101/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15952",
+   "title": "邱淑蟬 2026《無爭》發行巡迴【高雄場】",
+   "start": "2026-11-06T20:00:00+08:00",
+   "end": "2026-11-06T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "邱淑蟬 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：邱淑蟬\n票價：雙人套票 1200 單人預售 700 現場票 800",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1106/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16039",
+   "title": "高流系：Pro Tools專攻班",
+   "start": "2026-11-07T10:00:00+08:00",
+   "end": "2026-11-07T10:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：黃昭智講師\n票價：6800 (恕不接受單日報名)",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wrs-1107/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15906",
+   "title": "❮ D.N.Δ ❯ SPIN-UP：HEARTBEAT_THEΔRAREz 1st ALBUM WORLD TOUR",
+   "start": "2026-11-07T13:30:00+08:00",
+   "end": "2026-11-07T13:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "THEΔRAREz x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：THEΔRAREz    \r\nGUEST：Ruka Banana、存在証明NO FACE NO REaLiTY\n票價：預售票600元 現場票700元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1107/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16041",
+   "title": "高流系：Pro Tools專攻班",
+   "start": "2026-11-08T10:00:00+08:00",
+   "end": "2026-11-08T10:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：黃昭智講師\n票價：6800 (恕不接受單日報名)",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wrs-1108/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15928",
+   "title": "青虫aoi 2026 冬季小巡迴《Before Sunrise》高雄場",
+   "start": "2026-11-08T19:30:00+08:00",
+   "end": "2026-11-08T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "青虫aoi x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：青虫aoi\n票價：預售票800元 現場票1,000元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1108/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16042",
+   "title": "高流系：Pro Tools專攻班",
+   "start": "2026-11-14T09:00:00+08:00",
+   "end": "2026-11-14T09:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：黃昭智講師\n票價：6800 (恕不接受單日報名)",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wrs-1114/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15916",
+   "title": "【加場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-14T14:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "HIGH HOPE ENTERTAINMENT",
+   "organizer_type": "民間",
+   "description": "演出：山下智久\n票價：NT$ 6,600 NT$ 4,700 NT$ 4,200 NT$ 3,200 NT$ 2,350（身障席）",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1114-3/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15106",
+   "title": "山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+   "start": "2026-11-14T19:00:00+08:00",
+   "end": "2026-11-14T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "HIGH HOPE ENTERTAINMENT",
+   "organizer_type": "民間",
+   "description": "演出：山下智久\n票價：NT$ 6,600 NT$ 4,700 NT$ 4,200 NT$ 3,200 NT$ 2,350（身障席）",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1114-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16043",
+   "title": "高流系：Pro Tools專攻班",
+   "start": "2026-11-15T10:00:00+08:00",
+   "end": "2026-11-15T10:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：黃昭智講師\n票價：6800 (恕不接受單日報名)",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wrs-1115/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16143",
+   "title": "2026 Fire Live 壞兒來福 Vol.4",
+   "start": "2026-11-20T19:30:00+08:00",
+   "end": "2026-11-20T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "一生好命 / 來者何人 whoou! / 應聲倒地 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：一生好命 / 來者何人 whoou! / 應聲倒地\n票價：一般預售票 450 元 現場票 550 元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1120/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15947",
+   "title": "交個朋友吧演出系列-番外",
+   "start": "2026-11-21T19:30:00+08:00",
+   "end": "2026-11-21T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "HeheHaha、油漬艾莉、秋山 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：HeheHaha、油漬艾莉、秋山\n票價：預售票500元 現場票600元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1121-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15945",
+   "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
+   "start": "2026-11-21T20:00:00+08:00",
+   "end": "2026-11-21T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "明天的歌",
+   "organizer_type": "不確定",
+   "description": "演出：椅子樂團\n票價：一般票NT$1500 雙人套票NT$1350(人) 雙人套票NT$1350(人) 現場票NT$1700",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1121/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15949",
+   "title": "PiA吳蓓雅《幸福帶著走》高雄安可場-金曲慶功系列",
+   "start": "2026-11-22T15:00:00+08:00",
+   "end": "2026-11-22T15:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "PiA吳蓓雅 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：PiA吳蓓雅\n票價：單人預售票1,000元 雙人幸福票1,800元（限量） 現場票1,200元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1122/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16192",
+   "title": "2026 SHOW MUSICAL《WILD WILD》",
+   "start": "2026-11-28T15:00:00+08:00",
+   "end": "2026-11-28T15:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "寬宏經紀股份股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出：韓國舞團\n票價：VVIP 4880 4280 3680 2880",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1128/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16195",
+   "title": "2026 SHOW MUSICAL《WILD WILD》",
+   "start": "2026-11-28T19:30:00+08:00",
+   "end": "2026-11-28T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "寬宏藝術經紀股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出：韓國舞團\n票價：VVIP 4880 4280 3680 2880",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1128-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16138",
+   "title": "高流系：一機搞定！Edits 短影音速成班",
+   "start": "2026-11-29T10:00:00+08:00",
+   "end": "2026-11-29T10:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：一盞EthanYIJAN\n票價：報名費 | 3000/人",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wts-1129/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16196",
+   "title": "2026 SHOW MUSICAL《WILD WILD》",
+   "start": "2026-11-29T15:00:00+08:00",
+   "end": "2026-11-29T15:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "寬宏藝術經紀股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出：韓國舞團\n票價：VVIP 4880 4280 3680 2880",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1129/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16197",
+   "title": "2026 SHOW MUSICAL《WILD WILD》",
+   "start": "2026-11-29T19:30:00+08:00",
+   "end": "2026-11-29T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "寬宏藝術經紀股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出：韓國舞團\n票價：VVIP 4880 4280 3680 2880",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1129-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15600",
+   "title": "格式塔少女 Gestalt Girl 「働くこと、休むこと。」專輯發片巡迴 – 高雄場",
+   "start": "2026-12-04T19:30:00+08:00",
+   "end": "2026-12-04T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "格式塔少女 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：ゲシュタルト乙女 格式塔少女 Gestalt Girl\n票價：單人預售票 1300 元 雙人預售票 2400 元 現場票 1400 元 身障票 600 元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1204/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16145",
+   "title": "高雄場｜Ofelia 歐菲《明年我要出專輯啦！》",
+   "start": "2026-12-11T20:00:00+08:00",
+   "end": "2026-12-11T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "Ofelia 歐菲 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：Ofelia 歐菲\n票價：預售票 600 現場票700",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1211/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16033",
+   "title": "人生如電——林生祥30週年演唱會 – 高雄場",
+   "start": "2026-12-19T19:00:00+08:00",
+   "end": "2026-12-19T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "林生祥 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：林生祥\n票價：A區（座席）：預售 1,800元／現場 2,000元 B區（站位）：預售 1,300元／現場 1,500元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1219/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15595",
+   "title": "《尋愛未明》✦ 琉璃花𝐑𝐔𝐑𝐈𝐊𝐀 2026主催ライブ",
+   "start": "2026-12-20T15:10:00+08:00",
+   "end": "2026-12-20T15:10:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "琉璃花RURIKA、天国地獄、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：琉璃花RURIKA、天国地獄、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）\n票價：預售票500元 現場票1,000元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1220/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16181",
+   "title": "靈魂的回聲 高雄聖誕場",
+   "start": "2026-12-25T16:00:00+08:00",
+   "end": "2026-12-25T16:00:00+08:00",
+   "venue": "高雄流行音樂中心 鯨魚堤岸 03",
+   "address": "高雄市苓雅區海邊路",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "回聲社音樂有限公司",
+   "organizer_type": "民間",
+   "description": "演出：回聲樂團\n票價：單人票NT$1,280 雙人票NT$1,140(人) 現場票NT$1,500 身障票NT$640",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e9%9d%88%e9%ad%82%e7%9a%84%e5%9b%9e%e8%81%b2-%e9%ab%98%e9%9b%84%e8%81%96%e8%aa%95%e5%a0%b4/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16029",
+   "title": "三個不老擊敗之人生跑馬燈 LIVE SHOW",
+   "start": "2026-12-26T15:00:00+08:00",
+   "end": "2026-12-26T15:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "寬宏藝術經紀股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出：沈玉琳 x 潘若迪 x 馬力歐\n票價：$2880(對號座)",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1226/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16035",
+   "title": "【超級邊Super Band 演唱會】",
+   "start": "2026-12-26T18:00:00+08:00",
+   "end": "2026-12-26T18:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "壞蛋王・老五、草包小姐、拿照片出來、獵星計畫 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：壞蛋王・老五、草包小姐、拿照片出來、獵星計畫\n票價：單人預售票600元 四人套票2,000元 現場票800元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1226-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15926",
+   "title": "2026 鄭宜農 Enno Cheng《缺與圓之後 Inter-Phases》高雄演唱會",
+   "start": "2026-12-27T18:00:00+08:00",
+   "end": "2026-12-27T18:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "邊走邊聽有限公司",
+   "organizer_type": "民間",
+   "description": "演出：鄭宜農 Enno Cheng\n票價：預售票 1980 元 現場票 2200 元 愛心票 990 元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1227/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "sources": [
+    "kpmc"
+   ]
+  }
+ ]
+}

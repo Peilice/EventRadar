@@ -19,7 +19,7 @@ URL = "https://khh.travel/zh-tw/OpenData/EventNgisXML"
 DETAIL_URL = "https://khh.travel/zh-tw/event/calendardetail/{num}/"
 
 
-def fetch() -> bytes:
+def fetch(previous=None) -> bytes:
     return http.get(URL).content
 
 

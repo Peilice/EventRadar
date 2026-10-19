@@ -9,7 +9,7 @@ from eventradar.model import Event, Link
 
 
 def make_source(name, events=None, error=None):
-    def fetch():
+    def fetch(previous=None):
         if error:
             raise error
         return b""

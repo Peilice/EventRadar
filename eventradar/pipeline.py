@@ -40,8 +40,10 @@ def run_source(source, now: datetime, save_raw: Path | None = None) -> tuple[lis
     """抓一個來源。回傳 (活動, 狀態)；失敗時回傳上次成功的活動。"""
     cache_path = CACHE_DIR / f"{source.NAME}.json"
     status = {"label": source.LABEL, "last_attempt": now.isoformat()}
+    cached = _read_json(cache_path, {"events": []})
+    previous = [Event.from_dict(d) for d in cached["events"]]
     try:
-        content = source.fetch()
+        content = source.fetch(previous=previous)
         if save_raw:
             save_raw.mkdir(parents=True, exist_ok=True)
             (save_raw / f"{source.NAME}.raw").write_bytes(content)
@@ -53,9 +55,7 @@ def run_source(source, now: datetime, save_raw: Path | None = None) -> tuple[lis
     except Exception as e:  # 單一來源失敗不影響其他來源
         log.error("%s 失敗：%s", source.NAME, e)
         log.debug(traceback.format_exc())
-        cached = _read_json(cache_path, {"events": []})
-        events = [Event.from_dict(d) for d in cached["events"]]
-        events = [ev for ev in events if ev.end >= now]
+        events = [ev for ev in previous if ev.end >= now]
         status.update(ok=False, count=0, cached_count=len(events), error=f"{type(e).__name__}: {e}"[:300])
         return events, status
 

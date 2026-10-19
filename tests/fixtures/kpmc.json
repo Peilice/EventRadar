@@ -1,0 +1,873 @@
+{
+ "items": [
+  {
+   "desc": "POP是流行！更是靈感爆發的聲音！POP! POP! POP! 流行音樂互動展！",
+   "id": 4934,
+   "performer": "高雄流行音樂中心",
+   "date_time": "01.01 (Thu) 10:00",
+   "location": "音浪塔 高音塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2022/02/官網_800x420.png",
+   "link": "https://kpmc.com.tw/program/2022-0301/",
+   "location_category": 1234,
+   "show_category": 136,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "藍寶石大歌廳《秀場傳奇》故事展",
+   "id": 9357,
+   "performer": "高雄流行音樂中心",
+   "date_time": "01.01 (Thu) 10:30",
+   "location": "音浪塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2024/07/2025新布景16比9.jpg",
+   "link": "https://kpmc.com.tw/program/2024-pop-0806/",
+   "location_category": 1234,
+   "show_category": 136,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "一直咧做眠夢 —— 等阮返來首張EP《毋甘》全台巡迴－高雄場",
+   "id": 16031,
+   "performer": "等阮返來 w/煙雨飄渺、眠氣",
+   "date_time": "01.08 (Fri) 20:00",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/1920px_1080px_0903.jpg",
+   "link": "https://kpmc.com.tw/program/2027-lwh-0108/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2027",
+   "state": "normal"
+  },
+  {
+   "desc": "《桑心男孩俱樂部 SONNIE BOYZ CLUB》2026 發片專場",
+   "id": 16190,
+   "performer": "SONNIE 桑尼",
+   "date_time": "01.09 (Sat) 19:30",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/上架用_官網_1920x1080.jpg",
+   "link": "https://kpmc.com.tw/program/2027-lwh-0109/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2027",
+   "state": "normal"
+  },
+  {
+   "desc": "周治平『有一首歌』演唱會－高雄場",
+   "id": 16027,
+   "performer": "周治平＋波士頓派樂團",
+   "date_time": "01.23 (Sat) 19:00",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/周治平原圖照.jpeg",
+   "link": "https://kpmc.com.tw/program/2027-lwh-0123/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2027",
+   "state": "normal"
+  },
+  {
+   "desc": "LUCKY RECORDS pre. 「FLY &#038; DIVE」：bacho &#038; KOTORI LIVE in TAIWAN",
+   "id": 16102,
+   "performer": "KOTORI (JP)、bacho (JP)、EmptyORio",
+   "date_time": "01.29 (Fri) 20:00",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/高流1920x1080.jpg",
+   "link": "https://kpmc.com.tw/program/2027-lwh-0129/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2027",
+   "state": "normal"
+  },
+  {
+   "desc": "夢境現實｜鐵達尼VR",
+   "id": 15243,
+   "performer": "全球首座沉浸式劇院",
+   "date_time": "10.01 (Thu) 00:00",
+   "location": "鯨魚堤岸 01",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/05/夢境_文宣_鐵達尼_延展_1000-x-1000-px_FB高流月刊.png",
+   "link": "https://kpmc.com.tw/program/%e5%a4%a2%e5%a2%83%e7%8f%be%e5%af%a6%ef%bd%9c%e9%90%b5%e9%81%94%e5%b0%bcvr/",
+   "location_category": 197,
+   "show_category": 142,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "《泊》郭書瑜 個展",
+   "id": 16054,
+   "performer": "郭書瑜",
+   "date_time": "10.01 (Thu) 00:00",
+   "location": "海音館 前廳",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/郭書瑜-可見的部分162x130cm複合媒材2024_0（正方形）.jpg",
+   "link": "https://kpmc.com.tw/program/%e3%80%8a%e6%b3%8a%e3%80%8b%e9%83%ad%e6%9b%b8%e7%91%9c-%e5%80%8b%e5%b1%95/",
+   "location_category": 193,
+   "show_category": 136,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "夢境現實《親子互動展》",
+   "id": 14124,
+   "performer": "全球首座沉浸式劇院",
+   "date_time": "10.02 (Fri) 00:00",
+   "location": "鯨魚堤岸 01",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2025/12/08.jpg",
+   "link": "https://kpmc.com.tw/program/mr2601/",
+   "location_category": 197,
+   "show_category": 142,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "小島散步｜小島裡的風土日常 期間限定選物",
+   "id": 16056,
+   "performer": "TINGFANG",
+   "date_time": "10.02 (Fri) 00:00",
+   "location": "音浪塔 高音塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/小島散步×聲日裏物（高流誌）_1000x1000px-scaled.jpg",
+   "link": "https://kpmc.com.tw/program/%e5%b0%8f%e5%b3%b6%e6%95%a3%e6%ad%a5%ef%bd%9c%e5%b0%8f%e5%b3%b6%e8%a3%a1%e7%9a%84%e9%a2%a8%e5%9c%9f%e6%97%a5%e5%b8%b8-%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e9%81%b8%e7%89%a9/",
+   "location_category": 1234,
+   "show_category": 136,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "【The Oldies but Goodies】午後西洋金曲時光：Bee Gees &#038; Phil Collins",
+   "id": 16083,
+   "performer": "蘇珊Susan、王威凱、林長志",
+   "date_time": "10.23 (Fri) 15:00",
+   "location": "音浪塔 高音塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/1790914395179.jpg",
+   "link": "https://kpmc.com.tw/program/%e3%80%90the-oldies-but-goodies%e3%80%91%e5%8d%88%e5%be%8c%e8%a5%bf%e6%b4%8b%e9%87%91%e6%9b%b2%e6%99%82%e5%85%89%ef%bc%9abee-gees-phil-collins/",
+   "location_category": 1234,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "Maria Kim爵士三重奏",
+   "id": 16085,
+   "performer": "Maria Kim、Bruce Kang、 Bobo",
+   "date_time": "10.23 (Fri) 20:00",
+   "location": "音浪塔 高音塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/1790920504581.jpg",
+   "link": "https://kpmc.com.tw/program/maria-kim%e7%88%b5%e5%a3%ab%e4%b8%89%e9%87%8d%e5%a5%8f/",
+   "location_category": 1234,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "尤雅- 2026《往事只能回味》演唱會-高雄站",
+   "id": 15889,
+   "performer": "尤雅",
+   "date_time": "10.24 (Sat) 19:30",
+   "location": "海音館",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/2026-Oct24-You-Ya-Concert@Kaohsiung@官網活動快訊-（橫式）-1920w-x-1080h@Actual-size.jpg",
+   "link": "https://kpmc.com.tw/program/2026-hih-1024/",
+   "location_category": 193,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "有些故事，家人就是最好的陪伴｜Matt Fullen《Family Tree 我們這一家》新專輯發表會",
+   "id": 15829,
+   "performer": "Matt Fullen傅麥特",
+   "date_time": "10.24 (Sat) 20:00",
+   "location": "音浪塔 高音塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/0912有些故事，家人就是最好的陪伴.jpg",
+   "link": "https://kpmc.com.tw/program/%e6%9c%89%e4%ba%9b%e6%95%85%e4%ba%8b%ef%bc%8c%e5%ae%b6%e4%ba%ba%e5%b0%b1%e6%98%af%e6%9c%80%e5%a5%bd%e7%9a%84%e9%99%aa%e4%bc%b4%ef%bd%9cmatt-fullen%e3%80%8afamily-tree-%e6%88%91%e5%80%91%e9%80%99/",
+   "location_category": 1234,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "《Disney in Concert: Once Upon a Time》",
+   "id": 15891,
+   "performer": " Andrew Johnson x Whitney Claire Kaufman x Aaron Phillips x Lisa Livesay",
+   "date_time": "10.25 (Sun) 13:00",
+   "location": "海音館",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/2026-Oct26-Disney-Concert@Kaohsiung@官網活動快訊-（橫式）-1920w-x-1080h@Actual-size.jpg",
+   "link": "https://kpmc.com.tw/program/2026-hih-1025/",
+   "location_category": 193,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 &#8211; 高雄",
+   "id": 15897,
+   "performer": "Eüreka",
+   "date_time": "10.25 (Sun) 19:00",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/上架用_官網-1920x1080-1-1.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1025/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "JACK CONQUEROO LIVE 2：密西西比藍調夜",
+   "id": 16087,
+   "performer": "Jack Conqueroo",
+   "date_time": "10.25 (Sun) 20:00",
+   "location": "音浪塔 高音塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/1790922134211.jpg",
+   "link": "https://kpmc.com.tw/program/jack-conqueroo-live-2%ef%bc%9a%e5%af%86%e8%a5%bf%e8%a5%bf%e6%af%94%e8%97%8d%e8%aa%bf%e5%a4%9c/",
+   "location_category": 1234,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "PHANTASMAGORIA： Psychedelic Halloween Party",
+   "id": 15899,
+   "performer": "HOLOTROPICS、BILLY WALSHAW & THE FILTERS、MIKE-BEAT",
+   "date_time": "10.30 (Fri) 19:30",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/上架用_官網-1920x1080-2.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1030/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "新世代拉丁爵⼠聲響｜Dan Costa Quartet",
+   "id": 16089,
+   "performer": "Dan Costa、李世鈞、劉育嘉、Somesh Putcha",
+   "date_time": "10.30 (Fri) 20:00",
+   "location": "音浪塔 高音塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/1790922689513.jpg",
+   "link": "https://kpmc.com.tw/program/%e6%96%b0%e4%b8%96%e4%bb%a3%e6%8b%89%e4%b8%81%e7%88%b5%e2%bc%a0%e8%81%b2%e9%9f%bf%ef%bd%9cdan-costa-quartet/",
+   "location_category": 1234,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "2026 Takao Rock 打狗祭 ➤ V FUTURE PARTY 未來趴",
+   "id": 15578,
+   "performer": "● 春魚創意Springfish Studio｜極深空計畫 Xtreme Deep Field Project、厄倫蒂兒 Earendel、涅默 Nemesis、埃穆亞 Oumua、熙歌 Cygnus ●子午計畫Meridian Project｜玥Itsuki、祈Iruni、煦Hiyori、煌Kirali、澪Rei ●箱箱The Box｜森森鈴蘭 Lily Linglan、瑪格麗特 · 諾爾絲 Margaret North",
+   "date_time": "10.31 (Sat) 13:30",
+   "location": "海音館",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/07/【未來趴】1920x1080.jpg",
+   "link": "https://kpmc.com.tw/program/2026-hih-1031/",
+   "location_category": 193,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "2026 漢堡好港節 HARBOUR BEATS",
+   "id": 16036,
+   "performer": "",
+   "date_time": "10.31 (Sat) 15:00",
+   "location": "高雄流行音樂中心",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/【漢堡好港節】_1920×1080-R-scaled-e1791864493609.jpg",
+   "link": "https://kpmc.com.tw/program/2026-%e6%bc%a2%e5%a0%a1%e5%a5%bd%e6%b8%af%e7%af%80-harbour-beats/",
+   "location_category": 2099,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "義大利指彈天團 — 40 Fingers亞洲巡迴演出",
+   "id": 16062,
+   "performer": "40 Fingers",
+   "date_time": "10.31 (Sat) 19:00",
+   "location": "鯨魚堤岸 03",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/1031.jpg",
+   "link": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/",
+   "location_category": 197,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "Abandoned Teddy 奔等泰迪『心宿』發片巡迴-高雄場",
+   "id": 15903,
+   "performer": "Abandoned Teddy 奔等泰迪　w/夕陽武士",
+   "date_time": "10.31 (Sat) 19:00",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/LIVE-WAREHOUSE-宣傳圖-scaled.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1031/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "Jun Iida 飯田潤四重奏『Bellflower』亞洲巡演｜高雄場",
+   "id": 16091,
+   "performer": "Jun Iida 飯田潤、 Yasumasa Kumagai 熊谷ヤスマサ、 Shin Sakaino シンサカイノ、Kazuhiro Odagiri 小田桐和寛",
+   "date_time": "10.31 (Sat) 19:30",
+   "location": "音浪塔 高音塔",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/1790923033949.jpg",
+   "link": "https://kpmc.com.tw/program/jun-iida-%e9%a3%af%e7%94%b0%e6%bd%a4%e5%9b%9b%e9%87%8d%e5%a5%8f%e3%80%8ebellflower%e3%80%8f%e4%ba%9e%e6%b4%b2%e5%b7%a1%e6%bc%94%ef%bd%9c%e9%ab%98%e9%9b%84%e5%a0%b4/",
+   "location_category": 1234,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "「圓 Circle of Harmony 」藥師寺寬邦般若心經MUSIC 10週年世界巡演 In 高雄",
+   "id": 15694,
+   "performer": "藥師寺寬邦",
+   "date_time": "11.01 (Sun) 19:30",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/08/上架用_官網-1920x1080-3.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1101/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "邱淑蟬 2026《無爭》發行巡迴【高雄場】",
+   "id": 15952,
+   "performer": "邱淑蟬",
+   "date_time": "11.06 (Fri) 20:00",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/0821邱淑蟬-2026-《無爭》發行巡迴2_列表橫式.png",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1106/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "高流系：Pro Tools專攻班",
+   "id": 16039,
+   "performer": "黃昭智講師",
+   "date_time": "11.07 (Sat) 10:00",
+   "location": "",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/【protools】主視覺_1920x1080.png",
+   "link": "https://kpmc.com.tw/program/2026-wrs-1107/",
+   "location_category": "",
+   "show_category": 140,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "❮ D.N.Δ ❯ SPIN-UP：HEARTBEAT_THEΔRAREz 1st ALBUM WORLD TOUR",
+   "id": 15906,
+   "performer": "THEΔRAREz    \r\nGUEST：Ruka Banana、存在証明NO FACE NO REaLiTY",
+   "date_time": "11.07 (Sat) 13:30",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/0909更新：高雄_售票系統-scaled.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1107/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "高流系：Pro Tools專攻班",
+   "id": 16041,
+   "performer": "黃昭智講師",
+   "date_time": "11.08 (Sun) 10:00",
+   "location": "",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/【protools】主視覺_1920x1080.png",
+   "link": "https://kpmc.com.tw/program/2026-wrs-1108/",
+   "location_category": "",
+   "show_category": 140,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "青虫aoi 2026 冬季小巡迴《Before Sunrise》高雄場",
+   "id": 15928,
+   "performer": "青虫aoi",
+   "date_time": "11.08 (Sun) 19:30",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/19201080高雄.png",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1108/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "高流系：Pro Tools專攻班",
+   "id": 16042,
+   "performer": "黃昭智講師",
+   "date_time": "11.14 (Sat) 09:00",
+   "location": "",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/【protools】主視覺_1920x1080.png",
+   "link": "https://kpmc.com.tw/program/2026-wrs-1114/",
+   "location_category": "",
+   "show_category": 140,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "【加場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+   "id": 15916,
+   "performer": "山下智久",
+   "date_time": "11.14 (Sat) 14:00",
+   "location": "海音館",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/20261114_山下智久加場_800x420.png",
+   "link": "https://kpmc.com.tw/program/2026-hih-1114-3/",
+   "location_category": 193,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+   "id": 15106,
+   "performer": "山下智久",
+   "date_time": "11.14 (Sat) 19:00",
+   "location": "海音館",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/05/1114_山下智久_800x450.jpg",
+   "link": "https://kpmc.com.tw/program/2026-hih-1114-2/",
+   "location_category": 193,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "高流系：Pro Tools專攻班",
+   "id": 16043,
+   "performer": "黃昭智講師",
+   "date_time": "11.15 (Sun) 10:00",
+   "location": "",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/【protools】主視覺_1920x1080.png",
+   "link": "https://kpmc.com.tw/program/2026-wrs-1115/",
+   "location_category": "",
+   "show_category": 140,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "2026 Fire Live 壞兒來福 Vol.4",
+   "id": 16143,
+   "performer": "一生好命 / 來者何人 whoou! / 應聲倒地",
+   "date_time": "11.20 (Fri) 19:30",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/上架用_官網-1920x1080-1-1.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1120/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "交個朋友吧演出系列-番外",
+   "id": 15947,
+   "performer": "HeheHaha、油漬艾莉、秋山",
+   "date_time": "11.21 (Sat) 19:30",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/純底圖_Hehehaha-主視覺_1920x1080-scaled.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1121-2/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
+   "id": 15945,
+   "performer": "椅子樂團",
+   "date_time": "11.21 (Sat) 20:00",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/上架用_官網-1000x1420-1.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1121/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "soldout"
+  },
+  {
+   "desc": "PiA吳蓓雅《幸福帶著走》高雄安可場-金曲慶功系列",
+   "id": 15949,
+   "performer": "PiA吳蓓雅",
+   "date_time": "11.22 (Sun) 15:00",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/1920x1080.png",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1122/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "2026 SHOW MUSICAL《WILD WILD》",
+   "id": 16192,
+   "performer": "韓國舞團",
+   "date_time": "11.28 (Sat) 15:00",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/P1F4200H_Large.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1128/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "2026 SHOW MUSICAL《WILD WILD》",
+   "id": 16195,
+   "performer": "韓國舞團",
+   "date_time": "11.28 (Sat) 19:30",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/P1F4200H_Large.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1128-2/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "高流系：一機搞定！Edits 短影音速成班",
+   "id": 16138,
+   "performer": "一盞EthanYIJAN ",
+   "date_time": "11.29 (Sun) 10:00",
+   "location": "",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/【短影音】主視覺_1920x1080.jpg",
+   "link": "https://kpmc.com.tw/program/2026-wts-1129/",
+   "location_category": "",
+   "show_category": 140,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "2026 SHOW MUSICAL《WILD WILD》",
+   "id": 16196,
+   "performer": "韓國舞團",
+   "date_time": "11.29 (Sun) 15:00",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/P1F4200H_Large.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1129/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "2026 SHOW MUSICAL《WILD WILD》",
+   "id": 16197,
+   "performer": "韓國舞團",
+   "date_time": "11.29 (Sun) 19:30",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/P1F4200H_Large.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1129-2/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "格式塔少女 Gestalt Girl 「働くこと、休むこと。」專輯發片巡迴 &#8211; 高雄場",
+   "id": 15600,
+   "performer": "ゲシュタルト乙女 格式塔少女 Gestalt Girl",
+   "date_time": "12.04 (Fri) 19:30",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/07/上架用_官網-1920x1080-1.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1204/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "高雄場｜Ofelia 歐菲《明年我要出專輯啦！》",
+   "id": 16145,
+   "performer": "Ofelia 歐菲",
+   "date_time": "12.11 (Fri) 20:00",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/節目內頁圖片｜寬-1920px-X-高-1080px.png",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1211/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "人生如電——林生祥30週年演唱會 &#8211; 高雄場",
+   "id": 16033,
+   "performer": "林生祥",
+   "date_time": "12.19 (Sat) 19:00",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/生祥三十_高雄場.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1219/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "《尋愛未明》✦ 琉璃花𝐑𝐔𝐑𝐈𝐊𝐀 2026主催ライブ",
+   "id": 15595,
+   "performer": "琉璃花RURIKA、天国地獄、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）",
+   "date_time": "12.20 (Sun) 15:10",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/07/2-1920x1080px.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1220/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "靈魂的回聲 高雄聖誕場",
+   "id": 16181,
+   "performer": "回聲樂團",
+   "date_time": "12.25 (Fri) 16:00",
+   "location": "鯨魚堤岸 03",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/10/1225_1000x1000.jpg",
+   "link": "https://kpmc.com.tw/program/%e9%9d%88%e9%ad%82%e7%9a%84%e5%9b%9e%e8%81%b2-%e9%ab%98%e9%9b%84%e8%81%96%e8%aa%95%e5%a0%b4/",
+   "location_category": 197,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "三個不老擊敗之人生跑馬燈 LIVE SHOW",
+   "id": 16029,
+   "performer": "沈玉琳 x 潘若迪 x 馬力歐",
+   "date_time": "12.26 (Sat) 15:00",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/Live-Warehouse_三個不老擊敗之人生跑馬燈-LIVE-SHOW-台中高雄場_1920x1080.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1226/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "【超級邊Super Band 演唱會】",
+   "id": 16035,
+   "performer": "壞蛋王・老五、草包小姐、拿照片出來、獵星計畫",
+   "date_time": "12.26 (Sat) 18:00",
+   "location": "LIVE WAREHOUSE 小庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/上架用_官網-1000x1420-2.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1226-2/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  },
+  {
+   "desc": "2026 鄭宜農 Enno Cheng《缺與圓之後 Inter-Phases》高雄演唱會",
+   "id": 15926,
+   "performer": "鄭宜農 Enno Cheng",
+   "date_time": "12.27 (Sun) 18:00",
+   "location": "LIVE WAREHOUSE 大庫",
+   "background": "https://kpmc.com.tw/wp-content/uploads/2026/09/Moon-2_KAO-RGB-OL_1920s.jpg",
+   "link": "https://kpmc.com.tw/program/2026-lwh-1227/",
+   "location_category": 184,
+   "show_category": 134,
+   "year": "2026",
+   "state": "normal"
+  }
+ ],
+ "details": {
+  "https://kpmc.com.tw/program/2022-0301/": {
+   "organizer": "高雄流行音樂中心",
+   "price": "全票 199 元 學生及團體票 149 元 敬老及里民票99元 免票入場 0 元"
+  },
+  "https://kpmc.com.tw/program/2024-pop-0806/": {
+   "organizer": "高雄流行音樂中心",
+   "price": "全票 168 元 學生及團體票 128 元 敬老及里民票 88 元 免票 0 元 ＊20 人以上團體預約需求，請洽 07-521-7828"
+  },
+  "https://kpmc.com.tw/program/2027-lwh-0108/": {
+   "organizer": "等阮返來 w/煙雨飄渺、眠氣 x 高雄流行音樂中心",
+   "price": "預售票700元 現場票800元"
+  },
+  "https://kpmc.com.tw/program/2027-lwh-0109/": {
+   "organizer": "躁音製造所 MKSN",
+   "price": "預售雙人 $1500 預售單人 $800 現場 $1000"
+  },
+  "https://kpmc.com.tw/program/2027-lwh-0123/": {
+   "organizer": "周治平＋波士頓派樂團 x 高雄流行音樂中心",
+   "price": "預售票2,800元 現場票3,200元 身障票 1,400 元（線上購票）"
+  },
+  "https://kpmc.com.tw/program/2027-lwh-0129/": {
+   "organizer": "KOTORI (JP)、bacho (JP)、EmptyORio x 高雄流行音樂中心",
+   "price": "預售單人＄1400 預售雙人$2600 現場＄1000"
+  },
+  "https://kpmc.com.tw/program/%e5%a4%a2%e5%a2%83%e7%8f%be%e5%af%a6%ef%bd%9c%e9%90%b5%e9%81%94%e5%b0%bcvr/": {
+   "organizer": "夢境現實 Moondream Reality",
+   "price": "KKday、Niceday、KlooK (至平台確認購票方案與價格)"
+  },
+  "https://kpmc.com.tw/program/%e3%80%8a%e6%b3%8a%e3%80%8b%e9%83%ad%e6%9b%b8%e7%91%9c-%e5%80%8b%e5%b1%95/": {
+   "organizer": "百瓦哥咖啡",
+   "price": "免費參觀"
+  },
+  "https://kpmc.com.tw/program/mr2601/": {
+   "organizer": "夢境現實 Moondream Reality",
+   "price": "KKday、Niceday、KlooK (至平台確認購票方案與價格)"
+  },
+  "https://kpmc.com.tw/program/%e5%b0%8f%e5%b3%b6%e6%95%a3%e6%ad%a5%ef%bd%9c%e5%b0%8f%e5%b3%b6%e8%a3%a1%e7%9a%84%e9%a2%a8%e5%9c%9f%e6%97%a5%e5%b8%b8-%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e9%81%b8%e7%89%a9/": {
+   "organizer": "聲日裏物",
+   "price": "免費參觀"
+  },
+  "https://kpmc.com.tw/program/%e3%80%90the-oldies-but-goodies%e3%80%91%e5%8d%88%e5%be%8c%e8%a5%bf%e6%b4%8b%e9%87%91%e6%9b%b2%e6%99%82%e5%85%89%ef%bc%9abee-gees-phil-collins/": {
+   "organizer": "爵式 WiJazz Records",
+   "price": "單人400元 含150元午茶飲品，現場收費"
+  },
+  "https://kpmc.com.tw/program/maria-kim%e7%88%b5%e5%a3%ab%e4%b8%89%e9%87%8d%e5%a5%8f/": {
+   "organizer": "爵式 WiJazz Records",
+   "price": "單人800元 雙人1500元 現場收費"
+  },
+  "https://kpmc.com.tw/program/2026-hih-1024/": {
+   "organizer": "全球音樂經紀有限公司",
+   "price": "NT$4200 NT$3600 NT$3000 NT$2400 NT$1800 NT$1600(視線不良區) 身障票NT$1500 NT$1200"
+  },
+  "https://kpmc.com.tw/program/%e6%9c%89%e4%ba%9b%e6%95%85%e4%ba%8b%ef%bc%8c%e5%ae%b6%e4%ba%ba%e5%b0%b1%e6%98%af%e6%9c%80%e5%a5%bd%e7%9a%84%e9%99%aa%e4%bc%b4%ef%bd%9cmatt-fullen%e3%80%8afamily-tree-%e6%88%91%e5%80%91%e9%80%99/": {
+   "organizer": "爵式 WiJazz Records",
+   "price": "雙人800元 單人450元 現場收費"
+  },
+  "https://kpmc.com.tw/program/2026-hih-1025/": {
+   "organizer": "全球音樂經紀有限公司",
+   "price": "NT$3580 NT$3180 NT$2780 NT$2480 NT$2180 NT$1180(視線不良區) 身障票NT$1380 NT$1090"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1025/": {
+   "organizer": "Eüreka、墨聲 Moshound",
+   "price": "預售票700元 現場票900元"
+  },
+  "https://kpmc.com.tw/program/jack-conqueroo-live-2%ef%bc%9a%e5%af%86%e8%a5%bf%e8%a5%bf%e6%af%94%e8%97%8d%e8%aa%bf%e5%a4%9c/": {
+   "organizer": "爵式 WiJazz Records",
+   "price": "單人350元 現場收費"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1030/": {
+   "organizer": "HOLOTROPICS、BILLY WALSHAW & THE FILTERS、MIKE-BEAT x 高雄流行音樂中心",
+   "price": "預售票500元 現場票700元"
+  },
+  "https://kpmc.com.tw/program/%e6%96%b0%e4%b8%96%e4%bb%a3%e6%8b%89%e4%b8%81%e7%88%b5%e2%bc%a0%e8%81%b2%e9%9f%bf%ef%bd%9cdan-costa-quartet/": {
+   "organizer": "爵式 WiJazz Records",
+   "price": "單人500元 現場收費"
+  },
+  "https://kpmc.com.tw/program/2026-hih-1031/": {
+   "organizer": "高雄流行音樂中心",
+   "price": "3,680 2,680"
+  },
+  "https://kpmc.com.tw/program/2026-%e6%bc%a2%e5%a0%a1%e5%a5%bd%e6%b8%af%e7%af%80-harbour-beats/": {
+   "organizer": "高雄流行音樂中心、德國經濟辦事處 German Trade Office Taipei (AHK Taiwan)、德國漢堡自由漢薩市文化與媒體部 Ministry of Culture and Media of the Free and Hanseatic City of Hamburg",
+   "price": "免費參加"
+  },
+  "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/": {
+   "organizer": "好滿意音樂",
+   "price": "NT$3,600 / NT$2,800 / NT$2,200 / NT$1,800 / NT$1,400 / NT$1,000"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1031/": {
+   "organizer": "Abandoned Teddy 奔等泰迪 x 高雄流行音樂中心",
+   "price": "預售票500元 現場票600元"
+  },
+  "https://kpmc.com.tw/program/jun-iida-%e9%a3%af%e7%94%b0%e6%bd%a4%e5%9b%9b%e9%87%8d%e5%a5%8f%e3%80%8ebellflower%e3%80%8f%e4%ba%9e%e6%b4%b2%e5%b7%a1%e6%bc%94%ef%bd%9c%e9%ab%98%e9%9b%84%e5%a0%b4/": {
+   "organizer": "爵式 WiJazz Records",
+   "price": "單人700元 門票含100元餐飲抵用券 現場收費"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1101/": {
+   "organizer": "藥師寺寬邦 x 高雄流行音樂中心",
+   "price": "預售票2,000元 現場票2,200元"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1106/": {
+   "organizer": "邱淑蟬 x 高雄流行音樂中心",
+   "price": "雙人套票 1200 單人預售 700 現場票 800"
+  },
+  "https://kpmc.com.tw/program/2026-wrs-1107/": {
+   "organizer": "高雄流行音樂中心",
+   "price": "6800 (恕不接受單日報名)"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1107/": {
+   "organizer": "THEΔRAREz x 高雄流行音樂中心",
+   "price": "預售票600元 現場票700元"
+  },
+  "https://kpmc.com.tw/program/2026-wrs-1108/": {
+   "organizer": "高雄流行音樂中心",
+   "price": "6800 (恕不接受單日報名)"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1108/": {
+   "organizer": "青虫aoi x 高雄流行音樂中心",
+   "price": "預售票800元 現場票1,000元"
+  },
+  "https://kpmc.com.tw/program/2026-wrs-1114/": {
+   "organizer": "高雄流行音樂中心",
+   "price": "6800 (恕不接受單日報名)"
+  },
+  "https://kpmc.com.tw/program/2026-hih-1114-3/": {
+   "organizer": "HIGH HOPE ENTERTAINMENT",
+   "price": "NT$ 6,600 NT$ 4,700 NT$ 4,200 NT$ 3,200 NT$ 2,350（身障席）"
+  },
+  "https://kpmc.com.tw/program/2026-hih-1114-2/": {
+   "organizer": "HIGH HOPE ENTERTAINMENT",
+   "price": "NT$ 6,600 NT$ 4,700 NT$ 4,200 NT$ 3,200 NT$ 2,350（身障席）"
+  },
+  "https://kpmc.com.tw/program/2026-wrs-1115/": {
+   "organizer": "高雄流行音樂中心",
+   "price": "6800 (恕不接受單日報名)"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1120/": {
+   "organizer": "一生好命 / 來者何人 whoou! / 應聲倒地 x 高雄流行音樂中心",
+   "price": "一般預售票 450 元 現場票 550 元"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1121-2/": {
+   "organizer": "HeheHaha、油漬艾莉、秋山 x 高雄流行音樂中心",
+   "price": "預售票500元 現場票600元"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1121/": {
+   "organizer": "明天的歌",
+   "price": "一般票NT$1500 雙人套票NT$1350(人) 雙人套票NT$1350(人) 現場票NT$1700"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1122/": {
+   "organizer": "PiA吳蓓雅 x 高雄流行音樂中心",
+   "price": "單人預售票1,000元 雙人幸福票1,800元（限量） 現場票1,200元"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1128/": {
+   "organizer": "寬宏經紀股份股份有限公司",
+   "price": "VVIP 4880 4280 3680 2880"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1128-2/": {
+   "organizer": "寬宏藝術經紀股份有限公司",
+   "price": "VVIP 4880 4280 3680 2880"
+  },
+  "https://kpmc.com.tw/program/2026-wts-1129/": {
+   "organizer": "高雄流行音樂中心",
+   "price": "報名費 | 3000/人"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1129/": {
+   "organizer": "寬宏藝術經紀股份有限公司",
+   "price": "VVIP 4880 4280 3680 2880"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1129-2/": {
+   "organizer": "寬宏藝術經紀股份有限公司",
+   "price": "VVIP 4880 4280 3680 2880"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1204/": {
+   "organizer": "格式塔少女 x 高雄流行音樂中心",
+   "price": "單人預售票 1300 元 雙人預售票 2400 元 現場票 1400 元 身障票 600 元"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1211/": {
+   "organizer": "Ofelia 歐菲 x 高雄流行音樂中心",
+   "price": "預售票 600 現場票700"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1219/": {
+   "organizer": "林生祥 x 高雄流行音樂中心",
+   "price": "A區（座席）：預售 1,800元／現場 2,000元 B區（站位）：預售 1,300元／現場 1,500元"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1220/": {
+   "organizer": "琉璃花RURIKA、天国地獄、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）x 高雄流行音樂中心",
+   "price": "預售票500元 現場票1,000元"
+  },
+  "https://kpmc.com.tw/program/%e9%9d%88%e9%ad%82%e7%9a%84%e5%9b%9e%e8%81%b2-%e9%ab%98%e9%9b%84%e8%81%96%e8%aa%95%e5%a0%b4/": {
+   "organizer": "回聲社音樂有限公司",
+   "price": "單人票NT$1,280 雙人票NT$1,140(人) 現場票NT$1,500 身障票NT$640"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1226/": {
+   "organizer": "寬宏藝術經紀股份有限公司",
+   "price": "$2880(對號座)"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1226-2/": {
+   "organizer": "壞蛋王・老五、草包小姐、拿照片出來、獵星計畫 x 高雄流行音樂中心",
+   "price": "單人預售票600元 四人套票2,000元 現場票800元"
+  },
+  "https://kpmc.com.tw/program/2026-lwh-1227/": {
+   "organizer": "邊走邊聽有限公司",
+   "price": "預售票 1980 元 現場票 2200 元 愛心票 990 元"
+  }
+ }
+}

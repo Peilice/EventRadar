@@ -1,0 +1,2179 @@
+{
+ "catalogs": {
+  "5aec4184b01ea6000520f633": "音樂",
+  "5aec418cb01ea6000520f635": "戲劇",
+  "5aec45edb01ea6000520f655": "大眾",
+  "5c1f073a5a5bea0006f3eb11": "舞蹈",
+  "5d08a4a8d6da88000647288c": "學校",
+  "5f6f57551efdfd0006068dd8": "馬戲",
+  "5f6f57d6e0fdee000b536ba9": "親子",
+  "5fe2bffdde1961000737545c": "衛武營主合辦節目",
+  "6007fc45ba34870007c22b8b": "活動",
+  "600a39e9a6b9ff0007b87823": "家庭",
+  "6010ca1afb81540009f438e6": "共融",
+  "646c770565a7e80007c13f18": "市集",
+  "64812f1feb9a240007c8c8c7": "文化禮金節目專區",
+  "653789846baf59000811de11": "展覽",
+  "65fa586c27df72000ad07c63": "歌劇",
+  "6a447bcd444f570008f2a50c": "音樂劇"
+ },
+ "venues": {
+  "5aec4743b01ea6000520f65e": "歌劇院",
+  "5aec47d3b01ea6000520f663": "音樂廳",
+  "5aec47eeb01ea6000520f665": "戲劇院",
+  "5aec4800b01ea6000520f668": "表演廳",
+  "5b102875da0322000751e9a6": "繪景工廠",
+  "5b1029cdda0322000751e9ad": "演講廳",
+  "5b134753c065d80005adcec9": "移動式劇場",
+  "5b8cd6c3dea07500056a4200": "戶外劇場",
+  "5be1594c77d0790006d80c56": "榕樹廣場",
+  "65ee5e3f69b9960008c3a2a9": "其他"
+ },
+ "programs": {
+  "program": [
+   {
+    "catalogs": [
+     "653789846baf59000811de11"
+    ],
+    "showInProgramList": true,
+    "_id": "6a953c1f3041610007c17381",
+    "chinese": {
+     "title": "跳出來的地圖：那些身體走過的臺灣路",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "3F樹冠大廳（西側）"
+     },
+     "description": "衛武營「臺灣舞蹈記憶地圖」2026年度展覽",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1791601200,
+     "discrete": [],
+     "type": "continuous",
+     "continuous": {
+      "time": [
+       1788145200
+      ],
+      "endTime": [
+       1788177600
+      ],
+      "start": 1791561600,
+      "end": 1800720000
+     }
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "自由參與",
+      "englishDescription": "Free entry"
+     }
+    },
+    "host": true,
+    "updatedBy": "黃勝暉",
+    "createdAt": 1788165151,
+    "updatedAt": 1791260683,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5fe2bffdde1961000737545c",
+     "5aec418cb01ea6000520f635"
+    ],
+    "showInProgramList": true,
+    "_id": "69af9180738aff0007321694",
+    "chinese": {
+     "title": "【衛武營小時光】韓國傳統說唱故事《水底王國，彼岸之歌》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "偶戲與盤索里的精妙結合　 以經典文本的當代演繹叩問生命",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792584000,
+     "discrete": [
+      {
+       "time": 1792584000
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       300,
+       600
+      ],
+      "link": "https://www.opentix.life/event/2043627257385357312"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1773113728,
+    "updatedAt": 1792033449,
+    "__v": 0,
+    "attachment": {}
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633"
+    ],
+    "showInProgramList": true,
+    "_id": "6a47328b908c4a000753a0eb",
+    "chinese": {
+     "title": "《銅管幻想曲》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "五種音色，一個心跳",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792666800,
+     "discrete": [
+      {
+       "time": 1792666800
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       200
+      ],
+      "link": "https://www.opentix.life/event/2072271388958269441"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1783050891,
+    "updatedAt": 1783406319,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6a447bcd444f570008f2a50c",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a01857abe7855000708adbf",
+    "chinese": {
+     "title": "躍演《勸世三姊妹》中文音樂劇",
+     "site": {
+      "isOther": false,
+      "site": "5aec4743b01ea6000520f65e",
+      "other": ""
+     },
+     "description": "笑到最後，才發現勸的是自己的人生。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792150200,
+     "discrete": [
+      {
+       "time": 1792150200
+      },
+      {
+       "time": 1792215000
+      },
+      {
+       "time": 1792236600
+      },
+      {
+       "time": 1792301400
+      },
+      {
+       "time": 1792668600
+      },
+      {
+       "time": 1792755000
+      },
+      {
+       "time": 1792819800
+      },
+      {
+       "time": 1792841400
+      },
+      {
+       "time": 1792906200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       700,
+       1000,
+       1300,
+       1800,
+       2400,
+       2500,
+       3000,
+       3600,
+       4000
+      ],
+      "link": "https://reurl.cc/vEXr7j"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1778484602,
+    "updatedAt": 1788744999,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633"
+    ],
+    "showInProgramList": true,
+    "_id": "6a8699899199ab00089d96e6",
+    "chinese": {
+     "title": "「節目異動」《鼓語．聲織》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "南臺灣兩大打擊樂團——陸淯姿擊樂團與敲打擊樂團首度攜手演出，以「鼓語交鋒 / 聲織共鳴」為主題，透過多元當代作品展現打擊樂豐富的聲響魅力與藝術能量。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792755000,
+     "discrete": [
+      {
+       "time": 1792755000
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       800,
+       1200
+      ],
+      "link": "https://www.opentix.life/event/2091729364558385153"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1787206025,
+    "updatedAt": 1791336084,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a26227f808b390008702541",
+    "chinese": {
+     "title": "《窩噗瘋一下 The Whoop Group x 高雄市管樂團》",
+     "site": {
+      "isOther": false,
+      "site": "5aec47d3b01ea6000520f663",
+      "other": ""
+     },
+     "description": "歐洲能量與臺灣管樂的熾烈共振",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792755000,
+     "discrete": [
+      {
+       "time": 1792755000
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       600,
+       800,
+       1000,
+       1200,
+       1500,
+       1800,
+       2000,
+       2500
+      ],
+      "link": "https://www.opentix.life/event/2059554701435854848"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1780884095,
+    "updatedAt": 1784022951,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5fe2bffdde1961000737545c",
+     "5aec418cb01ea6000520f635",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "69c3539696bdfd0007710581",
+    "chinese": {
+     "title": "同黨劇團 《父親母親》",
+     "site": {
+      "isOther": false,
+      "site": "5aec47eeb01ea6000520f665",
+      "other": ""
+     },
+     "description": "《父親母親》於 2021 年首演即大獲好評，本劇溫柔包覆白色恐怖與身分認同的議題，更透過日治時期本土布袋戲的發展，寫實呼應殖民下臺灣人轉換身分求生存的過往。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792823400,
+     "discrete": [
+      {
+       "time": 1792823400
+      },
+      {
+       "time": 1792909800
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       800,
+       1000,
+       1200
+      ],
+      "link": "https://www.opentix.life/event/2051254690379628545"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1774408598,
+    "updatedAt": 1790923358,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633"
+    ],
+    "showInProgramList": true,
+    "_id": "6a7d41c744a9110007066a51",
+    "chinese": {
+     "title": "《Silver Screen Memories電影時代－非非藝術團隊演唱會 》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "音樂與電影交會的世界 生命中的美好時光",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792825200,
+     "discrete": [
+      {
+       "time": 1792825200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       600,
+       800
+      ],
+      "link": "https://www.opentix.life/event/2087082647347310593"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1786593735,
+    "updatedAt": 1787736384,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a30f2b51b5a900008aff175",
+    "chinese": {
+     "title": "《行・城・記憶》—聲音的旅行",
+     "site": {
+      "isOther": false,
+      "site": "5aec47d3b01ea6000520f663",
+      "other": ""
+     },
+     "description": "那些走過的城市，終將成為心中的風景。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792841400,
+     "discrete": [
+      {
+       "time": 1792841400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       300,
+       500,
+       700,
+       900,
+       1200
+      ],
+      "link": "https://www.opentix.life/event/2063953665408139264"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1781592757,
+    "updatedAt": 1787193727,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a193b829f93a700089327df",
+    "chinese": {
+     "title": "《玉山音樂饗宴 維也納少年合唱團》",
+     "site": {
+      "isOther": false,
+      "site": "5aec47d3b01ea6000520f663",
+      "other": ""
+     },
+     "description": "世界最美的歌聲―維也納少年合唱團創立於1498年，是世界上最著名的合唱團。招牌的水手服、黃鶯般的歌聲，這群來自藍色多瑙河畔傳唱528年的小天使，將為您帶來天籟般的音樂饗宴。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792909800,
+     "discrete": [
+      {
+       "time": 1792909800
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       500,
+       800,
+       1000,
+       1200,
+       1500,
+       2000
+      ],
+      "link": "https://www.opentix.life/event/2069705340555059200"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1780038530,
+    "updatedAt": 1787193761,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a335463e2c4c600089cb167",
+    "chinese": {
+     "title": "《托馬許．卡米耶尼亞克2026台灣音樂會》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "卡米耶尼亞克2026台灣音樂會，以李斯特的靈性旅程為起點，延續至阿爾康的內在交響宇宙，是十九世紀音樂的縮影，也思考音樂承載個人、信仰與社會的多重角色。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792911600,
+     "discrete": [
+      {
+       "time": 1792911600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       700,
+       1000
+      ],
+      "link": "https://www.opentix.life/event/2073325986027565057"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1781748835,
+    "updatedAt": 1789366074,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a475099d45b1700074650b0",
+    "chinese": {
+     "title": "《2026王昱翔薩克斯風獨奏會－法國作品集II》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "王昱翔攜手巴黎高等音樂院鋼琴家伊藤富美惠",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1792996200,
+     "discrete": [
+      {
+       "time": 1792996200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       500,
+       800,
+       1000
+      ],
+      "link": "https://www.opentix.life/event/2074437015481688065"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1783058585,
+    "updatedAt": 1784023061,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633"
+    ],
+    "showInProgramList": true,
+    "_id": "6a60317c3623540007c01ef1",
+    "chinese": {
+     "title": "《節奏與狂喜　湯妮莉X高韻堯雙鋼琴音樂會》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "雙鋼琴的極致對話節奏與狂喜",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793187000,
+     "discrete": [
+      {
+       "time": 1793187000
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       600,
+       1000,
+       1200
+      ],
+      "link": "https://www.opentix.life/event/2082777244051320833"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1784689020,
+    "updatedAt": 1786441774,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633"
+    ],
+    "showInProgramList": true,
+    "_id": "6a39edd891fdd80008fb8fe8",
+    "chinese": {
+     "title": "《唱彈詩與樂　合唱音樂會》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "在歌聲裡相遇 於詩意中共鳴",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793273400,
+     "discrete": [
+      {
+       "time": 1793273400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       600,
+       800
+      ],
+      "link": "https://www.opentix.life/event/2105220235260489728"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1782181336,
+    "updatedAt": 1791336191,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a6af633ef008b00072bcd32",
+    "chinese": {
+     "title": "《弦語・心聲》張群2026小提琴獨奏會",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "2026張群小提琴獨奏音樂會",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793359800,
+     "discrete": [
+      {
+       "time": 1793359800
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       500,
+       800,
+       1000
+      ],
+      "link": "https://www.opentix.life/event/2077604197323137025"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1785394739,
+    "updatedAt": 1787193777,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a47529a287f0800087ff278",
+    "chinese": {
+     "title": "《時代的軌跡－扎斯拉夫斯基獨奏》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "以深刻詮釋，串起百年音樂對話",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793428200,
+     "discrete": [
+      {
+       "time": 1793428200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       400,
+       700,
+       1000
+      ],
+      "link": "https://www.opentix.life/event/2072870491394531328"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1783059098,
+    "updatedAt": 1787193784,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec418cb01ea6000520f635"
+    ],
+    "showInProgramList": true,
+    "_id": "69d5d0c92b42f60007a629db",
+    "chinese": {
+     "title": "會演是英雄2《英雄所賤略同》",
+     "site": {
+      "isOther": false,
+      "site": "5aec47eeb01ea6000520f665",
+      "other": ""
+     },
+     "description": "全明星沈浸式教戰喜劇",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793428200,
+     "discrete": [
+      {
+       "time": 1793428200
+      },
+      {
+       "time": 1793446200
+      },
+      {
+       "time": 1793514600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       400,
+       1100,
+       1200,
+       1600,
+       2200,
+       2800,
+       3200,
+       3600
+      ],
+      "link": "https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P185ZP45&kdid=search"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1775620297,
+    "updatedAt": 1778570553,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5fe2bffdde1961000737545c",
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "69c37ff1125d070007604ccf",
+    "chinese": {
+     "title": "《風箱間的四季》馬丁納斯・萊維茨基斯＆Mikroorkéstra室內樂團",
+     "site": {
+      "isOther": false,
+      "site": "5aec47d3b01ea6000520f663",
+      "other": ""
+     },
+     "description": "本場音樂會藉由手風琴的百變音色，重塑韋瓦第經典《四季》。萊維茨基斯以自創曲目穿插其間，如詩如畫，在巴洛克時期鮮明的音樂肌理中，融入當代思維的靈光，演繹萬物更迭的永恆旋律。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793444400,
+     "discrete": [
+      {
+       "time": 1793444400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       600,
+       900,
+       1200,
+       1600
+      ],
+      "link": "https://www.opentix.life/event/2050494429271105537"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1774419953,
+    "updatedAt": 1790068910,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a2baddcfb8ae70007666171",
+    "chinese": {
+     "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4743b01ea6000520f65e",
+      "other": ""
+     },
+     "description": "從最純粹的脈動出發 回歸音樂的本質",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793446200,
+     "discrete": [
+      {
+       "time": 1793446200
+      },
+      {
+       "time": 1793514600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       600,
+       1000,
+       1400,
+       1800,
+       2200,
+       2600,
+       3000
+      ],
+      "link": "https://www.opentix.life/event/2064989613489934337"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1781247452,
+    "updatedAt": 1787193793,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a447a28444f570008f2a4ca",
+    "chinese": {
+     "title": "狂美《璀璨經典百老匯II》 交響音樂會",
+     "site": {
+      "isOther": false,
+      "site": "5aec47d3b01ea6000520f663",
+      "other": ""
+     },
+     "description": "蝶舞盛開的百老匯樂宴，狂美新作翩然登場",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793514600,
+     "discrete": [
+      {
+       "time": 1793514600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       600,
+       800,
+       1000,
+       1200,
+       1500,
+       1800,
+       2200,
+       2600
+      ],
+      "link": "https://www.opentix.life/event/2062049163975860225"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1782872616,
+    "updatedAt": 1787193800,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a6033d53623540007c01f71",
+    "chinese": {
+     "title": "《2026唐佳迎鋼琴獨奏會》",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "  ",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793532600,
+     "discrete": [
+      {
+       "time": 1793532600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       400
+      ],
+      "link": "https://www.opentix.life/event/2085249028283408385"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1784689621,
+    "updatedAt": 1787713145,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a0e68bff2bf2c0008d546f0",
+    "chinese": {
+     "title": "2026【武營來跳舞】7-12月",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "衛武營榕樹廣場西側"
+     },
+     "description": "大眾參與，與眾不同的舞蹈初體驗",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1782903600,
+     "discrete": [
+      {
+       "time": 1782903600
+      },
+      {
+       "time": 1785927600
+      },
+      {
+       "time": 1788346800
+      },
+      {
+       "time": 1791370800
+      },
+      {
+       "time": 1793790000
+      },
+      {
+       "time": 1796209200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "自由參與"
+     }
+    },
+    "host": true,
+    "updatedBy": "蔡沛嘉",
+    "createdAt": 1779329215,
+    "updatedAt": 1788420823,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5fe2bffdde1961000737545c",
+     "653789846baf59000811de11"
+    ],
+    "showInProgramList": true,
+    "_id": "69dda1ec32116a0007805dd8",
+    "chinese": {
+     "title": "2026臺灣作曲家系列《心繫本土 胸懷亞太》許常惠逝世二十五週年紀念特展",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "藝術迴廊"
+     },
+     "description": " ",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1793934000,
+     "discrete": [],
+     "type": "continuous",
+     "continuous": {
+      "time": [
+       1776135600
+      ],
+      "endTime": [
+       1776168000
+      ],
+      "start": 1793894400,
+      "end": 1796486400
+     }
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "自由入場",
+      "englishDescription": "Free"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1776132588,
+    "updatedAt": 1792205117,
+    "__v": 0,
+    "attachment": {}
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b"
+    ],
+    "showInProgramList": true,
+    "_id": "6a572b8818fbb10007264a77",
+    "chinese": {
+     "title": "【會員限定】移動劇場，出發──藍皮解憂號 × 江賢二藝術園區一日美學",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "江賢二園區"
+     },
+     "description": "從榕樹下到南迴線：藝術不應僅侷限於劇院的穹頂之下。這一次，我們將衛武營「眾人的藝術中心」之精神延展至南迴的自然山海間。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794009600,
+     "discrete": [
+      {
+       "time": 1794009600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "signup"
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1784097672,
+    "updatedAt": 1785379744,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b"
+    ],
+    "showInProgramList": true,
+    "_id": "6ac4be6086975700088f6d65",
+    "chinese": {
+     "title": "【專題講座】《心繫本土 胸懷亞太》—從影像與手稿看許常惠的音樂人生與作曲理念",
+     "site": {
+      "isOther": false,
+      "site": "5b1029cdda0322000751e9ad",
+      "other": ""
+     },
+     "description": "許常惠（1929-2001）逝世至今倏忽已25年。作為東亞「戰後傑出世代」的作曲家，許常惠還是長年從事田調採集、研究與著述的音樂學者，更是一位桃李滿天下的教育家與手腕靈活的活動家。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794031200,
+     "discrete": [
+      {
+       "time": 1794031200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名",
+      "englishDescription": "Registration"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1791278688,
+    "updatedAt": 1792205085,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633"
+    ],
+    "showInProgramList": true,
+    "_id": "6abb1fab8979e70007f9d9e2",
+    "chinese": {
+     "title": "《暮光之城2：新月》電影交響音樂會 ",
+     "site": {
+      "isOther": false,
+      "site": "5aec4743b01ea6000520f65e",
+      "other": ""
+     },
+     "description": "《暮光之城2：新月》由奧斯卡得主亞歷山大・戴斯培譜寫動人配樂。全片大銀幕×Live Band現場演奏×燭光氛圍，重返愛、失去與等待的青春記憶，願浪漫永不滅。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794038400,
+     "discrete": [
+      {
+       "time": 1794038400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       300,
+       1980,
+       2280,
+       2580,
+       2880,
+       3280,
+       3680
+      ],
+      "link": "https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1FZSCBD"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1790648235,
+    "updatedAt": 1790833532,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633"
+    ],
+    "showInProgramList": true,
+    "_id": "6a4cc260ffced3000797be0a",
+    "chinese": {
+     "title": "《我只在乎你 - 鄧麗君名曲交響音樂會》",
+     "site": {
+      "isOther": false,
+      "site": "5aec47d3b01ea6000520f663",
+      "other": ""
+     },
+     "description": "鄧麗君經典旋律，夢響管弦交響交織。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794051000,
+     "discrete": [
+      {
+       "time": 1794051000
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       500,
+       800,
+       1000,
+       1500,
+       2000
+      ],
+      "link": "https://www.opentix.life/event/2074043552615690241"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1783415392,
+    "updatedAt": 1783577344,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "6a4cc5091af6f70008cf6893",
+    "chinese": {
+     "title": "《阿格麗希音樂節在台灣-高雄場》",
+     "site": {
+      "isOther": false,
+      "site": "5aec47d3b01ea6000520f663",
+      "other": ""
+     },
+     "description": "高雄首場協奏曲之夜，從《藍色狂想曲》到《三重協奏曲》，串聯爵士、法式現代與德奧古典，揭開音樂節精彩序章。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794310200,
+     "discrete": [
+      {
+       "time": 1794310200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       1200,
+       1800,
+       2400,
+       3000,
+       3800,
+       4200,
+       4800,
+       5800,
+       6800,
+       8800
+      ],
+      "link": "https://www.opentix.life/event/2079132570898259969"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1783416073,
+    "updatedAt": 1790818439,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec4184b01ea6000520f633"
+    ],
+    "showInProgramList": true,
+    "_id": "6a475892287f0800087ff394",
+    "chinese": {
+     "title": "《雅聲櫻舞・韻染東瀛》雅韻合唱團與日本音樂家之夜",
+     "site": {
+      "isOther": false,
+      "site": "5aec4800b01ea6000520f668",
+      "other": ""
+     },
+     "description": "雅韻隨歌聲流轉，共譜臺日交流的美好樂章",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794396600,
+     "discrete": [
+      {
+       "time": 1794396600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       400,
+       600,
+       800
+      ],
+      "link": "https://www.opentix.life/event/2070066032631992320?srsltid=AfmBOoq6fMjCX_a8foVaDAPMtJd1vx4-NDxfk13dTJEUIdycjXKphse0"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1783060626,
+    "updatedAt": 1783324401,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5fe2bffdde1961000737545c",
+     "5aec418cb01ea6000520f635",
+     "64812f1feb9a240007c8c8c7"
+    ],
+    "showInProgramList": true,
+    "_id": "69dc88ac0d5d250007a494b8",
+    "chinese": {
+     "title": "小島大歌《One Ocean》",
+     "site": {
+      "isOther": false,
+      "site": "5aec47eeb01ea6000520f665",
+      "other": ""
+     },
+     "description": "臺澳荷共製，小島大歌11週年新作",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794396600,
+     "discrete": [
+      {
+       "time": 1794396600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       600,
+       900,
+       1000,
+       1200,
+       1500,
+       1800,
+       2200
+      ],
+      "link": "https://www.opentix.life/event/2052306394696761345"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1776060588,
+    "updatedAt": 1792032877,
+    "__v": 0
+   }
+  ],
+  "education": [
+   {
+    "catalogs": [
+     "5d08a4a8d6da88000647288c"
+    ],
+    "showInProgramList": true,
+    "_id": "69e0939d083b77000852411f",
+    "chinese": {
+     "title": "2026【衛武營藝企學】下半年登場！",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "衛武營"
+     },
+     "description": "衛武營國家藝術文化中心為南臺灣藝術發展重要基地，擁有全亞洲最大的管風琴、全臺唯一葡萄園式座席設計音樂廳與全臺唯一凸出式可升降延伸舞台的戲劇院。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1790044200,
+     "discrete": [
+      {
+       "time": 1790044200
+      },
+      {
+       "time": 1790056800
+      },
+      {
+       "time": 1790130600
+      },
+      {
+       "time": 1791253800
+      },
+      {
+       "time": 1791266400
+      },
+      {
+       "time": 1791340200
+      },
+      {
+       "time": 1793068200
+      },
+      {
+       "time": 1793080800
+      },
+      {
+       "time": 1793154600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上申請，媒合參與"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1776325533,
+    "updatedAt": 1790130309,
+    "__v": 0,
+    "attachment": {}
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a0e68bff2bf2c0008d546f0",
+    "chinese": {
+     "title": "2026【武營來跳舞】7-12月",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "衛武營榕樹廣場西側"
+     },
+     "description": "大眾參與，與眾不同的舞蹈初體驗",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1782903600,
+     "discrete": [
+      {
+       "time": 1782903600
+      },
+      {
+       "time": 1785927600
+      },
+      {
+       "time": 1788346800
+      },
+      {
+       "time": 1791370800
+      },
+      {
+       "time": 1793790000
+      },
+      {
+       "time": 1796209200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "自由參與"
+     }
+    },
+    "host": true,
+    "updatedBy": "蔡沛嘉",
+    "createdAt": 1779329215,
+    "updatedAt": 1788420823,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655",
+     "600a39e9a6b9ff0007b87823"
+    ],
+    "showInProgramList": true,
+    "_id": "6a7296d0c43d9300077d3feb",
+    "chinese": {
+     "title": "【創意學習工作坊】跳進《胡桃鉗》的芭蕾舞會",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "衛武營排練室"
+     },
+     "description": "# 帶著最愛的娃娃一起來場親子夢幻舞會 ",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794708000,
+     "discrete": [
+      {
+       "time": 1794708000
+      },
+      {
+       "time": 1794722400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "signup"
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1785894608,
+    "updatedAt": 1791165779,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a71956c3bb9e000097a722e",
+    "chinese": {
+     "title": "伊莉莎白・陶曼博士的臺灣足跡——50年的臺澳舞蹈交流之路講座",
+     "site": {
+      "isOther": false,
+      "site": "5b1029cdda0322000751e9ad",
+      "other": ""
+     },
+     "description": "伊莉莎白．卡梅隆．陶曼博士（Dr. Elizabeth Cameron DALMAN）將分享她與臺灣舞蹈界長久且豐碩的交流歷程。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1794913200,
+     "discrete": [
+      {
+       "time": 1794913200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "signup"
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1785828716,
+    "updatedAt": 1786008452,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a7148ae98558c000705a631",
+    "chinese": {
+     "title": "【武營來開槓】今天，你穿的是誰？  —從日常穿搭到舞台角色",
+     "site": {
+      "isOther": false,
+      "site": "5b1029cdda0322000751e9ad",
+      "other": ""
+     },
+     "description": "講座將從大家熟悉的日常穿搭出發，帶領大家走進劇場服裝設計的幕後世界。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1795240800,
+     "discrete": [
+      {
+       "time": 1795240800
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名"
+     }
+    },
+    "host": true,
+    "updatedBy": "黃薏靜",
+    "createdAt": 1785809070,
+    "updatedAt": 1787219463,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a9918c9d79537000796bc0b",
+    "chinese": {
+     "title": "【幕後解密】探索柏林雷寧廣場劇院《夢想清單》 後台風景",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "西側營運辦公室"
+     },
+     "description": "好奇一部精采節目的製作過程嗎？",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1795248600,
+     "discrete": [
+      {
+       "time": 1795248600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "signup"
+    },
+    "host": true,
+    "updatedBy": "翁玉芬",
+    "createdAt": 1788418249,
+    "updatedAt": 1790137430,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "6010ca1afb81540009f438e6"
+    ],
+    "showInProgramList": true,
+    "_id": "6a9fccdc8979e70007e9ba41",
+    "chinese": {
+     "title": "【2026 場館友善計畫】《永動城市》共融舞蹈工作坊",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "排練室"
+     },
+     "description": "搭配主辦節目—【2026臺灣舞蹈平台】《永動城市》滯留島舞蹈劇場＆Kinetic Light＆ONIKHO",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1795312800,
+     "discrete": [
+      {
+       "time": 1795312800
+      },
+      {
+       "time": 1795847400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1788857564,
+    "updatedAt": 1788938079,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5fe2bffdde1961000737545c",
+     "5aec4184b01ea6000520f633",
+     "64812f1feb9a240007c8c8c7",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a1ce6997b4519000777aaf5",
+    "chinese": {
+     "title": "2026探索管風琴音樂8-12月",
+     "site": {
+      "isOther": false,
+      "site": "5aec47d3b01ea6000520f663",
+      "other": ""
+     },
+     "description": "走進衛武營音樂廳，驚嘆葡萄園式的觀眾席、360度環繞的聲響效果，位於最頂層的管風琴，也是眾人矚目的焦點。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1787121000,
+     "discrete": [
+      {
+       "time": 1787121000
+      },
+      {
+       "time": 1789540200
+      },
+      {
+       "time": 1795588200
+      },
+      {
+       "time": 1798007400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上購票",
+      "englishDescription": "Buy Tickets"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1780278937,
+    "updatedAt": 1790043116,
+    "__v": 0,
+    "attachment": {}
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a55db7023491a0008731929",
+    "chinese": {
+     "title": "河志惠即興肢體工作坊",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "1186排練室"
+     },
+     "description": "編舞家河志惠以即興創作為工作核心，透過探索各身體部位的動作潛能，將節奏轉譯為身體語彙的肢體工作坊。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1795667400,
+     "discrete": [
+      {
+       "time": 1795667400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名",
+      "englishDescription": "Registration"
+     }
+    },
+    "host": false,
+    "updatedBy": "黃勝暉",
+    "createdAt": 1784011632,
+    "updatedAt": 1787290506,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a55e3be4f2813000703ea25",
+    "chinese": {
+     "title": "泰國傳統舞蹈工作坊 ",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "1186排練室"
+     },
+     "description": "探索古老暹羅文化，以身體感受與未知世界神靈溝通的優雅體驗。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1795676400,
+     "discrete": [
+      {
+       "time": 1795676400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名",
+      "englishDescription": "Registration"
+     }
+    },
+    "host": false,
+    "updatedBy": "林蔚行",
+    "createdAt": 1784013758,
+    "updatedAt": 1784515979,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5aec45edb01ea6000520f655",
+     "6007fc45ba34870007c22b8b"
+    ],
+    "showInProgramList": true,
+    "_id": "69afd56bf1151f0007a5d407",
+    "chinese": {
+     "title": "2026臺灣舞蹈記憶地圖—舞蹈書寫工作坊",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "衛武營"
+     },
+     "description": "以舞蹈書寫連結舞蹈的過去、現在和未來。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1775872800,
+     "discrete": [
+      {
+       "time": 1775872800
+      },
+      {
+       "time": 1775959200
+      },
+      {
+       "time": 1782525600
+      },
+      {
+       "time": 1782612000
+      },
+      {
+       "time": 1787364000
+      },
+      {
+       "time": 1787450400
+      },
+      {
+       "time": 1795759200
+      },
+      {
+       "time": 1795834800
+      },
+      {
+       "time": 1795921200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名",
+      "englishDescription": "Registration"
+     }
+    },
+    "host": true,
+    "updatedBy": "黃勝暉",
+    "createdAt": 1773131115,
+    "updatedAt": 1775027541,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a4c5fb47fbab00007d48756",
+    "chinese": {
+     "title": "「世界中的光環舞集」—重探編創與巡演的軌跡講座",
+     "site": {
+      "isOther": false,
+      "site": "5b1029cdda0322000751e9ad",
+      "other": ""
+     },
+     "description": "  ",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1795842000,
+     "discrete": [
+      {
+       "time": 1795842000
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名",
+      "englishDescription": "Registration"
+     }
+    },
+    "host": true,
+    "updatedBy": "黃勝暉",
+    "createdAt": 1783390132,
+    "updatedAt": 1786675775,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a4b6dab85b28500079a1159",
+    "chinese": {
+     "title": "走過轉向－身體・歌工作坊暨講座",
+     "site": {
+      "isOther": true,
+      "site": "5b1029cdda0322000751e9ad",
+      "other": "衛武營樹冠大廳西側及演講廳"
+     },
+     "description": "走過轉向－身體・歌工作坊暨講座\n\n",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1795856400,
+     "discrete": [
+      {
+       "time": 1795856400
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名",
+      "englishDescription": "Registration"
+     }
+    },
+    "host": true,
+    "updatedBy": "黃勝暉",
+    "createdAt": 1783328171,
+    "updatedAt": 1786675403,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a4b7605ccef7d0007755e80",
+    "chinese": {
+     "title": "滴勾搭・滴勾搭・盪！－追尋佛朗明哥的腳步",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "衛武營樹冠大廳西露台"
+     },
+     "description": "我隨著腳步聲追尋著一個故事，一個從日本移動到滿洲國再到臺灣的故事。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1795939200,
+     "discrete": [
+      {
+       "time": 1795939200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "",
+      "englishDescription": ""
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1783330309,
+    "updatedAt": 1783413108,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655"
+    ],
+    "showInProgramList": true,
+    "_id": "6a7434cf3b3595000887d304",
+    "chinese": {
+     "title": "【樹洞耳機電影院】旺卡",
+     "site": {
+      "isOther": false,
+      "site": "5be1594c77d0790006d80c56",
+      "other": ""
+     },
+     "description": "戴上專屬無線耳機、窩進舒適躺椅，曲面牆的400吋投影，耳內流竄的飽滿聲音，樹洞耳機電影院歡樂呈現！",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1796470200,
+     "discrete": [
+      {
+       "time": 1796470200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名",
+      "englishDescription": "Registration"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1786000591,
+    "updatedAt": 1786101541,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "6007fc45ba34870007c22b8b",
+     "5aec45edb01ea6000520f655",
+     "600a39e9a6b9ff0007b87823"
+    ],
+    "showInProgramList": true,
+    "_id": "6aab8ac28979e70007f180b1",
+    "chinese": {
+     "title": "2026下半年【我們的音樂探險】",
+     "site": {
+      "isOther": false,
+      "site": "5aec47eeb01ea6000520f665",
+      "other": ""
+     },
+     "description": "邀請您走進衛武營，陪伴孩子參加人生第一場音樂會。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1798268400,
+     "discrete": [
+      {
+       "time": 1798268400
+      },
+      {
+       "time": 1798338600
+      },
+      {
+       "time": 1798354800
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "ticket",
+     "ticket": {
+      "price": [
+       800
+      ],
+      "link": "https://www.opentix.life/event/2102345121869377537"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1789627074,
+    "updatedAt": 1792371820,
+    "__v": 0
+   },
+   {
+    "catalogs": [
+     "5d08a4a8d6da88000647288c"
+    ],
+    "showInProgramList": true,
+    "_id": "6a200d73e8a56800081edc4e",
+    "chinese": {
+     "title": "【劇場藝術體驗教育計畫】 115學年度體驗課程開放申請",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "衛武營"
+     },
+     "description": "劇場，不再只是舞台，而是孩子們探索世界的新起點！",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1787634000,
+     "discrete": [
+      {
+       "time": 1787634000
+      },
+      {
+       "time": 1800853200
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名，媒合參與"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1780485491,
+    "updatedAt": 1785998442,
+    "__v": 0,
+    "attachment": {}
+   },
+   {
+    "catalogs": [
+     "5d08a4a8d6da88000647288c"
+    ],
+    "showInProgramList": true,
+    "_id": "6a200e9be8a56800081edc80",
+    "chinese": {
+     "title": "【劇場藝術體驗教育計畫】 115學年度讀劇課程開放申請",
+     "site": {
+      "isOther": true,
+      "site": "",
+      "other": "衛武營"
+     },
+     "description": "自開幕以來，衛武營國家藝術文化中心積極推動南臺灣的藝術文化發展，期望為青年學子打造嶄新的學習體驗。",
+     "onShelf": true
+    },
+    "dateTime": {
+     "first": 1787720400,
+     "discrete": [
+      {
+       "time": 1787720400
+      },
+      {
+       "time": 1800939600
+      }
+     ],
+     "type": "discrete"
+    },
+    "activity": {
+     "type": "free",
+     "free": {
+      "description": "線上報名，媒合參與"
+     }
+    },
+    "host": true,
+    "updatedBy": "林蔚行",
+    "createdAt": 1780485787,
+    "updatedAt": 1785998377,
+    "__v": 0,
+    "attachment": {}
+   }
+  ]
+ }
+}

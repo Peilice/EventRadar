@@ -36,7 +36,7 @@ MAX_DURATION = timedelta(days=365)
 DESCRIPTION_LIMIT = 300
 
 
-def fetch() -> bytes:
+def fetch(previous=None) -> bytes:
     pages = []
     page = 1
     while page <= MAX_PAGES:
