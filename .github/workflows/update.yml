@@ -1,0 +1,53 @@
+name: 每日更新活動
+
+on:
+  schedule:
+    - cron: "0 16 * * *" # UTC 16:00 = 台灣時間 00:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-events
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python -m pytest -q
+
+      # 有來源失敗時程式回傳非 0，但資料仍已寫出：先提交，最後再標記失敗
+      - name: 抓取活動
+        id: fetch
+        run: python -m eventradar
+        continue-on-error: true
+
+      - name: 提交資料
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data data/sources
+          if git diff --cached --quiet; then
+            echo "資料沒有變動"
+          else
+            git commit -m "每日更新活動資料"
+            git push
+          fi
+
+      - name: 有來源失敗
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "::error::部分來源抓取失敗，詳見「抓取活動」步驟的紀錄"
+          exit 1
