@@ -1,6 +1,18 @@
 "use strict";
 
 const CATEGORIES = ["展覽", "表演／音樂", "講座／課程", "節慶／觀光", "市集", "親子", "運動", "其他"];
+// 分類對應的樣式代號（顏色與圖示），沒列到的歸「其他」
+const CATEGORY_KEYS = {
+  "展覽": "exhibit",
+  "表演／音樂": "show",
+  "講座／課程": "talk",
+  "節慶／觀光": "fest",
+  "市集": "market",
+  "親子": "kids",
+  "運動": "sport",
+  "其他": "other",
+};
+const catKey = (c) => CATEGORY_KEYS[c] || "other";
 const WEEKDAYS = ["日", "一", "二", "三", "四", "五", "六"];
 const DEFAULT_RANGE_DAYS = 30;
 
@@ -101,17 +113,24 @@ const template = $("#event-template");
 
 function renderEvent(e) {
   const node = template.content.firstElementChild.cloneNode(true);
+  const key = catKey(e.category);
+  node.dataset.cat = key;
+  node.querySelector(".event-cat use").setAttribute("href", `#i-${key}`);
+  node.querySelector(".event-cat span").textContent = e.category;
+
   const link = node.querySelector(".event-title a");
   link.textContent = e.title;
   const primary = safeUrl(e.links[0] && e.links[0].url);
   if (primary) link.href = primary;
   else link.removeAttribute("target");
 
-  node.querySelector(".event-when").textContent = whenText(e);
+  node.querySelector(".event-when span").textContent = whenText(e);
 
   const where = [e.venue || e.address, e.district].filter(Boolean);
   if (e.venue && e.address && !e.address.includes(e.venue)) where.splice(1, 0, e.address);
-  node.querySelector(".event-where").textContent = [...new Set(where)].join(" · ");
+  const whereEl = node.querySelector(".event-where");
+  if (where.length) whereEl.querySelector("span").textContent = [...new Set(where)].join(" · ");
+  else whereEl.remove();
 
   const tags = node.querySelector(".tags");
   const addTag = (text, cls) => {
@@ -120,14 +139,14 @@ function renderEvent(e) {
     li.textContent = text;
     tags.append(li);
   };
-  addTag(e.category, "tag-cat");
   if (e.fee === "免費") addTag("免費", "tag-free");
   else if (e.fee === "付費") addTag("付費");
   if (e.organizer_type === "政府") addTag("政府", "tag-gov");
   else if (e.organizer_type === "民間") addTag("民間", "tag-private");
+  if (!tags.childElementCount) tags.remove();
 
   const org = node.querySelector(".event-org");
-  if (e.organizer) org.textContent = `主辦：${e.organizer}`;
+  if (e.organizer) org.querySelector("span").textContent = `主辦：${e.organizer}`;
   else org.remove();
 
   if (e.description) {
@@ -167,22 +186,17 @@ function render() {
 
   const upcomingEl = $("#upcoming");
   upcomingEl.replaceChildren();
-  if (!upcoming.length) {
-    const p = document.createElement("p");
-    p.className = "empty";
-    p.textContent = "這段期間沒有符合條件的新活動。";
-    upcomingEl.append(p);
-  }
+  if (!upcoming.length) upcomingEl.append(renderEmpty(active));
+
+  const perDay = {};
+  for (const e of upcoming) perDay[dayOf(e.start)] = (perDay[dayOf(e.start)] || 0) + 1;
   let currentDay = null;
   const frag = document.createDocumentFragment();
   for (const e of upcoming) {
     const day = dayOf(e.start);
     if (day !== currentDay) {
       currentDay = day;
-      const h = document.createElement("h2");
-      h.className = "day-heading";
-      h.textContent = fmtDay(day);
-      frag.append(h);
+      frag.append(renderDayHeading(day, perDay[day]));
     }
     frag.append(renderEvent(e));
   }
@@ -193,6 +207,60 @@ function render() {
   $("#ongoing-summary").textContent = `進行中的活動（${ongoing.length}）`;
   const ongoingEl = $("#ongoing");
   ongoingEl.replaceChildren(...ongoing.map(renderEvent));
+}
+
+// 日期標頭：大字日期 + 月份星期，今天、明天另外標示
+function renderDayHeading(day, count) {
+  const [y, m, d] = day.split("-").map(Number);
+  const today = taipeiToday();
+  const wd = WEEKDAYS[new Date(Date.UTC(y, m - 1, d)).getUTCDay()];
+  const yearPart = y !== Number(today.slice(0, 4)) ? `${y} 年 ` : "";
+  const rel = day === today ? "今天" : day === addDays(today, 1) ? "明天" : "";
+
+  const h = document.createElement("h2");
+  h.className = "day-heading";
+  if (wd === "六" || wd === "日") h.classList.add("is-weekend");
+  h.setAttribute("aria-label", `${fmtDay(day)}${rel ? "，" + rel : ""}，${count} 場`);
+  const ticket = document.createElement("span");
+  ticket.className = "day-ticket";
+  ticket.setAttribute("aria-hidden", "true");
+  ticket.innerHTML = `<span class="day-num"></span><span class="day-meta"><span class="day-month"></span><span class="day-wd"></span></span>`;
+  ticket.querySelector(".day-num").textContent = d;
+  ticket.querySelector(".day-month").textContent = `${yearPart}${m} 月`;
+  ticket.querySelector(".day-wd").textContent = `週${wd}`;
+  h.append(ticket);
+  if (rel) {
+    const r = document.createElement("span");
+    r.className = "day-rel";
+    r.setAttribute("aria-hidden", "true");
+    r.textContent = rel;
+    h.append(r);
+  }
+  const c = document.createElement("span");
+  c.className = "day-count";
+  c.setAttribute("aria-hidden", "true");
+  c.textContent = `${count} 場`;
+  h.append(c);
+  return h;
+}
+
+function renderEmpty(activeFilters) {
+  const box = document.createElement("div");
+  box.className = "empty";
+  box.innerHTML = `<svg class="empty-icon" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-radar"/></svg><p></p>`;
+  box.querySelector("p").textContent = "這段期間沒有符合條件的新活動。";
+  if (activeFilters) {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "reset";
+    b.textContent = "清除篩選";
+    b.addEventListener("click", () => {
+      resetFilters();
+      render();
+    });
+    box.append(b);
+  }
+  return box;
 }
 
 // 來源 chip 上的筆數：套用其他篩選條件後，各來源各有幾筆
@@ -262,7 +330,13 @@ function makeChip(selected, value, label) {
 
 function setupFilters() {
   const chips = $("#category-chips");
-  for (const c of CATEGORIES) chips.append(makeChip(state.categories, c, c));
+  for (const c of CATEGORIES) {
+    const b = makeChip(state.categories, c, c);
+    b.classList.add("chip-cat");
+    b.dataset.cat = catKey(c);
+    b.insertAdjacentHTML("afterbegin", `<svg class="icon" aria-hidden="true"><use href="#i-${catKey(c)}"/></svg>`);
+    chips.append(b);
+  }
 
   // 來源依 status.json 的順序排列，再補上 status 裡沒有的來源
   const sourceNames = [...new Set([...Object.keys(state.sourceLabels), ...state.events.flatMap((e) => e.sources)])];

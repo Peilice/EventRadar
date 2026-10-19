@@ -5,95 +5,155 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>高雄活動雷達</title>
   <meta name="description" content="自動彙整高雄的政府與民間活動">
+  <meta name="theme-color" content="#1e4fc7">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@400;500;700;800;900&family=Fredoka:wght@500;600;700&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="site-header">
-    <h1>高雄活動雷達</h1>
-    <p class="meta" id="meta">載入中…</p>
+  <!-- 圖示：同一套 24px 格線、2px 圓頭線條 -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <symbol id="i-exhibit" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-9 9"/></symbol>
+      <symbol id="i-show" viewBox="0 0 24 24"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></symbol>
+      <symbol id="i-talk" viewBox="0 0 24 24"><path d="M2 4h6a4 4 0 0 1 4 4v13a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v13a3 3 0 0 1 3-3h7z"/></symbol>
+      <symbol id="i-fest" viewBox="0 0 24 24"><path d="M5 22V3"/><path d="M5 4h13l-3 4.5 3 4.5H5"/></symbol>
+      <symbol id="i-market" viewBox="0 0 24 24"><path d="M3 9 4.5 4h15L21 9"/><path d="M3 9a3 3 0 0 0 6 0 3 3 0 0 0 6 0 3 3 0 0 0 6 0"/><path d="M5 12v8h14v-8"/><path d="M10 20v-5h4v5"/></symbol>
+      <symbol id="i-kids" viewBox="0 0 24 24"><path d="M12 16c-3.5 0-6-3-6-6.5a6 6 0 0 1 12 0c0 3.5-2.5 6.5-6 6.5z"/><path d="m12 16-1.2 2h2.4z"/><path d="M12 18c0 2-2 2-2 4"/></symbol>
+      <symbol id="i-sport" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a14 14 0 0 1 0 18"/><path d="M12 3a14 14 0 0 0 0 18"/><path d="M3 12h18"/></symbol>
+      <symbol id="i-other" viewBox="0 0 24 24"><path d="m12 3 2.2 5.8L20 11l-5.8 2.2L12 19l-2.2-5.8L4 11l5.8-2.2z"/></symbol>
+      <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+      <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></symbol>
+      <symbol id="i-org" viewBox="0 0 24 24"><path d="M4 21V5l8-2v18"/><path d="M12 9h8v12"/><path d="M2 21h20"/><path d="M8 8v.01M8 12v.01M8 16v.01M16 13v.01M16 17v.01"/></symbol>
+      <symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/></symbol>
+      <symbol id="i-hourglass" viewBox="0 0 24 24"><path d="M6 3h12M6 21h12"/><path d="M7 3c0 5 5 6 5 9s-5 4-5 9"/><path d="M17 3c0 5-5 6-5 9s5 4 5 9"/></symbol>
+      <symbol id="i-radar" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><path d="M12 12 18.4 5.6"/></symbol>
+    </defs>
+  </svg>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 100 100">
+          <circle class="logo-disc" cx="50" cy="50" r="46"/>
+          <circle class="logo-ring" cx="50" cy="50" r="31"/>
+          <circle class="logo-ring" cx="50" cy="50" r="16"/>
+          <g class="logo-sweep"><path d="M50 50 L50 4 A46 46 0 0 1 89.8 27 Z"/></g>
+          <circle class="logo-blip" cx="68" cy="30" r="5"/>
+          <circle class="logo-blip b2" cx="30" cy="62" r="4"/>
+          <circle class="logo-blip b3" cx="62" cy="72" r="3.5"/>
+          <circle class="logo-core" cx="50" cy="50" r="5"/>
+        </svg>
+      </div>
+      <div class="hero-text">
+        <h1>高雄活動雷達</h1>
+        <p class="tagline">自動彙整高雄的政府與民間活動</p>
+        <p class="meta" id="meta">載入中…</p>
+      </div>
+    </div>
+    <svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 30c120 22 240 22 360 0s240-22 360 0 240 22 360 0 240-22 360 0v30H0z"/>
+    </svg>
   </header>
 
-  <main>
-    <details class="filters" id="filters" open>
-      <summary>篩選 <span class="active-count" id="active-count"></span></summary>
-      <form id="filter-form" autocomplete="off">
-        <label class="field field-wide">
-          <span>關鍵字</span>
-          <input type="search" name="q" placeholder="活動名稱、場地、主辦單位">
-        </label>
-        <div class="field-row">
+  <div class="layout">
+    <aside class="sidebar">
+      <details class="filters" id="filters" open>
+        <summary>
+          <svg class="icon"><use href="#i-sliders"/></svg>
+          篩選 <span class="active-count" id="active-count"></span>
+        </summary>
+        <form id="filter-form" autocomplete="off">
           <label class="field">
-            <span>從</span>
-            <input type="date" name="from">
+            <span>關鍵字</span>
+            <input type="search" name="q" placeholder="活動名稱、場地、主辦單位">
           </label>
-          <label class="field">
-            <span>到</span>
-            <input type="date" name="to">
-          </label>
-        </div>
-        <fieldset class="field field-wide">
-          <legend>分類</legend>
-          <div class="chips" id="category-chips"></div>
-        </fieldset>
-        <fieldset class="field field-wide">
-          <legend>來源</legend>
-          <div class="chips" id="source-chips"></div>
-        </fieldset>
-        <div class="field-row">
-          <label class="field">
-            <span>行政區</span>
-            <select name="district"><option value="">全部</option></select>
-          </label>
-          <label class="field">
-            <span>費用</span>
-            <select name="fee">
-              <option value="">全部</option>
-              <option>免費</option>
-              <option>付費</option>
-              <option>未知</option>
-            </select>
-          </label>
-          <label class="field">
-            <span>主辦</span>
-            <select name="organizer_type">
-              <option value="">全部</option>
-              <option>政府</option>
-              <option>民間</option>
-              <option>不確定</option>
-            </select>
-          </label>
-        </div>
-        <button type="button" class="reset" id="reset-filters">清除篩選</button>
-      </form>
-    </details>
+          <div class="field-row field-row-dates">
+            <label class="field">
+              <span>從</span>
+              <input type="date" name="from">
+            </label>
+            <label class="field">
+              <span>到</span>
+              <input type="date" name="to">
+            </label>
+          </div>
+          <fieldset class="field">
+            <legend>分類</legend>
+            <div class="chips" id="category-chips"></div>
+          </fieldset>
+          <fieldset class="field">
+            <legend>來源</legend>
+            <div class="chips" id="source-chips"></div>
+          </fieldset>
+          <div class="field-row field-row-3">
+            <label class="field">
+              <span>行政區</span>
+              <select name="district"><option value="">全部</option></select>
+            </label>
+            <label class="field">
+              <span>費用</span>
+              <select name="fee">
+                <option value="">全部</option>
+                <option>免費</option>
+                <option>付費</option>
+                <option>未知</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>主辦</span>
+              <select name="organizer_type">
+                <option value="">全部</option>
+                <option>政府</option>
+                <option>民間</option>
+                <option>不確定</option>
+              </select>
+            </label>
+          </div>
+          <button type="button" class="reset" id="reset-filters">清除篩選</button>
+        </form>
+      </details>
+    </aside>
 
-    <p class="summary" id="summary" aria-live="polite"></p>
+    <main>
+      <p class="summary" id="summary" aria-live="polite"></p>
 
-    <section id="upcoming" aria-label="即將開始的活動"></section>
+      <section class="board" id="upcoming" aria-label="即將開始的活動"></section>
 
-    <details class="ongoing" id="ongoing-wrap" hidden>
-      <summary id="ongoing-summary"></summary>
-      <p class="hint">開始日期早於篩選範圍、但仍在進行中的活動（多為長期展覽），依結束日期排序。</p>
-      <div id="ongoing"></div>
-    </details>
-  </main>
+      <details class="ongoing" id="ongoing-wrap" hidden>
+        <summary>
+          <svg class="icon"><use href="#i-hourglass"/></svg>
+          <span id="ongoing-summary"></span>
+        </summary>
+        <p class="hint">開始日期早於篩選範圍、但仍在進行中的活動（多為長期展覽），依結束日期排序。</p>
+        <div class="board" id="ongoing"></div>
+      </details>
+    </main>
+  </div>
 
   <footer class="site-footer">
-    <h2>資料來源狀態</h2>
-    <table class="status">
-      <thead><tr><th>來源</th><th>最後成功更新</th><th>筆數</th></tr></thead>
-      <tbody id="status-body"></tbody>
-    </table>
-    <p class="hint">每天 00:00 自動更新。費用與主辦類型由規則推斷，判斷不出來時標示「未知」或「不確定」。</p>
+    <svg class="wave wave-top" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 30c120 22 240 22 360 0s240-22 360 0 240 22 360 0 240-22 360 0V0H0z"/>
+    </svg>
+    <div class="footer-inner">
+      <h2>資料來源狀態</h2>
+      <table class="status">
+        <thead><tr><th>來源</th><th>最後成功更新</th><th>筆數</th></tr></thead>
+        <tbody id="status-body"></tbody>
+      </table>
+      <p class="hint">每天 00:00 自動更新。費用與主辦類型由規則推斷，判斷不出來時標示「未知」或「不確定」。</p>
+    </div>
   </footer>
 
   <template id="event-template">
     <article class="event">
+      <p class="event-cat"><svg class="icon"><use/></svg><span></span></p>
       <h3 class="event-title"><a target="_blank" rel="noopener noreferrer"></a></h3>
-      <p class="event-when"></p>
-      <p class="event-where"></p>
+      <p class="event-when"><svg class="icon"><use href="#i-clock"/></svg><span></span></p>
+      <p class="event-where"><svg class="icon"><use href="#i-pin"/></svg><span></span></p>
+      <p class="event-org"><svg class="icon"><use href="#i-org"/></svg><span></span></p>
       <ul class="tags"></ul>
-      <p class="event-org"></p>
       <details class="event-desc" hidden>
         <summary>簡介</summary>
         <p></p>
