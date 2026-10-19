@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>高雄活動雷達</title>
+  <meta name="description" content="自動彙整高雄的政府與民間活動">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>高雄活動雷達</h1>
+    <p class="meta" id="meta">載入中…</p>
+  </header>
+
+  <main>
+    <details class="filters" id="filters" open>
+      <summary>篩選 <span class="active-count" id="active-count"></span></summary>
+      <form id="filter-form" autocomplete="off">
+        <label class="field field-wide">
+          <span>關鍵字</span>
+          <input type="search" name="q" placeholder="活動名稱、場地、主辦單位">
+        </label>
+        <div class="field-row">
+          <label class="field">
+            <span>從</span>
+            <input type="date" name="from">
+          </label>
+          <label class="field">
+            <span>到</span>
+            <input type="date" name="to">
+          </label>
+        </div>
+        <fieldset class="field field-wide">
+          <legend>分類</legend>
+          <div class="chips" id="category-chips"></div>
+        </fieldset>
+        <div class="field-row">
+          <label class="field">
+            <span>行政區</span>
+            <select name="district"><option value="">全部</option></select>
+          </label>
+          <label class="field">
+            <span>費用</span>
+            <select name="fee">
+              <option value="">全部</option>
+              <option>免費</option>
+              <option>付費</option>
+              <option>未知</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>主辦</span>
+            <select name="organizer_type">
+              <option value="">全部</option>
+              <option>政府</option>
+              <option>民間</option>
+              <option>不確定</option>
+            </select>
+          </label>
+        </div>
+        <button type="button" class="reset" id="reset-filters">清除篩選</button>
+      </form>
+    </details>
+
+    <p class="summary" id="summary" aria-live="polite"></p>
+
+    <section id="upcoming" aria-label="即將開始的活動"></section>
+
+    <details class="ongoing" id="ongoing-wrap" hidden>
+      <summary id="ongoing-summary"></summary>
+      <p class="hint">開始日期早於篩選範圍、但仍在進行中的活動（多為長期展覽），依結束日期排序。</p>
+      <div id="ongoing"></div>
+    </details>
+  </main>
+
+  <footer class="site-footer">
+    <h2>資料來源狀態</h2>
+    <table class="status">
+      <thead><tr><th>來源</th><th>最後成功更新</th><th>筆數</th></tr></thead>
+      <tbody id="status-body"></tbody>
+    </table>
+    <p class="hint">每天 00:00 自動更新。費用與主辦類型由規則推斷，判斷不出來時標示「未知」或「不確定」。</p>
+  </footer>
+
+  <template id="event-template">
+    <article class="event">
+      <h3 class="event-title"><a target="_blank" rel="noopener noreferrer"></a></h3>
+      <p class="event-when"></p>
+      <p class="event-where"></p>
+      <ul class="tags"></ul>
+      <p class="event-org"></p>
+      <details class="event-desc" hidden>
+        <summary>簡介</summary>
+        <p></p>
+      </details>
+      <p class="event-links"></p>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

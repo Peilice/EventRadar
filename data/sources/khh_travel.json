@@ -1,0 +1,530 @@
+{
+ "fetched_at": "2026-10-19T17:53:58.692696+08:00",
+ "events": [
+  {
+   "id": "khh_travel:C2_397000000A_007490",
+   "title": "微醺大飯店 The Great Tipsy",
+   "start": "2025-10-01T00:00:00+08:00",
+   "end": "2026-12-31T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市804鼓山區臨海三路5號(哈瑪星貿易商大樓)",
+   "district": "鼓山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7490/"
+    }
+   ],
+   "lat": 22.62208,
+   "lng": 120.27477,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007603",
+   "title": "2026衛武營小時光",
+   "start": "2026-07-22T00:00:00+08:00",
+   "end": "2026-12-09T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市830鳳山區三多一路1號(衛武營表演廳)",
+   "district": "鳳山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7603/"
+    }
+   ],
+   "lat": 22.62305,
+   "lng": 120.3421,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007664",
+   "title": "BTS WORLD TOUR ’ARIRANG’ IN KAOHSIUNG",
+   "start": "2026-11-19T00:00:00+08:00",
+   "end": "2026-11-22T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市813左營區高雄國家體育場 (世運主場館)",
+   "district": "左營區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7664/"
+    }
+   ],
+   "lat": 22.70312,
+   "lng": 120.29447,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007689",
+   "title": "2026 Asia Artist Awards in Kaohsiung",
+   "start": "2026-12-05T00:00:00+08:00",
+   "end": "2026-12-06T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市813左營區高雄國家體育場",
+   "district": "左營區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7689/"
+    }
+   ],
+   "lat": 22.70312,
+   "lng": 120.29447,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007714",
+   "title": "Fujii Kaze Prema World Tour - Kaohsiung",
+   "start": "2026-10-31T00:00:00+08:00",
+   "end": "2026-10-31T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市813左營區高雄國家體育場",
+   "district": "左營區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7714/"
+    }
+   ],
+   "lat": 22.70312,
+   "lng": 120.29447,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007735",
+   "title": "Re：戰鬥之城",
+   "start": "2026-06-06T00:00:00+08:00",
+   "end": "2026-10-26T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市804鼓山區內惟藝術中心",
+   "district": "鼓山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "台灣電力公司、高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7735/"
+    }
+   ],
+   "lat": 22.6572,
+   "lng": 120.28231,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007861",
+   "title": "還是先躺一下再說？ Lay Down",
+   "start": "2026-06-12T00:00:00+08:00",
+   "end": "2027-03-01T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市803鹽埕區駁二藝術特區 大勇區C5倉庫",
+   "district": "鹽埕區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局、駁二藝術特區",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7861/"
+    }
+   ],
+   "lat": 22.61997,
+   "lng": 120.28165,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007862",
+   "title": "2026【武營來跳舞】7-12月",
+   "start": "2026-07-01T00:00:00+08:00",
+   "end": "2026-12-02T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市830鳳山區衛武營榕樹廣場西側",
+   "district": "鳳山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7862/"
+    }
+   ],
+   "lat": 22.62251,
+   "lng": 120.34295,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007904",
+   "title": "2026高雄鹹酥雞嘉年華",
+   "start": "2026-10-24T00:00:00+08:00",
+   "end": "2026-10-25T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市802苓雅區高雄大遠百-1F追夢廣場",
+   "district": "苓雅區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府觀光局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7904/"
+    }
+   ],
+   "lat": 22.61277,
+   "lng": 120.30432,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007952",
+   "title": "《Mundo Pixar Experience》皮克斯世界巡迴展 台灣站",
+   "start": "2026-12-18T00:00:00+08:00",
+   "end": "2027-04-18T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市802苓雅區「高雄輕軌－高雄展覽館站C8」海邊路與成功二路交匯處",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7952/"
+    }
+   ],
+   "lat": 22.61119,
+   "lng": 120.29903,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_007979",
+   "title": "《海邊的星星巨人》鯨鯊主題行動貨櫃巡迴展",
+   "start": "2026-08-30T00:00:00+08:00",
+   "end": "2026-10-28T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市804鼓山區棧貳庫KW2 海側廣場",
+   "district": "鼓山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "海洋委員會海洋保育署",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/7979/"
+    }
+   ],
+   "lat": 22.61865,
+   "lng": 120.27779,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008016",
+   "title": "【漢餅文化館】2026年10-12月手作課程體驗",
+   "start": "2026-10-01T00:00:00+08:00",
+   "end": "2026-12-31T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市831大寮區舊振南漢餅文化館",
+   "district": "大寮區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8016/"
+    }
+   ],
+   "lat": 22.6223,
+   "lng": 120.3894,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008041",
+   "title": "OPEN!夢想音樂節",
+   "start": "2026-12-04T00:00:00+08:00",
+   "end": "2026-12-05T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市806前鎮區高雄夢時代 時代大道",
+   "district": "前鎮區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8041/"
+    }
+   ],
+   "lat": 22.59572,
+   "lng": 120.30743,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008049",
+   "title": "2026旗鹿同福 聖母巡安",
+   "start": "2026-12-06T00:00:00+08:00",
+   "end": "2026-12-06T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市842旗山區旗山天后宮",
+   "district": "旗山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "鹿港天后宮、旗山天后宮",
+   "organizer_type": "民間",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8049/"
+    }
+   ],
+   "lat": 22.88656,
+   "lng": 120.48229,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008061",
+   "title": "2026高雄電影節",
+   "start": "2026-10-09T00:00:00+08:00",
+   "end": "2026-10-26T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市803鹽埕區高雄市電影館、內惟藝術中心、高雄市立圖書館總館、VR體感劇院、駁二藝術特區、LIVE WAREHOUSE",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "文化部、高雄市政府、數位發展部 數位產業署",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8061/"
+    }
+   ],
+   "lat": 22.62248,
+   "lng": 120.28893,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008062",
+   "title": "2026 Takao Rock 打狗祭",
+   "start": "2026-10-10T00:00:00+08:00",
+   "end": "2026-10-31T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市803鹽埕區高雄流行音樂中心 海音館",
+   "district": "鹽埕區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府、高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8062/"
+    }
+   ],
+   "lat": 22.61842,
+   "lng": 120.28914,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008098",
+   "title": "2026 TTXC 台灣文化科技大會",
+   "start": "2026-10-09T00:00:00+08:00",
+   "end": "2026-10-26T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市803鹽埕區駁二藝術特區",
+   "district": "鹽埕區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "文化部、高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8098/"
+    }
+   ],
+   "lat": 22.61998,
+   "lng": 120.28153,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008105",
+   "title": "2026高雄國際偶戲節",
+   "start": "2026-10-17T00:00:00+08:00",
+   "end": "2026-10-25T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市820岡山區高雄市皮影戲館、岡山文化中心",
+   "district": "岡山區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局、高雄市立歷史博物館、高雄市皮影戲館",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8105/"
+    }
+   ],
+   "lat": 22.78269,
+   "lng": 120.29844,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008106",
+   "title": "2026 K-WONDER < TRIANGLE > IN KAOHSIUNG",
+   "start": "2026-11-29T00:00:00+08:00",
+   "end": "2026-11-29T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市813左營區K-ARENA 高雄巨蛋",
+   "district": "左營區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8106/"
+    }
+   ],
+   "lat": 22.66887,
+   "lng": 120.30272,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008107",
+   "title": "2026高雄 Wild Wild 野生活",
+   "start": "2026-11-07T00:00:00+08:00",
+   "end": "2026-11-08T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市830鳳山區衛武營都會公園",
+   "district": "鳳山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府觀光局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8107/"
+    }
+   ],
+   "lat": 22.62045,
+   "lng": 120.3403,
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008108",
+   "title": "2026漢堡好港節",
+   "start": "2026-10-31T00:00:00+08:00",
+   "end": "2026-11-01T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市803鹽埕區高雄流行音樂中心",
+   "district": "鹽埕區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄流行音樂中心、德國經濟辦事處、德國漢堡自由漢薩市文化與媒體部",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8108/"
+    }
+   ],
+   "lat": 22.61801,
+   "lng": 120.28892,
+   "sources": [
+    "khh_travel"
+   ]
+  }
+ ]
+}

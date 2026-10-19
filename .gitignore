@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# 本機參考文件，不納入版控
+高雄市政府活動資料來源參考.md

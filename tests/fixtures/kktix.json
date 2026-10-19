@@ -1,0 +1,6583 @@
+{
+ "api_pages": [
+  {
+   "data": [
+    {
+     "id": 126134,
+     "slug": "rsmusic",
+     "name": "雄岸折光-2027高雄五校熱音社聯合成果發表會",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/rsmusic",
+     "description_url": "https://rsmusic2027.kktix.cc/mobileapp/events/rsmusic/description",
+     "start_at": 1811055600.0,
+     "end_at": 1811080800.0,
+     "registration_start_at": 1790179200.0,
+     "registration_end_at": 1803137400.0,
+     "description": "",
+     "location": "LiveWareHouse 大庫",
+     "location_address": "高雄市鹽埕區大義街2-5號",
+     "geo_lat": 22.6206153,
+     "geo_long": 120.2857389,
+     "updated_at": 1791778394.8051121,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      9
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "VVIP"
+      },
+      {
+       "name": "VIP"
+      },
+      {
+       "name": "一般票"
+      },
+      {
+       "name": "早鳥票"
+      },
+      {
+       "name": "特邀門票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125609,
+     "slug": "miracle2027",
+     "name": "奇蹟 MIRACLE FESTIVAL 2027",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/miracle2027",
+     "description_url": "https://moonfairyproject.kktix.cc/mobileapp/events/miracle2027/description",
+     "start_at": 1804834800.0,
+     "end_at": 1805011200.0,
+     "registration_start_at": 1788969600.0,
+     "registration_end_at": 1794325800.0,
+     "description": "<p>★★★★★★  網路購票方式  ★★★★★★</p>\r\n<p>感謝您對 MOON FAIRY PROJECT 廠牌活動的支持。您在網路購票成功後，系統會發送一個QR碼(1張票1個碼) 到您的e-mail信箱，請拍照保存。活動現場票口站，出示1張票1個專屬QR碼，並核對姓名。完成後即戴上 ''入場手環''。謝謝您的支持，祝福順心愉快，奇蹟 MIRACLE 2027 見<img src=\"htt",
+     "location": "金滿山露營山莊",
+     "location_address": "金滿山露營山莊 / 363苗栗縣公館鄉仁安村仁安219-1號",
+     "geo_lat": 24.524666703380777,
+     "geo_long": 120.84544348839113,
+     "updated_at": 1790259464.5990999,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      9,
+      1,
+      19
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "早鳥票 P1"
+      },
+      {
+       "name": "早鳥票(團體4人) P1 (Group 4)"
+      },
+      {
+       "name": "早鳥票(團體10人) P1 (Group10)"
+      },
+      {
+       "name": "早鳥雙日票 P1- 2 Days Pass"
+      },
+      {
+       "name": "早鳥單日票 P1- 1 Days Pass"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125865,
+     "slug": "ee548352",
+     "name": "《走唱計劃白皮書 S3：異國追夢》最終站｜谷川晃熙 teruki 台灣首場專場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/ee548352",
+     "description_url": "https://thewalllivehouse.kktix.cc/mobileapp/events/ee548352/description",
+     "start_at": 1803643200.0,
+     "end_at": 1803643200.0,
+     "registration_start_at": 1791561600.0,
+     "registration_end_at": 1803636000.0,
+     "description": "<p>《走唱計劃白皮書 S3：異國追夢》最終站 谷川晃熙 teruki 台灣首場專場</p>\r\n<p><br>關於谷川晃熙 teruki</p>\r\n<p><br>來自日本千葉縣銚子市的創作歌手。</p>\r\n<p><br>從少年時期開始接受音樂與表演訓練，持續進行創作及Live演出。後來回到家鄉，與夥伴共同經營tokiyori.cafe，讓音樂、料理與人們的相遇，在同一個空間裡發生。<br>對谷川而",
+     "location": "THE WALL LIVE HOUSE",
+     "location_address": "116臺北市文山區萬年里羅斯福路四段200號B1",
+     "geo_lat": 25.0107691,
+     "geo_long": 121.5368091,
+     "updated_at": 1791777243.373049,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      6,
+      11
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "預售票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125779,
+     "slug": "mononoawarektown",
+     "name": "MONO NO AWARE PASSION TOUR 2027 in Kaohsiung",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/mononoawarektown",
+     "description_url": "https://romanticoffice.kktix.cc/mobileapp/events/mononoawarektown/description",
+     "start_at": 1800100800.0,
+     "end_at": 1800100800.0,
+     "registration_start_at": 1789358400.0,
+     "registration_end_at": 1800028800.0,
+     "description": "<p style=\"text-align:center;\"> </p>\r\n<p style=\"text-align:center;\"><span style=\"color:#c0392b;\"><strong><span style=\"font-size:20px;\">MONO NO AWARE</span></strong></span></p>\r\n<p style=\"text-align:cen",
+     "location": "百樂門",
+     "location_address": "高雄市新興區中山一路276號",
+     "geo_lat": 22.635209,
+     "geo_long": 120.302691,
+     "updated_at": 1790495305.7282948,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      13,
+      6
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "預售票"
+      },
+      {
+       "name": "愛心票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125891,
+     "slug": "51b02629",
+     "name": "巫啟賢“ ALL THE BEST ”40周年金曲世界巡迴演唱會",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/51b02629",
+     "description_url": "https://casaentertainment.kktix.cc/mobileapp/events/51b02629/description",
+     "start_at": 1799494200.0,
+     "end_at": 1799494200.0,
+     "registration_start_at": 1790308800.0,
+     "registration_end_at": 1799485200.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1080px;height:1350px;display:block;margin-left:auto;margin-right:auto;\" src=\"https://assets.kktix.io/organization_re",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1791795016.664855,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票(1樓)"
+      },
+      {
+       "name": "全票(1樓)"
+      },
+      {
+       "name": "全票(1樓)"
+      },
+      {
+       "name": "全票(1樓)"
+      },
+      {
+       "name": "全票(2樓)"
+      },
+      {
+       "name": "全票(2樓)"
+      },
+      {
+       "name": "全票(2樓)"
+      },
+      {
+       "name": "全票(2樓)"
+      },
+      {
+       "name": "全票(2樓)"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票(無需陪同)"
+      },
+      {
+       "name": "身障票(無需陪同)"
+      },
+      {
+       "name": "身障票(無需陪同)"
+      },
+      {
+       "name": "身障票(無需陪同)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126641,
+     "slug": "mnpp2026go",
+     "name": "午夜乒乓 丘高氣爽 Chill & High 高雄專場",
+     "state": "COMING_SOON",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/mnpp2026go",
+     "description_url": "https://airheadrecords.kktix.cc/mobileapp/events/mnpp2026go/description",
+     "start_at": 1799485200.0,
+     "end_at": 1799497800.0,
+     "registration_start_at": 1792555200.0,
+     "registration_end_at": 1799467200.0,
+     "description": "<p><em>午夜乒乓 <span style=\"font-size:15px;\">丘高氣爽 Chill &amp; High</span> 專場</em></p>\r\n<p><em>2027.1.9 sat 19:00</em></p>\r\n<p><em><span style=\"font-size:14px;\">LIVEWARE HOUSE</span></em></p>\r\n<p>2026.10.",
+     "location": "LIVE WAREHOUSE大庫",
+     "location_address": "803高雄市鹽埕區大義街2-5號C10",
+     "geo_lat": 22.618058,
+     "geo_long": 120.285667,
+     "updated_at": 1792403276.401946,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      6,
+      13
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "限量雙打票"
+      },
+      {
+       "name": "預售票"
+      },
+      {
+       "name": "身心票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125806,
+     "slug": "9be3aedc",
+     "name": "2026 鄭宜農 Enno Cheng 《缺與圓之後 Inter-Phases》高雄演唱會",
+     "state": "OUT_OF_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/9be3aedc",
+     "description_url": "https://walkingmusic.kktix.cc/mobileapp/events/9be3aedc/description",
+     "start_at": 1798365600.0,
+     "end_at": 1798365600.0,
+     "registration_start_at": 1790654400.0,
+     "registration_end_at": 1798300800.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p>唱著不同語言、走過不同城市<br>那些在歌裡發生的跨越，都是彼此<br>而所有曾經抵達的遠方<br>也指向了另一段遠行的起點——<br><br>《缺與圓之後》，即將著陸高雄<br><br>2026 年底，鄭宜農仍學習著如何成為一個「人」<br>在未曾停下的表達",
+     "location": "LIVE WAREHOUSE 大庫",
+     "location_address": "高雄市鹽埕區大義街 2-5 號 C10",
+     "geo_lat": 22.618058,
+     "geo_long": 120.285667,
+     "updated_at": 1790742208.9198039,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "會員預售票"
+      },
+      {
+       "name": "一般預售票"
+      },
+      {
+       "name": "愛心票"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125710,
+     "slug": "agt9r3tn",
+     "name": "【12/26】2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN TAIPEI",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/agt9r3tn",
+     "description_url": "https://farglorycreative.kktix.cc/mobileapp/events/agt9r3tn/description",
+     "start_at": 1798279200.0,
+     "end_at": 1798279200.0,
+     "registration_start_at": 1791255600.0,
+     "registration_end_at": 1798279200.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p style=\"text-align:center;\"><img src=\"https://assets.kktix.io/organization_resource_fil",
+     "location": "林口體育館",
+     "location_address": "桃園市龜山區文化一路250號",
+     "geo_lat": 25.0347501,
+     "geo_long": 121.383549,
+     "updated_at": 1791270266.410943,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ef5s9gh",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "身障席"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126107,
+     "slug": "gk20261226",
+     "name": "【12/26 高雄場】GK爸爸原創故事繪本 Live Podcast 六週年同樂會",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/gk20261226",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/gk20261226/description",
+     "start_at": 1798270200.0,
+     "end_at": 1798275600.0,
+     "registration_start_at": 1791088200.0,
+     "registration_end_at": 1798275600.0,
+     "description": "<p dir=\"ltr\" style=\"text-align:center;\"><span style=\"font-size:20px;\"><strong><strong id=\"docs-internal-guid-f29bd444-7fff-564a-615d-623e285adc21\"><br>《GK爸爸原創故事繪本 Live Podcast 六週年同樂會 》</strong> </stro",
+     "location": "Loi了咖啡 音樂展演空間",
+     "location_address": "高雄市新興區民主路26號",
+     "geo_lat": 22.6332115,
+     "geo_long": 120.2999282,
+     "updated_at": 1791343986.8940108,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "gk202612",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "GK 一般席"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126528,
+     "slug": "f1ff9924",
+     "name": "【12/25】26-27 台啤永豐雲豹職業籃球隊主場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/f1ff9924",
+     "description_url": "https://leopards.kktix.cc/mobileapp/events/f1ff9924/description",
+     "start_at": 1798196400.0,
+     "end_at": 1798196400.0,
+     "registration_start_at": 1792123200.0,
+     "registration_end_at": 1798171200.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1267px;height:665px;\" src=\"https://assets.kktix.io/organization_resource_files/31409/81057/329ea0dd763c8b90.jpg\" alt",
+     "location": "桃園巨蛋",
+     "location_address": "桃園市桃園區三民路一段1號",
+     "geo_lat": 24.9938945,
+     "geo_long": 121.3244987,
+     "updated_at": 1792069205.77123,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 5,
+     "event_tag_ids": [
+      15
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ce41b16e",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票(特釀一排)"
+      },
+      {
+       "name": "一般票(特釀二排)"
+      },
+      {
+       "name": "一般票(特釀三排)"
+      },
+      {
+       "name": "一般票(特釀四排)"
+      },
+      {
+       "name": "一般票(金牌ONE)"
+      },
+      {
+       "name": "一般票(金牌)"
+      },
+      {
+       "name": "一般票(微醺)"
+      },
+      {
+       "name": "一般票(18天豹力應援)"
+      },
+      {
+       "name": "一般票(調啤)"
+      },
+      {
+       "name": "一般票(經典)"
+      },
+      {
+       "name": "身障票(特釀一排)"
+      },
+      {
+       "name": "身障票(特釀二排)"
+      },
+      {
+       "name": "身障票(特釀三排)"
+      },
+      {
+       "name": "身障票(特釀四排)"
+      },
+      {
+       "name": "身障票(金牌ONE)"
+      },
+      {
+       "name": "身障票(金牌)"
+      },
+      {
+       "name": "身障票(微醺)"
+      },
+      {
+       "name": "身障票(18天豹力應援)"
+      },
+      {
+       "name": "身障票(非輪椅席)"
+      },
+      {
+       "name": "身障票(輪椅席)"
+      },
+      {
+       "name": "永豐卡友(特釀一排)"
+      },
+      {
+       "name": "永豐卡友(特釀二排)"
+      },
+      {
+       "name": "永豐卡友(特釀三排)"
+      },
+      {
+       "name": "永豐卡友(特釀四排)"
+      },
+      {
+       "name": "永豐卡友(金牌ONE)"
+      },
+      {
+       "name": "永豐卡友(金牌)"
+      },
+      {
+       "name": "永豐卡友(微醺)"
+      },
+      {
+       "name": "永豐卡友(18天豹力應援)"
+      },
+      {
+       "name": "永豐卡友(調啤)"
+      },
+      {
+       "name": "永豐卡友(經典)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126063,
+     "slug": "8d3f7e62",
+     "name": "靈魂的回聲 高雄聖誕場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/8d3f7e62",
+     "description_url": "https://echosociety.kktix.cc/mobileapp/events/8d3f7e62/description",
+     "start_at": 1798185600.0,
+     "end_at": 1798185600.0,
+     "registration_start_at": 1790654400.0,
+     "registration_end_at": 1798127940.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p style=\"text-align:center;\"><img src=\"https://assets.kktix.io/organization_resource_fil",
+     "location": "後台 Backstage Live",
+     "location_address": "高雄市苓雅區海邊路15-3號 鯨魚堤岸三號",
+     "geo_lat": 22.6159666,
+     "geo_long": 120.2920764,
+     "updated_at": 1791171656.133316,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      13,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "單人票"
+      },
+      {
+       "name": "雙人票"
+      },
+      {
+       "name": "身障票"
+      },
+      {
+       "name": "現場票"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126527,
+     "slug": "eb718eaa",
+     "name": "【12/23】26-27 台啤永豐雲豹職業籃球隊主場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/eb718eaa",
+     "description_url": "https://leopards.kktix.cc/mobileapp/events/eb718eaa/description",
+     "start_at": 1798023600.0,
+     "end_at": 1798023600.0,
+     "registration_start_at": 1792123200.0,
+     "registration_end_at": 1797998400.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1267px;height:665px;\" src=\"https://assets.kktix.io/organization_resource_files/31409/81057/329ea0dd763c8b90.jpg\" alt",
+     "location": "桃園巨蛋",
+     "location_address": "桃園市桃園區三民路一段1號",
+     "geo_lat": 24.9938945,
+     "geo_long": 121.3244987,
+     "updated_at": 1792069205.7667189,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 5,
+     "event_tag_ids": [
+      15
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ce41b16e",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票(特釀一排)"
+      },
+      {
+       "name": "一般票(特釀二排)"
+      },
+      {
+       "name": "一般票(特釀三排)"
+      },
+      {
+       "name": "一般票(特釀四排)"
+      },
+      {
+       "name": "一般票(金牌ONE)"
+      },
+      {
+       "name": "一般票(金牌)"
+      },
+      {
+       "name": "一般票(微醺)"
+      },
+      {
+       "name": "一般票(18天豹力應援)"
+      },
+      {
+       "name": "一般票(調啤)"
+      },
+      {
+       "name": "一般票(經典)"
+      },
+      {
+       "name": "身障票(特釀一排)"
+      },
+      {
+       "name": "身障票(特釀二排)"
+      },
+      {
+       "name": "身障票(特釀三排)"
+      },
+      {
+       "name": "身障票(特釀四排)"
+      },
+      {
+       "name": "身障票(金牌ONE)"
+      },
+      {
+       "name": "身障票(金牌)"
+      },
+      {
+       "name": "身障票(微醺)"
+      },
+      {
+       "name": "身障票(18天豹力應援)"
+      },
+      {
+       "name": "身障票(非輪椅席)"
+      },
+      {
+       "name": "身障票(輪椅席)"
+      },
+      {
+       "name": "永豐卡友(特釀一排)"
+      },
+      {
+       "name": "永豐卡友(特釀二排)"
+      },
+      {
+       "name": "永豐卡友(特釀三排)"
+      },
+      {
+       "name": "永豐卡友(特釀四排)"
+      },
+      {
+       "name": "永豐卡友(金牌ONE)"
+      },
+      {
+       "name": "永豐卡友(金牌)"
+      },
+      {
+       "name": "永豐卡友(微醺)"
+      },
+      {
+       "name": "永豐卡友(18天豹力應援)"
+      },
+      {
+       "name": "永豐卡友(調啤)"
+      },
+      {
+       "name": "永豐卡友(經典)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126526,
+     "slug": "de99019d",
+     "name": "【12/20】26-27 台啤永豐雲豹職業籃球隊主場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/de99019d",
+     "description_url": "https://leopards.kktix.cc/mobileapp/events/de99019d/description",
+     "start_at": 1797757200.0,
+     "end_at": 1797757200.0,
+     "registration_start_at": 1792123200.0,
+     "registration_end_at": 1797739200.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1267px;height:665px;\" src=\"https://assets.kktix.io/organization_resource_files/31409/81057/329ea0dd763c8b90.jpg\" alt",
+     "location": "桃園巨蛋",
+     "location_address": "桃園市桃園區三民路一段1號",
+     "geo_lat": 24.9938945,
+     "geo_long": 121.3244987,
+     "updated_at": 1792069205.755928,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 5,
+     "event_tag_ids": [
+      15
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ce41b16e",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票(特釀一排)"
+      },
+      {
+       "name": "一般票(特釀二排)"
+      },
+      {
+       "name": "一般票(特釀三排)"
+      },
+      {
+       "name": "一般票(特釀四排)"
+      },
+      {
+       "name": "一般票(金牌ONE)"
+      },
+      {
+       "name": "一般票(金牌)"
+      },
+      {
+       "name": "一般票(微醺)"
+      },
+      {
+       "name": "一般票(18天豹力應援)"
+      },
+      {
+       "name": "一般票(調啤)"
+      },
+      {
+       "name": "一般票(經典)"
+      },
+      {
+       "name": "身障票(特釀一排)"
+      },
+      {
+       "name": "身障票(特釀二排)"
+      },
+      {
+       "name": "身障票(特釀三排)"
+      },
+      {
+       "name": "身障票(特釀四排)"
+      },
+      {
+       "name": "身障票(金牌ONE)"
+      },
+      {
+       "name": "身障票(金牌)"
+      },
+      {
+       "name": "身障票(微醺)"
+      },
+      {
+       "name": "身障票(18天豹力應援)"
+      },
+      {
+       "name": "身障票(非輪椅席)"
+      },
+      {
+       "name": "身障票(輪椅席)"
+      },
+      {
+       "name": "永豐卡友(特釀一排)"
+      },
+      {
+       "name": "永豐卡友(特釀二排)"
+      },
+      {
+       "name": "永豐卡友(特釀三排)"
+      },
+      {
+       "name": "永豐卡友(特釀四排)"
+      },
+      {
+       "name": "永豐卡友(金牌ONE)"
+      },
+      {
+       "name": "永豐卡友(金牌)"
+      },
+      {
+       "name": "永豐卡友(微醺)"
+      },
+      {
+       "name": "永豐卡友(18天豹力應援)"
+      },
+      {
+       "name": "永豐卡友(調啤)"
+      },
+      {
+       "name": "永豐卡友(經典)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126525,
+     "slug": "c343a71c",
+     "name": "【12/19】26-27 台啤永豐雲豹職業籃球隊主場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/c343a71c",
+     "description_url": "https://leopards.kktix.cc/mobileapp/events/c343a71c/description",
+     "start_at": 1797670800.0,
+     "end_at": 1797670800.0,
+     "registration_start_at": 1792123200.0,
+     "registration_end_at": 1797652800.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1267px;height:665px;\" src=\"https://assets.kktix.io/organization_resource_files/31409/81057/329ea0dd763c8b90.jpg\" alt",
+     "location": "桃園巨蛋",
+     "location_address": "桃園市桃園區三民路一段1號",
+     "geo_lat": 24.9938945,
+     "geo_long": 121.3244987,
+     "updated_at": 1792069205.730113,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 5,
+     "event_tag_ids": [
+      15
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ce41b16e",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票(特釀一排)"
+      },
+      {
+       "name": "一般票(特釀二排)"
+      },
+      {
+       "name": "一般票(特釀三排)"
+      },
+      {
+       "name": "一般票(特釀四排)"
+      },
+      {
+       "name": "一般票(金牌ONE)"
+      },
+      {
+       "name": "一般票(金牌)"
+      },
+      {
+       "name": "一般票(微醺)"
+      },
+      {
+       "name": "一般票(18天豹力應援)"
+      },
+      {
+       "name": "一般票(調啤)"
+      },
+      {
+       "name": "一般票(經典)"
+      },
+      {
+       "name": "身障票(特釀一排)"
+      },
+      {
+       "name": "身障票(特釀二排)"
+      },
+      {
+       "name": "身障票(特釀三排)"
+      },
+      {
+       "name": "身障票(特釀四排)"
+      },
+      {
+       "name": "身障票(金牌ONE)"
+      },
+      {
+       "name": "身障票(金牌)"
+      },
+      {
+       "name": "身障票(微醺)"
+      },
+      {
+       "name": "身障票(18天豹力應援)"
+      },
+      {
+       "name": "身障票(非輪椅席)"
+      },
+      {
+       "name": "身障票(輪椅席)"
+      },
+      {
+       "name": "永豐卡友(特釀一排)"
+      },
+      {
+       "name": "永豐卡友(特釀二排)"
+      },
+      {
+       "name": "永豐卡友(特釀三排)"
+      },
+      {
+       "name": "永豐卡友(特釀四排)"
+      },
+      {
+       "name": "永豐卡友(金牌ONE)"
+      },
+      {
+       "name": "永豐卡友(金牌)"
+      },
+      {
+       "name": "永豐卡友(微醺)"
+      },
+      {
+       "name": "永豐卡友(18天豹力應援)"
+      },
+      {
+       "name": "永豐卡友(調啤)"
+      },
+      {
+       "name": "永豐卡友(經典)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125237,
+     "slug": "20261219",
+     "name": "APPT冬季學術研討會-【三城數位論壇~縱貫線共創新數位未來】",
+     "state": "IN_STOCK",
+     "enable_kyc": true,
+     "url": "https://kktix.com/events/20261219",
+     "description_url": "https://appt.kktix.cc/mobileapp/events/20261219/description",
+     "start_at": 1797642000.0,
+     "end_at": 1797757200.0,
+     "registration_start_at": 1788192000.0,
+     "registration_end_at": 1797091140.0,
+     "description": "<p>三城論壇｜縱貫線共創新數位未來<br>2026 年 12 月 19–20 日，三城論壇首度串聯 國立臺灣大學醫學院附設醫院、高雄醫學大學附設中和紀念醫院、臺中榮民總醫院，共同打造跨院交流的數位牙科學術盛會。<br>本次論壇以 「縱貫線共創新數位未來」 為主軸，邀請國內多位臨床專家，分享數位牙科於全口重建、固定贋復、植牙贋復、口內掃描、AI 與數位教育等最新臨床應用與實務經驗，從基礎觀念到臨床",
+     "location": "高雄醫學大學 第一教學大樓B1-演藝廳",
+     "location_address": "高雄市三民區十全一路100號-第一教學大樓B1-演藝廳",
+     "geo_lat": 22.6463843,
+     "geo_long": 120.3107528,
+     "updated_at": 1791281212.8302531,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      5,
+      2
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "早鳥優惠-本會會員"
+      },
+      {
+       "name": "早鳥優惠-協辦單位會員"
+      },
+      {
+       "name": "早鳥優惠-非會員"
+      },
+      {
+       "name": "早鳥優惠-PGY/學生"
+      },
+      {
+       "name": "標準收費-本會會員"
+      },
+      {
+       "name": "標準收費-協辦單位會員"
+      },
+      {
+       "name": "標準收費-非會員"
+      },
+      {
+       "name": "標準收費-PGY/學生"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125986,
+     "slug": "26boi-c5",
+     "name": "2026世界公視大展精選丨高雄場 ─【單元：看不見的手】",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/26boi-c5",
+     "description_url": "https://ptsfestival.kktix.cc/mobileapp/events/26boi-c5/description",
+     "start_at": 1797157800.0,
+     "end_at": 1797168600.0,
+     "registration_start_at": 1790827200.0,
+     "registration_end_at": 1797154200.0,
+     "description": "<p dir=\"ltr\">〈美麗新世界〉並非歌頌一個理想未來，而是邀請觀眾重新想像，我們究竟正在走向哪裡。本屆影展共十四部作品橫跨五個單元，從歷史創傷、女性生命、數位科技、媒體操控，到全球政治與極端化現象，帶領我們穿越看似陌生卻早已降臨的現實，在一次次觀看與思辨之中，共同理解這個正在成形的美麗新世界。</p>\r\n<h4 dir=\"ltr\">【看不見的手】Invisible Hand<br>當權力隱",
+     "location": "高雄市立圖書館總館 Kaohsiung Main Public Library",
+     "location_address": "高雄市前鎮區新光路61號7樓",
+     "geo_lat": 22.6101687,
+     "geo_long": 120.3017978,
+     "updated_at": 1790834878.217067,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      2,
+      8,
+      11
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "2026boi",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125092,
+     "slug": "8476e7a2",
+     "name": "【12/13】ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/8476e7a2",
+     "description_url": "https://kklivetw.kktix.cc/mobileapp/events/8476e7a2/description",
+     "start_at": 1797154200.0,
+     "end_at": 1797154200.0,
+     "registration_start_at": 1786168800.0,
+     "registration_end_at": 1797154200.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p dir=\"ltr\"><span style=\"font-size:15px;\">「啥物款浪漫的夢，啥物款人來做。」</span><br>從喝著汽水到喝著啤酒，<br>每次乾杯都有不同的事情可以分享、<br>每次聽〈同學會〉都長大了一點、<br>每次都在滅火器裡",
+     "location": "高雄巨蛋",
+     "location_address": "高雄市左營區新下里博愛二路757號",
+     "geo_lat": 22.6691269,
+     "geo_long": 120.3021058,
+     "updated_at": 1786617014.761937,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "476bcfdb",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "身障票(輪椅席)"
+      },
+      {
+       "name": "身障票(輪椅席+陪同席)"
+      },
+      {
+       "name": "身障票(非輪椅席)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126364,
+     "slug": "coldn20261213",
+     "name": "【12/13 高雄】涵冷娜脫口秀專場《喊卡之後》 封箱巡迴",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/coldn20261213",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/coldn20261213/description",
+     "start_at": 1797143400.0,
+     "end_at": 1797150600.0,
+     "registration_start_at": 1791088200.0,
+     "registration_end_at": 1797150600.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p style=\"text-align:center;\"><span style=\"font-size:18px;\">喊卡之後，我人生還是好卡 ?<br><br>卡在 <span style=\"color:#f39c12;\">女神 </span>跟 <span s",
+     "location": "高雄場 洛克音樂藝文展演空間",
+     "location_address": "高雄市前金區六合二路 145 號 B1",
+     "geo_lat": 22.6308975,
+     "geo_long": 120.2963897,
+     "updated_at": 1791626174.625063,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "coldn2026",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般區"
+      },
+      {
+       "name": "貴人贊助區"
+      },
+      {
+       "name": "VIP 感恩區"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125983,
+     "slug": "26boi-c4",
+     "name": "2026世界公視大展精選丨高雄場 ─【單元：創傷的餘燼】",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/26boi-c4",
+     "description_url": "https://ptsfestival.kktix.cc/mobileapp/events/26boi-c4/description",
+     "start_at": 1797141600.0,
+     "end_at": 1797152400.0,
+     "registration_start_at": 1790827200.0,
+     "registration_end_at": 1797138000.0,
+     "description": "<p dir=\"ltr\">〈美麗新世界〉並非歌頌一個理想未來，而是邀請觀眾重新想像，我們究竟正在走向哪裡。本屆影展共十四部作品橫跨五個單元，從歷史創傷、女性生命、數位科技、媒體操控，到全球政治與極端化現象，帶領我們穿越看似陌生卻早已降臨的現實，在一次次觀看與思辨之中，共同理解這個正在成形的美麗新世界。</p>\r\n<h3>\r\n<span class=\"title\">【單元：創傷的餘燼】<br></s",
+     "location": "高雄市立圖書館總館 Kaohsiung Main Public Library",
+     "location_address": "高雄市前鎮區新光路61號7樓",
+     "geo_lat": 22.6101687,
+     "geo_long": 120.3017978,
+     "updated_at": 1790834873.087061,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      8,
+      2,
+      11
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "2026boi",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125089,
+     "slug": "476bcfdb",
+     "name": "ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
+     "state": "REGISTRATION_CLOSED",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/476bcfdb",
+     "description_url": "https://kklivetw.kktix.cc/mobileapp/events/476bcfdb/description",
+     "start_at": 1797075000.0,
+     "end_at": 1797154200.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1797154200.0,
+     "description": "<div class=\"main-img\"><img style=\"width:1200px;height:630px;\" src=\"https://assets.kktix.io/organization_resource_files/14945/79193/_0730%E6%9B%B4%E6%96%B0__%E5%96%AE%E6%97%A5%E6%A9%AB%E5%BC%8F%E5%A4%A",
+     "location": "高雄巨蛋",
+     "location_address": "高雄市左營區新下里博愛二路757號",
+     "geo_lat": 22.6691269,
+     "geo_long": 120.3021058,
+     "updated_at": 1785564885.1756291,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      32
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "7ed8da97"
+      },
+      {
+       "slug": "8476e7a2"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126363,
+     "slug": "coldn20261212",
+     "name": "【12/12 高雄】涵冷娜脫口秀專場《喊卡之後》 封箱巡迴",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/coldn20261212",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/coldn20261212/description",
+     "start_at": 1797075000.0,
+     "end_at": 1797082200.0,
+     "registration_start_at": 1791088200.0,
+     "registration_end_at": 1797082200.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p style=\"text-align:center;\"><span style=\"font-size:18px;\">喊卡之後，我人生還是好卡 ?<br><br>卡在 <span style=\"color:#f39c12;\">女神 </span>跟 <span s",
+     "location": "高雄場 洛克音樂藝文展演空間",
+     "location_address": "高雄市前金區六合二路 145 號 B1",
+     "geo_lat": 22.6308975,
+     "geo_long": 120.2963897,
+     "updated_at": 1791626130.514943,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "coldn2026",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般區"
+      },
+      {
+       "name": "貴人贊助區"
+      },
+      {
+       "name": "VIP 感恩區"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124852,
+     "slug": "7ed8da97",
+     "name": "【12/12】ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/7ed8da97",
+     "description_url": "https://kklivetw.kktix.cc/mobileapp/events/7ed8da97/description",
+     "start_at": 1797075000.0,
+     "end_at": 1797075000.0,
+     "registration_start_at": 1785470400.0,
+     "registration_end_at": 1797075000.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p dir=\"ltr\"><span style=\"font-size:15px;\">「啥物款浪漫的夢，啥物款人來做。」</span><br>從喝著汽水到喝著啤酒，<br>每次乾杯都有不同的事情可以分享、<br>每次聽〈同學會〉都長大了一點、<br>每次都在滅火器裡",
+     "location": "高雄巨蛋",
+     "location_address": "高雄市左營區新下里博愛二路757號",
+     "geo_lat": 22.6691269,
+     "geo_long": 120.3021058,
+     "updated_at": 1786617009.6075342,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "476bcfdb",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "身障票(輪椅席)"
+      },
+      {
+       "name": "身障票(輪椅席+陪同席)"
+      },
+      {
+       "name": "身障票(非輪椅席)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125979,
+     "slug": "26boi-c3",
+     "name": "2026世界公視大展精選丨高雄場 ─【單元：平行世界】",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/26boi-c3",
+     "description_url": "https://ptsfestival.kktix.cc/mobileapp/events/26boi-c3/description",
+     "start_at": 1797071400.0,
+     "end_at": 1797082200.0,
+     "registration_start_at": 1790827200.0,
+     "registration_end_at": 1797067800.0,
+     "description": "<h3><span class=\"title\">【單元：平行世界】<br>看似平行的世界，正悄悄改變我們所相信的現實。<br></span></h3>\r\n<ul dir=\"ltr\">\r\n<li>\n<strong>《業配叢林》The Lie in Your Feed: Dangerous Advertisements</strong><br>丹麥｜紀錄片｜30分鐘<br>你每天滑過的廣告，背後到底簽",
+     "location": "高雄市立圖書館總館 Kaohsiung Main Public Library",
+     "location_address": "高雄市前鎮區新光路61號7樓",
+     "geo_lat": 22.6101687,
+     "geo_long": 120.3017978,
+     "updated_at": 1790834868.358952,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      2,
+      8,
+      11
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "2026boi",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125976,
+     "slug": "26boi-c2",
+     "name": "2026世界公視大展精選丨高雄場 ─【單元：她們的畫像】",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/26boi-c2",
+     "description_url": "https://ptsfestival.kktix.cc/mobileapp/events/26boi-c2/description",
+     "start_at": 1797055200.0,
+     "end_at": 1797066000.0,
+     "registration_start_at": 1790827200.0,
+     "registration_end_at": 1797051600.0,
+     "description": "<h3><span class=\"title\">【單元：她們的畫像】<br>生命的重量，不只存在於歷史中，也藏在每個平凡的日常。<br></span></h3>\r\n<ul dir=\"ltr\">\r\n<li>\n<strong>《謝謝你的花》Thanks on Delivery</strong><br>日本｜實境節目｜45分鐘<br>一朵康乃馨從哥倫比亞出發，飛抵一萬四千公里外的日本。<br>種下它的，",
+     "location": "高雄市立圖書館總館 Kaohsiung Main Public Library",
+     "location_address": "高雄市前鎮區新光路61號7樓",
+     "geo_lat": 22.6101687,
+     "geo_long": 120.3017978,
+     "updated_at": 1790834703.6534941,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      2,
+      8,
+      11
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "2026boi",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125475,
+     "slug": "scxmas2604",
+     "name": "2026空中英語教室與天韻年度聖誕音樂會-臺北週六午場",
+     "state": "COMING_SOON",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/scxmas2604",
+     "description_url": "https://ortv.kktix.cc/mobileapp/events/scxmas2604/description",
+     "start_at": 1797055200.0,
+     "end_at": 1797060600.0,
+     "registration_start_at": 1793462400.0,
+     "registration_end_at": 1797055200.0,
+     "description": "<p style=\"margin-bottom:11px;text-align:center;\"><span style=\"color:#e74c3c;\"><strong><span style=\"font-size:28px;\">《NO ROOM for Christmas》</span> </strong></span></p>\r\n<p style=\"margin-bottom:11px;te",
+     "location": "台北國際會議中心",
+     "location_address": "臺北市信義區信義路五段1號",
+     "geo_lat": 25.0335821,
+     "geo_long": 121.5608156,
+     "updated_at": 1791426207.3627598,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      13,
+      14,
+      12
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125474,
+     "slug": "scxmas2603",
+     "name": "2026空中英語教室與天韻年度聖誕音樂會-臺北週五晚場",
+     "state": "COMING_SOON",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/scxmas2603",
+     "description_url": "https://ortv.kktix.cc/mobileapp/events/scxmas2603/description",
+     "start_at": 1796988600.0,
+     "end_at": 1796994000.0,
+     "registration_start_at": 1793462400.0,
+     "registration_end_at": 1796988600.0,
+     "description": "<p style=\"margin-bottom:11px;text-align:center;\"><span style=\"color:#e74c3c;\"><strong><span style=\"font-size:28px;\">《NO ROOM for Christmas》</span> </strong></span></p>\r\n<p style=\"margin-bottom:11px;te",
+     "location": "台北國際會議中心",
+     "location_address": "臺北市信義區信義路五段1號",
+     "geo_lat": 25.0335821,
+     "geo_long": 121.5608156,
+     "updated_at": 1791426224.7001102,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      13,
+      14,
+      12
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125971,
+     "slug": "26boi-c1",
+     "name": "2026世界公視大展精選丨高雄場 ─【單元：被噤聲的記憶】",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/26boi-c1",
+     "description_url": "https://ptsfestival.kktix.cc/mobileapp/events/26boi-c1/description",
+     "start_at": 1796985000.0,
+     "end_at": 1796995800.0,
+     "registration_start_at": 1790827200.0,
+     "registration_end_at": 1796981400.0,
+     "description": "<h3><span class=\"title\">【單元：被噤聲的記憶】<br>沉默終將開口，歷史也終會留下回音。<br></span></h3>\r\n<ul>\r\n<li class=\"whitespace-pre-wrap break-words\" dir=\"ltr\">\r\n<strong>《西班牙禁片》The Secret Archives of NO-DO</strong><br>西班牙｜紀錄片｜",
+     "location": "高雄市立圖書館總館 Kaohsiung Main Public Library",
+     "location_address": "高雄市前鎮區新光路61號7樓",
+     "geo_lat": 22.6101687,
+     "geo_long": 120.3017978,
+     "updated_at": 1790834683.080001,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      2,
+      8,
+      11
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "2026boi",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125472,
+     "slug": "scxmas2602",
+     "name": "2026空中英語教室與天韻 聖誕音樂會-臺南場",
+     "state": "COMING_SOON",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/scxmas2602",
+     "description_url": "https://ortv.kktix.cc/mobileapp/events/scxmas2602/description",
+     "start_at": 1796470200.0,
+     "end_at": 1796475600.0,
+     "registration_start_at": 1793462400.0,
+     "registration_end_at": 1796470200.0,
+     "description": "<p style=\"margin-bottom:11px;text-align:center;\"><span style=\"color:#e74c3c;\"><strong><span style=\"font-size:28px;\">《NO ROOM for Christmas》</span> </strong></span></p>\r\n<p style=\"margin-bottom:11px;te",
+     "location": "台南虹韻文創中心",
+     "location_address": "台南市南區新忠路14號",
+     "geo_lat": 22.9802073,
+     "geo_long": 120.1811792,
+     "updated_at": 1791426242.187145,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      13,
+      14,
+      12
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125581,
+     "slug": "datesayurikh",
+     "name": "伊達小百合  Fan Meeting 2026 In Kaohsiung",
+     "state": "IN_STOCK",
+     "enable_kyc": true,
+     "url": "https://kktix.com/events/datesayurikh",
+     "description_url": "https://resonance-works.kktix.cc/mobileapp/events/datesayurikh/description",
+     "start_at": 1796466600.0,
+     "end_at": 1796466600.0,
+     "registration_start_at": 1790935200.0,
+     "registration_end_at": 1796466600.0,
+     "description": "<h2><span style=\"color:#3598db;\">演出介紹</span></h2>\r\n<div>聲優伊達小百合 12 月 5 日高雄粉絲見面會登場！同日參與「2026 駁二動漫祭」</div>\r\n<div> </div>\r\n<div>日本聲優、藝人伊達小百合宣布將於 2026 年 12 月 5 日（六）在高雄駁二正港小劇場舉辦「伊達小百合  Fan Meeting 2026 In ",
+     "location": "高雄駁二正港小劇場",
+     "location_address": "高雄市鼓山區麗興里蓬萊路99號蓬萊區B9倉庫駁二藝術特區",
+     "geo_lat": 22.6201549,
+     "geo_long": 120.2786076,
+     "updated_at": 1792107333.5330958,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      7,
+      24
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "VIP票"
+      },
+      {
+       "name": "一般票"
+      },
+      {
+       "name": "身障席"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125651,
+     "slug": "marasy2026ks",
+     "name": "幻想遊戲演奏會2026 in Kaohsiung",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/marasy2026ks",
+     "description_url": "https://kuroko.kktix.cc/mobileapp/events/marasy2026ks/description",
+     "start_at": 1796450400.0,
+     "end_at": 1796450400.0,
+     "registration_start_at": 1789185600.0,
+     "registration_end_at": 1796399940.0,
+     "description": "<p class=\"MsoNormal\" style=\"margin-bottom:1.0pt;line-height:105%;\"><strong><span style=\"font-size:29.0pt;line-height:105%;\">marasy </span></strong><strong><span style=\"font-size:29.0pt;line-height:105",
+     "location": "國立中山大學藝文中心 逸仙館",
+     "location_address": "高雄市鼓山區蓮海路 70 號",
+     "geo_lat": 22.6266855,
+     "geo_long": 120.2655603,
+     "updated_at": 1789186223.6345239,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      13
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "S"
+      },
+      {
+       "name": "A"
+      },
+      {
+       "name": "B"
+      },
+      {
+       "name": "B"
+      },
+      {
+       "name": "愛心"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126423,
+     "slug": "aee0c18f",
+     "name": "Cö shu Nie LIVE IN KAOHSIUNG 2026 SATURATED（in monochrome）",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/aee0c18f",
+     "description_url": "https://storypathmusictw.kktix.cc/mobileapp/events/aee0c18f/description",
+     "start_at": 1796385600.0,
+     "end_at": 1796385600.0,
+     "registration_start_at": 1791518400.0,
+     "registration_end_at": 1796313540.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p style=\"text-align:center;\"><img src=\"https://assets.kktix.io/organization_resource_fil",
+     "location": "後台 Backstage Live",
+     "location_address": "高雄市苓雅區海邊路15-3號 鯨魚堤岸三號",
+     "geo_lat": 22.6159666,
+     "geo_long": 120.2920764,
+     "updated_at": 1791965267.576621,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "身障票"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125471,
+     "slug": "scxmas2601",
+     "name": "2026空中英語教室與天韻 聖誕音樂會-高雄場",
+     "state": "COMING_SOON",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/scxmas2601",
+     "description_url": "https://ortv.kktix.cc/mobileapp/events/scxmas2601/description",
+     "start_at": 1796383800.0,
+     "end_at": 1796389200.0,
+     "registration_start_at": 1793462400.0,
+     "registration_end_at": 1796383800.0,
+     "description": "<p style=\"margin-bottom:11px;text-align:center;\"><span style=\"font-size:26px;\"><span style=\"color:#e74c3c;\"><strong><span style=\"font-size:28px;\">《NO ROOM for Christmas》</span> </strong></span></span>",
+     "location": "高雄靈糧堂",
+     "location_address": "高雄市左營區文川路157號",
+     "geo_lat": 22.6817558,
+     "geo_long": 120.3088064,
+     "updated_at": 1791426264.626482,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      13,
+      14,
+      12
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 123677,
+     "slug": "agilebasic202612",
+     "name": "ACT敏捷思維入門：3小時啟發團隊合作新模式的體驗工作坊【梯次：2026-12th】",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/agilebasic202612",
+     "description_url": "https://actclubtw.kktix.cc/mobileapp/events/agilebasic202612/description",
+     "start_at": 1796194800.0,
+     "end_at": 1796205600.0,
+     "registration_start_at": 1767196800.0,
+     "registration_end_at": 1796140800.0,
+     "description": "<p dir=\"ltr\"><strong id=\"docs-internal-guid-5484e555-7fff-1816-8d88-3ad3141bc163\">你的團隊，是否正被這些「隱形路障」拖慢速度？無論身處哪個產業，我們都渴望團隊能更高效、更有創新力。但現實中，許多流程卻成了阻礙我們前進的絆腳石。你是否也曾面臨這樣的場景：</strong></p>\r\n<p dir=\"ltr\"><stro",
+     "location": "114台北市內湖區瑞湖街58號3樓",
+     "location_address": "114台北市內湖區瑞湖街58號3樓之1  ",
+     "geo_lat": 25.074159,
+     "geo_long": 121.5755879,
+     "updated_at": 1791946987.257338,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 1,
+     "event_tag_ids": [],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "標準價 NTD 6600元/人"
+      },
+      {
+       "name": "企業會員價 NTD 1000元/人"
+      },
+      {
+       "name": "個人會員價 NTD 1600元/人"
+      },
+      {
+       "name": "早鳥票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125375,
+     "slug": "klor6r",
+     "name": "【11/29】2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/klor6r",
+     "description_url": "https://farglorycreative.kktix.cc/mobileapp/events/klor6r/description",
+     "start_at": 1795942800.0,
+     "end_at": 1795942800.0,
+     "registration_start_at": 1791946800.0,
+     "registration_end_at": 1795942800.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p style=\"text-align:center;\"><img src=\"https://assets.kktix.io/organization_resource_fil",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1791958490.530537,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ao7e3he",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票(無需陪同)"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票(無需陪同)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125759,
+     "slug": "ao7e3he",
+     "name": "2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/ao7e3he",
+     "description_url": "https://farglorycreative.kktix.cc/mobileapp/events/ao7e3he/description",
+     "start_at": 1795863600.0,
+     "end_at": 1795942800.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1795942800.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<div class=\"main-img\"><img src=\"https://assets.kktix.io/organization_resource_files/39749",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1790827200.410586,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "cofr3t"
+      },
+      {
+       "slug": "klor6r"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125760,
+     "slug": "cofr3t",
+     "name": "【11/28】2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/cofr3t",
+     "description_url": "https://farglorycreative.kktix.cc/mobileapp/events/cofr3t/description",
+     "start_at": 1795863600.0,
+     "end_at": 1795863600.0,
+     "registration_start_at": 1791968400.0,
+     "registration_end_at": 1795863600.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p style=\"text-align:center;\"><img src=\"https://assets.kktix.io/organization_resource_fil",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1792400684.4422631,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ao7e3he",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "全票"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票(無需陪同)"
+      },
+      {
+       "name": "身障票+陪同票"
+      },
+      {
+       "name": "身障票(無需陪同)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 122900,
+     "slug": "belishkafka",
+     "name": "BELISH《想起你的時刻》2026不插電小巡迴-高雄場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/belishkafka",
+     "description_url": "https://kafka.kktix.cc/mobileapp/events/belishkafka/description",
+     "start_at": 1795861800.0,
+     "end_at": 1795861800.0,
+     "registration_start_at": 1792209600.0,
+     "registration_end_at": 1795795200.0,
+     "description": "<div style=\"text-align:center;\">\r\n<div style=\"text-align:left;\">\r\n<div dir=\"ltr\">\r\n<p dir=\"ltr\" style=\"text-align:center;\"><span style=\"font-size:16px;\"><strong>BELISH《想起你的時刻》2026不插電小巡迴 - 高雄場</strong>",
+     "location": "海邊的卡夫卡-高流店",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1791941067.9763892,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      7,
+      23
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "單人預售票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126105,
+     "slug": "gk202612",
+     "name": "《GK爸爸原創故事繪本 Live Podcast 六週年同樂會 》熱烈迴響，北中南好評加演",
+     "state": "REGISTRATION_CLOSED",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/gk202612",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/gk202612/description",
+     "start_at": 1795843800.0,
+     "end_at": 1798369200.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1798369200.0,
+     "description": "<p dir=\"ltr\" style=\"text-align:center;\"><img src=\"https://assets.kktix.io/organization_resource_files/7680/80865/325011a180c2a9a0.jpg\" alt=\"\" width=\"1064\" height=\"554\"></p>\r\n<p dir=\"ltr\" style=\"text-a",
+     "location": "Comedy Plus 卡米地＋",
+     "location_address": "北市中山區復興北路480號",
+     "geo_lat": 25.0649291,
+     "geo_long": 121.5441054,
+     "updated_at": 1791344027.3191621,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "gk20261128"
+      },
+      {
+       "slug": "gk20261226"
+      },
+      {
+       "slug": "gk20261227"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126557,
+     "slug": "nhommetw26",
+     "name": "nhomme - 1st Taiwan Tour",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/nhommetw26",
+     "description_url": "https://deaftouch.kktix.cc/mobileapp/events/nhommetw26/description",
+     "start_at": 1795779000.0,
+     "end_at": 1795878000.0,
+     "registration_start_at": 1791129600.0,
+     "registration_end_at": 1795795200.0,
+     "description": "<div style=\"max-width:720px;margin:0 auto;padding:0 0 6px;font-family:'Helvetica Neue' , Helvetica , Arial , 'PingFang TC' , 'Noto Sans TC' , 'Microsoft JhengHei' , sans-serif;font-size:15px;line-heig",
+     "location": "The Wall No Stage & Paramount Bar [百樂門酒館]",
+     "location_address": "",
+     "geo_lat": null,
+     "geo_long": null,
+     "updated_at": 1791883042.015129,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      11,
+      13
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "11.27 @ The Wall No Stage"
+      },
+      {
+       "name": "學生票 [The Wall No Stage 限定]"
+      },
+      {
+       "name": "11.28 @ Paramount Bar [百樂門酒館]"
+      },
+      {
+       "name": "學生票 [Paramount Bar Show Only [百樂門酒店限定]"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 122619,
+     "slug": "smaljohncomedy2026",
+     "name": "《黃豪平單口喜劇專場：只是喜劇演員》",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/smaljohncomedy2026",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/smaljohncomedy2026/description",
+     "start_at": 1795778400.0,
+     "end_at": 1795959000.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1795959000.0,
+     "description": "<p style=\"text-align:center;\"><span style=\"font-size:18px;\"><img src=\"https://assets.kktix.io/organization_resource_files/7680/80755/84d4e5003ad1ebf7.png\" alt=\"\" width=\"1080\" height=\"1080\"><br><br><sp",
+     "location": "Comedy Plus 卡米地＋",
+     "location_address": "北市中山區復興北路480號",
+     "geo_lat": 25.0649291,
+     "geo_long": 121.5441054,
+     "updated_at": 1790756462.1603022,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "smaljohncomedy20261127"
+      },
+      {
+       "slug": "smaljohncomedy20261129"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126205,
+     "slug": "sstrong731122",
+     "name": "【11/22高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/sstrong731122",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/sstrong731122/description",
+     "start_at": 1795329000.0,
+     "end_at": 1795334400.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1795334400.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<div style=\"text-align:start;text-indent:0px;\">\r\n<p style=\"margin-top:20px;margin-bottom:20px;text-align:center;\"><strong><span style",
+     "location": "高雄洛克音樂藝文展演空間",
+     "location_address": "高雄市前金區六合二路145號B1",
+     "geo_lat": 22.6308975,
+     "geo_long": 120.2963897,
+     "updated_at": 1792359747.602057,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "sstrong73",
+     "sub_events": [],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125746,
+     "slug": "b3lt8u5",
+     "name": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
+     "state": "OUT_OF_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/b3lt8u5",
+     "description_url": "https://sotmrtw.kktix.cc/mobileapp/events/b3lt8u5/description",
+     "start_at": 1795262400.0,
+     "end_at": 1795262400.0,
+     "registration_start_at": 1789099200.0,
+     "registration_end_at": 1795262400.0,
+     "description": "<p><strong>椅子樂團 Rolling On, Marching On 十週年巡演</strong></p>\r\n<p>嘿我的夥伴<br>你可以走得更緩慢<br><br>我們每天進步一點點就好<br>Rolling On, Marching On.</p>\r\n<h2><span style=\"font-size:28px;background-color:#f2b1a9;\"><strong>",
+     "location": "LIVE WAREHOUSE",
+     "location_address": "高雄市鹽埕區大義街2之5號",
+     "geo_lat": 22.618058,
+     "geo_long": 120.285667,
+     "updated_at": 1789537500.127984,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "tls0d8e",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      },
+      {
+       "name": "雙人套票"
+      },
+      {
+       "name": "身障票"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126114,
+     "slug": "sstrong7-1121",
+     "name": "【11/21高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
+     "state": "REGISTRATION_CLOSED",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/sstrong7-1121",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/sstrong7-1121/description",
+     "start_at": 1795260600.0,
+     "end_at": 1795266000.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1795266000.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<div style=\"text-align:start;text-indent:0px;\">\r\n<div style=\"text-align:start;text-indent:0px;\">\r\n<p style=\"margin-top:20px;margin-bo",
+     "location": "洛克音樂藝文展演空間",
+     "location_address": "高雄市前金區長興里六合二路145號",
+     "geo_lat": 22.6310217,
+     "geo_long": 120.2963987,
+     "updated_at": 1792359776.572278,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "sstrong73",
+     "sub_events": [],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126113,
+     "slug": "sstrong7-1120",
+     "name": "【11/20 高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/sstrong7-1120",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/sstrong7-1120/description",
+     "start_at": 1795174200.0,
+     "end_at": 1795179600.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1795179600.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<div style=\"text-align:start;text-indent:0px;\">\r\n<p style=\"margin-top:20px;margin-bottom:20px;text-align:center;\"><strong><span style",
+     "location": "洛克音樂藝文展演空間",
+     "location_address": "高雄市前金區長興里六合二路145號",
+     "geo_lat": 22.6310217,
+     "geo_long": 120.2963987,
+     "updated_at": 1792359795.691842,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "sstrong73",
+     "sub_events": [],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125958,
+     "slug": "sstrong73",
+     "name": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/sstrong73",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/sstrong73/description",
+     "start_at": 1795173600.0,
+     "end_at": 1800797400.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1800797400.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<div style=\"text-align:start;text-indent:0px;\">\r\n<p style=\"margin-top:20px;margin-bottom:20px;text-align:center;\"><strong><span style",
+     "location": "Comedy Plus 卡米地＋",
+     "location_address": "台北市復興北路480號 B1",
+     "geo_lat": 25.064929,
+     "geo_long": 121.544113,
+     "updated_at": 1791795266.821101,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "sstrong7-1120"
+      },
+      {
+       "slug": "sstrong7-1121"
+      },
+      {
+       "slug": "sstrong731122"
+      },
+      {
+       "slug": "sstrong731127"
+      },
+      {
+       "slug": "sstrong731128"
+      },
+      {
+       "slug": "sstrong731205"
+      },
+      {
+       "slug": "sstrong731206"
+      },
+      {
+       "slug": "sstrong731211"
+      },
+      {
+       "slug": "sstrong731212"
+      },
+      {
+       "slug": "sstrong731217"
+      },
+      {
+       "slug": "sstrong731218"
+      },
+      {
+       "slug": "sstrong731220-1"
+      },
+      {
+       "slug": "sstrong731220-2"
+      },
+      {
+       "slug": "sstrong731225"
+      },
+      {
+       "slug": "sstrong731226"
+      },
+      {
+       "slug": "sstrong740122"
+      },
+      {
+       "slug": "sstrong740123"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126524,
+     "slug": "ba20fd0e",
+     "name": "【11/15】26-27 台啤永豐雲豹職業籃球隊主場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/ba20fd0e",
+     "description_url": "https://leopards.kktix.cc/mobileapp/events/ba20fd0e/description",
+     "start_at": 1794724200.0,
+     "end_at": 1794724200.0,
+     "registration_start_at": 1792123200.0,
+     "registration_end_at": 1794715200.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1267px;height:665px;\" src=\"https://assets.kktix.io/organization_resource_files/31409/81057/329ea0dd763c8b90.jpg\" alt",
+     "location": "桃園巨蛋",
+     "location_address": "桃園市桃園區三民路一段1號",
+     "geo_lat": 24.9938945,
+     "geo_long": 121.3244987,
+     "updated_at": 1792069205.7021818,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 5,
+     "event_tag_ids": [
+      15
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ce41b16e",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票(特釀一排)"
+      },
+      {
+       "name": "一般票(特釀二排)"
+      },
+      {
+       "name": "一般票(特釀三排)"
+      },
+      {
+       "name": "一般票(特釀四排)"
+      },
+      {
+       "name": "一般票(金牌ONE)"
+      },
+      {
+       "name": "一般票(金牌)"
+      },
+      {
+       "name": "一般票(微醺)"
+      },
+      {
+       "name": "一般票(18天豹力應援)"
+      },
+      {
+       "name": "一般票(調啤)"
+      },
+      {
+       "name": "一般票(經典)"
+      },
+      {
+       "name": "身障票(特釀一排)"
+      },
+      {
+       "name": "身障票(特釀二排)"
+      },
+      {
+       "name": "身障票(特釀三排)"
+      },
+      {
+       "name": "身障票(特釀四排)"
+      },
+      {
+       "name": "身障票(金牌ONE)"
+      },
+      {
+       "name": "身障票(金牌)"
+      },
+      {
+       "name": "身障票(微醺)"
+      },
+      {
+       "name": "身障票(18天豹力應援)"
+      },
+      {
+       "name": "身障票(非輪椅席)"
+      },
+      {
+       "name": "身障票(輪椅席)"
+      },
+      {
+       "name": "永豐卡友(特釀一排)"
+      },
+      {
+       "name": "永豐卡友(特釀二排)"
+      },
+      {
+       "name": "永豐卡友(特釀三排)"
+      },
+      {
+       "name": "永豐卡友(特釀四排)"
+      },
+      {
+       "name": "永豐卡友(金牌ONE)"
+      },
+      {
+       "name": "永豐卡友(金牌)"
+      },
+      {
+       "name": "永豐卡友(微醺)"
+      },
+      {
+       "name": "永豐卡友(18天豹力應援)"
+      },
+      {
+       "name": "永豐卡友(調啤)"
+      },
+      {
+       "name": "永豐卡友(經典)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125742,
+     "slug": "tls0d8e",
+     "name": "椅子樂團 Rolling On, Marching On 十週年巡演",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/tls0d8e",
+     "description_url": "https://sotmrtw.kktix.cc/mobileapp/events/tls0d8e/description",
+     "start_at": 1794657600.0,
+     "end_at": 1795867200.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1795867200.0,
+     "description": "<div class=\"main-img\"><img src=\"https://assets.kktix.io/organization_resource_files/59662/80259/78f10f0eacfbe417.jpg\" alt=\"\" width=\"1200\" height=\"630\"></div>\r\n<p><strong>椅子樂團 Rolling On, Marching On 十",
+     "location": "依活動頁為主",
+     "location_address": "",
+     "geo_lat": 25.0527719,
+     "geo_long": 121.5983165,
+     "updated_at": 1790910329.462796,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "a6a2e12"
+      },
+      {
+       "slug": "a9e4g43"
+      },
+      {
+       "slug": "b3lt8u5"
+      },
+      {
+       "slug": "c6l3do8"
+      },
+      {
+       "slug": "c8q6gw9"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126351,
+     "slug": "coldn2026",
+     "name": "涵冷娜脫口秀專場《喊卡之後》 封箱巡迴",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/coldn2026",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/coldn2026/description",
+     "start_at": 1794655200.0,
+     "end_at": 1799503200.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1799503200.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p><img style=\"display:block;margin-left:auto;margin-right:auto;\" src=\"https://assets.kktix.io/organization_resource_files/7680/80891",
+     "location": "Comedy Plus 卡米地＋",
+     "location_address": "台北市中山區復興北路480號",
+     "geo_lat": 25.0649291,
+     "geo_long": 121.5441054,
+     "updated_at": 1790957185.794545,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "coldn20261114"
+      },
+      {
+       "slug": "coldn20261115"
+      },
+      {
+       "slug": "coldn20261121"
+      },
+      {
+       "slug": "coldn20261122"
+      },
+      {
+       "slug": "coldn20261126"
+      },
+      {
+       "slug": "coldn20261128"
+      },
+      {
+       "slug": "coldn20261212"
+      },
+      {
+       "slug": "coldn20261213"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124706,
+     "slug": "rfrgo6",
+     "name": "【19:00場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/rfrgo6",
+     "description_url": "https://atc-twn.kktix.cc/mobileapp/events/rfrgo6/description",
+     "start_at": 1794654000.0,
+     "end_at": 1794654000.0,
+     "registration_start_at": 1784948400.0,
+     "registration_end_at": 1794650400.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\"><span style=\"color:#3598db;font-size:28px;\"><strong><img src=\"https://assets.kktix.io/organ",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1791730674.392213,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      7
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "aikorf",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "A區"
+      },
+      {
+       "name": "B區"
+      },
+      {
+       "name": "C區"
+      },
+      {
+       "name": "D區"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126523,
+     "slug": "a24375453",
+     "name": "【11/14】26-27 台啤永豐雲豹職業籃球隊主場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/a24375453",
+     "description_url": "https://leopards.kktix.cc/mobileapp/events/a24375453/description",
+     "start_at": 1794637800.0,
+     "end_at": 1794637800.0,
+     "registration_start_at": 1792123200.0,
+     "registration_end_at": 1794628800.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1267px;height:665px;\" src=\"https://assets.kktix.io/organization_resource_files/31409/81057/329ea0dd763c8b90.jpg\" alt",
+     "location": "桃園巨蛋",
+     "location_address": "桃園市桃園區三民路一段1號",
+     "geo_lat": 24.9938945,
+     "geo_long": 121.3244987,
+     "updated_at": 1792069205.74483,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 5,
+     "event_tag_ids": [
+      15
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ce41b16e",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票(特釀一排)"
+      },
+      {
+       "name": "一般票(特釀二排)"
+      },
+      {
+       "name": "一般票(特釀三排)"
+      },
+      {
+       "name": "一般票(特釀四排)"
+      },
+      {
+       "name": "一般票(金牌ONE)"
+      },
+      {
+       "name": "一般票(金牌)"
+      },
+      {
+       "name": "一般票(微醺)"
+      },
+      {
+       "name": "一般票(18天豹力應援)"
+      },
+      {
+       "name": "一般票(調啤)"
+      },
+      {
+       "name": "一般票(經典)"
+      },
+      {
+       "name": "身障票(特釀一排)"
+      },
+      {
+       "name": "身障票(特釀二排)"
+      },
+      {
+       "name": "身障票(特釀三排)"
+      },
+      {
+       "name": "身障票(特釀四排)"
+      },
+      {
+       "name": "身障票(金牌ONE)"
+      },
+      {
+       "name": "身障票(金牌)"
+      },
+      {
+       "name": "身障票(微醺)"
+      },
+      {
+       "name": "身障票(18天豹力應援)"
+      },
+      {
+       "name": "身障票(非輪椅席)"
+      },
+      {
+       "name": "身障票(輪椅席)"
+      },
+      {
+       "name": "永豐卡友(特釀一排)"
+      },
+      {
+       "name": "永豐卡友(特釀二排)"
+      },
+      {
+       "name": "永豐卡友(特釀三排)"
+      },
+      {
+       "name": "永豐卡友(特釀四排)"
+      },
+      {
+       "name": "永豐卡友(金牌ONE)"
+      },
+      {
+       "name": "永豐卡友(金牌)"
+      },
+      {
+       "name": "永豐卡友(微醺)"
+      },
+      {
+       "name": "永豐卡友(18天豹力應援)"
+      },
+      {
+       "name": "永豐卡友(調啤)"
+      },
+      {
+       "name": "永豐卡友(經典)"
+      }
+     ],
+     "need_mobile_verified": true
+    }
+   ],
+   "total_count": 95,
+   "total_pages": 2,
+   "per_page": 50,
+   "current_page": 1
+  },
+  {
+   "data": [
+    {
+     "id": 126394,
+     "slug": "ce41b16e",
+     "name": "26-27 台啤永豐雲豹職業籃球隊主場",
+     "state": "REGISTRATION_CLOSED",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/ce41b16e",
+     "description_url": "https://leopards.kktix.cc/mobileapp/events/ce41b16e/description",
+     "start_at": 1794637800.0,
+     "end_at": 1809248400.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1809248400.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1267px;height:665px;\" src=\"https://assets.kktix.io/organization_resource_files/31409/81057/329ea0dd763c8b90.jpg\" alt",
+     "location": "桃園巨蛋",
+     "location_address": "桃園市桃園區三民路一段1號",
+     "geo_lat": 24.9938945,
+     "geo_long": 121.3244987,
+     "updated_at": 1792069205.667285,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 5,
+     "event_tag_ids": [
+      15
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "a24375453"
+      },
+      {
+       "slug": "ba20fd0e"
+      },
+      {
+       "slug": "c343a71c"
+      },
+      {
+       "slug": "de99019d"
+      },
+      {
+       "slug": "eb718eaa"
+      },
+      {
+       "slug": "f1ff9924"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126392,
+     "slug": "c36966ee",
+     "name": "【季票】26-27 台啤永豐雲豹職業籃球隊主場",
+     "state": "REGISTRATION_CLOSED",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/c36966ee",
+     "description_url": "https://leopards.kktix.cc/mobileapp/events/c36966ee/description",
+     "start_at": 1794637800.0,
+     "end_at": 1809248400.0,
+     "registration_start_at": 1791943200.0,
+     "registration_end_at": 1792036740.0,
+     "description": "<p style=\"text-align:center;\"><img src=\"https://assets.kktix.io/organization_resource_files/31409/81120/d4c2fbecd2eb6ca0.jpg\" alt=\"\" width=\"1920\" height=\"1080\"></p>\r\n<p><span style=\"font-size:14px;\">不",
+     "location": "桃園巨蛋",
+     "location_address": "桃園市桃園區三民路一段1號",
+     "geo_lat": 24.9938945,
+     "geo_long": 121.3244987,
+     "updated_at": 1791943708.4740338,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 5,
+     "event_tag_ids": [
+      15,
+      33
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "季票(特釀一排)"
+      },
+      {
+       "name": "季票(特釀二排)"
+      },
+      {
+       "name": "季票(特釀三排)"
+      },
+      {
+       "name": "季票(特釀四排)"
+      },
+      {
+       "name": "季票(金牌L)"
+      },
+      {
+       "name": "季票(金牌M)"
+      },
+      {
+       "name": "季票(金牌N)"
+      },
+      {
+       "name": "季票(金牌O)"
+      },
+      {
+       "name": "季票(金牌P)"
+      },
+      {
+       "name": "季票(金牌Q)"
+      },
+      {
+       "name": "季票(微醺K)"
+      },
+      {
+       "name": "季票(微醺R)"
+      },
+      {
+       "name": "季票(18天)"
+      },
+      {
+       "name": "季票(調啤)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125149,
+     "slug": "jfdfrt8",
+     "name": "【[加場]14:00場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/jfdfrt8",
+     "description_url": "https://atc-twn.kktix.cc/mobileapp/events/jfdfrt8/description",
+     "start_at": 1794636000.0,
+     "end_at": 1794636000.0,
+     "registration_start_at": 1787972400.0,
+     "registration_end_at": 1794628800.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\n<span style=\"color:#3598db;font-size:28px;\"><strong><img src=\"https://assets.kktix.io/orga",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1791730732.071646,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      7
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "aikorf",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "A區"
+      },
+      {
+       "name": "B區"
+      },
+      {
+       "name": "C區"
+      },
+      {
+       "name": "D區"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125150,
+     "slug": "aikorf",
+     "name": "山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/aikorf",
+     "description_url": "https://atc-twn.kktix.cc/mobileapp/events/aikorf/description",
+     "start_at": 1794636000.0,
+     "end_at": 1794654000.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1794628800.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<div class=\"main-img\"><img src=\"https://assets.kktix.io/organization_resource_files/32182",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1789982150.26688,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      7
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "jfdfrt8"
+      },
+      {
+       "slug": "rfrgo6"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126613,
+     "slug": "2026itmgameforum",
+     "name": "2026資訊月x臺灣教育科技展 ： 數位遊戲主題論壇",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/2026itmgameforum",
+     "description_url": "https://kimu.kktix.cc/mobileapp/events/2026itmgameforum/description",
+     "start_at": 1794621600.0,
+     "end_at": 1794645000.0,
+     "registration_start_at": 1792123200.0,
+     "registration_end_at": 1794542400.0,
+     "description": "<p class=\"MsoNormal\" style=\"text-align:center;\"><span style=\"font-size:28px;\"><strong>資訊月臺灣教育科技展：數位遊戲主題論壇</strong></span></p>\r\n<p><span style=\"font-size:16px;\"><strong>時間：2026/11/14（六）10:00 - 16:30</s",
+     "location": "世貿展覽館一館 / 1F數發部數產署主題館舞台區",
+     "location_address": "臺北市信義區信義路五段5號",
+     "geo_lat": 25.0330972,
+     "geo_long": 121.5623189,
+     "updated_at": 1792377167.797088,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      2,
+      5,
+      18
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "2026資訊月x臺灣教育科技展：數位遊戲主題論壇"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126451,
+     "slug": "limitedexpresshasgone",
+     "name": "Limited Express (has gone?) - 1st Taiwan Tour",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/limitedexpresshasgone",
+     "description_url": "https://deaftouch.kktix.cc/mobileapp/events/limitedexpresshasgone/description",
+     "start_at": 1794051000.0,
+     "end_at": 1794150000.0,
+     "registration_start_at": 1791129600.0,
+     "registration_end_at": 1794067200.0,
+     "description": "<div style=\"max-width:720px;margin:0 auto;padding:0 0 6px;font-family:'Helvetica Neue' , Helvetica , Arial , 'PingFang TC' , 'Noto Sans TC' , 'Microsoft JhengHei' , sans-serif;font-size:15px;line-heig",
+     "location": "Paramount Bar [百樂門酒館] & Revolver Taipei [左輪酒吧]",
+     "location_address": "",
+     "geo_lat": null,
+     "geo_long": null,
+     "updated_at": 1791272623.4805582,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      11,
+      13
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "Student Ticket 學生票 [Paramount Bar 11.7 @ Show Only [百樂門酒店限定]"
+      },
+      {
+       "name": "11.7 @ Paramount Bar Kaoshiung [百樂門酒店]"
+      },
+      {
+       "name": "11.8 @ Revolver Taipei [左輪酒吧]"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125253,
+     "slug": "thecutautumn1106",
+     "name": "【11/6 高雄場】Ellery 呈獻 THE CUT - Fall Edition 秋季場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/thecutautumn1106",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/thecutautumn1106/description",
+     "start_at": 1793966400.0,
+     "end_at": 1793966400.0,
+     "registration_start_at": 1785772800.0,
+     "registration_end_at": 1793966400.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p>Ellery 呈獻<br>THE CUT｜Fall Edition 秋季場</p>\r\n<p>The Cut 是 Ellery 的招牌英文單口喜劇秀，每一場都會持續進化，內容只包含最新、最精彩的段子。隨著一小時專場的逐漸成形，只有最荒謬、最gay、以及最黑暗的笑",
+     "location": "洛克音樂藝文展演空間 Rock Music Live House",
+     "location_address": "高雄市前金區長興里六合二路145號B1",
+     "geo_lat": 22.6308975,
+     "geo_long": 120.2963897,
+     "updated_at": 1786627021.781836,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "thecutautumn",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "前排互動VIP區"
+      },
+      {
+       "name": "搖滾區"
+      },
+      {
+       "name": "一般區"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125200,
+     "slug": "thecutautumn",
+     "name": "Ellery 呈獻 THE CUT - Fall Edition 秋季場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/thecutautumn",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/thecutautumn/description",
+     "start_at": 1793964600.0,
+     "end_at": 1793966400.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1793966400.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p><img src=\"https://assets.kktix.io/upload_images/571660/8-3_PDF_fall_banner_original.jpg\"><br>Ellery 呈獻<br>THE CUT｜Fall Edition 秋季場",
+     "location": "Comedy Plus 卡米地＋",
+     "location_address": "台北市中山區復興北路480號",
+     "geo_lat": 25.0649291,
+     "geo_long": 121.5441054,
+     "updated_at": 1792243719.097441,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "thecutautumn1106"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 123676,
+     "slug": "agilebasic202611",
+     "name": "ACT敏捷思維入門：3小時啟發團隊合作新模式的體驗工作坊【梯次：2026-11th】",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/agilebasic202611",
+     "description_url": "https://actclubtw.kktix.cc/mobileapp/events/agilebasic202611/description",
+     "start_at": 1793689200.0,
+     "end_at": 1793700000.0,
+     "registration_start_at": 1767196800.0,
+     "registration_end_at": 1793635200.0,
+     "description": "<p dir=\"ltr\"><strong id=\"docs-internal-guid-5484e555-7fff-1816-8d88-3ad3141bc163\">你的團隊，是否正被這些「隱形路障」拖慢速度？無論身處哪個產業，我們都渴望團隊能更高效、更有創新力。但現實中，許多流程卻成了阻礙我們前進的絆腳石。你是否也曾面臨這樣的場景：</strong></p>\r\n<p dir=\"ltr\"><stro",
+     "location": "115台北市南港區園區街3之1號11樓之1  ",
+     "location_address": "115台北市南港區園區街3之1號11樓之1  ",
+     "geo_lat": 25.0568143,
+     "geo_long": 121.6119109,
+     "updated_at": 1791946949.8597639,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 1,
+     "event_tag_ids": [],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "標準價 NTD 6600元/人"
+      },
+      {
+       "name": "企業會員價 NTD 1000元/人"
+      },
+      {
+       "name": "個人會員價 NTD 1600元/人"
+      },
+      {
+       "name": "早鳥票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124123,
+     "slug": "34473ba4",
+     "name": "Fujii Kaze Prema World Tour - Kaohsiung",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/34473ba4",
+     "description_url": "https://kklivetw.kktix.cc/mobileapp/events/34473ba4/description",
+     "start_at": 1793444400.0,
+     "end_at": 1793444400.0,
+     "registration_start_at": 1782792000.0,
+     "registration_end_at": 1793444400.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<p><img src=\"https://assets.kktix.io/organization_resource_files/14945/77471/%E8%97%A4%E4%BA%95%E9%A2%A8_%E9%AB%98%E9%9B%84.jpg\" alt=\"\" width=\"1568\" height=",
+     "location": "高雄國家體育場",
+     "location_address": "高雄市左營區世運大道100號",
+     "geo_lat": 22.7027163,
+     "geo_long": 120.2938152,
+     "updated_at": 1792034157.013388,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票(特A區)"
+      },
+      {
+       "name": "全票(特B區)"
+      },
+      {
+       "name": "全票(1F)"
+      },
+      {
+       "name": "全票(1F)"
+      },
+      {
+       "name": "全票(1F)"
+      },
+      {
+       "name": "全票(2F)"
+      },
+      {
+       "name": "全票(2F)"
+      },
+      {
+       "name": "全票(2F)"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 124561,
+     "slug": "bf59a345",
+     "name": "[高雄場]義大利指彈天團-40 Fingers亞洲巡迴演出",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/bf59a345",
+     "description_url": "https://harmoniemusictw.kktix.cc/mobileapp/events/bf59a345/description",
+     "start_at": 1793444400.0,
+     "end_at": 1793444400.0,
+     "registration_start_at": 1783483200.0,
+     "registration_end_at": 1784606340.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1200px;height:630px;\" src=\"https://assets.kktix.io/organization_resource_files/43341/78678/0707_Image_20260707131628",
+     "location": "高雄後台 Backstage Live",
+     "location_address": "高雄市苓雅區苓東里海邊路15-3號",
+     "geo_lat": 22.6157038,
+     "geo_long": 120.2922382,
+     "updated_at": 1791965568.637297,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      6,
+      13
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "c1a91ad4",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "早鳥3600區"
+      },
+      {
+       "name": "早鳥2800區"
+      },
+      {
+       "name": "早鳥2200區"
+      },
+      {
+       "name": "早鳥1800區"
+      },
+      {
+       "name": "一樓3600區"
+      },
+      {
+       "name": "一樓2800區"
+      },
+      {
+       "name": "一樓2200區"
+      },
+      {
+       "name": "一樓1800區"
+      },
+      {
+       "name": "一樓1400區"
+      },
+      {
+       "name": "一樓1000區"
+      },
+      {
+       "name": "專屬購票優惠"
+      },
+      {
+       "name": "專屬購票優惠"
+      },
+      {
+       "name": "專屬購票優惠"
+      },
+      {
+       "name": "專屬購票優惠"
+      },
+      {
+       "name": "專屬購票優惠"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125671,
+     "slug": "eureka2026taipei",
+     "name": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 - 台北",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/eureka2026taipei",
+     "description_url": "https://moshound.kktix.cc/mobileapp/events/eureka2026taipei/description",
+     "start_at": 1793444400.0,
+     "end_at": 1793453400.0,
+     "registration_start_at": 1788492600.0,
+     "registration_end_at": 1793376000.0,
+     "description": "<p class=\"MsoNormal\"><em><span style=\"font-family:'Arial Unicode MS';\">漫慢撕裂的深夜，成就終點的靈光頓悟</span></em></p>\r\n<p class=\"MsoNormal\"><span style=\"font-family:'新細明體' , serif;\"> </span></p>\r\n<h3 class=\"MsoNor",
+     "location": "凝聚力展演空間 Cohesion Space",
+     "location_address": "105048臺北市松山區吉仁里八德路三段106巷1號B1",
+     "geo_lat": 25.0476616,
+     "geo_long": 121.5538051,
+     "updated_at": 1788493633.9100108,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      6
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "預售票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124857,
+     "slug": "vfutureparty",
+     "name": "2026 Takao Rock打狗祭：V FUTURE PARTY未來趴",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/vfutureparty",
+     "description_url": "https://kpmc.kktix.cc/mobileapp/events/vfutureparty/description",
+     "start_at": 1793424600.0,
+     "end_at": 1793451600.0,
+     "registration_start_at": 1785135600.0,
+     "registration_end_at": 1793424540.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<div class=\"main-img\"><img style=\"width:1200px;height:630px;\" src=\"https://assets.kktix.i",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路１號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1791950234.802009,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      },
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125708,
+     "slug": "mopcon-2026",
+     "name": "MOPCON 科技年會 2026 - 訂票入口 ",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/mopcon-2026",
+     "description_url": "https://mopcon.kktix.cc/mobileapp/events/mopcon-2026/description",
+     "start_at": 1793406600.0,
+     "end_at": 1793439000.0,
+     "registration_start_at": 1788451200.0,
+     "registration_end_at": 1793376000.0,
+     "description": "<h1 dir=\"ltr\" style=\"text-align:center;\"><span style=\"color:#2b2a2b;\"><strong><span style=\"font-size:22px;\">MOPCONxJSDC 2026 科技年會 </span></strong></span></h1>\r\n<h2 style=\"text-align:center;\"><span sty",
+     "location": "國立高雄科技大學 楠梓校區 國際會議中心",
+     "location_address": "高雄市楠梓區海專路142號",
+     "geo_lat": 22.725977,
+     "geo_long": 120.3123041,
+     "updated_at": 1792392655.307961,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      2,
+      3,
+      5
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "盲鳥票 (全日議程)"
+      },
+      {
+       "name": "一般票 (全日議程)"
+      },
+      {
+       "name": "團體三人票"
+      },
+      {
+       "name": "公關票"
+      },
+      {
+       "name": "教育推廣票"
+      },
+      {
+       "name": "學生票 (TAIC 贊助) ！請務必閱讀購票須知！"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124549,
+     "slug": "c1a91ad4",
+     "name": "義大利指彈天團-40 Fingers亞洲巡迴演出",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/c1a91ad4",
+     "description_url": "https://harmoniemusictw.kktix.cc/mobileapp/events/c1a91ad4/description",
+     "start_at": 1793359800.0,
+     "end_at": 1793444400.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1793444400.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1200px;height:630px;\" src=\"https://assets.kktix.io/organization_resource_files/43341/78676/0707_Image_20260707131628",
+     "location": "(請依活動頁面為主)",
+     "location_address": "(請依活動頁面為主)",
+     "geo_lat": 23.972,
+     "geo_long": 120.9777,
+     "updated_at": 1783416820.469912,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      6,
+      13
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "a5c61921"
+      },
+      {
+       "slug": "bf59a345"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125975,
+     "slug": "2026boi",
+     "name": "2026世界公視大展精選 Best of INPUT",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/2026boi",
+     "description_url": "https://ptsfestival.kktix.cc/mobileapp/events/2026boi/description",
+     "start_at": 1793356200.0,
+     "end_at": 1797168600.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1797168600.0,
+     "description": "<h1 class=\"PDq2pG_selectionAnchorContainer\" style=\"text-align:center;\"><span style=\"color:#9d725a;\"><strong><img src=\"https://assets.kktix.io/organization_resource_files/9519/80719/438e702e10f365a7.pn",
+     "location": "",
+     "location_address": "",
+     "geo_lat": null,
+     "geo_long": null,
+     "updated_at": 1790758041.0634902,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      8,
+      11,
+      20
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "26boi-a1"
+      },
+      {
+       "slug": "26boi-a2"
+      },
+      {
+       "slug": "26boi-a3"
+      },
+      {
+       "slug": "26boi-a4"
+      },
+      {
+       "slug": "26boi-a5"
+      },
+      {
+       "slug": "26boi-b1"
+      },
+      {
+       "slug": "26boi-b2"
+      },
+      {
+       "slug": "26boi-b3"
+      },
+      {
+       "slug": "26boi-b4"
+      },
+      {
+       "slug": "26boi-b5"
+      },
+      {
+       "slug": "26boi-c1"
+      },
+      {
+       "slug": "26boi-c2"
+      },
+      {
+       "slug": "26boi-c3"
+      },
+      {
+       "slug": "26boi-c4"
+      },
+      {
+       "slug": "26boi-c5"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125670,
+     "slug": "eureka2026kaohsiung",
+     "name": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 - 高雄",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/eureka2026kaohsiung",
+     "description_url": "https://moshound.kktix.cc/mobileapp/events/eureka2026kaohsiung/description",
+     "start_at": 1792926000.0,
+     "end_at": 1792936800.0,
+     "registration_start_at": 1788492600.0,
+     "registration_end_at": 1792857600.0,
+     "description": "<p class=\"MsoNormal\"><em><span style=\"font-family:'Arial Unicode MS';\">漫慢撕裂的深夜，成就終點的靈光頓悟</span></em></p>\r\n<p class=\"MsoNormal\"><span style=\"font-family:'新細明體' , serif;\"> </span></p>\r\n<h3 class=\"MsoNor",
+     "location": "LIVE WAREHOUSE 小庫",
+     "location_address": "803高雄市鹽埕區南端里大義街2-5號C10",
+     "geo_lat": 22.618058,
+     "geo_long": 120.285667,
+     "updated_at": 1788493612.40401,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      6
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "預售票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124606,
+     "slug": "7d4a9a50",
+     "name": "【10/25加場】羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG",
+     "state": "OUT_OF_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/7d4a9a50",
+     "description_url": "https://baodaorecords.kktix.cc/mobileapp/events/7d4a9a50/description",
+     "start_at": 1792924200.0,
+     "end_at": 1792924200.0,
+     "registration_start_at": 1783569600.0,
+     "registration_end_at": 1792684740.0,
+     "description": "<p dir=\"ltr\"><span style=\"font-size:14px;\">羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG<br></span><span style=\"font-size:14px;\">#羊文学 #Hitsujibungaku #首次高雄專場</span></p>\r\n<p dir=\"ltr\"><span st",
+     "location": "LIVE WAREHOUSE 大庫",
+     "location_address": "高雄市鹽埕區大義街2-5號大義倉庫C10",
+     "geo_lat": 22.6186066,
+     "geo_long": 120.2854062,
+     "updated_at": 1783657336.365598,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      13
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ff315f99",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "愛心票"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 124228,
+     "slug": "b2fe8a2d",
+     "name": "【16:30】《Disney in Concert: Once Upon a Time》",
+     "state": "OUT_OF_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/b2fe8a2d",
+     "description_url": "https://globalmusic.kktix.cc/mobileapp/events/b2fe8a2d/description",
+     "start_at": 1792917000.0,
+     "end_at": 1792917000.0,
+     "registration_start_at": 1782100800.0,
+     "registration_end_at": 1792917000.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1188px;height:557px;\" src=\"https://assets.kktix.io/organization_resource_files/40543/77788/0613_%E4%B8%BB%E8%A6%96%E",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1792141557.652821,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      6
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "b321ff02",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "輪椅身障席"
+      },
+      {
+       "name": "輪椅身障席"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 124200,
+     "slug": "b321ff02",
+     "name": "《Disney in Concert: Once Upon a Time》",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/b321ff02",
+     "description_url": "https://globalmusic.kktix.cc/mobileapp/events/b321ff02/description",
+     "start_at": 1792904400.0,
+     "end_at": 1792917000.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1792917000.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1188px;height:557px;\" src=\"https://assets.kktix.io/organization_resource_files/40543/77788/0613_%E4%B8%BB%E8%A6%96%E",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1790675417.982271,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      6
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "a4aae91d"
+      },
+      {
+       "slug": "b2fe8a2d"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124226,
+     "slug": "a4aae91d",
+     "name": "【13:00】《Disney in Concert: Once Upon a Time》",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/a4aae91d",
+     "description_url": "https://globalmusic.kktix.cc/mobileapp/events/a4aae91d/description",
+     "start_at": 1792904400.0,
+     "end_at": 1792904400.0,
+     "registration_start_at": 1782100800.0,
+     "registration_end_at": 1792900800.0,
+     "description": "<style>.og-banner{display:none;}\r\n</style>\r\n<div class=\"main-img\"><img style=\"width:1188px;height:557px;\" src=\"https://assets.kktix.io/organization_resource_files/40543/77788/0613_%E4%B8%BB%E8%A6%96%E",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1792316572.736901,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      6
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "b321ff02",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "座位區"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "輪椅身障席"
+      },
+      {
+       "name": "輪椅身障席"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125941,
+     "slug": "aoi2026tn",
+     "name": "青虫aoi 2026 冬季小巡迴《Before Sunrise》 l 台南場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/aoi2026tn",
+     "description_url": "https://b16act.kktix.cc/mobileapp/events/aoi2026tn/description",
+     "start_at": 1792841400.0,
+     "end_at": 1792841400.0,
+     "registration_start_at": 1790136000.0,
+     "registration_end_at": 1792841400.0,
+     "description": "<p style=\"text-align:center;\"><span style=\"font-size:18px;\">Before Sunrise</span><br><span style=\"font-size:18px;\">黑暗中升起信念的篝火</span><br><span style=\"font-size:18px;\">我們圍在一起</span><br><span style=\"font",
+     "location": "臺南文創園區-漂丿白鷺Live House",
+     "location_address": "台南市東區北門路二段16號1F(1C)",
+     "geo_lat": 22.9990247,
+     "geo_long": 120.2128868,
+     "updated_at": 1789795463.501256,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      6,
+      32,
+      13
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "預售票"
+      },
+      {
+       "name": "愛心票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126142,
+     "slug": "blessing34",
+     "name": "來福週末夜 #034",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/blessing34",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/blessing34/description",
+     "start_at": 1792841400.0,
+     "end_at": 1792841400.0,
+     "registration_start_at": 1788105600.0,
+     "registration_end_at": 1792841400.0,
+     "description": "<p><span style=\"font-size:16px;\">來福週末夜 #034</span></p>\r\n<p><span style=\"font-size:16px;\">2026 全新改版 北中南全台演員大拼盤</span><br><span style=\"font-size:16px;\">『來福好事』製作，『喜劇開港』共同協辦，</span><br><span style=\"font-s",
+     "location": "群島藝術園區 來福好事",
+     "location_address": "407臺中市西屯區西平里西安街277巷2號",
+     "geo_lat": 24.1829369,
+     "geo_long": 120.6483356,
+     "updated_at": 1790323053.8460999,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      },
+      {
+       "name": "折扣票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124212,
+     "slug": "969de93b",
+     "name": "尤雅- 2026《往事只能回味》演唱會-高雄站",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/969de93b",
+     "description_url": "https://globalmusic.kktix.cc/mobileapp/events/969de93b/description",
+     "start_at": 1792841400.0,
+     "end_at": 1792841400.0,
+     "registration_start_at": 1782100800.0,
+     "registration_end_at": 1792836000.0,
+     "description": "<p>尤雅自16歲起就出道唱歌,早期以台語歌和西洋流行歌曲為主。1970年被音樂大師劉家昌發掘並推出首支國語單曲《往事只能回味》迅速走紅華語樂壇，紅遍亞洲，成為家喻戶曉的巨星。也是劉家昌首位正式的女弟子。她以甜美極具感染力的歌聲、多元的舞台風格著稱，演藝生涯橫跨國語、台語、英語及日語等歌曲定了作為華語流行音樂黃金時代最具代表性、且經久不衰的樂壇天后地位。</p>\r\n<p><span style=\"",
+     "location": "高雄流行音樂中心 海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.61801240046067,
+     "geo_long": 120.28891845833589,
+     "updated_at": 1791887287.2203279,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "輪椅身障席"
+      },
+      {
+       "name": "輪椅身障席"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125669,
+     "slug": "eureka2026taichung",
+     "name": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 - 台中",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/eureka2026taichung",
+     "description_url": "https://moshound.kktix.cc/mobileapp/events/eureka2026taichung/description",
+     "start_at": 1792839600.0,
+     "end_at": 1792850400.0,
+     "registration_start_at": 1788492600.0,
+     "registration_end_at": 1792771200.0,
+     "description": "<p class=\"MsoNormal\"><em><span style=\"font-family:'Arial Unicode MS';\">漫慢撕裂的深夜，成就終點的靈光頓悟</span></em></p>\r\n<p class=\"MsoNormal\"><span style=\"font-family:'新細明體' , serif;\"> </span></p>\r\n<h3 class=\"MsoNor",
+     "location": "迴響音樂展演空間 SOUND LIVE HOUSE",
+     "location_address": "400臺中市中區光復里中山路108號",
+     "geo_lat": 24.1396942,
+     "geo_long": 120.6811728,
+     "updated_at": 1788493594.38321,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      6,
+      1
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "預售票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 124463,
+     "slug": "58eae147",
+     "name": "【10/24】羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/58eae147",
+     "description_url": "https://baodaorecords.kktix.cc/mobileapp/events/58eae147/description",
+     "start_at": 1792837800.0,
+     "end_at": 1792837800.0,
+     "registration_start_at": 1783137600.0,
+     "registration_end_at": 1792684740.0,
+     "description": "<p dir=\"ltr\"><span style=\"font-size:14px;\">今年剛於第37屆金曲獎，以國際表演嘉賓身分登台的日本樂團——羊文学，從早期的〈1999〉、〈光るとき〉到近年的《咒術迴戰》、《我推的孩子》、《九條的大罪》等影視作品主題曲，一直以透亮的嗓音與詩意、貼近內心的歌詞吸引歌迷，過往的許多歌曲也都以青春、脆弱與堅強為題，讓旋律與歌詞陪伴著聽者的某個時刻。</span></",
+     "location": "LIVE WAREHOUSE 大庫",
+     "location_address": "高雄市鹽埕區大義街2-5號大義倉庫C10",
+     "geo_lat": 22.6186066,
+     "geo_long": 120.2854062,
+     "updated_at": 1783657378.2108002,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      13
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": "ff315f99",
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "愛心票"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 124605,
+     "slug": "ff315f99",
+     "name": "羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG",
+     "state": "REGISTRATION_CLOSED",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/ff315f99",
+     "description_url": "https://baodaorecords.kktix.cc/mobileapp/events/ff315f99/description",
+     "start_at": 1792837800.0,
+     "end_at": 1792924200.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1792924200.0,
+     "description": "<div class=\"main-img\"><img style=\"width:1080px;height:1350px;display:block;margin-left:auto;margin-right:auto;\" src=\"https://assets.kktix.io/organization_resource_files/36077/78683/0707_2026-%E7%BE%8A",
+     "location": "LIVE WAREHOUSE 大庫",
+     "location_address": "高雄市鹽埕區大義街2-5號大義倉庫C10",
+     "geo_lat": 22.6186066,
+     "geo_long": 120.2854062,
+     "updated_at": 1783420878.6698618,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      13
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "58eae147"
+      },
+      {
+       "slug": "7d4a9a50"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126186,
+     "slug": "sharing1314",
+     "name": "【趣戀愛】D.I.S.C. 49天脫單分享會",
+     "state": "REGISTRATION_CLOSED",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/sharing1314",
+     "description_url": "https://funlove1314.kktix.cc/mobileapp/events/sharing1314/description",
+     "start_at": 1792821600.0,
+     "end_at": 1792823400.0,
+     "registration_start_at": 1790564400.0,
+     "registration_end_at": 1791612000.0,
+     "description": "<div style=\"max-width:800px;margin:0 auto;font-family:-apple-system , BlinkMacSystemFont , 'Segoe UI' , 'PingFang TC' , 'Microsoft JhengHei' , sans-serif;color:#1e293b;line-height:1.7;background-color",
+     "location": "",
+     "location_address": "台北市中山區伊通街47號B1",
+     "geo_lat": 25.0695676,
+     "geo_long": 121.5187004,
+     "updated_at": 1791600783.771924,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 9,
+     "event_tag_ids": [
+      3,
+      2,
+      27
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "1"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 123714,
+     "slug": "olwgtsrtt",
+     "name": "空中補給屬於時間的答案巡迴演唱會-高雄站",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/olwgtsrtt",
+     "description_url": "https://globalmusic.kktix.cc/mobileapp/events/olwgtsrtt/description",
+     "start_at": 1792821600.0,
+     "end_at": 1792821600.0,
+     "registration_start_at": 1779336000.0,
+     "registration_end_at": 1792818000.0,
+     "description": "<p><span style=\"font-size:16px;\">傳奇雙人組合（空中補給）Air Supply 即將來到高雄，展開備受矚目的《A Matter of Time》巡演，繼2025年台北場演出完售後，今年他們再度回到台灣與當地歌迷見面，並將首度登上高雄流行音樂中心舞台開唱。這組殿堂級音樂組合將為觀眾帶來一場充滿經典旋律、動人金曲與深情回憶的難忘夜晚。</span></p>\r\n<p><s",
+     "location": "高雄流行音樂中心-海音館",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.6181461,
+     "geo_long": 120.2885805,
+     "updated_at": 1791293125.5630999,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "座位席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "非輪椅身障席"
+      },
+      {
+       "name": "輪椅身障席"
+      },
+      {
+       "name": "輪椅身障席"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 126543,
+     "slug": "ixdatw2026halloween",
+     "name": "IxDA Taiwan 2026 萬聖節活動：《 IxDA 萬聖驚魂夜》咒語、縫線與縫合怪｜AI 動畫工作坊",
+     "state": "SOLD_OUT",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/ixdatw2026halloween",
+     "description_url": "https://ixda.kktix.cc/mobileapp/events/ixdatw2026halloween/description",
+     "start_at": 1792819800.0,
+     "end_at": 1792836000.0,
+     "registration_start_at": 1791864000.0,
+     "registration_end_at": 1792677600.0,
+     "description": "<h1 style=\"text-align:center;\"><span style=\"color:#54c4c4;\"><strong><span style=\"font-size:28px;\">IxDA Taiwan 2026 萬聖活動</span></strong></span></h1>\r\n<p dir=\"ltr\" style=\"text-align:center;\"><span style",
+     "location": " 小樹屋｜大葉桉 204",
+     "location_address": "臺北市中山區民權西路20號2樓",
+     "geo_lat": 25.0625325,
+     "geo_long": 121.5216986,
+     "updated_at": 1792402508.42952,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 9,
+     "event_tag_ids": [
+      3,
+      5,
+      18
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "會員票"
+      },
+      {
+       "name": "貴賓票"
+      },
+      {
+       "name": "工作人員與公關票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126232,
+     "slug": "wikidataforum2026",
+     "name": " 2026 維基數據跨領域論壇 ",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/wikidataforum2026",
+     "description_url": "https://wikidatatw.kktix.cc/mobileapp/events/wikidataforum2026/description",
+     "start_at": 1792818000.0,
+     "end_at": 1792836000.0,
+     "registration_start_at": 1790611200.0,
+     "registration_end_at": 1792771200.0,
+     "description": "<h1 class=\"part\" style=\"text-align:center;\" title=\"\"><strong><span class=\"mw-headline\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Wikidata_Cross-Domain_Forum_2026_Banner_3740_1",
+     "location": "Le Phare 共享空間 | 新左營館",
+     "location_address": "Le Phare 共享空間 | 新左營館",
+     "geo_lat": 22.6875442,
+     "geo_long": 120.3067878,
+     "updated_at": 1791203193.218011,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      2,
+      3,
+      21
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126023,
+     "slug": "freckles2026",
+     "name": "雀斑 Freckles 2026 Tour in Taipei 「不標準情人」黑膠發片場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/freckles2026",
+     "description_url": "https://romanticoffice.kktix.cc/mobileapp/events/freckles2026/description",
+     "start_at": 1792753200.0,
+     "end_at": 1792753200.0,
+     "registration_start_at": 1789963200.0,
+     "registration_end_at": 1792684800.0,
+     "description": "<p style=\"text-align:center;\"> </p>\r\n<p style=\"text-align:center;\"><span style=\"color:#c0392b;\"><strong><span style=\"font-size:20px;\">雀斑 Freckles 《不標準情人》黑膠發片專場</span></strong></span></p>\r\n<p class=\"p1",
+     "location": "The Wall Live House",
+     "location_address": "116臺北市文山區萬年里羅斯福路四段200號",
+     "geo_lat": 25.010769,
+     "geo_long": 121.5368091,
+     "updated_at": 1791447720.3901,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      1,
+      13,
+      6
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "預售票"
+      },
+      {
+       "name": "預售雙人套票"
+      },
+      {
+       "name": "愛心票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126247,
+     "slug": "twspopupinkkh",
+     "name": "TWS POP-UP in KAOHSIUNG",
+     "state": "IN_STOCK",
+     "enable_kyc": true,
+     "url": "https://kktix.com/events/twspopupinkkh",
+     "description_url": "https://aipxa.kktix.cc/mobileapp/events/twspopupinkkh/description",
+     "start_at": 1792638000.0,
+     "end_at": 1793538000.0,
+     "registration_start_at": 1792040400.0,
+     "registration_end_at": 1793537400.0,
+     "description": "<p class=\"MsoNormal\" style=\"margin-top:12.0pt;\">大家好，</p>\r\n<p class=\"MsoNormal\" style=\"margin-top:12.0pt;\">以下為TWS POP-UP in KAOHSIUNG的事前預約及商品購買注意事項說明。</p>\r\n<p class=\"MsoNormal\" style=\"margin-top:12.0pt",
+     "location": "義享時尚廣場1樓 (1F, E Sky Mall  )",
+     "location_address": "高雄市鼓山區大順一路115號(1F, No. 115, Dashun 1st Rd, Longzi Village, Gushan District, Kaohsiung City)",
+     "geo_lat": 22.6556315,
+     "geo_long": 120.3062979,
+     "updated_at": 1791995012.264135,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 11,
+     "event_tag_ids": [
+      4,
+      11,
+      19
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "2026年10月22日(星期四) 11:00-11:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 12:00-12:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 13:00-13:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 14:00-14:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 15:00-15:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 16:00-16:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 17:00-17:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 18:00-18:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 19:00-19:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 20:00-20:40"
+      },
+      {
+       "name": "2026年10月22日(星期四) 21:00-21:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 11:00-11:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 12:00-12:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 13:00-13:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 14:00-14:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 15:00-15:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 16:00-16:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 17:00-17:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 18:00-18:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 19:00-19:40"
+      },
+      {
+       "name": "2026年10月23日(星期五) 20:00-20:40"
+      },
+      {
+       "name": "2026年10月23日(星期五)  21:00-21:40"
+      },
+      {
+       "name": "2026年10月24日(星期六) 10:30-11:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 11:30-12:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 12:30-13:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 13:30-14:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 14:30-15:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 15:30-16:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 16:30-17:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 17:30-18:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 18:30-19:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 19:30-20:10"
+      },
+      {
+       "name": "2026年10月24日(星期六) 20:30-21:00"
+      },
+      {
+       "name": "2026年10月24日(星期六) 21:10-21:40"
+      },
+      {
+       "name": "2026年10月25日(星期日) 10:30-11:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 11:30-12:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 12:30-13:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 13:30-14:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 14:30-15:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 15:30-16:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 16:30-17:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 17:30-18:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 18:30-19:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 19:30-20:10"
+      },
+      {
+       "name": "2026年10月25日(星期日) 20:30-21:00"
+      },
+      {
+       "name": "2026年10月25日(星期日) 21:10-21:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 11:00-11:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 12:00-12:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 13:00-13:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 14:00-14:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 15:00-15:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 16:00-16:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 17:00-17:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 18:00-18:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 19:00-19:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 20:00-20:40"
+      },
+      {
+       "name": "2026年10月26日(星期一) 21:00-21:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 11:00-11:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 12:00-12:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 13:00-13:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 14:00-14:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 15:00-15:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 16:00-16:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 17:00-17:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 18:00-18:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 19:00-19:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 20:00-20:40"
+      },
+      {
+       "name": "2026年10月27日(星期二) 21:00-21:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 11:00-11:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 12:00-12:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 13:00-13:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 14:00-14:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 15:00-15:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 16:00-16:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 17:00-17:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 18:00-18:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 19:00-19:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 20:00-20:40"
+      },
+      {
+       "name": "2026年10月28日(星期三) 21:00-21:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 11:00-11:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 12:00-12:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 13:00-13:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 14:00-14:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 15:00-15:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 16:00-16:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 17:00-17:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 18:00-18:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 19:00-19:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 20:00-20:40"
+      },
+      {
+       "name": "2026年10月29日(星期四) 21:00-21:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 11:00-11:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 12:00-12:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 13:00-13:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 14:00-14:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 15:00-15:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 16:00-16:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 17:00-17:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 18:00-18:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 19:00-19:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 20:00-20:40"
+      },
+      {
+       "name": "2026年10月30日(星期五) 21:00-21:40"
+      },
+      {
+       "name": "2026年10月31日(星期六) 10:30-11:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 11:30-12:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 12:30-13:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 13:30-14:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 14:30-15:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 15:30-16:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 16:30-17:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 17:30-18:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 18:30-19:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 19:30-20:10"
+      },
+      {
+       "name": "2026年10月31日(星期六) 20:30-21:00"
+      },
+      {
+       "name": "2026年10月31日(星期六) 21:10-21:40"
+      },
+      {
+       "name": "2026年11月1日(星期日) 10:30-11:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 11:30-12:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 12:30-13:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 13:30-14:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 14:30-15:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 15:30-16:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 16:30-17:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 17:30-18:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 18:30-19:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 19:30-20:10"
+      },
+      {
+       "name": "2026年11月1日(星期日) 20:30-21:00"
+      },
+      {
+       "name": "2026年11月1日(星期日) 21:10-21:40"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125199,
+     "slug": "526139c4",
+     "name": "【高雄】10/17~11/21「基礎電機配線配管應用實務班 」，政府補助80~100％課程費用(補助課程)",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/526139c4",
+     "description_url": "https://teemacustoms.kktix.cc/mobileapp/events/526139c4/description",
+     "start_at": 1792198800.0,
+     "end_at": 1806141600.0,
+     "registration_start_at": 1785825136.923488,
+     "registration_end_at": 1806141600.0,
+     "description": "<p><strong>報名網址: </strong><strong><a href=\"https://reurl.cc/dOGx4g\">https://reurl.cc/dOGx4g</a></strong></p>\r\n<p>課程費用：須符合勞、農、漁、工保險其一者</p>\r\n<p>$ 9,490(自費1,898政府補助7,592) 另符合以下身分別全額補助</p>\r\n<p>全額補助對象（0元學習",
+     "location": "高雄市鼓山區大榮街1號",
+     "location_address": "",
+     "geo_lat": null,
+     "geo_long": null,
+     "updated_at": 1785825477.476487,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 1,
+     "event_tag_ids": [],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126569,
+     "slug": "7a9d6a3e",
+     "name": "「すーーーはーーー（SU―――HA―――）」 HITSUJIBUNGAKU SPECIAL POPUP TOUR 2026",
+     "state": "COMING_SOON",
+     "enable_kyc": true,
+     "url": "https://kktix.com/events/7a9d6a3e",
+     "description_url": "https://baodaorecords.kktix.cc/mobileapp/events/7a9d6a3e/description",
+     "start_at": 1792112400.0,
+     "end_at": 1792720800.0,
+     "registration_start_at": 1792065600.0,
+     "registration_end_at": 1792720800.0,
+     "description": "<div class=\"w_color\">\r\n<div class=\"w_color\" style=\"margin:20px;\">\r\n<p dir=\"ltr\" style=\"text-align:center;\"><span style=\"font-size:28px;color:#fffc00;\"><strong id=\"docs-internal-guid-b34eea7e-7fff-59f5",
+     "location": "請關注主辦資訊",
+     "location_address": "",
+     "geo_lat": null,
+     "geo_long": null,
+     "updated_at": 1792120122.590936,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 9,
+     "event_tag_ids": [
+      19
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "台北-簽售會資格"
+      },
+      {
+       "name": "高雄-簽售會資格"
+      }
+     ],
+     "need_mobile_verified": true
+    },
+    {
+     "id": 125278,
+     "slug": "2026courseprogram",
+     "name": "APPT系列課程【十拳二路】",
+     "state": "IN_STOCK",
+     "enable_kyc": true,
+     "url": "https://kktix.com/events/2026courseprogram",
+     "description_url": "https://appt.kktix.cc/mobileapp/events/2026courseprogram/description",
+     "start_at": 1791075600.0,
+     "end_at": 1809837000.0,
+     "registration_start_at": 1788278400.0,
+     "registration_end_at": 1809273540.0,
+     "description": "<p>台灣牙周補綴醫學會-2026系列課程【十拳二路】<br>課程日期: <br>第一場: 2026/10/4 09:00~12:20<br>第二場: 2026/12/6 09:00~12:20<br>第三場: 2027/1/10 09:00~12:20<br>第四場: 2027/3/28 09:00~12:20<br>第五場: 2027/5/9 09:00~12:20</p>\r\n<p>上課地點:",
+     "location": "高雄醫學大學 國研大樓5樓-IR501階梯教室",
+     "location_address": "高雄市三民區十全一路100號",
+     "geo_lat": 22.64663023318898,
+     "geo_long": 120.3109167627739,
+     "updated_at": 1788168639.1604,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      5,
+      2
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "本會會員-全選(五場次)限時優惠"
+      },
+      {
+       "name": "協辦單位會員-全選(五場次)限時優惠"
+      },
+      {
+       "name": "非會員-全選(五場次)限時優惠"
+      },
+      {
+       "name": "PGY/GR/R/研究生-全選(五場次)限時優惠"
+      },
+      {
+       "name": "大學部學生-全選(五場次)限時優惠"
+      },
+      {
+       "name": "本會會員-早鳥優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "本會會員-早鳥優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "本會會員-早鳥優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "本會會員-早鳥優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "本會會員-早鳥優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "協辦單位會員-早鳥優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "協辦單位會員-早鳥優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "協辦單位會員-早鳥優惠-【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "協辦單位會員-早鳥優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "協辦單位會員-早鳥優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "非會員-早鳥優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "非會員-早鳥優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "非會員-早鳥優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "非會員-早鳥優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "非會員-早鳥優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-早鳥優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-早鳥優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-早鳥優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-早鳥優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-早鳥優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "大學部學生-早鳥優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "大學部學生-早鳥優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "大學部學生-早鳥優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "大學部學生-早鳥優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "大學部學生-早鳥優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "本會會員-預選報名優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "本會會員-預選報名優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "本會會員-預選報名優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "本會會員-預選報名優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "本會會員-預選報名優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "協辦單位會員-預選報名優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "協辦單位會員-預選報名優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "協辦單位會員-預選報名優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "協辦單位會員-預選報名優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "協辦單位會員-預選報名優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "非會員-預選報名優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "非會員-預選報名優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "非會員-預選報名優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "非會員-預選報名優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "非會員-預選報名優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-預選報名優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-預選報名優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-預選報名優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-預選報名優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "PGY/GR/R/研究生-預選報名優惠【116/5/9 何偉宏醫師】"
+      },
+      {
+       "name": "大學部學生-預選報名優惠【115/10/4 林泰誠醫師】"
+      },
+      {
+       "name": "大學部學生-預選報名優惠【115/12/6 陳億儒醫師】"
+      },
+      {
+       "name": "大學部學生-預選報名優惠【116/1/10 蘇敏睿醫師】"
+      },
+      {
+       "name": "大學部學生-預選報名優惠【116/3/28 林敬偉醫師】"
+      },
+      {
+       "name": "大學部學生-預選報名優惠【116/5/9 何偉宏醫師】"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125012,
+     "slug": "get2026",
+     "name": "2026 佳諭單口喜劇專場《Get 婚 》",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/get2026",
+     "description_url": "https://comedyclub.kktix.cc/mobileapp/events/get2026/description",
+     "start_at": 1791028800.0,
+     "end_at": 1795341600.0,
+     "registration_start_at": 0.0,
+     "registration_end_at": 1795341600.0,
+     "description": "<p dir=\"ltr\" style=\"text-align:center;\"><span style=\"font-size:20px;\"><span style=\"color:#c0392b;\"><span style=\"font-size:14px;color:#000000;\"><br><img style=\"display:block;margin-left:auto;margin-rig",
+     "location": "Comedy Plus 卡米地＋",
+     "location_address": "台北市復興北路480號",
+     "geo_lat": 25.064929,
+     "geo_long": 121.544113,
+     "updated_at": 1788204018.408182,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 4,
+     "event_tag_ids": [
+      11,
+      14,
+      32
+     ],
+     "is_selling": true,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": "CollectionEvent",
+     "parent_event_slug": null,
+     "sub_events": [
+      {
+       "slug": "get20261023"
+      },
+      {
+       "slug": "get20261024"
+      },
+      {
+       "slug": "get20261030"
+      },
+      {
+       "slug": "get20261031"
+      },
+      {
+       "slug": "get20261101"
+      },
+      {
+       "slug": "get20261106"
+      },
+      {
+       "slug": "get20261107"
+      },
+      {
+       "slug": "get20261108"
+      },
+      {
+       "slug": "get20261113"
+      },
+      {
+       "slug": "get20261114"
+      },
+      {
+       "slug": "get20261115"
+      },
+      {
+       "slug": "get20261121"
+      },
+      {
+       "slug": "get20261122"
+      },
+      {
+       "slug": "get20261127"
+      },
+      {
+       "slug": "get20261129"
+      }
+     ],
+     "tickets": [],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 126421,
+     "slug": "miaoli20260401-copy-1",
+     "name": "苗栗縣美術家邀請展：美之純粹—周美純藝術創作展",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/miaoli20260401-copy-1",
+     "description_url": "https://miaoli.kktix.cc/mobileapp/events/miaoli20260401-copy-1/description",
+     "start_at": 1790902800.0,
+     "end_at": 1792918800.0,
+     "registration_start_at": 1791165710.052107,
+     "registration_end_at": 1792918800.0,
+     "description": "<p>！美之純粹——周美純創作展隆重登場 巧手交織布雕、油畫與瓷畫生命長卷！<br>教育情懷化為藝術綻放 廢布雕琢生命希望周美純校長的大半輩子與苗栗教育發展緊密相連，畢業於台東師範學校、新竹師範學院及國立台灣師範大學教育研究所，歷任苗栗縣四所國小校長，並曾任九陽雅集藝文學會理事長及苗栗縣文化產業藝術協會理事長。對周校長而言，教育工作從不是枯燥的行政瑣事，而是發掘與灌溉每個孩子潛能的過程。這種「化腐",
+     "location": "苗栗縣政府文化觀光局_第一展覽室",
+     "location_address": "苗栗縣苗栗市自治路50號",
+     "geo_lat": 24.5662207,
+     "geo_long": 120.8202821,
+     "updated_at": 1791165710.068888,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 11,
+     "event_tag_ids": [
+      4,
+      11
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 125207,
+     "slug": "352177f7",
+     "name": "【高雄】9/2~11/4「電子焊接與基礎電路應用班 」，政府補助80~100%課程費用(補助課程)",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/352177f7",
+     "description_url": "https://teemacustoms.kktix.cc/mobileapp/events/352177f7/description",
+     "start_at": 1788310800.0,
+     "end_at": 1797415200.0,
+     "registration_start_at": 1785825434.5273862,
+     "registration_end_at": 1797415200.0,
+     "description": "<p><strong>報名網址: </strong><strong><a href=\"https://reurl.cc/Wz3XzZ\">https://reurl.cc/Wz3XzZ</a></strong></p>\r\n<p>課程費用：須符合勞、農、漁、工保險其一者</p>\r\n<p>$ 7,850 (自費1,570政府補助6,280) 另符合以下身分別全額補助</p>\r\n<p>全額補助對象（0元學",
+     "location": "大榮中學",
+     "location_address": "高雄市鼓山區大榮街1號",
+     "geo_lat": 22.6528214,
+     "geo_long": 120.2804771,
+     "updated_at": 1785825502.251575,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 1,
+     "event_tag_ids": [],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 122777,
+     "slug": "classroom-5",
+     "name": "高雄質感氛圍 20-70人活動場地租借｜捷運站5分鐘｜教育訓練、課程講座、藝文活動｜思博客會議教室-民生館",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/classroom-5",
+     "description_url": "https://sparkoffice.kktix.cc/mobileapp/events/classroom-5/description",
+     "start_at": 1775028600.0,
+     "end_at": 1896161400.0,
+     "registration_start_at": 1774972800.0,
+     "registration_end_at": 1896019200.0,
+     "description": "<p><img style=\"height:284px;width:600px;\" src=\"https://static.accupass.com/eventintro/2302140325591694325729.jpg\"></p>\r\n<p><span style=\"color:#d35400;\"><strong>｜SPARK思博客商務中心-會議教室｜</strong></span></p>\r",
+     "location": "思博客商務會議室",
+     "location_address": " 台灣高雄市新興區民生一路56號B1-1",
+     "geo_lat": 22.6280108,
+     "geo_long": 120.3104183,
+     "updated_at": 1775026330.7863412,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      5,
+      2,
+      11
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 122778,
+     "slug": "sparkvirtualoffice-1-copy-1",
+     "name": "思博客商務中心｜高雄設立公司、營業登記首選｜入駐精華地段、黃金門牌",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/sparkvirtualoffice-1-copy-1",
+     "description_url": "https://sparkoffice.kktix.cc/mobileapp/events/sparkvirtualoffice-1-copy-1/description",
+     "start_at": 1775028600.0,
+     "end_at": 1898503200.0,
+     "registration_start_at": 1774972800.0,
+     "registration_end_at": 1898438400.0,
+     "description": "<p><img src=\"https://assets.kktix.io/organization_resource_files/32287/76061/250904-%E5%B7%A5%E5%95%86%E7%99%BB%E8%A8%98edm-1-01_01-1.jpg\" alt=\"\" width=\"1100\" height=\"609\"></p>\r\n<p><img src=\"https://s",
+     "location": "思博客商務辦公室",
+     "location_address": " 台灣高雄市新興區民生一路56號14F-7",
+     "geo_lat": 22.6280108,
+     "geo_long": 120.3104183,
+     "updated_at": 1775023114.256865,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      18,
+      22,
+      3
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 122785,
+     "slug": "kh-classroom-arena",
+     "name": "思博客會議教室-巨蛋館｜北高雄人文藝術空間｜中大型會議場地｜教育訓練、課程講座、品牌活動｜全新登場",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/kh-classroom-arena",
+     "description_url": "https://sparkoffice.kktix.cc/mobileapp/events/kh-classroom-arena/description",
+     "start_at": 1775028600.0,
+     "end_at": 1909035000.0,
+     "registration_start_at": 1774972800.0,
+     "registration_end_at": 1898438400.0,
+     "description": "<p><img src=\"https://static.accupass.com/eventintro/2508010217172050448320.jpg\" alt=\"\"></p>\r\n<p><strong>｜北高雄質感氛圍會議教室全新登場 - SPARK思博客會議教室 巨蛋館｜</strong></p>\r\n<p>思博客會議教室-巨蛋館，提供30-50人專業場地，空間融合人文藝術氛圍，舒適公共休息",
+     "location": "思博客會議教室-巨蛋館",
+     "location_address": "高雄市左營區立文路77號13樓之1",
+     "geo_lat": 22.6643871,
+     "geo_long": 120.3043116,
+     "updated_at": 1775022862.9168231,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 9,
+     "event_tag_ids": [
+      3,
+      4,
+      20
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 122787,
+     "slug": "spark-office-7",
+     "name": "高雄共享辦公室｜民生七館景觀辦公室出租｜2-7人獨立辦公空間｜首月租金 0 元，零負擔就能進駐！",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/spark-office-7",
+     "description_url": "https://sparkoffice.kktix.cc/mobileapp/events/spark-office-7/description",
+     "start_at": 1775026200.0,
+     "end_at": 1901268000.0,
+     "registration_start_at": 1774972800.0,
+     "registration_end_at": 1901203200.0,
+     "description": "<p><img src=\"https://static.accupass.com/eventintro/2604010613142019557424.jpg\" alt=\"高雄思博客商務中心辦公室七館\"></p>\r\n<p><strong>❮ Spa</strong><strong>rk Our Dream！商用空間三合一整合專家，思博客七館全新辦公室 【首月免租】限量優惠中 ❯</strong></",
+     "location": "思博客商務辦公室",
+     "location_address": " 台灣高雄市新興區民生一路56號23f-8",
+     "geo_lat": 22.6280097,
+     "geo_long": 120.3105296,
+     "updated_at": 1775026276.657505,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      18,
+      22,
+      2
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "一般票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 100833,
+     "slug": "poppoppo2024",
+     "name": "POP! POP! POP! 流行音樂互動展 ＠ 高雄流行音樂中心",
+     "state": "IN_STOCK",
+     "enable_kyc": true,
+     "url": "https://kktix.com/events/poppoppo2024",
+     "description_url": "https://kpmc.kktix.cc/mobileapp/events/poppoppo2024/description",
+     "start_at": 1767232800.0,
+     "end_at": 1798682400.0,
+     "registration_start_at": 1646064000.0,
+     "registration_end_at": 1798682400.0,
+     "description": "<p><span style=\"color:#ffffff;\"><strong><span style=\"background-color:#000000;\">POP是流行！更是靈感爆發的聲音！</span></strong></span></p>\r\n\r\n<p>「POP! POP! POP! 流行音樂互動展」將改變你對聽音樂、看展覽的既定想法。</p>\r\n\r\n<p> </p>\r\n\r\n<p>這裡是“",
+     "location": "高雄流行音樂中心｜音浪塔｜高音塔4-6樓",
+     "location_address": "高雄市鹽埕區真愛路1號",
+     "geo_lat": 22.618290076232704,
+     "geo_long": 120.28890616773678,
+     "updated_at": 1767324462.2502809,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 11,
+     "event_tag_ids": [
+      4,
+      13,
+      11,
+      32
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "全票"
+      },
+      {
+       "name": "學生及團體票"
+      },
+      {
+       "name": "愛心票"
+      },
+      {
+       "name": "免票"
+      }
+     ],
+     "need_mobile_verified": false
+    },
+    {
+     "id": 120578,
+     "slug": "nac1by1-2026",
+     "name": "一對一諮詢🗣️NAC潛意識探索_自我、情緒、人際、家庭",
+     "state": "IN_STOCK",
+     "enable_kyc": false,
+     "url": "https://kktix.com/events/nac1by1-2026",
+     "description_url": "https://theinnerspace.kktix.cc/mobileapp/events/nac1by1-2026/description",
+     "start_at": 1767229200.0,
+     "end_at": 1798678800.0,
+     "registration_start_at": 1767110400.0,
+     "registration_end_at": 1774420200.0,
+     "description": "<p>嗨嗨，我是Ping<br>2024年初為了走出情傷<br>透過學習 #薩提爾模式、#NAC神經鏈調整術、#非暴力溝通、自我療癒內在小孩、探索自己、修正自己、更新自己的思維，逐步走出黑暗，找回內在的力量。<br>學習過程中也取得NAC潛意識引導師認證，讓自己從受助者轉為助人者的角色。<br><br>現在，我想運用這份經驗與專業來服務更多人<br>若你在生活中有一些困擾<br>不論是關於家庭、職",
+     "location": "高雄",
+     "location_address": "",
+     "geo_lat": null,
+     "geo_long": null,
+     "updated_at": 1777456496.9837608,
+     "time_zone": "Asia/Taipei",
+     "event_category_id": 2,
+     "event_tag_ids": [
+      20,
+      2,
+      3
+     ],
+     "is_selling": false,
+     "event_artist_id": [],
+     "adult_only": false,
+     "type": null,
+     "parent_event_slug": null,
+     "sub_events": [],
+     "tickets": [
+      {
+       "name": "2/2 (一) 18:00-19:00"
+      },
+      {
+       "name": "2/3 (二) 20:00-21:00"
+      },
+      {
+       "name": "3/24 (二) 18:00-19:00"
+      },
+      {
+       "name": "3/25 (三) 16:00-17:00"
+      },
+      {
+       "name": "預約其他時間"
+      }
+     ],
+     "need_mobile_verified": false
+    }
+   ],
+   "total_count": 95,
+   "total_pages": 2,
+   "per_page": 50,
+   "current_page": 2
+  }
+ ],
+ "feed": {
+  "title": "搜尋活動: 高雄 - KKTIX",
+  "updated": "2026-10-19T17:51:45.038+08:00",
+  "entry": [
+   {
+    "url": "https://sparkoffice.kktix.cc/events/spark-office-7",
+    "published": "2026-04-01T14:50:00.000+08:00",
+    "title": "高雄共享辦公室｜民生七館景觀辦公室出租｜2-7人獨立辦公空間｜首月租金 0 元，零負擔就能進駐！",
+    "summary": "思博客民生七館位於高雄民生商圈核心地段，提供明亮採光與景觀視野的共享辦公室，打造兼具專注與舒適的高效率工作環境。適合新創團隊、中小企業與自由工作者進駐，滿足多元辦公需求。",
+    "author": {
+     "name": "思博客商務聯合辦公室",
+     "uri": "https://www.spark.net.tw/"
+    }
+   },
+   {
+    "url": "https://sparkoffice.kktix.cc/events/sparkvirtualoffice-1-copy-1",
+    "published": "2026-04-01T15:30:00.000+08:00",
+    "title": "思博客商務中心｜高雄設立公司、營業登記首選｜入駐精華地段、黃金門牌",
+    "summary": "思博客商務中心聯合辦公室-為高雄商務中心連鎖品牌，提供合法借址登記、設立公司地址、虛擬辦公室服務，馬上擁有黃金門牌增加公司專業形象。\r\n立即諮詢 07-975-8228 / LINE@搜尋：思博客",
+    "author": {
+     "name": "思博客商務聯合辦公室",
+     "uri": "https://www.spark.net.tw/"
+    }
+   },
+   {
+    "url": "https://kpmc.kktix.cc/events/poppoppo2024",
+    "published": "2026-01-01T10:00:00.000+08:00",
+    "title": "POP! POP! POP! 流行音樂互動展 ＠ 高雄流行音樂中心",
+    "summary": "“高雄流行音樂中心，就是 音 樂 的 發 聲 地”\r\n\r\nPOP是流行！更是靈感爆發的聲音！\r\n「POP! POP! POP! 流行音樂互動展」將改變你對聽音樂、看展覽的既定想法。\r\n",
+    "author": {
+     "name": "高雄流行音樂中心",
+     "uri": "https://kpmc.kktix.cc"
+    }
+   },
+   {
+    "url": "https://sparkoffice.kktix.cc/events/kh-classroom-arena",
+    "published": "2026-04-01T15:30:00.000+08:00",
+    "title": "思博客會議教室-巨蛋館｜北高雄人文藝術空間｜中大型會議場地｜教育訓練、課程講座、品牌活動｜全新登場",
+    "summary": "思博客會議教室提供20-70人專業場地規劃，空間具人文藝術氛圍，設有獨立進出口、專屬講師休息室與公共休息區，可作為課程講座、商務會議、教育訓練、藝術展覽...等多元用途。",
+    "author": {
+     "name": "思博客商務聯合辦公室",
+     "uri": "https://www.spark.net.tw/"
+    }
+   },
+   {
+    "url": "https://teemacustoms.kktix.cc/events/352177f7",
+    "published": "2026-09-02T09:00:00.000+08:00",
+    "title": "【高雄】9/2~11/4「電子焊接與基礎電路應用班 」，政府補助80~100%課程費用(補助課程)",
+    "summary": "報名網址: https://reurl.cc/Wz3XzZ 課程費用：須符合勞、農、漁、工保險其一者 $ 7,850 (自費1,570政府補助6,280) 另符合以下身分別全額補助 全額補助對象（0元",
+    "author": {
+     "name": "台灣區電機電子工業同業公會",
+     "uri": "https://www.teema.org.tw/index.aspx"
+    }
+   },
+   {
+    "url": "https://teemacustoms.kktix.cc/events/526139c4",
+    "published": "2026-10-17T09:00:00.000+08:00",
+    "title": "【高雄】10/17~11/21「基礎電機配線配管應用實務班 」，政府補助80~100％課程費用(補助課程)",
+    "summary": "報名網址: https://reurl.cc/dOGx4g 課程費用：須符合勞、農、漁、工保險其一者 $ 9,490(自費1,898政府補助7,592) 另符合以下身分別全額補助 全額補助對象（0元學",
+    "author": {
+     "name": "台灣區電機電子工業同業公會",
+     "uri": "https://www.teema.org.tw/index.aspx"
+    }
+   },
+   {
+    "url": "https://appt.kktix.cc/events/2026courseprogram",
+    "published": "2026-10-04T09:00:00.000+08:00",
+    "title": "APPT系列課程【十拳二路】",
+    "summary": "台灣牙周補綴醫學會-2026系列課程【十拳二路】課程日期: 第一場: 2026/10/4 09:00~12:20第二場: 2026/12/6 09:00~12:20第三場: 2027/1/10 09:",
+    "author": {
+     "name": "台灣牙周補綴醫學會",
+     "uri": "https://appt.kktix.cc"
+    }
+   },
+   {
+    "url": "https://baodaorecords.kktix.cc/events/7a9d6a3e",
+    "published": "2026-10-16T09:00:00.000+08:00",
+    "title": "「すーーーはーーー（SU―――HA―――）」 HITSUJIBUNGAKU SPECIAL POPUP TOUR 2026",
+    "summary": "【台北場】 ὁ1 活動資訊 活動日期： 2026年10月16日（五） 活動地點： Neuf Neuf 中山（台北市中山區赤峰街17巷17號1樓） 實名制電子整理券預約開放： 2026年10月15日（四）",
+    "author": {
+     "name": "宝島制作委員会",
+     "uri": "https://linktr.ee/Baodaorecords"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/get2026",
+    "published": "2026-10-03T20:00:00.000+08:00",
+    "title": "2026 佳諭單口喜劇專場《Get 婚 》",
+    "summary": "2026 佳諭單口喜劇專場《Get 婚 》\r\n原來最危險的性行為，就是結婚。",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://sparkoffice.kktix.cc/events/classroom-5",
+    "published": "2026-04-01T15:30:00.000+08:00",
+    "title": "高雄質感氛圍 20-70人活動場地租借｜捷運站5分鐘｜教育訓練、課程講座、藝文活動｜思博客會議教室-民生館",
+    "summary": "思博客會議教室提供20-70人專業場地規劃，空間具人文藝術氛圍，設有獨立進出口、專屬講師休息室與公共休息區，可作為課程講座、商務會議、教育訓練、藝術展覽...等多元用途。",
+    "author": {
+     "name": "思博客商務聯合辦公室",
+     "uri": "https://www.spark.net.tw/"
+    }
+   },
+   {
+    "url": "https://theinnerspace.kktix.cc/events/nac1by1-2026",
+    "published": "2026-01-01T09:00:00.000+08:00",
+    "title": "一對一諮詢὞3️NAC潛意識探索_自我、情緒、人際、家庭",
+    "summary": "透過深度對話，我將引導你走進內在，探索自我、看見情緒背後的需要、釋放壓力，並重新調整信念，讓你回到自己的節奏與力量。",
+    "author": {
+     "name": "萍境‧心芽所",
+     "uri": "https://cal.com/pingping?redirect=false"
+    }
+   },
+   {
+    "url": "https://miaoli.kktix.cc/events/miaoli20260401-copy-1",
+    "published": "2026-10-02T09:00:00.000+08:00",
+    "title": "苗栗縣美術家邀請展：美之純粹—周美純藝術創作展",
+    "summary": "由畫入心、由心見人\r\n「美之純粹—周美純藝術創作展」驚艷登場",
+    "author": {
+     "name": "苗栗縣政府",
+     "uri": "https://www.mlc.gov.tw/"
+    }
+   },
+   {
+    "url": "https://airheadrecords.kktix.cc/events/mnpp2026go",
+    "published": "2027-01-09T17:00:00.000+08:00",
+    "title": "午夜乒乓 丘高氣爽 Chill & High 高雄專場",
+    "summary": "午夜乒乓 丘高氣爽 Chill & High 專場\r\n• 日期：2027年 1 月 9 日 星期六\r\n• 地點：LIVE WAREHOUSE 大庫 高雄",
+    "author": {
+     "name": "Airhead Records. 空氣腦唱片",
+     "uri": "http://airheadrecords.tumblr.com/"
+    }
+   },
+   {
+    "url": "https://b16act.kktix.cc/events/aoi2026tn",
+    "published": "2026-10-24T19:30:00.000+08:00",
+    "title": "青虫aoi 2026 冬季小巡迴《Before Sunrise》 l 台南場",
+    "summary": "Before Sunrise\r\n黑暗中升起信念的篝火\r\n 我們圍在一起\r\n 唱一些沒見面的日子裡所寫的新歌\r\n 當然也會有熟悉的歌曲\r\n勇氣會召喚更多勇氣\r\n 天光以前\r\n 我們用旋律陪伴你",
+    "author": {
+     "name": "臺南文化創意產業園區",
+     "uri": "https://b16tainan.com.tw/"
+    }
+   },
+   {
+    "url": "https://ptsfestival.kktix.cc/events/2026boi",
+    "published": "2026-10-30T18:30:00.000+08:00",
+    "title": "2026世界公視大展精選 Best of INPUT",
+    "summary": "集結世界各地公共媒體的精彩內容，10月台北、11月台中、12月高雄，獨家放映，免費入場 ",
+    "author": {
+     "name": "公共電視 PTS",
+     "uri": "https://film-festival.pts.org.tw/bestinput/index.html"
+    }
+   },
+   {
+    "url": "https://ortv.kktix.cc/events/scxmas2603",
+    "published": "2026-12-11T19:30:00.000+08:00",
+    "title": "2026空中英語教室與天韻年度聖誕音樂會-臺北週五晚場",
+    "summary": "歡慶聖誕《No Room for CHRISTMAS》一場屬於心靈的音樂饗宴，開啟新的視角，帶來溫暖與盼望，一同走進愛與祝福的時刻。",
+    "author": {
+     "name": "空中英語教室/天韻合唱團/救世傳播協會",
+     "uri": "https://www.studioclassroom.com/"
+    }
+   },
+   {
+    "url": "https://moshound.kktix.cc/events/eureka2026kaohsiung",
+    "published": "2026-10-25T19:00:00.000+08:00",
+    "title": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 - 高雄",
+    "summary": "高雄雙團專場！前衛/歌德金屬樂團 Eüreka 首張專輯發片場，與民謠金屬代表樂團恆月三途一同巡迴，進行完整演出！",
+    "author": {
+     "name": "Eüreka、墨聲 Moshound",
+     "uri": "https://www.instagram.com/moshound/"
+    }
+   },
+   {
+    "url": "https://ortv.kktix.cc/events/scxmas2602",
+    "published": "2026-12-05T19:30:00.000+08:00",
+    "title": "2026空中英語教室與天韻 聖誕音樂會-臺南場",
+    "summary": "歡慶聖誕《No Room for CHRISTMAS》一場屬於心靈的音樂饗宴，開啟新的視角，帶來溫暖與盼望，一同走進愛與祝福的時刻。",
+    "author": {
+     "name": "空中英語教室/天韻合唱團/救世傳播協會",
+     "uri": "https://www.studioclassroom.com/"
+    }
+   },
+   {
+    "url": "https://ortv.kktix.cc/events/scxmas2604",
+    "published": "2026-12-12T14:00:00.000+08:00",
+    "title": "2026空中英語教室與天韻年度聖誕音樂會-臺北週六午場",
+    "summary": "歡慶聖誕《No Room for CHRISTMAS》一場屬於心靈的音樂饗宴，開啟新的視角，帶來溫暖與盼望，一同走進愛與祝福的時刻。",
+    "author": {
+     "name": "空中英語教室/天韻合唱團/救世傳播協會",
+     "uri": "https://www.studioclassroom.com/"
+    }
+   },
+   {
+    "url": "https://appt.kktix.cc/events/20261219",
+    "published": "2026-12-19T09:00:00.000+08:00",
+    "title": "APPT冬季學術研討會-【三城數位論壇~縱貫線共創新數位未來】",
+    "summary": "台灣牙周補綴醫學會-冬季學術研討會『三城數位論壇~縱貫線共創新數位未來』\r\n大會日期: 115/12/19~20\r\n大會地點: 高雄醫學大學 第一教學大樓B1-演藝廳",
+    "author": {
+     "name": "台灣牙周補綴醫學會",
+     "uri": "https://appt.kktix.cc"
+    }
+   },
+   {
+    "url": "https://romanticoffice.kktix.cc/events/mononoawarektown",
+    "published": "2027-01-16T20:00:00.000+08:00",
+    "title": "MONO NO AWARE PASSION TOUR 2027 in Kaohsiung",
+    "summary": "MONO NO AWARE 2027台灣專場\r\n浪漫的現場之王，如詩歌的詞曲與撼動人心的編曲，日本另類搖滾代表首次登入高雄",
+    "author": {
+     "name": "浪漫的工作室",
+     "uri": "http://www.moonromantic.tw/romanticoffice.html"
+    }
+   },
+   {
+    "url": "https://mopcon.kktix.cc/events/mopcon-2026",
+    "published": "2026-10-31T08:30:00.000+08:00",
+    "title": "MOPCON 科技年會 2026 - 訂票入口 ",
+    "summary": "MOPCON - 堅持在濁水溪以南的行動科技年會，第 15 屆年度主題：「From AI to Reality：軟體定義邊界，駕馭物理現實的科技實踐」，掌握科技趨勢與 AI 帶來的創意啟發和營運實踐。",
+    "author": {
+     "name": "MOPCON 主辦小組",
+     "uri": "https://mopcon.org"
+    }
+   },
+   {
+    "url": "https://deaftouch.kktix.cc/events/nhommetw26",
+    "published": "2026-11-27T19:30:00.000+08:00",
+    "title": "nhomme - 1st Taiwan Tour",
+    "summary": "nhomme (JP) taiwan tour 2026 東京 math rock ／ screamo 樂團 聽 nhomme 的歌就像坐在一台在高速公路上狂飆的車裡，整台車又晃又響，好像隨時要散掉，",
+    "author": {
+     "name": "Deaf Touch Records",
+     "uri": "https://www.instagram.com/deaftouchrecords/"
+    }
+   },
+   {
+    "url": "https://romanticoffice.kktix.cc/events/freckles2026",
+    "published": "2026-10-23T19:00:00.000+08:00",
+    "title": "雀斑 Freckles 2026 Tour in Taipei 「不標準情人」黑膠發片場",
+    "summary": "MONO NO AWARE 2027台灣專場\r\n浪漫的現場之王，如詩歌的詞曲與撼動人心的編曲，日本另類搖滾代表首次登入高雄",
+    "author": {
+     "name": "浪漫的工作室",
+     "uri": "http://www.moonromantic.tw/romanticoffice.html"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/gk202612",
+    "published": "2026-11-28T13:30:00.000+08:00",
+    "title": "《GK爸爸原創故事繪本 Live Podcast 六週年同樂會 》熱烈迴響，北中南好評加演",
+    "summary": "《GK爸爸原創故事繪本 Live Podcast 六週年同樂會 》\r\n   熱烈迴響，北中南好評加演",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://wikidatatw.kktix.cc/events/wikidataforum2026",
+    "published": "2026-10-24T13:00:00.000+08:00",
+    "title": " 2026 維基數據跨領域論壇 ",
+    "summary": "Wikidata 全球週年慶臺灣響應活動",
+    "author": {
+     "name": "Wikidata Taiwan 臺灣維基數據社群",
+     "uri": "https://meta.wikimedia.org/wiki/Wikimedia_Taiwan/Wikidata_Taiwan"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/coldn20261212",
+    "published": "2026-12-12T19:30:00.000+08:00",
+    "title": "【12/12 高雄】涵冷娜脫口秀專場《喊卡之後》 封箱巡迴",
+    "summary": "喊卡之後，\r\n我人生還是好卡\r\n卡在女神跟女神 經病之間，\r\n卡在幽默跟落寞之間。\r\n",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/coldn20261213",
+    "published": "2026-12-13T14:30:00.000+08:00",
+    "title": "【12/13 高雄】涵冷娜脫口秀專場《喊卡之後》 封箱巡迴",
+    "summary": "喊卡之後，\r\n我人生還是好卡\r\n卡在女神跟女神 經病之間，\r\n卡在幽默跟落寞之間。\r\n",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://kpmc.kktix.cc/events/vfutureparty",
+    "published": "2026-10-31T13:30:00.000+08:00",
+    "title": "2026 Takao Rock打狗祭：V FUTURE PARTY未來趴",
+    "summary": "2026 Takao Rock打狗祭：V FUTURE PARTY未來趴",
+    "author": {
+     "name": "高雄流行音樂中心",
+     "uri": "https://kpmc.kktix.cc"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/smaljohncomedy2026",
+    "published": "2026-11-27T19:20:00.000+08:00",
+    "title": "《黃豪平單口喜劇專場：只是喜劇演員》",
+    "summary": "《黃豪平單口喜劇專場：只是喜劇演員》\r\nJust A Comedian\r\n\r\n在種種身分以前，我只是喜劇演員。\r\n\r\n今年，讓我們近距離回到單口喜劇的純粹。",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://resonance-works.kktix.cc/events/datesayurikh",
+    "published": "2026-12-05T18:30:00.000+08:00",
+    "title": "伊達小百合  Fan Meeting 2026 In Kaohsiung",
+    "summary": "《Love Live! Superstar!!》澀谷香音聲優、Liella! 成員伊達小百合，將於 12 月 5 日在高雄駁二正港小劇場舉辦粉絲見面會；同日也將參與駁二動漫祭，與粉絲相見，迎接年末活動",
+    "author": {
+     "name": "鳴音合創有限公司",
+     "uri": "https://resonance-works.co/"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/thecutautumn1106",
+    "published": "2026-11-06T20:00:00.000+08:00",
+    "title": "【11/6 高雄場】Ellery 呈獻 THE CUT - Fall Edition 秋季場",
+    "summary": "Ellery 呈獻\r\nTHE CUT｜Fall Edition 秋季場",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://echosociety.kktix.cc/events/8d3f7e62",
+    "published": "2026-12-25T16:00:00.000+08:00",
+    "title": "靈魂的回聲 高雄聖誕場",
+    "summary": "Echo of Your Soul - Kaohsiung Christmas Concert",
+    "author": {
+     "name": "回聲社音樂有限公司",
+     "uri": "https://echosociety.kktix.cc"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/coldn2026",
+    "published": "2026-11-14T19:20:00.000+08:00",
+    "title": "涵冷娜脫口秀專場《喊卡之後》 封箱巡迴",
+    "summary": "喊卡之後，\r\n我人生還是好卡\r\n卡在女神跟女神 經病之間，\r\n卡在幽默跟落寞之間。\r\n",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://ortv.kktix.cc/events/scxmas2601",
+    "published": "2026-12-04T19:30:00.000+08:00",
+    "title": "2026空中英語教室與天韻 聖誕音樂會-高雄場",
+    "summary": "歡慶聖誕《No Room for Christmas》一場屬於心靈的音樂饗宴，開啟新的視角，帶來溫暖與盼望，一同走進愛與祝福的時刻。",
+    "author": {
+     "name": "空中英語教室/天韻合唱團/救世傳播協會",
+     "uri": "https://www.studioclassroom.com/"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/sstrong7-1120",
+    "published": "2026-11-20T19:30:00.000+08:00",
+    "title": "【11/20 高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
+    "summary": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》\r\n三度開嗆巡迴場\r\n\r\n",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://globalmusic.kktix.cc/events/969de93b",
+    "published": "2026-10-24T19:30:00.000+08:00",
+    "title": "尤雅- 2026《往事只能回味》演唱會-高雄站",
+    "summary": "尤雅自16歲起就出道唱歌,早期以台語歌和西洋流行歌曲為主。1970年被音樂大師劉家昌發掘並推出首支國語單曲《往事只能回味》迅速走紅華語樂壇，紅遍亞洲，成為家喻戶曉的巨星。也是劉家昌首位正式的女弟子。她",
+    "author": {
+     "name": "全球音樂經紀有限公司",
+     "uri": "https://globalmusic.kktix.cc"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/thecutautumn",
+    "published": "2026-11-06T19:30:00.000+08:00",
+    "title": "Ellery 呈獻 THE CUT - Fall Edition 秋季場",
+    "summary": "Ellery 呈獻\r\nTHE CUT｜Fall Edition 秋季場",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://atc-twn.kktix.cc/events/aikorf",
+    "published": "2026-11-14T14:00:00.000+08:00",
+    "title": "山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+    "summary": "晚上場已售罄，加場開賣中! 加場購票連結：https://atc-twn.kktix.cc/events/jfdfrt8",
+    "author": {
+     "name": "梵思娛樂",
+     "uri": "https://atc-twn.com/"
+    }
+   },
+   {
+    "url": "https://moshound.kktix.cc/events/eureka2026taichung",
+    "published": "2026-10-24T19:00:00.000+08:00",
+    "title": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 - 台中",
+    "summary": "台中雙團專場！前衛/歌德金屬樂團 Eüreka 首張專輯發片場，與民謠金屬代表樂團恆月三途一同巡迴，進行完整演出！",
+    "author": {
+     "name": "Eüreka、墨聲 Moshound",
+     "uri": "https://www.instagram.com/moshound/"
+    }
+   },
+   {
+    "url": "https://moshound.kktix.cc/events/eureka2026taipei",
+    "published": "2026-10-31T19:00:00.000+08:00",
+    "title": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 - 台北",
+    "summary": "台北雙團專場！前衛/歌德金屬樂團 Eüreka 首張專輯發片場，與民謠金屬代表樂團恆月三途一同巡迴，進行完整演出！",
+    "author": {
+     "name": "Eüreka、墨聲 Moshound、造音現場",
+     "uri": "https://www.instagram.com/moshound/"
+    }
+   },
+   {
+    "url": "https://thewalllivehouse.kktix.cc/events/ee548352",
+    "published": "2027-02-26T20:00:00.000+08:00",
+    "title": "《走唱計劃白皮書 S3：異國追夢》最終站｜谷川晃熙 teruki 台灣首場專場",
+    "summary": "《走唱計劃白皮書 S3：異國追夢》最終站 谷川晃熙 teruki 台灣首場專場 關於谷川晃熙 teruki 來自日本千葉縣銚子市的創作歌手。 從少年時期開始接受音樂與表演訓練，持續進行創作及Live演",
+    "author": {
+     "name": "The Wall Live House",
+     "uri": "https://www.facebook.com/thewall.tw/"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/sstrong73",
+    "published": "2026-11-20T19:20:00.000+08:00",
+    "title": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
+    "summary": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》\r\n三度開嗆巡迴場\r\n\r\n",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/sstrong7-1121",
+    "published": "2026-11-21T19:30:00.000+08:00",
+    "title": "【11/21高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
+    "summary": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》\r\n三度開嗆巡迴場\r\n",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://sotmrtw.kktix.cc/events/b3lt8u5",
+    "published": "2026-11-21T20:00:00.000+08:00",
+    "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
+    "summary": "椅子樂團 Rolling On, Marching On 十週年巡演 嘿我的夥伴你可以走得更緩慢我們每天進步一點點就好Rolling On, Marching On. 節 目 資 訊 高雄場 演出日期",
+    "author": {
+     "name": "明天的歌",
+     "uri": "https://sotmrtw.kktix.cc"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/gk20261226",
+    "published": "2026-12-26T15:30:00.000+08:00",
+    "title": "【12/26 高雄場】GK爸爸原創故事繪本 Live Podcast 六週年同樂會",
+    "summary": "《GK爸爸原創故事繪本 Live Podcast 六週年同樂會 》\r\n   熱烈迴響，北中南好評加演",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/sstrong731122",
+    "published": "2026-11-22T14:30:00.000+08:00",
+    "title": "【11/22高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
+    "summary": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》\r\n三度開嗆巡迴場\r\n",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://kklivetw.kktix.cc/events/476bcfdb",
+    "published": "2026-12-12T19:30:00.000+08:00",
+    "title": "ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
+    "summary": "「啥物款浪漫的夢，啥物款人來做。」從喝著汽水到喝著啤酒，每次乾杯都有不同的事情可以分享、每次聽〈同學會〉都長大了一點、每次都在滅火器裡見到好久不見的熟面孔。 我們一起青春熱血，也一起成家立業。在不同的",
+    "author": {
+     "name": "KKLIVE Taiwan",
+     "uri": "https://www.instagram.com/kklive_tw/"
+    }
+   },
+   {
+    "url": "https://kklivetw.kktix.cc/events/7ed8da97",
+    "published": "2026-12-12T19:30:00.000+08:00",
+    "title": "【12/12】ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
+    "summary": "「啥物款浪漫的夢，啥物款人來做。」從喝著汽水到喝著啤酒，每次乾杯都有不同的事情可以分享、每次聽〈同學會〉都長大了一點、每次都在滅火器裡見到好久不見的熟面孔。 我們一起青春熱血，也一起成家立業。在不同的",
+    "author": {
+     "name": "KKLIVE Taiwan",
+     "uri": "https://www.instagram.com/kklive_tw/"
+    }
+   },
+   {
+    "url": "https://kklivetw.kktix.cc/events/8476e7a2",
+    "published": "2026-12-13T17:30:00.000+08:00",
+    "title": "【12/13】ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
+    "summary": "「啥物款浪漫的夢，啥物款人來做。」從喝著汽水到喝著啤酒，每次乾杯都有不同的事情可以分享、每次聽〈同學會〉都長大了一點、每次都在滅火器裡見到好久不見的熟面孔。 我們一起青春熱血，也一起成家立業。在不同的",
+    "author": {
+     "name": "KKLIVE Taiwan",
+     "uri": "https://www.instagram.com/kklive_tw/"
+    }
+   },
+   {
+    "url": "https://kafka.kktix.cc/events/belishkafka",
+    "published": "2026-11-28T18:30:00.000+08:00",
+    "title": "BELISH《想起你的時刻》2026不插電小巡迴-高雄場",
+    "summary": "BELISH《想起你的時刻》2026不插電小巡迴 - 高雄場 Missing Moments 2026 Acoustic Tour - Kaohsiung   《想起你的時刻》專輯發片場於夏日落幕後，",
+    "author": {
+     "name": "海邊的卡夫卡",
+     "uri": "https://kafka.kktix.cc"
+    }
+   },
+   {
+    "url": "https://atc-twn.kktix.cc/events/rfrgo6",
+    "published": "2026-11-14T19:00:00.000+08:00",
+    "title": "【19:00場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+    "summary": "晚上場已售罄，加場開賣中! 加場購票連結：https://atc-twn.kktix.cc/events/jfdfrt8",
+    "author": {
+     "name": "梵思娛樂",
+     "uri": "https://atc-twn.com/"
+    }
+   },
+   {
+    "url": "https://harmoniemusictw.kktix.cc/events/bf59a345",
+    "published": "2026-10-31T19:00:00.000+08:00",
+    "title": "[高雄場]義大利指彈天團-40 Fingers亞洲巡迴演出",
+    "summary": "義大利指彈天團-40 Fingers亞洲巡迴演出ᵞ7ᵟ5ᵟ2 ᵞaᵟcᵟfᵟ9ᵟ1’ᵠ0 ᵞ0ᵟcᵠ0ᵠ1 ᵞ9ᵟ6ᵟfᵠ1ᵠ2ᵟcᵠ0ᵟ6ᵟ0 ᵝaᵠ2ᵟ6ᵠ1ᵞeᵟf ᵞ4ᵠ2ᵞeᵟfᵠ1ᵟ2ᵠ1 ᵝcᵠ0 ᵝ6ᵟcᵟaᵟ6ᵟbᵟ4 ᵞ7ᵟc ᵝ4ᵠ0ᵟ6ᵞe. 從義大利到全世界。超過數億次觀",
+    "author": {
+     "name": "好滿意音樂",
+     "uri": "https://harmoniemusictw.kktix.cc"
+    }
+   },
+   {
+    "url": "https://baodaorecords.kktix.cc/events/7d4a9a50",
+    "published": "2026-10-25T18:30:00.000+08:00",
+    "title": "【10/25加場】羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG",
+    "summary": "羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG#羊文学 #Hitsujibungaku #首次高雄專場 感謝每一位支持羊文学、期待這場演出",
+    "author": {
+     "name": "宝島制作委員会",
+     "uri": "https://linktr.ee/Baodaorecords"
+    }
+   },
+   {
+    "url": "https://farglorycreative.kktix.cc/events/cofr3t",
+    "published": "2026-11-28T19:00:00.000+08:00",
+    "title": "【11/28】2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
+    "summary": "2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG正式宣布加場！ 那些曾被我們稱作",
+    "author": {
+     "name": "遠雄創藝",
+     "uri": "https://farglorycreative.kktix.cc"
+    }
+   },
+   {
+    "url": "https://farglorycreative.kktix.cc/events/ao7e3he",
+    "published": "2026-11-28T19:00:00.000+08:00",
+    "title": "2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
+    "summary": "2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG正式宣布加場！ 那些曾被我們稱作",
+    "author": {
+     "name": "遠雄創藝",
+     "uri": "https://farglorycreative.kktix.cc"
+    }
+   },
+   {
+    "url": "https://globalmusic.kktix.cc/events/olwgtsrtt",
+    "published": "2026-10-24T14:00:00.000+08:00",
+    "title": "空中補給屬於時間的答案巡迴演唱會-高雄站",
+    "summary": "傳奇雙人組合（空中補給）Air Supply 即將來到高雄，展開備受矚目的《A Matter of Time》巡演，繼2025年台北場演出完售後，今年他們再度回到台灣與當地歌迷見面，並將首度登上高雄流",
+    "author": {
+     "name": "全球音樂經紀有限公司",
+     "uri": "https://globalmusic.kktix.cc"
+    }
+   },
+   {
+    "url": "https://atc-twn.kktix.cc/events/jfdfrt8",
+    "published": "2026-11-14T14:00:00.000+08:00",
+    "title": "【[加場]14:00場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+    "summary": "節 目 資 訊  活動日期：2026年11月14日（星期六） 活動地點： 高雄流行音樂中心 海音館（高雄市鹽埕區真愛路1號） 活動時間：下午場：12:30 開場 / 14:00 開演 購票方式：KKT",
+    "author": {
+     "name": "梵思娛樂",
+     "uri": "https://atc-twn.com/"
+    }
+   },
+   {
+    "url": "https://baodaorecords.kktix.cc/events/ff315f99",
+    "published": "2026-10-24T18:30:00.000+08:00",
+    "title": "羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG",
+    "summary": "羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG#羊文学 #Hitsujibungaku #首次高雄專場 感謝每一位支持羊文学、期待這場演出",
+    "author": {
+     "name": "宝島制作委員会",
+     "uri": "https://linktr.ee/Baodaorecords"
+    }
+   },
+   {
+    "url": "https://walkingmusic.kktix.cc/events/9be3aedc",
+    "published": "2026-12-27T18:00:00.000+08:00",
+    "title": "2026 鄭宜農 Enno Cheng 《缺與圓之後 Inter-Phases》高雄演唱會",
+    "summary": "唱著不同語言、走過不同城市那些在歌裡發生的跨越，都是彼此而所有曾經抵達的遠方也指向了另一段遠行的起點——《缺與圓之後》，即將著陸高雄2026 年底，鄭宜農仍學習著如何成為一個「人」在未曾停下的表達與傾",
+    "author": {
+     "name": "邊走邊聽有限公司",
+     "uri": "https://walkingmusic.kktix.cc"
+    }
+   },
+   {
+    "url": "https://kuroko.kktix.cc/events/marasy2026ks",
+    "published": "2026-12-05T14:00:00.000+08:00",
+    "title": "幻想遊戲演奏會2026 in Kaohsiung",
+    "summary": "MUSEUM OF MARASY 2026 in Kaohsiung",
+    "author": {
+     "name": "黑子娛樂有限公司",
+     "uri": "https://www.kuroko-entertainment.tw/"
+    }
+   },
+   {
+    "url": "https://ptsfestival.kktix.cc/events/26boi-c3",
+    "published": "2026-12-12T18:30:00.000+08:00",
+    "title": "2026世界公視大展精選丨高雄場 ─【單元：平行世界】",
+    "summary": "2026世界公視大展精選Best of INPUT精選14部紀實作品，【平行世界】單元選映《業配叢林》《致命性勒索》《數位轉生》，探討科技如何改變我們相信的現實。映後座談，免費索票，名額有限。",
+    "author": {
+     "name": "公共電視 PTS",
+     "uri": "https://film-festival.pts.org.tw/bestinput/index.html"
+    }
+   },
+   {
+    "url": "https://ptsfestival.kktix.cc/events/26boi-c2",
+    "published": "2026-12-12T14:00:00.000+08:00",
+    "title": "2026世界公視大展精選丨高雄場 ─【單元：她們的畫像】",
+    "summary": "2026世界公視大展精選Best of INPUT精選14部國際紀實作品【她們的畫像】單元呈現三段女性生命故事：《謝謝你的花》《資深閨蜜出遊去》《走過廣島的千枝子》，映後安排座談，免費索票，名額有限。",
+    "author": {
+     "name": "公共電視 PTS",
+     "uri": "https://film-festival.pts.org.tw/bestinput/index.html"
+    }
+   },
+   {
+    "url": "https://ptsfestival.kktix.cc/events/26boi-c4",
+    "published": "2026-12-13T14:00:00.000+08:00",
+    "title": "2026世界公視大展精選丨高雄場 ─【單元：創傷的餘燼】",
+    "summary": "「2026世界公視大展精選Best of INPUT」精選14部國際紀實作品，【創傷的餘燼】單元推出《玻璃之家》與《兩根菸》，傷痕雖未消失，餘燼仍能照亮彼此的路，映後安排座談。免費索票，名額有限。",
+    "author": {
+     "name": "公共電視",
+     "uri": "https://film-festival.pts.org.tw/bestinput/index.html"
+    }
+   },
+   {
+    "url": "https://kklivetw.kktix.cc/events/34473ba4",
+    "published": "2026-10-31T19:00:00.000+08:00",
+    "title": "Fujii Kaze Prema World Tour - Kaohsiung",
+    "summary": "Fujii Kaze Prema World Tour - Kaohsiung",
+    "author": {
+     "name": "KKLIVE Taiwan",
+     "uri": "https://www.instagram.com/kklive_tw/"
+    }
+   },
+   {
+    "url": "https://comedyclub.kktix.cc/events/blessing34",
+    "published": "2026-10-24T19:30:00.000+08:00",
+    "title": "來福週末夜 #034",
+    "summary": "2026 全新改版 北中南全台演員大拼盤\r\n『來福好事』製作，『喜劇開港』共同協辦",
+    "author": {
+     "name": "卡米地 Live Comedy Club Taipei",
+     "uri": "http://www.comedy.com.tw/"
+    }
+   },
+   {
+    "url": "https://ptsfestival.kktix.cc/events/26boi-c5",
+    "published": "2026-12-13T18:30:00.000+08:00",
+    "title": "2026世界公視大展精選丨高雄場 ─【單元：看不見的手】",
+    "summary": "「2026世界公視大展精選Best of INPUT」精選14部國際紀實作品，【看不見的手】單元呈現四部作品《法西斯訓練營》《被北京盯上》《封印真相》《仇恨上線中》，映後安排座談。免費索票，名額有限。",
+    "author": {
+     "name": "公共電視 PTS",
+     "uri": "https://film-festival.pts.org.tw/bestinput/index.html"
+    }
+   },
+   {
+    "url": "https://rsmusic2027.kktix.cc/events/rsmusic",
+    "published": "2027-05-23T15:00:00.000+08:00",
+    "title": "雄岸折光-2027高雄五校熱音社聯合成果發表會",
+    "summary": "",
+    "author": {
+     "name": "中正熱音、明誠熱音、新莊熱音、三民熱音、文山熱音",
+     "uri": "http://www.instagram.com.tw/refractions_shore"
+    }
+   },
+   {
+    "url": "https://ptsfestival.kktix.cc/events/26boi-c1",
+    "published": "2026-12-11T18:30:00.000+08:00",
+    "title": "2026世界公視大展精選丨高雄場 ─【單元：被噤聲的記憶】",
+    "summary": "「2026世界公視大展精選Best of INPUT」精選14部國際紀實作品，【被噤聲的記憶】單元，播映西班牙紀錄片《西班牙禁片》與韓國《西大門刑務所》音樂紀實劇，映後安排座談。免費索票，名額有限。",
+    "author": {
+     "name": "公共電視 PTS",
+     "uri": "https://film-festival.pts.org.tw/bestinput/index.html"
+    }
+   },
+   {
+    "url": "https://harmoniemusictw.kktix.cc/events/c1a91ad4",
+    "published": "2026-10-30T19:30:00.000+08:00",
+    "title": "義大利指彈天團-40 Fingers亞洲巡迴演出",
+    "summary": "義大利指彈天團-40 Fingers亞洲巡迴演出ᵞ7ᵟ5ᵟ2 ᵞaᵟcᵟfᵟ9ᵟ1’ᵠ0 ᵞ0ᵟcᵠ0ᵠ1 ᵞ9ᵟ6ᵟfᵠ1ᵠ2ᵟcᵠ0ᵟ6ᵟ0 ᵝaᵠ2ᵟ6ᵠ1ᵞeᵟf ᵞ4ᵠ2ᵞeᵟfᵠ1ᵟ2ᵠ1 ᵝcᵠ0 ᵝ6ᵟcᵟaᵟ6ᵟbᵟ4 ᵞ7ᵟc ᵝ4ᵠ0ᵟ6ᵞe. 從義大利到全世界。超過數億次觀",
+    "author": {
+     "name": "好滿意音樂",
+     "uri": "https://harmoniemusictw.kktix.cc"
+    }
+   },
+   {
+    "url": "https://deaftouch.kktix.cc/events/limitedexpresshasgone",
+    "published": "2026-11-07T19:30:00.000+08:00",
+    "title": "Limited Express (has gone?) - 1st Taiwan Tour",
+    "summary": "Limited Express (has gone?) 1st Taiwan Tour Japanese alternative punk Limited Express (has gone?) 19",
+    "author": {
+     "name": "Deaf Touch Records",
+     "uri": "https://www.instagram.com/deaftouchrecords/"
+    }
+   },
+   {
+    "url": "https://globalmusic.kktix.cc/events/a4aae91d",
+    "published": "2026-10-25T13:00:00.000+08:00",
+    "title": "【13:00】《Disney in Concert: Once Upon a Time》",
+    "summary": "Join us for a magical journey into storytelling and music as only the timeless tales of Disney can e",
+    "author": {
+     "name": "全球音樂經紀有限公司",
+     "uri": "https://globalmusic.kktix.cc"
+    }
+   },
+   {
+    "url": "https://globalmusic.kktix.cc/events/b321ff02",
+    "published": "2026-10-25T13:00:00.000+08:00",
+    "title": "《Disney in Concert: Once Upon a Time》",
+    "summary": "Join us for a magical journey into storytelling and music as only the timeless tales of Disney can e",
+    "author": {
+     "name": "全球音樂經紀有限公司",
+     "uri": "https://globalmusic.kktix.cc"
+    }
+   },
+   {
+    "url": "https://globalmusic.kktix.cc/events/b2fe8a2d",
+    "published": "2026-10-25T16:30:00.000+08:00",
+    "title": "【16:30】《Disney in Concert: Once Upon a Time》",
+    "summary": "Join us for a magical journey into storytelling and music as only the timeless tales of Disney can e",
+    "author": {
+     "name": "全球音樂經紀有限公司",
+     "uri": "https://globalmusic.kktix.cc"
+    }
+   },
+   {
+    "url": "https://leopards.kktix.cc/events/c36966ee",
+    "published": "2026-11-14T14:30:00.000+08:00",
+    "title": "【季票】26-27 台啤永豐雲豹職業籃球隊主場",
+    "summary": "不用廢話，直接用球技說話！  2026-27賽季主場座落於Ὄd桃園巨蛋體育館想念超燃主場的氣勢了嗎？想念只有坐進球場，才能感受到的熱血嗎？ 多元票區季票優惠全面登場！ 近距離看球、沉浸應援、輕鬆觀戰，還",
+    "author": {
+     "name": "雲諾運動文教(股)公司",
+     "uri": "https://leopards.kktix.cc"
+    }
+   },
+   {
+    "url": "https://actclubtw.kktix.cc/events/agilebasic202611",
+    "published": "2026-11-03T15:00:00.000+08:00",
+    "title": "ACT敏捷思維入門：3小時啟發團隊合作新模式的體驗工作坊【梯次：2026-11th】",
+    "summary": "團隊溝通卡關？專案進度難以掌握？這堂課是為尋求工作新啟發的你而設計。由ACT台灣敏捷協會主辦，我們將敏捷的核心精神，濃縮成一場高互動的體驗活動。你將初步認識如何引導團隊小步快跑、持續學習，為交付出客戶",
+    "author": {
+     "name": "社團法人台灣敏捷協會",
+     "uri": "https://act.club.tw/"
+    }
+   },
+   {
+    "url": "https://leopards.kktix.cc/events/a24375453",
+    "published": "2026-11-14T14:30:00.000+08:00",
+    "title": "【11/14】26-27 台啤永豐雲豹職業籃球隊主場",
+    "summary": "◤▔▔▔▔◥26-27賽季 雲豹主場門票熱賣中ὒ5◣▁▁▁▁◢ ➠展現豹軍最極致的自信，不用多餘廢話，上場直接用球技說話！∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ 2026-27 賽",
+    "author": {
+     "name": "雲諾運動文教(股)公司",
+     "uri": "https://leopards.kktix.cc"
+    }
+   },
+   {
+    "url": "https://actclubtw.kktix.cc/events/agilebasic202612",
+    "published": "2026-12-02T15:00:00.000+08:00",
+    "title": "ACT敏捷思維入門：3小時啟發團隊合作新模式的體驗工作坊【梯次：2026-12th】",
+    "summary": "團隊溝通卡關？專案進度難以掌握？這堂課是為尋求工作新啟發的你而設計。由ACT台灣敏捷協會主辦，我們將敏捷的核心精神，濃縮成一場高互動的體驗活動。你將初步認識如何引導團隊小步快跑、持續學習，為交付出客戶",
+    "author": {
+     "name": "社團法人台灣敏捷協會",
+     "uri": "https://act.club.tw/"
+    }
+   },
+   {
+    "url": "https://leopards.kktix.cc/events/ba20fd0e",
+    "published": "2026-11-15T14:30:00.000+08:00",
+    "title": "【11/15】26-27 台啤永豐雲豹職業籃球隊主場",
+    "summary": "◤▔▔▔▔◥26-27賽季 雲豹主場門票熱賣中ὒ5◣▁▁▁▁◢ ➠展現豹軍最極致的自信，不用多餘廢話，上場直接用球技說話！∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ 2026-27 賽",
+    "author": {
+     "name": "雲諾運動文教(股)公司",
+     "uri": "https://leopards.kktix.cc"
+    }
+   },
+   {
+    "url": "https://leopards.kktix.cc/events/ce41b16e",
+    "published": "2026-11-14T14:30:00.000+08:00",
+    "title": "26-27 台啤永豐雲豹職業籃球隊主場",
+    "summary": "◤▔▔▔▔◥26-27賽季 雲豹主場門票熱賣中ὒ5◣▁▁▁▁◢ ➠展現豹軍最極致的自信，不用多餘廢話，上場直接用球技說話！∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ 2026-27 賽",
+    "author": {
+     "name": "雲諾運動文教(股)公司",
+     "uri": "https://leopards.kktix.cc"
+    }
+   },
+   {
+    "url": "https://leopards.kktix.cc/events/eb718eaa",
+    "published": "2026-12-23T19:00:00.000+08:00",
+    "title": "【12/23】26-27 台啤永豐雲豹職業籃球隊主場",
+    "summary": "◤▔▔▔▔◥26-27賽季 雲豹主場門票熱賣中ὒ5◣▁▁▁▁◢ ➠展現豹軍最極致的自信，不用多餘廢話，上場直接用球技說話！∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ 2026-27 賽",
+    "author": {
+     "name": "雲諾運動文教(股)公司",
+     "uri": "https://leopards.kktix.cc"
+    }
+   },
+   {
+    "url": "https://leopards.kktix.cc/events/f1ff9924",
+    "published": "2026-12-25T19:00:00.000+08:00",
+    "title": "【12/25】26-27 台啤永豐雲豹職業籃球隊主場",
+    "summary": "◤▔▔▔▔◥26-27賽季 雲豹主場門票熱賣中ὒ5◣▁▁▁▁◢ ➠展現豹軍最極致的自信，不用多餘廢話，上場直接用球技說話！∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ 2026-27 賽",
+    "author": {
+     "name": "雲諾運動文教(股)公司",
+     "uri": "https://leopards.kktix.cc"
+    }
+   },
+   {
+    "url": "https://leopards.kktix.cc/events/c343a71c",
+    "published": "2026-12-19T17:00:00.000+08:00",
+    "title": "【12/19】26-27 台啤永豐雲豹職業籃球隊主場",
+    "summary": "◤▔▔▔▔◥26-27賽季 雲豹主場門票熱賣中ὒ5◣▁▁▁▁◢ ➠展現豹軍最極致的自信，不用多餘廢話，上場直接用球技說話！∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ 2026-27 賽",
+    "author": {
+     "name": "雲諾運動文教(股)公司",
+     "uri": "https://leopards.kktix.cc"
+    }
+   },
+   {
+    "url": "https://leopards.kktix.cc/events/de99019d",
+    "published": "2026-12-20T17:00:00.000+08:00",
+    "title": "【12/20】26-27 台啤永豐雲豹職業籃球隊主場",
+    "summary": "◤▔▔▔▔◥26-27賽季 雲豹主場門票熱賣中ὒ5◣▁▁▁▁◢ ➠展現豹軍最極致的自信，不用多餘廢話，上場直接用球技說話！∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ 2026-27 賽",
+    "author": {
+     "name": "雲諾運動文教(股)公司",
+     "uri": "https://leopards.kktix.cc"
+    }
+   },
+   {
+    "url": "https://sotmrtw.kktix.cc/events/tls0d8e",
+    "published": "2026-11-14T20:00:00.000+08:00",
+    "title": "椅子樂團 Rolling On, Marching On 十週年巡演",
+    "summary": "椅子樂團 Rolling On, Marching On 十週年巡演 嘿我的夥伴你可以走得更緩慢我們每天進步一點點就好Rolling On, Marching On. 節 目 資 訊 台北場演出日期：",
+    "author": {
+     "name": "明天的歌",
+     "uri": "https://sotmrtw.kktix.cc"
+    }
+   },
+   {
+    "url": "https://baodaorecords.kktix.cc/events/58eae147",
+    "published": "2026-10-24T18:30:00.000+08:00",
+    "title": "【10/24】羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG",
+    "summary": "今年剛於第37屆金曲獎，以國際表演嘉賓身分登台的日本樂團——羊文学，從早期的〈1999〉、〈光るとき〉到近年的《咒術迴戰》、《我推的孩子》、《九條的大罪》等影視作品主題曲，一直以透亮的嗓音與詩意、貼近",
+    "author": {
+     "name": "宝島制作委員会",
+     "uri": "https://linktr.ee/Baodaorecords"
+    }
+   },
+   {
+    "url": "https://kimu.kktix.cc/events/2026itmgameforum",
+    "published": "2026-11-14T10:00:00.000+08:00",
+    "title": "2026資訊月x臺灣教育科技展 ： 數位遊戲主題論壇",
+    "summary": "數發部數產署於「2026 資訊月」中特別策劃《數位遊戲主題論壇》，以「原創遊戲的資本賦能」與「微型遊戲的敏捷開發與AI實踐」為雙引擎，聚焦當前創作者邁向永續經營與微型賽道的兩大命題。",
+    "author": {
+     "name": "KIMU獨立遊戲開發者聚會",
+     "uri": "http://www.facebook.com/groups/kimugroup/"
+    }
+   },
+   {
+    "url": "https://aipxa.kktix.cc/events/twspopupinkkh",
+    "published": "2026-10-22T11:00:00.000+08:00",
+    "title": "TWS POP-UP in KAOHSIUNG",
+    "summary": "大家好， 以下為TWS POP-UP in KAOHSIUNG的事前預約及商品購買注意事項說明。   [日程及地點] * 營運期間 : 2026年 10月 22日 (四) - 2026年 11月 01",
+    "author": {
+     "name": "AIPXA LAND 艾比夏股份有限公司",
+     "uri": "https://aipxa.kktix.cc"
+    }
+   },
+   {
+    "url": "https://casaentertainment.kktix.cc/events/51b02629",
+    "published": "2027-01-09T19:30:00.000+08:00",
+    "title": "巫啟賢“ ALL THE BEST ”40周年金曲世界巡迴演唱會",
+    "summary": "《紅塵來去一場夢》道盡人生聚散、紅塵起落，溫柔又通透；《你是我的唯一》純粹真摯、溫柔治愈，成為無數人的青春告白曲；《愛那麼重》深情厚重、共情萬千，道盡愛情里的牽掛與珍惜。除此之外，《團圓》《思念誰》《",
+    "author": {
+     "name": "卡司娛樂有限公司",
+     "uri": "https://casaentertainment.kktix.cc"
+    }
+   },
+   {
+    "url": "https://farglorycreative.kktix.cc/events/klor6r",
+    "published": "2026-11-29T17:00:00.000+08:00",
+    "title": "【11/29】2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
+    "summary": "關於那些我們曾稱作「日常」的一切： 是耳機裡循環播放的歌單，也是一次次說過的下次見， 還有那些還沒來得及細細感受，就已悄悄成為過去的瞬間☁️ 但時間留下的痕跡，證明了那些時光曾真實存在，也早已留在彼此",
+    "author": {
+     "name": "遠雄創藝",
+     "uri": "https://farglorycreative.kktix.cc"
+    }
+   },
+   {
+    "url": "https://storypathmusictw.kktix.cc/events/aee0c18f",
+    "published": "2026-12-04T20:00:00.000+08:00",
+    "title": "Cö shu Nie LIVE IN KAOHSIUNG 2026 SATURATED（in monochrome）",
+    "summary": "  ᵣeᵦ4̈ ᵦ8ᵥdᵦa ᵤ9ᵥeᵥa ᵤ7ᵤ4ᵥ1ᵤ0 ᵤ4ᵤ9 ᵤ6ᵣcᵤaᵤ3ᵤeᵤ4ᵥ0ᵤ9ᵤ2 ᵾeᵾcᵾeᵿ2 ᵤeᵣcᵤfᵥ0ᵤdᵣcᵤfᵤ0ᵣf (ᵥeᵦ3 ᵦ2ᵦ4ᵦ3ᵦ4ᵥ8ᵥdᵦ7ᵦ4ᵦ2ᵥa) ★ 日本另類搖滾樂團 Cö shu Nie 高雄開唱！ ★ 來自日本的另類",
+    "author": {
+     "name": "痕跡創藝 Path of Live Music",
+     "uri": "https://storypathmusictw.kktix.cc"
+    }
+   },
+   {
+    "url": "https://funlove1314.kktix.cc/events/sharing1314",
+    "published": "2026-10-24T14:00:00.000+08:00",
+    "title": "【趣戀愛】D.I.S.C. 49天脫單分享會",
+    "summary": "嘿，兄弟...80%的女生正急著脫單！你，為什麼還在羨慕別人？ 套用這三個無法拒絕的秘密，輕鬆吸引她主動靠近！",
+    "author": {
+     "name": "Fun Love 趣戀愛",
+     "uri": "https://www.funlove.com.tw/"
+    }
+   },
+   {
+    "url": "https://ixda.kktix.cc/events/ixdatw2026halloween",
+    "published": "2026-10-24T13:30:00.000+08:00",
+    "title": "IxDA Taiwan 2026 萬聖節活動：《 IxDA 萬聖驚魂夜》咒語、縫線與縫合怪｜AI 動畫工作坊",
+    "summary": "螢幕微微閃爍，午夜的造物實驗即將開始。推開這扇門，你即將踏入的不再是一場單純的工作坊，而是一間隱藏在暗夜中的 AI 造物實驗室......",
+    "author": {
+     "name": "IxDA Taiwan 社團法人台灣互動設計協會",
+     "uri": "http://www.ixda.org.tw/"
+    }
+   },
+   {
+    "url": "https://farglorycreative.kktix.cc/events/agt9r3tn",
+    "published": "2026-12-26T18:00:00.000+08:00",
+    "title": "【12/26】2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN TAIPEI",
+    "summary": "今年聖誕有點特別，多了一個和藝聲見面的約定Ἰ4☁️繼高雄之後，藝聲也將帶著他的十週年巡演來到台北！ 有些日子會因為和誰一起度過，在往後想起時，成為格外珍貴的日常片刻Ὁ9 這個聖誕週末，一起把屬於藝聲與 E",
+    "author": {
+     "name": "遠雄創藝",
+     "uri": "https://farglorycreative.kktix.cc"
+    }
+   },
+   {
+    "url": "https://moonfairyproject.kktix.cc/events/miracle2027",
+    "published": "2027-03-12T15:00:00.000+08:00",
+    "title": "奇蹟 MIRACLE FESTIVAL 2027",
+    "summary": "●Psychedelic Trance Art 音樂文化藝術節● ",
+    "author": {
+     "name": "MOON FAIRY PROJECT",
+     "uri": "https://www.facebook.com/FairyLand.Taiwan"
+    }
+   }
+  ]
+ }
+}
