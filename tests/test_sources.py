@@ -3,7 +3,7 @@
 import json
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, Event, Link
-from eventradar.sources import accupass, iculture, khh_travel, kktix, kpmc, weiwuying
+from eventradar.sources import accupass, iculture, khh_travel, kktix, kpmc, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -178,3 +178,51 @@ class TestKpmc:
     def test_price_roundtrip_through_description(self):
         desc = kpmc._description("某樂團", "預售 $800")
         assert kpmc._price_from_description(desc) == "預售 $800"
+
+
+class TestTwmarket:
+    def test_parses(self, fixture_bytes, now):
+        events = twmarket.parse(fixture_bytes("twmarket.json"), now)
+        _check_common(events, now)
+        assert sum(1 for e in events if e.category == "市集") >= len(events) * 0.7
+        assert sum(1 for e in events if e.district) >= len(events) * 0.9
+
+    def test_weekend_sessions_split_per_day(self, fixture_bytes, now):
+        events = [e for e in twmarket.parse(fixture_bytes("twmarket.json"), now) if e.id.startswith("twmarket:61285:")]
+        days = [e.start.date().isoformat() for e in events]  # 10/31~11/29 每個週六日
+        assert days[:3] == ["2026-10-31", "2026-11-01", "2026-11-07"] and len(days) == 10
+        assert all(e.start.hour == 9 and e.end.hour == 17 for e in events)
+        assert all(e.district == "鼓山區" for e in events)
+
+    def test_hours_per_day(self, fixture_bytes, now):
+        events = {e.id: e for e in twmarket.parse(fixture_bytes("twmarket.json"), now)}
+        sat, sun = events["twmarket:61125:20261107"], events["twmarket:61125:20261108"]
+        assert (sat.start.hour, sat.end.strftime("%H:%M")) == (12, "16:30")
+        assert (sun.start.hour, sun.end.strftime("%H:%M")) == (9, "15:30")
+        assert sat.address == "高雄市永安區新興路27-2號"
+
+    def test_duplicate_posts_kept_once_per_day(self, fixture_bytes, now):
+        events = twmarket.parse(fixture_bytes("twmarket.json"), now)
+        # 61328 與 61159 是同一篇的重貼；機廠親子遊樂園區 11 月有兩篇不同標題的貼文
+        assert not any(e.id.startswith("twmarket:61159:") for e in events)
+        assert sum(1 for e in events if e.start.date().isoformat() == "2026-11-07" and "機廠" in e.venue) == 1
+
+    def test_skips_non_kaohsiung_and_ended(self, fixture_bytes, now):
+        ids = {e.id.split(":")[1] for e in twmarket.parse(fixture_bytes("twmarket.json"), now)}
+        assert "61216" not in ids  # 多縣市
+        assert "60741" not in ids  # 10/4 已結束
+
+    def test_parse_title(self):
+        info = twmarket.parse_title("2026.10.09~2026.02.08 高雄-大立百貨-漫光星光微型演唱會市集")
+        assert info["end"].isoformat() == "2027-02-08"  # 跨年筆誤
+        assert (info["region"], info["venue"], info["name"]) == ("高雄", "大立百貨", "漫光星光微型演唱會市集")
+        assert twmarket.parse_title("2026.10.17~10.18 高雄市-岡山 樂購廣場") is None
+
+    def test_session_dates(self):
+        from datetime import date
+
+        text = "市集時間 ▹10/24 ( 六）15:00-20:00\n11月場次 | 11/21-22(六、日)\n整體檔期 2026.10.17~12.20"
+        days = twmarket.session_dates(text, date(2026, 10, 17), date(2026, 12, 20))
+        assert days == [date(2026, 10, 24), date(2026, 11, 21), date(2026, 11, 22)]
+        weekend = twmarket.session_dates("11月全月（限假日）", date(2026, 11, 1), date(2026, 11, 8))
+        assert weekend == [date(2026, 11, 1), date(2026, 11, 7), date(2026, 11, 8)]
