@@ -8,6 +8,8 @@ const state = {
   events: [],
   sourceLabels: {},
   categories: new Set(),
+  sources: new Set(),
+  sourceChips: new Map(),
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -62,6 +64,7 @@ function readFilters() {
     fee: f.get("fee"),
     organizer_type: f.get("organizer_type"),
     categories: state.categories,
+    sources: state.sources,
   };
 }
 
@@ -71,6 +74,7 @@ function matches(e, f) {
   if (f.fee && e.fee !== f.fee) return false;
   if (f.organizer_type && e.organizer_type !== f.organizer_type) return false;
   if (f.categories.size && !f.categories.has(e.category)) return false;
+  if (f.sources.size && !e.sources.some((s) => f.sources.has(s))) return false;
   if (f.q) {
     const hay = [e.title, e.venue, e.address, e.organizer, e.description].join(" ").toLowerCase();
     if (!f.q.split(/\s+/).every((w) => hay.includes(w))) return false;
@@ -87,6 +91,7 @@ function countActiveFilters(f) {
   if (f.fee) n++;
   if (f.organizer_type) n++;
   if (f.categories.size) n++;
+  if (f.sources.size) n++;
   return n;
 }
 
@@ -154,6 +159,8 @@ function render() {
     .filter((e) => dayOf(e.start) < f.from)
     .sort((a, b) => a.end.localeCompare(b.end));
 
+  updateSourceCounts(f);
+
   const active = countActiveFilters(f);
   $("#active-count").textContent = active ? `（${active} 項）` : "";
   $("#summary").textContent = `即將開始 ${upcoming.length} 筆 · 進行中 ${ongoing.length} 筆`;
@@ -186,6 +193,19 @@ function render() {
   $("#ongoing-summary").textContent = `進行中的活動（${ongoing.length}）`;
   const ongoingEl = $("#ongoing");
   ongoingEl.replaceChildren(...ongoing.map(renderEvent));
+}
+
+// 來源 chip 上的筆數：套用其他篩選條件後，各來源各有幾筆
+function updateSourceCounts(f) {
+  const others = { ...f, sources: new Set() };
+  const counts = {};
+  for (const e of state.events) {
+    if (!matches(e, others)) continue;
+    for (const s of e.sources) counts[s] = (counts[s] || 0) + 1;
+  }
+  for (const [name, chip] of state.sourceChips) {
+    chip.querySelector(".chip-count").textContent = counts[name] || 0;
+  }
 }
 
 function renderStatus(status) {
@@ -225,21 +245,35 @@ function fmtDateTime(iso) {
 
 // --- 初始化 ---
 
+function makeChip(selected, value, label) {
+  const b = document.createElement("button");
+  b.type = "button";
+  b.className = "chip";
+  b.textContent = label;
+  b.setAttribute("aria-pressed", "false");
+  b.addEventListener("click", () => {
+    if (selected.has(value)) selected.delete(value);
+    else selected.add(value);
+    b.setAttribute("aria-pressed", String(selected.has(value)));
+    render();
+  });
+  return b;
+}
+
 function setupFilters() {
   const chips = $("#category-chips");
-  for (const c of CATEGORIES) {
-    const b = document.createElement("button");
-    b.type = "button";
-    b.className = "chip";
-    b.textContent = c;
-    b.setAttribute("aria-pressed", "false");
-    b.addEventListener("click", () => {
-      if (state.categories.has(c)) state.categories.delete(c);
-      else state.categories.add(c);
-      b.setAttribute("aria-pressed", String(state.categories.has(c)));
-      render();
-    });
-    chips.append(b);
+  for (const c of CATEGORIES) chips.append(makeChip(state.categories, c, c));
+
+  // 來源依 status.json 的順序排列，再補上 status 裡沒有的來源
+  const sourceNames = [...new Set([...Object.keys(state.sourceLabels), ...state.events.flatMap((e) => e.sources)])];
+  const sourceChips = $("#source-chips");
+  for (const name of sourceNames) {
+    const b = makeChip(state.sources, name, state.sourceLabels[name] || name);
+    const count = document.createElement("span");
+    count.className = "chip-count";
+    b.append(" ", count);
+    state.sourceChips.set(name, b);
+    sourceChips.append(b);
   }
 
   const districts = [...new Set(state.events.map((e) => e.district).filter(Boolean))].sort((a, b) =>
@@ -265,6 +299,7 @@ function resetFilters() {
   form.elements.from.value = today;
   form.elements.to.value = addDays(today, DEFAULT_RANGE_DAYS);
   state.categories.clear();
+  state.sources.clear();
   document.querySelectorAll(".chip").forEach((b) => b.setAttribute("aria-pressed", "false"));
 }
 
