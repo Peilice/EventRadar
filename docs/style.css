@@ -369,8 +369,15 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 .reset:hover { background: var(--sunset); border-color: var(--sunset); color: #15213f; }
 
 /* ---------- 活動列表 ---------- */
+.toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 16px;
+}
 .summary {
-  margin: 16px 0 0;
+  margin: 0;
   font-family: var(--font-display);
   font-weight: 800;
   font-size: 1.05rem;
@@ -648,6 +655,206 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 .empty .reset { justify-self: center; }
 
 .hint { color: var(--muted); font-size: 0.82rem; }
+
+/* ---------- 月曆 ---------- */
+.view-toggle {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  padding: 0;
+  border: var(--border) solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: 3px 3px 0 var(--shadow-c);
+  cursor: pointer;
+  transition: transform 0.18s var(--ease), box-shadow 0.18s var(--ease), background-color 0.18s;
+}
+.view-toggle .icon { width: 1.5em; height: 1.5em; }
+.view-toggle:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--shadow-c); }
+.view-toggle:active { transform: translate(3px, 3px); box-shadow: 0 0 0 var(--shadow-c); }
+.view-toggle[aria-pressed="true"] { background: var(--sun); color: #15213f; border-color: #15213f; }
+
+@media (min-width: 1000px) {
+  .layout.is-calendar { grid-template-columns: minmax(0, 1fr); }
+}
+
+.calendar { margin-top: 14px; }
+.cal-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.cal-nav { display: flex; align-items: center; gap: 8px; }
+.cal-title {
+  margin: 0 4px;
+  min-width: 7.2em;
+  text-align: center;
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.4rem;
+  font-variant-numeric: tabular-nums;
+}
+.cal-btn {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: var(--border) solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  box-shadow: 2px 2px 0 var(--shadow-c);
+  cursor: pointer;
+  transition: transform 0.18s var(--ease), box-shadow 0.18s var(--ease);
+}
+.cal-btn .icon { width: 1.3em; height: 1.3em; }
+.cal-btn:hover:not(:disabled) { transform: translate(-1px, -1px); box-shadow: 3px 3px 0 var(--shadow-c); }
+.cal-btn:active:not(:disabled) { transform: translate(2px, 2px); box-shadow: 0 0 0 var(--shadow-c); }
+.cal-btn:disabled, .cal-today:disabled { opacity: 0.35; cursor: not-allowed; box-shadow: none; }
+.cal-today:disabled:hover { background: transparent; border-color: var(--line); color: var(--text); }
+.cal-today { margin-left: 4px; }
+.cal-empty { margin: 0 0 12px; }
+
+.cal-body { display: grid; gap: 8px; }
+@media (min-width: 1000px) {
+  .cal-body { grid-template-columns: minmax(0, 1fr) 340px; gap: 24px; align-items: start; }
+  /* 當日清單放右側並跟著捲動 */
+  .cal-agenda {
+    position: sticky;
+    top: 16px;
+    max-height: calc(100vh - 32px);
+    overflow: auto;
+    padding: 0 10px 12px;
+    scrollbar-width: thin;
+  }
+  .cal-agenda > .day-heading:first-child { margin-top: 0; }
+}
+.cal-none { grid-column: 1 / -1; margin: 0; }
+
+.cal-grid {
+  background: var(--surface);
+  border: var(--border) solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--lift) var(--lift) 0 var(--shadow-c);
+  overflow: hidden;
+}
+.cal-weekdays, .cal-week { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); }
+.cal-weekdays {
+  background: var(--sea);
+  color: var(--on-sea);
+  border-bottom: var(--border) solid var(--line);
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.85rem;
+  text-align: center;
+}
+.cal-weekdays span { padding: 6px 0; }
+.cal-weekdays .is-weekend { color: var(--sun); }
+/* 列：日期數字、三條橫條、「+N」 */
+.cal-week { grid-template-rows: 2rem repeat(3, 1.6rem) 1.4rem; }
+.cal-week + .cal-week { border-top: 1px solid var(--line-soft); }
+.cal-day {
+  grid-row: 1 / -1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  min-width: 0;
+  margin: 0;
+  padding: 4px 6px;
+  border: 0;
+  border-left: 1px solid var(--line-soft);
+  background: transparent;
+  cursor: pointer;
+  text-align: left;
+  transition: background-color 0.15s;
+}
+.cal-day:first-child { border-left: 0; }
+.cal-day:hover { background: var(--surface-2); }
+.cal-day:focus-visible { outline-offset: -3px; border-radius: 0; }
+.cal-day.is-outside { background: color-mix(in oklab, var(--bg) 70%, var(--surface)); color: var(--muted); }
+.cal-day[aria-pressed="true"] {
+  background: color-mix(in oklab, var(--sun) 22%, var(--surface));
+  box-shadow: inset 0 0 0 3px var(--sun);
+}
+.cal-num {
+  display: grid;
+  place-items: center;
+  min-width: 1.75em;
+  height: 1.75em;
+  border-radius: 999px;
+  font-family: var(--font-num);
+  font-weight: 600;
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+}
+.cal-day.is-past .cal-num { color: var(--muted); }
+.cal-day.is-today .cal-num { background: var(--sea); color: var(--on-sea); }
+.cal-more {
+  align-self: flex-end;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+/* 跨日橫條：想去是白底橘框、空心愛心；已報名是黃底墨框、實心票券 */
+.cal-bar {
+  position: relative;
+  z-index: 1;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  margin: 1px 4px;
+  padding: 0 6px;
+  border: var(--border) solid;
+  border-radius: 8px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.78rem;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.cal-bar span { overflow: hidden; text-overflow: ellipsis; }
+.cal-bar .icon { width: 1em; height: 1em; }
+.cal-bar.cont-left { margin-left: 0; border-left-width: 0; border-top-left-radius: 0; border-bottom-left-radius: 0; }
+.cal-bar.cont-right { margin-right: 0; border-right-width: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; }
+.cal-bar[data-mark="want"] { background: var(--surface); border-color: var(--sunset); color: var(--text); }
+.cal-bar[data-mark="want"] .icon { color: var(--sunset); }
+.cal-bar[data-mark="going"] { background: var(--sun); border-color: #15213f; color: #15213f; }
+.cal-bar[data-mark="going"] .icon { fill: currentColor; --tear: var(--sun); }
+
+.cal-long { margin-top: 36px; }
+.cal-long-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 2px;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.1rem;
+}
+.cal-long-title .icon { color: var(--sea); width: 1.3em; height: 1.3em; }
+@media (prefers-color-scheme: dark) { .cal-long-title .icon { color: var(--sun); } }
+.cal-long > .hint { margin: 0 0 14px; }
+
+/* 手機：格子太窄放不下標題，橫條縮成細色條，空心＝想去、實心＝已報名 */
+@media (max-width: 640px) {
+  .cal-title { font-size: 1.15rem; min-width: 6.4em; }
+  .cal-week { grid-template-rows: 1.9rem repeat(3, 10px) 1.3rem; }
+  .cal-day { align-items: center; padding: 3px 2px; }
+  .cal-more { align-self: center; }
+  .cal-bar { margin: 1px 2px; padding: 0; border-radius: 5px; }
+  .cal-bar > * { display: none; }
+}
 
 /* ---------- 頁尾：夜港 ---------- */
 .site-footer {

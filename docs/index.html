@@ -39,6 +39,9 @@
       <symbol id="i-hourglass" viewBox="0 0 24 24"><path d="M6 3h12M6 21h12"/><path d="M7 3c0 5 5 6 5 9s-5 4-5 9"/><path d="M17 3c0 5-5 6-5 9s5 4 5 9"/></symbol>
       <symbol id="i-want" viewBox="0 0 24 24"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7a4.3 4.3 0 0 1 7.5 2.8C19.5 15.4 12 20 12 20z"/></symbol>
       <symbol id="i-going" viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v2a3 3 0 0 0 0 6v2a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-2a3 3 0 0 0 0-6z"/><path style="fill:none;stroke:var(--tear,currentColor)" d="M15 5.5v1.5M15 11.25v1.5M15 17v1.5"/></symbol>
+      <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 17.5h.01M12 17.5h.01"/></symbol>
+      <symbol id="i-chev-left" viewBox="0 0 24 24"><path d="m15 5-7 7 7 7"/></symbol>
+      <symbol id="i-chev-right" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
       <symbol id="i-radar" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><path d="M12 12 18.4 5.6"/></symbol>
     </defs>
   </svg>
@@ -133,7 +136,35 @@
     </aside>
 
     <main>
-      <p class="summary" id="summary" aria-live="polite"></p>
+      <div class="toolbar">
+        <p class="summary" id="summary" aria-live="polite"></p>
+        <button type="button" class="view-toggle" id="view-toggle" aria-pressed="false" aria-label="月曆" title="月曆">
+          <svg class="icon" aria-hidden="true"><use href="#i-calendar"/></svg>
+        </button>
+      </div>
+
+      <!-- 月曆：只顯示有標記的活動，不套用左側篩選。id 不叫 calendar，避免 #calendar 讓瀏覽器捲動到這裡 -->
+      <section class="calendar" id="cal-view" aria-label="我的標記月曆" hidden>
+        <div class="cal-head">
+          <div class="cal-nav">
+            <button type="button" class="cal-btn" id="cal-prev" aria-label="上個月"><svg class="icon" aria-hidden="true"><use href="#i-chev-left"/></svg></button>
+            <h2 class="cal-title" id="cal-title" aria-live="polite"></h2>
+            <button type="button" class="cal-btn" id="cal-next" aria-label="下個月"><svg class="icon" aria-hidden="true"><use href="#i-chev-right"/></svg></button>
+            <button type="button" class="reset cal-today" id="cal-today">今天</button>
+          </div>
+          <div class="chips" id="cal-legend" aria-label="只看"></div>
+        </div>
+        <p class="hint cal-empty" id="cal-empty" hidden>還沒有標記任何活動。在列表點活動卡片上的「想去」或「已報名」，就會出現在月曆上。</p>
+        <div class="cal-body">
+          <div class="cal-grid" id="cal-grid"></div>
+          <div class="board cal-agenda" id="cal-agenda" aria-label="選取日期的活動"></div>
+        </div>
+        <section class="cal-long" id="cal-long" hidden>
+          <h2 class="cal-long-title"><svg class="icon" aria-hidden="true"><use href="#i-hourglass"/></svg><span id="cal-long-title"></span></h2>
+          <p class="hint">展期超過 14 天的活動不畫在月曆格子上，依結束日期排序。</p>
+          <div class="board" id="cal-long-list"></div>
+        </section>
+      </section>
 
       <section class="board" id="upcoming" aria-label="即將開始的活動"></section>
 

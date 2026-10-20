@@ -18,6 +18,9 @@ const DEFAULT_RANGE_DAYS = 30;
 // 個人標記：存在瀏覽器的 localStorage，格式 { 活動 ID: "want" | "going" }
 const MARK_KEY = "eventradar.marks";
 const MARK_LABELS = { want: "想去", going: "已報名" };
+// 月曆：展期超過這個天數的活動不畫在格子上，改列在月曆下方；每週最多畫幾條橫條
+const LONG_EVENT_DAYS = 14;
+const CAL_LANES = 3;
 
 const state = {
   events: [],
@@ -28,6 +31,11 @@ const state = {
   marks: {},
   markFilter: new Set(),
   markChips: new Map(),
+  view: "list",
+  calMonth: "",
+  calDay: "",
+  calKinds: new Set(),
+  calChips: new Map(),
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -43,6 +51,16 @@ function addDays(day, n) {
   const dt = new Date(Date.UTC(y, m - 1, d + n));
   return dt.toISOString().slice(0, 10);
 }
+
+// month 為 YYYY-MM
+function shiftMonth(month, n) {
+  const [y, m] = month.split("-").map(Number);
+  return new Date(Date.UTC(y, m - 1 + n, 1)).toISOString().slice(0, 7);
+}
+
+const monthLast = (month) => addDays(`${shiftMonth(month, 1)}-01`, -1);
+const daysBetween = (a, b) => (Date.parse(b) - Date.parse(a)) / 86400000;
+const weekdayOf = (day) => new Date(`${day}T00:00:00Z`).getUTCDay();
 
 function fmtDay(day) {
   const [y, m, d] = day.split("-").map(Number);
@@ -110,8 +128,8 @@ function toggleMark(e, kind) {
 function updateMarkCounts() {
   const counts = {};
   for (const kind of Object.values(state.marks)) counts[kind] = (counts[kind] || 0) + 1;
-  for (const [kind, chip] of state.markChips) {
-    chip.querySelector(".chip-count").textContent = counts[kind] || 0;
+  for (const chips of [state.markChips, state.calChips]) {
+    for (const [kind, chip] of chips) chip.querySelector(".chip-count").textContent = counts[kind] || 0;
   }
 }
 
@@ -181,8 +199,8 @@ function renderEvent(e) {
     b.addEventListener("click", () => {
       toggleMark(e, b.dataset.mark);
       syncMarkBtns();
-      // 只看標記時，取消標記的活動要從列表移除
-      if (state.markFilter.size) render();
+      // 只看標記或月曆時，取消標記的活動要從畫面移除
+      if (state.markFilter.size || state.view === "calendar") render();
       else updateMarkCounts();
     });
   }
@@ -241,6 +259,22 @@ function renderEvent(e) {
 }
 
 function render() {
+  const cal = state.view === "calendar";
+  $(".layout").classList.toggle("is-calendar", cal);
+  $(".sidebar").hidden = $("#upcoming").hidden = cal;
+  $("#cal-view").hidden = !cal;
+  const toggle = $("#view-toggle");
+  toggle.setAttribute("aria-pressed", String(cal));
+  toggle.title = cal ? "回到列表" : "月曆";
+  if (cal) {
+    $("#ongoing-wrap").hidden = true;
+    renderCalendar();
+  } else {
+    renderList();
+  }
+}
+
+function renderList() {
   // 只看標記時不限日期：停用的欄位不會出現在 FormData，readFilters 會改用預設值
   form.elements.from.disabled = form.elements.to.disabled = state.markFilter.size > 0;
   const f = readFilters();
@@ -339,6 +373,172 @@ function renderEmpty(activeFilters) {
   return box;
 }
 
+// --- 月曆 ---
+
+const isLong = (e) => daysBetween(dayOf(e.start), dayOf(e.end)) + 1 > LONG_EVENT_DAYS;
+const overlaps = (e, from, to) => dayOf(e.start) <= to && dayOf(e.end) >= from;
+// 已報名排在想去前面，再依開始時間
+const markRank = (e) => (state.marks[e.id] === "going" ? 0 : 1);
+const byMark = (a, b) => markRank(a) - markRank(b) || a.start.localeCompare(b.start);
+
+function markedEvents() {
+  return state.events.filter((e) => {
+    const kind = state.marks[e.id];
+    return kind && (!state.calKinds.size || state.calKinds.has(kind));
+  });
+}
+
+function goMonth(month) {
+  const today = taipeiToday();
+  const first = `${month}-01`;
+  if (month === today.slice(0, 7)) {
+    state.calDay = today;
+  } else {
+    // 換到別的月份時，先選該月第一個有標記活動的日子
+    const last = monthLast(month);
+    const starts = markedEvents()
+      .filter((e) => overlaps(e, first, last))
+      .map((e) => (dayOf(e.start) < first ? first : dayOf(e.start)))
+      .sort();
+    state.calDay = starts[0] || first;
+  }
+  state.calMonth = month;
+  render();
+}
+
+function renderCalendar() {
+  updateMarkCounts();
+  const today = taipeiToday();
+  const month = state.calMonth;
+  const first = `${month}-01`;
+  const last = monthLast(month);
+  const events = markedEvents().filter((e) => overlaps(e, first, last));
+  const total = Object.keys(state.marks).length;
+
+  const [y, m] = month.split("-").map(Number);
+  $("#cal-title").textContent = `${y} 年 ${m} 月`;
+  // 標記會在活動結束後清掉，往前翻沒有東西可看
+  $("#cal-prev").disabled = month <= today.slice(0, 7);
+  $("#cal-today").disabled = month === today.slice(0, 7);
+  $("#summary").textContent = `已標記 ${total} 筆活動`;
+  $("#cal-empty").hidden = total > 0;
+
+  const head = document.createElement("div");
+  head.className = "cal-weekdays";
+  head.setAttribute("aria-hidden", "true");
+  WEEKDAYS.forEach((wd, i) => {
+    const s = document.createElement("span");
+    if (i === 0 || i === 6) s.className = "is-weekend";
+    s.textContent = wd;
+    head.append(s);
+  });
+  const grid = $("#cal-grid");
+  grid.replaceChildren(head);
+  const short = events.filter((e) => !isLong(e));
+  for (let start = addDays(first, -weekdayOf(first)); start <= last; start = addDays(start, 7)) {
+    grid.append(renderWeek(start, short, events, month, today));
+  }
+
+  const agenda = $("#cal-agenda");
+  const list = events.filter((e) => overlaps(e, state.calDay, state.calDay)).sort(byMark);
+  agenda.replaceChildren(renderDayHeading(state.calDay, list.length), ...list.map(renderEvent));
+  if (!list.length) {
+    const p = document.createElement("p");
+    p.className = "hint cal-none";
+    p.textContent = "這天沒有標記的活動。";
+    agenda.append(p);
+  }
+
+  const long = events.filter(isLong).sort((a, b) => a.end.localeCompare(b.end));
+  $("#cal-long").hidden = !long.length;
+  $("#cal-long-title").textContent = `本月可去的長期活動（${long.length}）`;
+  $("#cal-long-list").replaceChildren(...long.map(renderEvent));
+}
+
+// 一週一列：底層是七個日期按鈕，上面疊跨日橫條（只是裝飾，點擊會穿透到日期）
+function renderWeek(start, short, all, month, today) {
+  const end = addDays(start, 6);
+  const week = document.createElement("div");
+  week.className = "cal-week";
+
+  const segs = short
+    .filter((e) => overlaps(e, start, end))
+    .map((e) => {
+      const s = dayOf(e.start) < start ? start : dayOf(e.start);
+      const t = dayOf(e.end) > end ? end : dayOf(e.end);
+      return { e, s, t, from: daysBetween(start, s), span: daysBetween(s, t) + 1 };
+    })
+    // 已報名先排，才不會被想去的多日活動擠到「+N」裡
+    .sort((a, b) => markRank(a.e) - markRank(b.e) || a.from - b.from || b.span - a.span || a.e.start.localeCompare(b.e.start));
+
+  // 依序放進第一條整段都空著的 lane，放不下的算進當天的「+N」
+  const lanes = [];
+  const hidden = Array(7).fill(0);
+  const bars = [];
+  for (const seg of segs) {
+    const cols = [...Array(seg.span).keys()].map((i) => seg.from + i);
+    let lane = lanes.findIndex((used) => cols.every((c) => !used[c]));
+    if (lane < 0 && lanes.length < CAL_LANES) lane = lanes.push(Array(7).fill(false)) - 1;
+    if (lane < 0) {
+      for (const c of cols) hidden[c]++;
+      continue;
+    }
+    for (const c of cols) lanes[lane][c] = true;
+    bars.push(renderBar(seg, lane));
+  }
+
+  for (let i = 0; i < 7; i++) {
+    const day = addDays(start, i);
+    const cell = document.createElement("button");
+    cell.type = "button";
+    cell.className = "cal-day";
+    cell.style.gridColumn = i + 1;
+    if (day.slice(0, 7) !== month) cell.classList.add("is-outside");
+    if (day < today) cell.classList.add("is-past");
+    if (day === today) cell.classList.add("is-today");
+    cell.setAttribute("aria-pressed", String(day === state.calDay));
+
+    const onDay = all.filter((e) => overlaps(e, day, day));
+    const going = onDay.filter((e) => state.marks[e.id] === "going").length;
+    const want = onDay.length - going;
+    const parts = [going && `已報名 ${going} 筆`, want && `想去 ${want} 筆`].filter(Boolean);
+    cell.setAttribute("aria-label", `${fmtDay(day)}${day === today ? "，今天" : ""}，${parts.join("、") || "沒有標記"}`);
+
+    cell.innerHTML = `<span class="cal-num" aria-hidden="true"></span>`;
+    cell.firstChild.textContent = Number(day.slice(8));
+    if (hidden[i]) cell.insertAdjacentHTML("beforeend", `<span class="cal-more" aria-hidden="true">+${hidden[i]}</span>`);
+
+    cell.addEventListener("click", () => {
+      state.calMonth = day.slice(0, 7);
+      state.calDay = day;
+      render();
+      // 窄螢幕的當日清單在月曆下方，捲過去才看得到
+      if (!window.matchMedia("(min-width: 1000px)").matches) $("#cal-agenda").scrollIntoView({ block: "start" });
+    });
+    week.append(cell);
+  }
+  week.append(...bars);
+  return week;
+}
+
+function renderBar({ e, s, t, from, span }, lane) {
+  const kind = state.marks[e.id];
+  const bar = document.createElement("div");
+  bar.className = "cal-bar";
+  bar.dataset.mark = kind;
+  bar.setAttribute("aria-hidden", "true");
+  bar.style.gridColumn = `${from + 1} / span ${span}`;
+  bar.style.gridRow = lane + 2;
+  // 跨週的活動在接續的那一側不畫圓角
+  if (s > dayOf(e.start)) bar.classList.add("cont-left");
+  if (t < dayOf(e.end)) bar.classList.add("cont-right");
+  bar.innerHTML = `<svg class="icon"><use href="#i-${kind}"/></svg><span></span>`;
+  const time = timeOf(e.start);
+  const showTime = s === dayOf(e.start) && time !== "00:00";
+  bar.querySelector("span").textContent = `${showTime ? time + " " : ""}${e.title}`;
+  return bar;
+}
+
 // 來源 chip 上的筆數：套用其他篩選條件後，各來源各有幾筆
 function updateSourceCounts(f) {
   const others = { ...f, sources: new Set() };
@@ -404,19 +604,23 @@ function makeChip(selected, value, label) {
   return b;
 }
 
-function setupFilters() {
-  const markChips = $("#mark-chips");
+// 想去／已報名 chip：附圖示與筆數，chips 用來讓 updateMarkCounts 找到它們
+function makeMarkChips(container, selected, chips) {
   for (const [kind, label] of Object.entries(MARK_LABELS)) {
-    const b = makeChip(state.markFilter, kind, label);
+    const b = makeChip(selected, kind, label);
     b.classList.add("chip-mark");
     b.dataset.mark = kind;
     b.insertAdjacentHTML("afterbegin", `<svg class="icon" aria-hidden="true"><use href="#i-${kind}"/></svg>`);
     const count = document.createElement("span");
     count.className = "chip-count";
     b.append(" ", count);
-    state.markChips.set(kind, b);
-    markChips.append(b);
+    chips.set(kind, b);
+    container.append(b);
   }
+}
+
+function setupFilters() {
+  makeMarkChips($("#mark-chips"), state.markFilter, state.markChips);
 
   const chips = $("#category-chips");
   for (const c of CATEGORIES) {
@@ -464,7 +668,28 @@ function resetFilters() {
   state.categories.clear();
   state.sources.clear();
   state.markFilter.clear();
-  document.querySelectorAll(".chip").forEach((b) => b.setAttribute("aria-pressed", "false"));
+  form.querySelectorAll(".chip").forEach((b) => b.setAttribute("aria-pressed", "false"));
+}
+
+const viewFromHash = () => (location.hash === "#calendar" ? "calendar" : "list");
+
+function setupCalendar() {
+  const today = taipeiToday();
+  state.calMonth = today.slice(0, 7);
+  state.calDay = today;
+  state.view = viewFromHash();
+  makeMarkChips($("#cal-legend"), state.calKinds, state.calChips);
+  $("#cal-prev").addEventListener("click", () => goMonth(shiftMonth(state.calMonth, -1)));
+  $("#cal-next").addEventListener("click", () => goMonth(shiftMonth(state.calMonth, 1)));
+  $("#cal-today").addEventListener("click", () => goMonth(taipeiToday().slice(0, 7)));
+  // 視圖記在網址，重新整理或按上一頁都會回到同一個視圖
+  $("#view-toggle").addEventListener("click", () => {
+    location.hash = state.view === "calendar" ? "" : "calendar";
+  });
+  window.addEventListener("hashchange", () => {
+    state.view = viewFromHash();
+    render();
+  });
 }
 
 async function main() {
@@ -481,6 +706,7 @@ async function main() {
     renderStatus(status);
     $("#meta").textContent = `更新於 ${fmtDateTime(data.generated_at)} · 共 ${data.events.length} 筆活動`;
     setupFilters();
+    setupCalendar();
     render();
   } catch (err) {
     $("#meta").textContent = `資料載入失敗：${err.message}`;
