@@ -298,6 +298,15 @@ input:focus-visible, select:focus-visible {
   background: var(--surface);
   box-shadow: 0 0 0 3px var(--sun);
 }
+/* iOS Safari 的日期欄有固有最小寬度、空值時高度塌陷且文字置中，需重設 */
+input[type="date"] {
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  min-width: 0;
+  text-align: left;
+}
+input[type="date"]::-webkit-date-and-time-value { text-align: left; min-height: 1.5em; }
 input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity: 0.8; }
 @media (prefers-color-scheme: dark) {
   input[type="date"]::-webkit-calendar-picker-indicator { filter: invert(1); }
