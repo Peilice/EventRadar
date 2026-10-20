@@ -1,6 +1,266 @@
 {
- "fetched_at": "2026-10-20T01:15:20.778022+08:00",
+ "fetched_at": "2026-10-21T03:49:33.212305+08:00",
  "events": [
+  {
+   "id": "twmarket:61425:20261225",
+   "title": "聖誕主題市集",
+   "start": "2026-12-25T15:00:00+08:00",
+   "end": "2026-12-25T21:00:00+08:00",
+   "venue": "鳳山NOVA資訊廣場",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/25（五）、12/26（六）、12/27（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-2512-27-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1nova%e8%b3%87%e8%a8%8a%e5%bb%a3%e5%a0%b4-%e8%81%96%e8%aa%95%e4%b8%bb%e9%a1%8c%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61425:20261226",
+   "title": "聖誕主題市集",
+   "start": "2026-12-26T15:00:00+08:00",
+   "end": "2026-12-26T21:00:00+08:00",
+   "venue": "鳳山NOVA資訊廣場",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/25（五）、12/26（六）、12/27（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-2512-27-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1nova%e8%b3%87%e8%a8%8a%e5%bb%a3%e5%a0%b4-%e8%81%96%e8%aa%95%e4%b8%bb%e9%a1%8c%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61425:20261227",
+   "title": "聖誕主題市集",
+   "start": "2026-12-27T15:00:00+08:00",
+   "end": "2026-12-27T21:00:00+08:00",
+   "venue": "鳳山NOVA資訊廣場",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/25（五）、12/26（六）、12/27（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-2512-27-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1nova%e8%b3%87%e8%a8%8a%e5%bb%a3%e5%a0%b4-%e8%81%96%e8%aa%95%e4%b8%bb%e9%a1%8c%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61416:20261128",
+   "title": "外台歌仔戲2.0市集",
+   "start": "2026-11-28T15:00:00+08:00",
+   "end": "2026-11-28T21:00:00+08:00",
+   "venue": "高雄傳藝園區",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/28（六）、11/29（日）、12/5（六）、12/6（日）、12/12（六）、12/13（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2812-13-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%82%b3%e8%97%9d%e5%9c%92%e5%8d%80-%e5%a4%96%e5%8f%b0%e6%ad%8c%e4%bb%94%e6%88%b22-0%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61416:20261129",
+   "title": "外台歌仔戲2.0市集",
+   "start": "2026-11-29T15:00:00+08:00",
+   "end": "2026-11-29T21:00:00+08:00",
+   "venue": "高雄傳藝園區",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/28（六）、11/29（日）、12/5（六）、12/6（日）、12/12（六）、12/13（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2812-13-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%82%b3%e8%97%9d%e5%9c%92%e5%8d%80-%e5%a4%96%e5%8f%b0%e6%ad%8c%e4%bb%94%e6%88%b22-0%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61416:20261205",
+   "title": "外台歌仔戲2.0市集",
+   "start": "2026-12-05T15:00:00+08:00",
+   "end": "2026-12-05T21:00:00+08:00",
+   "venue": "高雄傳藝園區",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/28（六）、11/29（日）、12/5（六）、12/6（日）、12/12（六）、12/13（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2812-13-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%82%b3%e8%97%9d%e5%9c%92%e5%8d%80-%e5%a4%96%e5%8f%b0%e6%ad%8c%e4%bb%94%e6%88%b22-0%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61416:20261206",
+   "title": "外台歌仔戲2.0市集",
+   "start": "2026-12-06T15:00:00+08:00",
+   "end": "2026-12-06T21:00:00+08:00",
+   "venue": "高雄傳藝園區",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/28（六）、11/29（日）、12/5（六）、12/6（日）、12/12（六）、12/13（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2812-13-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%82%b3%e8%97%9d%e5%9c%92%e5%8d%80-%e5%a4%96%e5%8f%b0%e6%ad%8c%e4%bb%94%e6%88%b22-0%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61416:20261212",
+   "title": "外台歌仔戲2.0市集",
+   "start": "2026-12-12T15:00:00+08:00",
+   "end": "2026-12-12T21:00:00+08:00",
+   "venue": "高雄傳藝園區",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/28（六）、11/29（日）、12/5（六）、12/6（日）、12/12（六）、12/13（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2812-13-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%82%b3%e8%97%9d%e5%9c%92%e5%8d%80-%e5%a4%96%e5%8f%b0%e6%ad%8c%e4%bb%94%e6%88%b22-0%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61416:20261213",
+   "title": "外台歌仔戲2.0市集",
+   "start": "2026-12-13T15:00:00+08:00",
+   "end": "2026-12-13T21:00:00+08:00",
+   "venue": "高雄傳藝園區",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/28（六）、11/29（日）、12/5（六）、12/6（日）、12/12（六）、12/13（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2812-13-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%82%b3%e8%97%9d%e5%9c%92%e5%8d%80-%e5%a4%96%e5%8f%b0%e6%ad%8c%e4%bb%94%e6%88%b22-0%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61415",
+   "title": "快閃櫃位",
+   "start": "2026-11-01T11:00:00+08:00",
+   "end": "2026-12-31T22:00:00+08:00",
+   "venue": "高雄夢時代",
+   "address": "高雄市前鎮區中華五路789號",
+   "district": "前鎮區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "時間：11:00–22:00\n地址：高雄市前鎮區中華五路789號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-0112-31-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a2%e6%99%82%e4%bb%a3-%e5%bf%ab%e9%96%83%e6%ab%83%e4%bd%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:61387:20261205",
    "title": "高雄親子遊樂園區市集",
@@ -22,6 +282,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -47,6 +308,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -72,6 +334,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -97,6 +360,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -122,6 +386,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -147,6 +412,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -172,6 +438,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -197,6 +464,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -222,6 +490,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -247,6 +516,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -272,6 +542,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -297,6 +568,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -322,6 +594,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -347,6 +620,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -372,6 +646,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -397,6 +672,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -422,6 +698,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -447,6 +724,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -472,6 +750,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -497,6 +776,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -522,6 +802,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -547,6 +828,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -572,6 +854,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -597,6 +880,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -622,6 +906,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -647,6 +932,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -672,6 +958,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -697,6 +984,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -722,6 +1010,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -747,6 +1036,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -772,6 +1062,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -797,6 +1088,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -822,6 +1114,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -847,6 +1140,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -872,6 +1166,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -897,6 +1192,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -922,6 +1218,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -947,6 +1244,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -972,6 +1270,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -997,6 +1296,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1022,6 +1322,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1047,6 +1348,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1072,6 +1374,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1097,6 +1400,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1122,6 +1426,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1147,6 +1452,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1172,6 +1478,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1197,6 +1504,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1222,6 +1530,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1247,6 +1556,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1272,6 +1582,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1297,6 +1608,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1322,6 +1634,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1347,6 +1660,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1372,6 +1686,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1397,6 +1712,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1422,6 +1738,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1447,6 +1764,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1472,6 +1790,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1497,6 +1816,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1522,6 +1842,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1547,6 +1868,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1572,6 +1894,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1597,6 +1920,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1622,6 +1946,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1647,6 +1972,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1672,6 +1998,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1697,6 +2024,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1722,6 +2050,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1747,6 +2076,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1772,6 +2102,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1797,6 +2128,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1822,6 +2154,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1847,6 +2180,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1872,6 +2206,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1897,6 +2232,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1922,6 +2258,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1947,6 +2284,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1972,6 +2310,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -1997,6 +2336,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2022,6 +2362,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2047,6 +2388,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2072,6 +2414,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2097,6 +2440,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2122,6 +2466,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2147,6 +2492,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2172,6 +2518,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2197,6 +2544,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2222,6 +2570,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2247,6 +2596,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2272,6 +2622,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2297,6 +2648,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2322,6 +2674,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2347,6 +2700,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2372,6 +2726,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2397,6 +2752,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2422,6 +2778,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2447,6 +2804,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2472,6 +2830,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2497,6 +2856,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2522,6 +2882,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2547,6 +2908,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2572,6 +2934,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2597,6 +2960,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2622,6 +2986,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2647,6 +3012,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2672,6 +3038,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2697,6 +3064,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2722,6 +3090,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2747,6 +3116,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2772,6 +3142,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2797,6 +3168,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2822,6 +3194,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2847,6 +3220,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2872,6 +3246,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2897,6 +3272,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2922,6 +3298,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2947,6 +3324,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2972,6 +3350,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -2997,6 +3376,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3022,6 +3402,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3047,6 +3428,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3072,6 +3454,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3097,6 +3480,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3122,6 +3506,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3147,6 +3532,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3172,6 +3558,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3197,6 +3584,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3222,6 +3610,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3247,6 +3636,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3272,6 +3662,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3297,6 +3688,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3322,6 +3714,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3347,6 +3740,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3372,6 +3766,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3397,6 +3792,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3422,6 +3818,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3447,6 +3844,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3472,6 +3870,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3497,6 +3896,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3522,6 +3922,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3547,6 +3948,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3572,6 +3974,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3597,6 +4000,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3622,6 +4026,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3647,6 +4052,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3672,6 +4078,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3697,6 +4104,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3722,6 +4130,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3747,6 +4156,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3772,6 +4182,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3797,6 +4208,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3822,6 +4234,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3847,6 +4260,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3872,6 +4286,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3897,6 +4312,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3922,6 +4338,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]
@@ -3947,6 +4364,7 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
    "sources": [
     "twmarket"
    ]

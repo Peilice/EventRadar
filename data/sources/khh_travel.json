@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T01:15:20.778022+08:00",
+ "fetched_at": "2026-10-21T03:49:33.212305+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -22,6 +22,7 @@
    ],
    "lat": 22.62208,
    "lng": 120.27477,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -47,6 +48,7 @@
    ],
    "lat": 22.62305,
    "lng": 120.3421,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -72,6 +74,7 @@
    ],
    "lat": 22.70312,
    "lng": 120.29447,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -97,6 +100,7 @@
    ],
    "lat": 22.70312,
    "lng": 120.29447,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -122,6 +126,7 @@
    ],
    "lat": 22.70312,
    "lng": 120.29447,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -147,6 +152,7 @@
    ],
    "lat": 22.6572,
    "lng": 120.28231,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -172,6 +178,7 @@
    ],
    "lat": 22.61997,
    "lng": 120.28165,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -197,6 +204,7 @@
    ],
    "lat": 22.62251,
    "lng": 120.34295,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -222,6 +230,7 @@
    ],
    "lat": 22.61277,
    "lng": 120.30432,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -247,6 +256,7 @@
    ],
    "lat": 22.61119,
    "lng": 120.29903,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -272,6 +282,7 @@
    ],
    "lat": 22.61865,
    "lng": 120.27779,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -297,6 +308,7 @@
    ],
    "lat": 22.6223,
    "lng": 120.3894,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -322,6 +334,7 @@
    ],
    "lat": 22.59572,
    "lng": 120.30743,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -347,6 +360,7 @@
    ],
    "lat": 22.88656,
    "lng": 120.48229,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -372,6 +386,7 @@
    ],
    "lat": 22.62248,
    "lng": 120.28893,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -397,6 +412,7 @@
    ],
    "lat": 22.61842,
    "lng": 120.28914,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -422,6 +438,7 @@
    ],
    "lat": 22.61998,
    "lng": 120.28153,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -447,6 +464,7 @@
    ],
    "lat": 22.78269,
    "lng": 120.29844,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -472,6 +490,7 @@
    ],
    "lat": 22.66887,
    "lng": 120.30272,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -497,6 +516,7 @@
    ],
    "lat": 22.62045,
    "lng": 120.3403,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
@@ -522,6 +542,33 @@
    ],
    "lat": 22.61801,
    "lng": 120.28892,
+   "aliases": [],
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008128",
+   "title": "2026追星延續港都同樂",
+   "start": "2026-11-15T00:00:00+08:00",
+   "end": "2026-11-22T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市800新興區全區",
+   "district": "新興區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8128/"
+    }
+   ],
+   "lat": 22.62733,
+   "lng": 120.30163,
+   "aliases": [],
    "sources": [
     "khh_travel"
    ]
