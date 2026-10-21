@@ -11,7 +11,9 @@ DISTRICTS = [
     "美濃", "六龜", "甲仙", "杉林", "內門", "茂林", "桃源", "那瑪夏",
 ]
 
-_DISTRICT_RE = re.compile("(" + "|".join(DISTRICTS) + ")區")
+# 區名前面若接一般文字就不算（例如「森林園區」不是林園區）；
+# 只接受開頭、「市」「縣」「雄」、數字（郵遞區號）、空白與標點之後
+_DISTRICT_RE = re.compile(r"(?<![^\W\d_市縣雄])(" + "|".join(DISTRICTS) + ")區")
 _ONLINE_RE = re.compile(r"線上|online|zoom|google meet|視訊|直播", re.IGNORECASE)
 
 
