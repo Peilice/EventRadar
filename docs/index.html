@@ -19,7 +19,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@400;500;700;800;900&family=Fredoka:wght@500;600;700&display=swap">
   <!-- 改了 style.css 或 app.js 就更新 ?v=，避免瀏覽器拿到快取裡的舊檔 -->
-  <link rel="stylesheet" href="style.css?v=20261021">
+  <link rel="stylesheet" href="style.css?v=20261021b">
 </head>
 <body>
   <!-- 圖示：同一套 24px 格線、2px 圓頭線條 -->
@@ -40,7 +40,6 @@
       <symbol id="i-hourglass" viewBox="0 0 24 24"><path d="M6 3h12M6 21h12"/><path d="M7 3c0 5 5 6 5 9s-5 4-5 9"/><path d="M17 3c0 5-5 6-5 9s5 4 5 9"/></symbol>
       <symbol id="i-want" viewBox="0 0 24 24"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7a4.3 4.3 0 0 1 7.5 2.8C19.5 15.4 12 20 12 20z"/></symbol>
       <symbol id="i-going" viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v2a3 3 0 0 0 0 6v2a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-2a3 3 0 0 0 0-6z"/><path style="fill:none;stroke:var(--tear,currentColor)" d="M15 5.5v1.5M15 11.25v1.5M15 17v1.5"/></symbol>
-      <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 17.5h.01M12 17.5h.01"/></symbol>
       <symbol id="i-chev-left" viewBox="0 0 24 24"><path d="m15 5-7 7 7 7"/></symbol>
       <symbol id="i-chev-right" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
       <symbol id="i-radar" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><path d="M12 12 18.4 5.6"/></symbol>
@@ -140,7 +139,17 @@
       <div class="toolbar">
         <p class="summary" id="summary" aria-live="polite"></p>
         <button type="button" class="view-toggle" id="view-toggle" aria-pressed="false" aria-label="月曆" title="月曆">
-          <svg class="icon" aria-hidden="true"><use href="#i-calendar"/></svg>
+          <!-- 彩色月曆：橘色頂條、白紙面、海藍日期點，黃點是標記的那天 -->
+          <svg class="cal-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <rect class="ci-body" x="3" y="5" width="18" height="16" rx="3"/>
+            <path class="ci-band" d="M3 10V8a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v2z"/>
+            <path class="ci-ring" d="M8 3v4M16 3v4"/>
+            <circle class="ci-dot" cx="8" cy="14" r="1.3"/>
+            <circle class="ci-dot" cx="12" cy="14" r="1.3"/>
+            <circle class="ci-dot" cx="8" cy="17.5" r="1.3"/>
+            <circle class="ci-dot" cx="12" cy="17.5" r="1.3"/>
+            <circle class="ci-mark" cx="16" cy="15.8" r="2.4"/>
+          </svg>
         </button>
       </div>
 
@@ -216,6 +225,6 @@
     </article>
   </template>
 
-  <script src="app.js?v=20261021"></script>
+  <script src="app.js?v=20261021b"></script>
 </body>
 </html>
