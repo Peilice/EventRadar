@@ -3,7 +3,7 @@
 import json
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, Event, Link
-from eventradar.sources import accupass, iculture, khh_travel, kktix, kpmc, twmarket, weiwuying
+from eventradar.sources import accupass, iculture, khh_travel, kktix, kpmc, ksml, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -226,3 +226,57 @@ class TestTwmarket:
         assert days == [date(2026, 10, 24), date(2026, 11, 21), date(2026, 11, 22)]
         weekend = twmarket.session_dates("11月全月（限假日）", date(2026, 11, 1), date(2026, 11, 8))
         assert weekend == [date(2026, 11, 1), date(2026, 11, 7), date(2026, 11, 8)]
+
+
+class TestKsml:
+    def test_parses(self, fixture_bytes, now):
+        events = ksml.parse(fixture_bytes("ksml.json"), now)
+        _check_common(events, now)
+        assert all(e.organizer_type == "政府" for e in events)
+        assert sum(1 for e in events if e.district) >= len(events) * 0.9
+        for e in events:
+            assert e.links[0].url.startswith("https://www.ksml.edu.tw/LibNews/Details.aspx")
+
+    def test_skips_items_without_dates(self, fixture_bytes, now):
+        ids = {e.id for e in ksml.parse(fixture_bytes("ksml.json"), now)}
+        assert "ksml:129" not in ids  # FB 粉絲團連結
+        assert "ksml:15776" not in ids  # 循環袋交流箱，沒有活動日期
+
+    def test_sessions_from_body(self, fixture_bytes, now):
+        events = {e.id: e for e in ksml.parse(fixture_bytes("ksml.json"), now)}
+        e = events["ksml:16424"]  # 兩場：11/1、11/13 14:00-16:00
+        assert (e.start.isoformat(), e.end.isoformat()) == ("2026-11-01T14:00:00+08:00", "2026-11-13T16:00:00+08:00")
+        assert e.district == "三民區"
+        e = events["ksml:16413"]  # 列表沒有活動日期，從標題與內文讀
+        assert e.start.isoformat() == "2026-12-19T09:30:00+08:00"
+        assert e.fee == "付費"
+
+    def test_venue_outside_library(self, fixture_bytes, now):
+        events = {e.id: e for e in ksml.parse(fixture_bytes("ksml.json"), now)}
+        assert events["ksml:16334"].district == "三民區"  # 橋頭分館辦的走讀，地點在三民區
+        assert events["ksml:16400"].district == ""  # 只寫集合地點
+        assert events["ksml:16422"].address == "高雄市前鎮區新光路61號"  # 多元文化部 → 總館
+
+    def test_dates_in(self):
+        from datetime import date
+
+        ref = date(2026, 10, 21)
+        assert ksml.dates_in("活動時間：115/11/01 (日) 上午10:00", ref) == [date(2026, 11, 1)]
+        assert ksml.dates_in("115年 11月 7 日（六）", ref) == [date(2026, 11, 7)]
+        assert ksml.dates_in("時間：2026/10/11（二）-2027/1/10（日）", ref) == [date(2026, 10, 11), date(2027, 1, 10)]
+        assert ksml.dates_in("課程日期：10月7日至11月25日", ref) == [date(2026, 10, 7), date(2026, 11, 25)]
+        assert ksml.dates_in("時間：1/9(六)", ref) == [date(2027, 1, 9)]  # 沒寫年份且早於參考日太多 → 明年
+        assert ksml.dates_in("時間：14:00 - 16:00", ref) == []
+
+    def test_clock_times(self):
+        from datetime import time
+
+        assert ksml.clock_times("時間：3/21 周六下午 2:30~5:00") == [time(14, 30), time(17, 0)]
+        assert ksml.clock_times("下午14:00－16:00") == [time(14, 0), time(16, 0)]
+        assert ksml.clock_times("上午10：00-12：00") == [time(10, 0), time(12, 0)]
+
+    def test_branch_names(self):
+        assert ksml._branch_of("岡山文化中心分館3樓") == "岡山文化中心分館"
+        assert ksml._branch_of("文化中心分館4樓團欣室") == "高雄市文化中心分館"
+        assert ksml._branch_of("南鼓山分館") == "南鼓山分館"
+        assert ksml._branch_of("李科永圖書館 戶外草坪") == "李科永紀念圖書館"
