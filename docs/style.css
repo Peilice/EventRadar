@@ -87,6 +87,8 @@
 }
 
 * { box-sizing: border-box; }
+/* .board 等元件設了 display，會蓋過 hidden 屬性 */
+[hidden] { display: none !important; }
 
 html { scrollbar-color: var(--line) var(--bg); }
 
