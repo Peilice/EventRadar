@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T03:49:33.212305+08:00",
+ "fetched_at": "2026-10-22T03:55:12.242866+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -18,32 +18,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a953c1f3041610007c17381"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69af9180738aff0007321694",
-   "title": "【衛武營小時光】韓國傳統說唱故事《水底王國，彼岸之歌》",
-   "start": "2026-10-21T20:00:00+08:00",
-   "end": "2026-10-21T20:00:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "偶戲與盤索里的精妙結合 以經典文本的當代演繹叩問生命",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69af9180738aff0007321694"
     }
    ],
    "lat": null,
@@ -133,7 +107,7 @@
   },
   {
    "id": "weiwuying:6a26227f808b390008702541",
-   "title": "《窩噗瘋一下 The Whoop Group x 高雄市管樂團》",
+   "title": "「節目異動」《窩噗瘋一下 The Whoop Group x 高雄市管樂團》",
    "start": "2026-10-23T19:30:00+08:00",
    "end": "2026-10-23T19:30:00+08:00",
    "venue": "衛武營 音樂廳",
@@ -784,8 +758,8 @@
   {
    "id": "weiwuying:6a7d213093fe0c00074524f5",
    "title": "《共下，唱一擺 - 高雄市客家社團聯合展演》",
-   "start": "2026-11-12T19:00:00+08:00",
-   "end": "2026-11-12T19:00:00+08:00",
+   "start": "2026-11-12T19:30:00+08:00",
+   "end": "2026-11-12T19:30:00+08:00",
    "venue": "衛武營 音樂廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -4204,6 +4178,32 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ab22f958697570008857a4f"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ad6d28d86975700089a3a33",
+   "title": "《萬國漫遊》－歐柏林格與柯夫勒的風羽之境",
+   "start": "2027-02-14T14:30:00+08:00",
+   "end": "2027-02-14T14:30:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "循著古老樂音軌跡，勾勒音樂新疆界",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ad6d28d86975700089a3a33"
     }
    ],
    "lat": null,

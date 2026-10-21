@@ -1,6 +1,32 @@
 {
- "fetched_at": "2026-10-21T03:49:33.212305+08:00",
+ "fetched_at": "2026-10-22T03:55:12.242866+08:00",
  "events": [
+  {
+   "id": "twmarket:61455",
+   "title": "聖誕跨年百貨快閃",
+   "start": "2026-12-09T00:00:00+08:00",
+   "end": "2027-01-03T23:59:59+08:00",
+   "venue": "高雄夢時代",
+   "address": "",
+   "district": "前鎮區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-092027-01-03-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a2%e6%99%82%e4%bb%a3-%e8%81%96%e8%aa%95%e8%b7%a8%e5%b9%b4%e7%99%be%e8%b2%a8%e5%bf%ab%e9%96%83/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:61425:20261225",
    "title": "聖誕主題市集",
