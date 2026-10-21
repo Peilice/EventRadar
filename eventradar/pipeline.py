@@ -20,6 +20,9 @@ from .sources import SOURCES
 ROOT = Path(__file__).resolve().parent.parent
 CACHE_DIR = ROOT / "data" / "sources"
 OUTPUT_DIR = ROOT / "docs" / "data"
+# 筆數比上次（仍未結束的）少了九成以上，多半是網站回傳不完整，視同失敗
+MIN_RATIO = 0.1
+MIN_BASELINE = 20  # 上次筆數太少時不檢查，避免小來源正常波動被誤判
 
 log = logging.getLogger("eventradar")
 
@@ -48,6 +51,9 @@ def run_source(source, now: datetime, save_raw: Path | None = None) -> tuple[lis
             save_raw.mkdir(parents=True, exist_ok=True)
             (save_raw / f"{source.NAME}.raw").write_bytes(content)
         events = source.parse(content, now)
+        baseline = sum(1 for ev in previous if ev.end >= now)
+        if baseline >= MIN_BASELINE and len(events) < baseline * MIN_RATIO:
+            raise ValueError(f"筆數異常：只有 {len(events)} 筆，上次仍有效的有 {baseline} 筆")
         _write_json(cache_path, {"fetched_at": now.isoformat(), "events": [e.to_dict() for e in events]})
         status.update(ok=True, count=len(events), last_success=now.isoformat(), error="")
         log.info("%s：%d 筆", source.NAME, len(events))

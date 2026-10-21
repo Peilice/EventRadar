@@ -43,3 +43,28 @@ def test_failed_source_falls_back_to_cache(tmp_path, monkeypatch, now):
 
     events = json.loads((tmp_path / "out" / "events.json").read_text(encoding="utf-8"))["events"]
     assert {e["title"] for e in events} == {"好來源活動", "上次抓到的活動"}
+
+
+def test_sudden_drop_treated_as_failure(tmp_path, monkeypatch, now):
+    monkeypatch.setattr(pipeline, "CACHE_DIR", tmp_path / "cache")
+    monkeypatch.setattr(pipeline, "OUTPUT_DIR", tmp_path / "out")
+
+    def make_events(n):
+        return [Event(id=f"a:{i}", title=f"活動{i}", start=now, end=now + timedelta(days=1), district="鹽埕區",
+                      links=[Link("a", f"https://a.example/{i}")]) for i in range(n)]
+
+    monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", make_events(100))])
+    pipeline.build(now=now)
+
+    # 網站回傳不完整：100 筆掉到 5 筆
+    monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", make_events(5))])
+    status = pipeline.build(now=now + timedelta(hours=1))
+    a = status["sources"]["a"]
+    assert a["ok"] is False and "筆數異常" in a["error"]
+    assert a["cached_count"] == 100
+    cache = json.loads((tmp_path / "cache" / "a.json").read_text(encoding="utf-8"))
+    assert len(cache["events"]) == 100  # 快取不被不完整的結果覆蓋
+
+    # 正常減少（例如活動陸續結束）不受影響
+    monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", make_events(40))])
+    assert pipeline.build(now=now + timedelta(hours=2))["sources"]["a"]["ok"] is True

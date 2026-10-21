@@ -23,7 +23,7 @@ KKTIX 曾經納入，但它的 Cloudflare 會擋 GitHub Actions 機房的 IP（�
 ## 流程
 
 1. `python -m eventradar` 逐一抓各來源 → 篩出高雄、尚未結束的活動 → 分類 → 跨來源去重
-2. 各來源解析結果存在 `data/sources/<來源>.json`；某來源失敗時沿用上次成功的資料
+2. 各來源解析結果存在 `data/sources/<來源>.json`；某來源失敗時沿用上次成功的資料。筆數比上次仍有效的少了九成以上（上次至少 20 筆時）也視同失敗，避免網站回傳不完整時把資料洗掉
 3. 輸出 `docs/data/events.json` 與 `docs/data/status.json`，由 `docs/index.html` 讀取顯示
 
 規則重點：
