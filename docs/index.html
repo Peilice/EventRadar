@@ -138,7 +138,7 @@
     <main>
       <div class="toolbar">
         <p class="summary" id="summary" aria-live="polite"></p>
-        <button type="button" class="view-toggle" id="view-toggle" aria-pressed="false" aria-label="月曆" title="月曆">
+        <button type="button" class="view-toggle" id="view-toggle" aria-label="月曆" title="月曆">
           <!-- 彩色月曆：橘色頂條、白紙面、海藍日期點，黃點是標記的那天 -->
           <svg class="cal-icon" viewBox="0 0 24 24" aria-hidden="true">
             <rect class="ci-body" x="3" y="5" width="18" height="16" rx="3"/>
@@ -149,6 +149,13 @@
             <circle class="ci-dot" cx="8" cy="17.5" r="1.3"/>
             <circle class="ci-dot" cx="12" cy="17.5" r="1.3"/>
             <circle class="ci-mark" cx="16" cy="15.8" r="2.4"/>
+          </svg>
+          <!-- 月曆模式改顯示首頁：白牆、橘屋頂、海藍門、黃窗，點了回列表 -->
+          <svg class="cal-icon home-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <rect class="ci-body" x="5" y="10.5" width="14" height="10.5" rx="1.5"/>
+            <path class="ci-band" d="M12 3 2.8 10.6a1 1 0 0 0 .6 1.8h17.2a1 1 0 0 0 .6-1.8z"/>
+            <rect class="hi-door" x="10" y="15" width="4" height="6"/>
+            <circle class="ci-mark" cx="16.3" cy="15.3" r="1.5"/>
           </svg>
         </button>
       </div>

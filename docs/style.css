@@ -690,7 +690,10 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 .view-toggle:hover .cal-icon { transform: rotate(-6deg); }
 .view-toggle:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--shadow-c); }
 .view-toggle:active { transform: translate(3px, 3px); box-shadow: 0 0 0 var(--shadow-c); }
-.view-toggle[aria-pressed="true"] { background: var(--sun); color: #15213f; border-color: #15213f; }
+.hi-door { fill: var(--sea); }
+.home-icon,
+.is-calendar .view-toggle .cal-icon:not(.home-icon) { display: none; }
+.is-calendar .view-toggle .home-icon { display: block; }
 
 @media (min-width: 1000px) {
   .layout.is-calendar { grid-template-columns: minmax(0, 1fr); }

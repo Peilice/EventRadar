@@ -264,8 +264,8 @@ function render() {
   $(".sidebar").hidden = $("#upcoming").hidden = cal;
   $("#cal-view").hidden = !cal;
   const toggle = $("#view-toggle");
-  toggle.setAttribute("aria-pressed", String(cal));
-  toggle.title = cal ? "回到列表" : "月曆";
+  toggle.title = cal ? "回到首頁" : "月曆";
+  toggle.setAttribute("aria-label", toggle.title);
   if (cal) {
     $("#ongoing-wrap").hidden = true;
     renderCalendar();
