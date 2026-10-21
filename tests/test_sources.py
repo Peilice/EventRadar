@@ -3,7 +3,7 @@
 import json
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, Event, Link
-from eventradar.sources import accupass, iculture, khh_travel, kktix, kpmc, ksml, twmarket, weiwuying
+from eventradar.sources import accupass, iculture, khh_travel, kpmc, ksml, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -59,32 +59,6 @@ class TestICulture:
         events = iculture.parse(fixture_bytes("iculture.json"), now)
         for e in events:
             assert e.links[0].url.rstrip("/") not in ("https://kktix.com", "https://tixcraft.com")
-
-
-class TestKktix:
-    def test_parses(self, fixture_bytes, now):
-        events = kktix.parse(fixture_bytes("kktix.json"), now)
-        _check_common(events, now)
-
-    def test_filters_non_kaohsiung_and_ads(self, fixture_bytes, now):
-        events = kktix.parse(fixture_bytes("kktix.json"), now)
-        for e in events:
-            assert "台北" not in e.address and "臺北" not in e.address
-            assert "辦公室" not in e.title and "租借" not in e.title
-
-    def test_collection_parent_skipped_when_children_present(self, fixture_bytes, now):
-        events = kktix.parse(fixture_bytes("kktix.json"), now)
-        # 山下智久高雄場：系列活動 slug 為 aikorf，兩個子場次都在結果中
-        assert "kktix:aikorf" not in {e.id for e in events}
-        assert sum(1 for e in events if "山下智久" in e.title) == 2
-
-    def test_organizer_from_feed(self, fixture_bytes, now):
-        events = kktix.parse(fixture_bytes("kktix.json"), now)
-        assert sum(1 for e in events if e.organizer) >= len(events) * 0.8
-
-    def test_ticket_names_imply_paid(self, fixture_bytes, now):
-        events = kktix.parse(fixture_bytes("kktix.json"), now)
-        assert sum(1 for e in events if e.fee == "付費") >= len(events) * 0.5
 
 
 class TestAccupass:

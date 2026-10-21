@@ -8,7 +8,6 @@
 | --- | --- | --- | --- |
 | `iculture` | 文化部 iCulture 藝文活動 API | 全國藝文活動，只保留高雄場次 | 很多活動沒填主辦單位 |
 | `khh_travel` | 高雄旅遊網活動 XML（觀光局） | 觀光等級的大型活動 | 沒有費用與簡介 |
-| `kktix` | KKTIX（API + 公開 feed） | 售票、報名活動 | 沒有票價欄位，用票種名稱推斷 |
 | `accupass` | Accupass 活動通（網站前端 API + 活動頁 JSON-LD） | 講座、課程、手作、聚會等 | 地址要逐頁抓；已抓過的活動沿用上次資料 |
 | `weiwuying` | 衛武營官網（網站前端 API） | 節目與學習推廣活動 | 費用、主辦（衛武營主辦與否）都有 |
 | `kpmc` | 高雄流行音樂中心官網（節目頁內嵌資料 + 詳情頁） | 演出、課程 | 只有開始時間；已開始的展覽不收 |
@@ -16,6 +15,8 @@
 | `twmarket` | 台灣市集整合資訊網（WordPress API，「高雄市集」分類） | 百貨、商圈、公園、校園的假日市集 | 內容是攤商招募文，場次與時間從內文推斷 |
 
 駁二藝術特區的官網活動列表由前端動態載入且內容停在 2020 年，未納入；駁二的展演多由文化局發布到文化部 iCulture。
+
+KKTIX 曾經納入，但它的 Cloudflare 會擋 GitHub Actions 機房的 IP（本機可抓、Actions 上一律 403），已移除。
 
 政府來源的調查背景記在本機的「高雄市政府活動資料來源參考.md」（不納入版控）。
 
@@ -42,7 +43,7 @@ python -m venv .venv
 .venv/Scripts/python -m http.server 8799 --directory docs  # 開 http://127.0.0.1:8799/
 ```
 
-其他選項：`--only kktix` 只重抓指定來源；`--save-raw <目錄>` 保存原始回應，用來更新 `tests/fixtures/`。
+其他選項：`--only accupass` 只重抓指定來源；`--save-raw <目錄>` 保存原始回應，用來更新 `tests/fixtures/`。
 
 ## 部署（GitHub）
 
@@ -55,9 +56,9 @@ python -m venv .venv
 
 ## 已知限制
 
-- 抓取使用 `curl_cffi` 模擬瀏覽器 TLS 指紋：KKTIX 的 Cloudflare 會擋一般的 Python requests。GitHub Actions 的機房在國外，若某來源擋海外 IP，需改在本機排程執行。
+- 抓取使用 `curl_cffi` 模擬瀏覽器 TLS 指紋，避開網站對一般 Python requests 的阻擋與 Python 3.13 起的嚴格憑證檢查。GitHub Actions 的機房在國外，若某來源擋海外 IP，需改在本機排程執行。
 - iCulture 約七成的活動沒有填主辦單位，所以主辦類型多為「不確定」。
-- KKTIX `api/v2`、Accupass 搜尋 API、衛武營 `/api/programs/list` 都不是公開文件化的 API，網站改版時可能失效（測試與網頁上的來源狀態會先反映）。
+- Accupass 搜尋 API、衛武營 `/api/programs/list` 都不是公開文件化的 API，網站改版時可能失效（測試與網頁上的來源狀態會先反映）。
 - 高流官網沒有結束時間：結束時間視同開始時間；開始時間已過的節目（多為進行中的展覽）不收。
 - Accupass 與高流要逐頁讀詳情：Accupass 首次執行約 300 頁（約 5 分鐘）、高流約 50 頁，之後每天只抓新活動。
 - 部分 Accupass 活動刻意只寫「捷運○○站附近」或「報名後通知」，這些活動沒有行政區。

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T13:29:01.845930+08:00",
+ "generated_at": "2026-10-21T13:31:40.974690+08:00",
  "sources": {
   "weiwuying": {
    "label": "衛武營",
@@ -40,15 +40,6 @@
    "count": 22,
    "last_success": "2026-10-21T03:49:33.212305+08:00",
    "error": ""
-  },
-  "kktix": {
-   "label": "KKTIX",
-   "last_attempt": "2026-10-21T03:49:33.212305+08:00",
-   "ok": false,
-   "count": 0,
-   "cached_count": 47,
-   "error": "HTTPError: HTTP Error 403: ",
-   "last_success": "2026-10-19T18:32:11.623257+08:00"
   },
   "accupass": {
    "label": "Accupass 活動通",

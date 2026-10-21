@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T13:29:01.845930+08:00",
+ "generated_at": "2026-10-21T13:31:40.974690+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -25,32 +25,6 @@
    "aliases": [],
    "sources": [
     "khh_travel"
-   ]
-  },
-  {
-   "id": "kktix:poppoppo2024",
-   "title": "POP! POP! POP! 流行音樂互動展 ＠ 高雄流行音樂中心",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T10:00:00+08:00",
-   "venue": "高雄流行音樂中心｜音浪塔｜高音塔4-6樓",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "免費",
-   "organizer": "高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "“高雄流行音樂中心，就是 音 樂 的 發 聲 地” POP是流行！更是靈感爆發的聲音！ 「POP! POP! POP! 流行音樂互動展」將改變你對聽音樂、看展覽的既定想法。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://kpmc.kktix.cc/events/poppoppo2024"
-    }
-   ],
-   "lat": 22.618290076232704,
-   "lng": 120.28890616773678,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -559,32 +533,6 @@
    "aliases": [],
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "kktix:352177f7",
-   "title": "【高雄】9/2~11/4「電子焊接與基礎電路應用班 」，政府補助80~100%課程費用(補助課程)",
-   "start": "2026-09-02T09:00:00+08:00",
-   "end": "2026-12-16T18:00:00+08:00",
-   "venue": "大榮中學",
-   "address": "高雄市鼓山區大榮街1號",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "台灣區電機電子工業同業公會",
-   "organizer_type": "民間",
-   "description": "報名網址: https://reurl.cc/Wz3XzZ 課程費用：須符合勞、農、漁、工保險其一者 $ 7,850 (自費1,570政府補助6,280) 另符合以下身分別全額補助 全額補助對象（0元",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://teemacustoms.kktix.cc/events/352177f7"
-    }
-   ],
-   "lat": 22.6528214,
-   "lng": 120.2804771,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -1164,32 +1112,6 @@
    "aliases": [],
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "kktix:2026courseprogram",
-   "title": "APPT系列課程【十拳二路】",
-   "start": "2026-10-04T09:00:00+08:00",
-   "end": "2027-05-09T12:30:00+08:00",
-   "venue": "高雄醫學大學 國研大樓5樓-IR501階梯教室",
-   "address": "高雄市三民區十全一路100號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "台灣牙周補綴醫學會",
-   "organizer_type": "民間",
-   "description": "台灣牙周補綴醫學會-2026系列課程【十拳二路】課程日期: 第一場: 2026/10/4 09:00~12:20第二場: 2026/12/6 09:00~12:20第三場: 2027/1/10 09:",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://appt.kktix.cc/events/2026courseprogram"
-    }
-   ],
-   "lat": 22.64663023318898,
-   "lng": 120.3109167627739,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -1817,32 +1739,6 @@
    ]
   },
   {
-   "id": "kktix:526139c4",
-   "title": "【高雄】10/17~11/21「基礎電機配線配管應用實務班 」，政府補助80~100％課程費用(補助課程)",
-   "start": "2026-10-17T09:00:00+08:00",
-   "end": "2027-03-27T18:00:00+08:00",
-   "venue": "高雄市鼓山區大榮街1號",
-   "address": "",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "台灣區電機電子工業同業公會",
-   "organizer_type": "民間",
-   "description": "報名網址: https://reurl.cc/dOGx4g 課程費用：須符合勞、農、漁、工保險其一者 $ 9,490(自費1,898政府補助7,592) 另符合以下身分別全額補助 全額補助對象（0元學",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://teemacustoms.kktix.cc/events/526139c4"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "accupass:2610031332057821341230",
    "title": "印心禪法 - 高能量禪坐",
    "start": "2026-10-18T15:00:00+08:00",
@@ -2126,32 +2022,6 @@
    "aliases": [],
    "sources": [
     "twmarket"
-   ]
-  },
-  {
-   "id": "kktix:twspopupinkkh",
-   "title": "TWS POP-UP in KAOHSIUNG",
-   "start": "2026-10-22T11:00:00+08:00",
-   "end": "2026-11-01T21:00:00+08:00",
-   "venue": "義享時尚廣場1樓 (1F, E Sky Mall  )",
-   "address": "高雄市鼓山區大順一路115號(1F, No. 115, Dashun 1st Rd, Longzi Village, Gushan District, Kaohsiung City)",
-   "district": "鼓山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "AIPXA LAND 艾比夏股份有限公司",
-   "organizer_type": "民間",
-   "description": "大家好， 以下為TWS POP-UP in KAOHSIUNG的事前預約及商品購買注意事項說明。 [日程及地點] * 營運期間 : 2026年 10月 22日 (四) - 2026年 11月 01",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://aipxa.kktix.cc/events/twspopupinkkh"
-    }
-   ],
-   "lat": 22.6556315,
-   "lng": 120.3062979,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -3039,32 +2909,6 @@
    ]
   },
   {
-   "id": "kktix:olwgtsrtt",
-   "title": "空中補給屬於時間的答案巡迴演唱會-高雄站",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-24T14:00:00+08:00",
-   "venue": "高雄流行音樂中心-海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "全球音樂經紀有限公司",
-   "organizer_type": "民間",
-   "description": "傳奇雙人組合（空中補給）Air Supply 即將來到高雄，展開備受矚目的《A Matter of Time》巡演，繼2025年台北場演出完售後，今年他們再度回到台灣與當地歌迷見面，並將首度登上高雄流",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://globalmusic.kktix.cc/events/olwgtsrtt"
-    }
-   ],
-   "lat": 22.6181461,
-   "lng": 120.2885805,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "accupass:2609241630411839653519",
    "title": "【醒在時光裡：醒村的感官與敘事再造】眷村的咏嘆調與變奏",
    "start": "2026-10-24T14:00:00+08:00",
@@ -3689,32 +3533,6 @@
    ]
   },
   {
-   "id": "kktix:58eae147",
-   "title": "【10/24】羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG",
-   "start": "2026-10-24T18:30:00+08:00",
-   "end": "2026-10-24T18:30:00+08:00",
-   "venue": "LIVE WAREHOUSE 大庫",
-   "address": "高雄市鹽埕區大義街2-5號大義倉庫C10",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "宝島制作委員会",
-   "organizer_type": "不確定",
-   "description": "今年剛於第37屆金曲獎，以國際表演嘉賓身分登台的日本樂團——羊文学，從早期的〈1999〉、〈光るとき〉到近年的《咒術迴戰》、《我推的孩子》、《九條的大罪》等影視作品主題曲，一直以透亮的嗓音與詩意、貼近",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://baodaorecords.kktix.cc/events/58eae147"
-    }
-   ],
-   "lat": 22.6186066,
-   "lng": 120.2854062,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "weiwuying:6a30f2b51b5a900008aff175",
    "title": "《行・城・記憶》—聲音的旅行",
    "start": "2026-10-24T19:30:00+08:00",
@@ -3757,19 +3575,12 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-hih-1024/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://globalmusic.kktix.cc/events/969de93b"
     }
    ],
-   "lat": 22.61801240046067,
-   "lng": 120.28891845833589,
-   "aliases": [
-    "kktix:969de93b"
-   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
    "sources": [
-    "kktix",
     "kpmc"
    ]
   },
@@ -3982,6 +3793,32 @@
    ]
   },
   {
+   "id": "kpmc:15891",
+   "title": "《Disney in Concert: Once Upon a Time》",
+   "start": "2026-10-25T13:00:00+08:00",
+   "end": "2026-10-25T13:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "全球音樂經紀有限公司",
+   "organizer_type": "民間",
+   "description": "演出：Andrew Johnson x Whitney Claire Kaufman x Aaron Phillips x Lisa Livesay\n票價：NT$3580 NT$3180 NT$2780 NT$2480 NT$2180 NT$1180(視線不良區) 身障票NT$1380 NT$1090",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1025/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "accupass:2607080259301323959683",
    "title": "法鬥與幸福骨頭",
    "start": "2026-10-25T13:00:00+08:00",
@@ -4031,44 +3868,6 @@
    "aliases": [],
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "kpmc:15891",
-   "title": "《Disney in Concert: Once Upon a Time》",
-   "start": "2026-10-25T13:00:00+08:00",
-   "end": "2026-10-25T16:30:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "全球音樂經紀有限公司",
-   "organizer_type": "民間",
-   "description": "演出：Andrew Johnson x Whitney Claire Kaufman x Aaron Phillips x Lisa Livesay\n票價：NT$3580 NT$3180 NT$2780 NT$2480 NT$2180 NT$1180(視線不良區) 身障票NT$1380 NT$1090",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-hih-1025/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://globalmusic.kktix.cc/events/b2fe8a2d"
-    },
-    {
-     "source": "kktix",
-     "url": "https://globalmusic.kktix.cc/events/a4aae91d"
-    }
-   ],
-   "lat": 22.6181461,
-   "lng": 120.2885805,
-   "aliases": [
-    "kktix:b2fe8a2d",
-    "kktix:a4aae91d"
-   ],
-   "sources": [
-    "kktix",
-    "kpmc"
    ]
   },
   {
@@ -4332,36 +4131,10 @@
    ]
   },
   {
-   "id": "kktix:7d4a9a50",
-   "title": "【10/25加場】羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG",
-   "start": "2026-10-25T18:30:00+08:00",
-   "end": "2026-10-25T18:30:00+08:00",
-   "venue": "LIVE WAREHOUSE 大庫",
-   "address": "高雄市鹽埕區大義街2-5號大義倉庫C10",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "宝島制作委員会",
-   "organizer_type": "不確定",
-   "description": "羊文学 Hitsujibungaku TOUR 2026 \"SU———HA———\" IN KAOHSIUNG#羊文学 #Hitsujibungaku #首次高雄專場 感謝每一位支持羊文学、期待這場演出",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://baodaorecords.kktix.cc/events/7d4a9a50"
-    }
-   ],
-   "lat": 22.6186066,
-   "lng": 120.2854062,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "kpmc:15897",
    "title": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 – 高雄",
    "start": "2026-10-25T19:00:00+08:00",
-   "end": "2026-10-25T22:00:00+08:00",
+   "end": "2026-10-25T19:00:00+08:00",
    "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
    "address": "高雄市鹽埕區真愛路1號",
    "district": "鹽埕區",
@@ -4374,19 +4147,12 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1025/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://moshound.kktix.cc/events/eureka2026kaohsiung"
     }
    ],
-   "lat": 22.618058,
-   "lng": 120.285667,
-   "aliases": [
-    "kktix:eureka2026kaohsiung"
-   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
    "sources": [
-    "kktix",
     "kpmc"
    ]
   },
@@ -5097,32 +4863,25 @@
    "title": "Fujii Kaze Prema World Tour - Kaohsiung",
    "start": "2026-10-31T00:00:00+08:00",
    "end": "2026-10-31T23:59:59+08:00",
-   "venue": "高雄國家體育場",
+   "venue": "",
    "address": "高雄市813左營區高雄國家體育場",
    "district": "左營區",
    "category": "節慶／觀光",
-   "fee": "付費",
+   "fee": "未知",
    "organizer": "高雄市政府",
    "organizer_type": "政府",
-   "description": "Fujii Kaze Prema World Tour - Kaohsiung",
+   "description": "",
    "links": [
     {
      "source": "khh_travel",
      "url": "https://khh.travel/zh-tw/event/calendardetail/7714/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://kklivetw.kktix.cc/events/34473ba4"
     }
    ],
    "lat": 22.70312,
    "lng": 120.29447,
-   "aliases": [
-    "kktix:34473ba4"
-   ],
+   "aliases": [],
    "sources": [
-    "khh_travel",
-    "kktix"
+    "khh_travel"
    ]
   },
   {
@@ -5227,32 +4986,6 @@
    "aliases": [],
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "kktix:mopcon-2026",
-   "title": "MOPCON 科技年會 2026 - 訂票入口",
-   "start": "2026-10-31T08:30:00+08:00",
-   "end": "2026-10-31T17:30:00+08:00",
-   "venue": "國立高雄科技大學 楠梓校區 國際會議中心",
-   "address": "高雄市楠梓區海專路142號",
-   "district": "楠梓區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "MOPCON 主辦小組",
-   "organizer_type": "不確定",
-   "description": "MOPCON - 堅持在濁水溪以南的行動科技年會，第 15 屆年度主題：「From AI to Reality：軟體定義邊界，駕馭物理現實的科技實踐」，掌握科技趨勢與 AI 帶來的創意啟發和營運實踐。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://mopcon.kktix.cc/events/mopcon-2026"
-    }
-   ],
-   "lat": 22.725977,
-   "lng": 120.3123041,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -5597,7 +5330,7 @@
    "id": "kpmc:15578",
    "title": "2026 Takao Rock 打狗祭 ➤ V FUTURE PARTY 未來趴",
    "start": "2026-10-31T13:30:00+08:00",
-   "end": "2026-10-31T21:00:00+08:00",
+   "end": "2026-10-31T20:00:00+08:00",
    "venue": "高雄流行音樂中心 海音館",
    "address": "高雄市鹽埕區真愛路1號",
    "district": "鹽埕區",
@@ -5612,22 +5345,16 @@
      "url": "https://kpmc.com.tw/program/2026-hih-1031/"
     },
     {
-     "source": "kktix",
-     "url": "https://kpmc.kktix.cc/events/vfutureparty"
-    },
-    {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-10-3111-01-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%b5%b7%e9%9f%b3%e9%a4%a8-%e6%b5%b7%e9%a2%a8%e5%b0%8f%e5%b8%82-takao-rock%e6%89%93%e7%8b%97%e7%a5%adv-future-party%e6%9c%aa%e4%be%86%e8%b6%b4/"
     }
    ],
-   "lat": 22.6181461,
-   "lng": 120.2885805,
+   "lat": null,
+   "lng": null,
    "aliases": [
-    "kktix:vfutureparty",
     "twmarket:60687:20261031"
    ],
    "sources": [
-    "kktix",
     "kpmc",
     "twmarket"
    ]
@@ -6403,19 +6130,12 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://harmoniemusictw.kktix.cc/events/bf59a345"
     }
    ],
-   "lat": 22.6157038,
-   "lng": 120.2922382,
-   "aliases": [
-    "kktix:bf59a345"
-   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
    "sources": [
-    "kktix",
     "kpmc"
    ]
   },
@@ -7301,32 +7021,6 @@
    "aliases": [],
    "sources": [
     "ksml"
-   ]
-  },
-  {
-   "id": "kktix:thecutautumn1106",
-   "title": "【11/6 高雄場】Ellery 呈獻 THE CUT - Fall Edition 秋季場",
-   "start": "2026-11-06T20:00:00+08:00",
-   "end": "2026-11-06T20:00:00+08:00",
-   "venue": "洛克音樂藝文展演空間 Rock Music Live House",
-   "address": "高雄市前金區長興里六合二路145號B1",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "卡米地 Live Comedy Club Taipei",
-   "organizer_type": "民間",
-   "description": "Ellery 呈獻 THE CUT｜Fall Edition 秋季場",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://comedyclub.kktix.cc/events/thecutautumn1106"
-    }
-   ],
-   "lat": 22.6308975,
-   "lng": 120.2963897,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -10320,6 +10014,32 @@
    ]
   },
   {
+   "id": "kpmc:15916",
+   "title": "【加場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-14T14:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "HIGH HOPE ENTERTAINMENT",
+   "organizer_type": "民間",
+   "description": "演出：山下智久\n票價：NT$ 6,600 NT$ 4,700 NT$ 4,200 NT$ 3,200 NT$ 2,350（身障席）",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1114-3/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "accupass:2609250812202707305480",
    "title": "【醒在時光裡：醒村的感官與敘事再造】聽覺裡的眷村日常：從唱盤中尋找時光的故事",
    "start": "2026-11-14T14:00:00+08:00",
@@ -10476,49 +10196,6 @@
    ]
   },
   {
-   "id": "kpmc:15916",
-   "title": "【加場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
-   "start": "2026-11-14T14:00:00+08:00",
-   "end": "2026-11-14T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "HIGH HOPE ENTERTAINMENT",
-   "organizer_type": "民間",
-   "description": "演出：山下智久\n票價：NT$ 6,600 NT$ 4,700 NT$ 4,200 NT$ 3,200 NT$ 2,350（身障席）",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-hih-1114-3/"
-    },
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-hih-1114-2/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://atc-twn.kktix.cc/events/rfrgo6"
-    },
-    {
-     "source": "kktix",
-     "url": "https://atc-twn.kktix.cc/events/jfdfrt8"
-    }
-   ],
-   "lat": 22.6181461,
-   "lng": 120.2885805,
-   "aliases": [
-    "kpmc:15106",
-    "kktix:rfrgo6",
-    "kktix:jfdfrt8"
-   ],
-   "sources": [
-    "kktix",
-    "kpmc"
-   ]
-  },
-  {
    "id": "accupass:2610070731183634487520",
    "title": "打造「高顏值 x 超好收」的理想家",
    "start": "2026-11-14T14:00:00+08:00",
@@ -10620,6 +10297,32 @@
    "aliases": [],
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "kpmc:15106",
+   "title": "山下智久 2026 巡迴演唱會 DREAMING 高雄場",
+   "start": "2026-11-14T19:00:00+08:00",
+   "end": "2026-11-14T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "HIGH HOPE ENTERTAINMENT",
+   "organizer_type": "民間",
+   "description": "演出：山下智久\n票價：NT$ 6,600 NT$ 4,700 NT$ 4,200 NT$ 3,200 NT$ 2,350（身障席）",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1114-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
    ]
   },
   {
@@ -11767,32 +11470,6 @@
    ]
   },
   {
-   "id": "kktix:sstrong7-1120",
-   "title": "【11/20 高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
-   "start": "2026-11-20T19:30:00+08:00",
-   "end": "2026-11-20T21:00:00+08:00",
-   "venue": "洛克音樂藝文展演空間",
-   "address": "高雄市前金區長興里六合二路145號",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "卡米地 Live Comedy Club Taipei",
-   "organizer_type": "民間",
-   "description": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》 三度開嗆巡迴場",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://comedyclub.kktix.cc/events/sstrong7-1120"
-    }
-   ],
-   "lat": 22.6310217,
-   "lng": 120.2963987,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "weiwuying:69c3988d1e6a9400071a7f78",
    "title": "柏林雷寧廣場劇院《夢想清單》",
    "start": "2026-11-20T19:30:00+08:00",
@@ -12677,32 +12354,6 @@
    ]
   },
   {
-   "id": "kktix:sstrong7-1121",
-   "title": "【11/21高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
-   "start": "2026-11-21T19:30:00+08:00",
-   "end": "2026-11-21T21:00:00+08:00",
-   "venue": "洛克音樂藝文展演空間",
-   "address": "高雄市前金區長興里六合二路145號",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "卡米地 Live Comedy Club Taipei",
-   "organizer_type": "民間",
-   "description": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》 三度開嗆巡迴場",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://comedyclub.kktix.cc/events/sstrong7-1121"
-    }
-   ],
-   "lat": 22.6310217,
-   "lng": 120.2963987,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "kpmc:15945",
    "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
    "start": "2026-11-21T20:00:00+08:00",
@@ -12719,19 +12370,12 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1121/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://sotmrtw.kktix.cc/events/b3lt8u5"
     }
    ],
-   "lat": 22.618058,
-   "lng": 120.285667,
-   "aliases": [
-    "kktix:b3lt8u5"
-   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
    "sources": [
-    "kktix",
     "kpmc"
    ]
   },
@@ -13045,32 +12689,6 @@
    "aliases": [],
    "sources": [
     "weiwuying"
-   ]
-  },
-  {
-   "id": "kktix:sstrong731122",
-   "title": "【11/22高雄】壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》三度開嗆巡迴場",
-   "start": "2026-11-22T14:30:00+08:00",
-   "end": "2026-11-22T16:00:00+08:00",
-   "venue": "高雄洛克音樂藝文展演空間",
-   "address": "高雄市前金區六合二路145號B1",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "卡米地 Live Comedy Club Taipei",
-   "organizer_type": "民間",
-   "description": "壯壯毒舌脫口秀 7 :《不好意思，請問你什麼意思 ?》 三度開嗆巡迴場",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://comedyclub.kktix.cc/events/sstrong731122"
-    }
-   ],
-   "lat": 22.6308975,
-   "lng": 120.2963897,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -14140,32 +13758,6 @@
    ]
   },
   {
-   "id": "kktix:belishkafka",
-   "title": "BELISH《想起你的時刻》2026不插電小巡迴-高雄場",
-   "start": "2026-11-28T18:30:00+08:00",
-   "end": "2026-11-28T18:30:00+08:00",
-   "venue": "海邊的卡夫卡-高流店",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "海邊的卡夫卡",
-   "organizer_type": "不確定",
-   "description": "BELISH《想起你的時刻》2026不插電小巡迴 - 高雄場 Missing Moments 2026 Acoustic Tour - Kaohsiung 《想起你的時刻》專輯發片場於夏日落幕後，",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://kafka.kktix.cc/events/belishkafka"
-    }
-   ],
-   "lat": 22.6181461,
-   "lng": 120.2885805,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "weiwuying:6a6b002def008b00072bcf5c",
    "title": "《威斯培衛大提琴獨奏會》",
    "start": "2026-11-28T19:00:00+08:00",
@@ -14189,32 +13781,6 @@
    "aliases": [],
    "sources": [
     "weiwuying"
-   ]
-  },
-  {
-   "id": "kktix:cofr3t",
-   "title": "【11/28】2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
-   "start": "2026-11-28T19:00:00+08:00",
-   "end": "2026-11-28T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "遠雄創藝",
-   "organizer_type": "民間",
-   "description": "2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG正式宣布加場！ 那些曾被我們稱作",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://farglorycreative.kktix.cc/events/cofr3t"
-    }
-   ],
-   "lat": 22.6181461,
-   "lng": 120.2885805,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -14631,32 +14197,6 @@
    "aliases": [],
    "sources": [
     "weiwuying"
-   ]
-  },
-  {
-   "id": "kktix:klor6r",
-   "title": "【11/29】2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
-   "start": "2026-11-29T17:00:00+08:00",
-   "end": "2026-11-29T17:00:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "遠雄創藝",
-   "organizer_type": "民間",
-   "description": "關於那些我們曾稱作「日常」的一切： 是耳機裡循環播放的歌單，也是一次次說過的下次見， 還有那些還沒來得及細細感受，就已悄悄成為過去的瞬間☁️ 但時間留下的痕跡，證明了那些時光曾真實存在，也早已留在彼此",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://farglorycreative.kktix.cc/events/klor6r"
-    }
-   ],
-   "lat": 22.6181461,
-   "lng": 120.2885805,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -15102,58 +14642,6 @@
    ]
   },
   {
-   "id": "kktix:scxmas2601",
-   "title": "2026空中英語教室與天韻 聖誕音樂會-高雄場",
-   "start": "2026-12-04T19:30:00+08:00",
-   "end": "2026-12-04T21:00:00+08:00",
-   "venue": "高雄靈糧堂",
-   "address": "高雄市左營區文川路157號",
-   "district": "左營區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "空中英語教室/天韻合唱團/救世傳播協會",
-   "organizer_type": "不確定",
-   "description": "歡慶聖誕《No Room for Christmas》一場屬於心靈的音樂饗宴，開啟新的視角，帶來溫暖與盼望，一同走進愛與祝福的時刻。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://ortv.kktix.cc/events/scxmas2601"
-    }
-   ],
-   "lat": 22.6817558,
-   "lng": 120.3088064,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
-   "id": "kktix:aee0c18f",
-   "title": "Cö shu Nie LIVE IN KAOHSIUNG 2026 SATURATED（in monochrome）",
-   "start": "2026-12-04T20:00:00+08:00",
-   "end": "2026-12-04T20:00:00+08:00",
-   "venue": "後台 Backstage Live",
-   "address": "高雄市苓雅區海邊路15-3號 鯨魚堤岸三號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "痕跡創藝 Path of Live Music",
-   "organizer_type": "民間",
-   "description": "ᵣeᵦ4̈ ᵦ8ᵥdᵦa ᵤ9ᵥeᵥa ᵤ7ᵤ4ᵥ1ᵤ0 ᵤ4ᵤ9 ᵤ6ᵣcᵤaᵤ3ᵤeᵤ4ᵥ0ᵤ9ᵤ2 ᵾeᵾcᵾeᵿ2 ᵤeᵣcᵤfᵥ0ᵤdᵣcᵤfᵤ0ᵣf (ᵥeᵦ3 ᵦ2ᵦ4ᵦ3ᵦ4ᵥ8ᵥdᵦ7ᵦ4ᵦ2ᵥa) ★ 日本另類搖滾樂團 Cö shu Nie 高雄開唱！ ★ 來自日本的另類",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://storypathmusictw.kktix.cc/events/aee0c18f"
-    }
-   ],
-   "lat": 22.6159666,
-   "lng": 120.2920764,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "twmarket:61037:20261205",
    "title": "城市巴刹 駁二動漫祭",
    "start": "2026-12-05T00:00:00+08:00",
@@ -15414,32 +14902,6 @@
    ]
   },
   {
-   "id": "kktix:marasy2026ks",
-   "title": "幻想遊戲演奏會2026 in Kaohsiung",
-   "start": "2026-12-05T14:00:00+08:00",
-   "end": "2026-12-05T14:00:00+08:00",
-   "venue": "國立中山大學藝文中心 逸仙館",
-   "address": "高雄市鼓山區蓮海路 70 號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "黑子娛樂有限公司",
-   "organizer_type": "民間",
-   "description": "MUSEUM OF MARASY 2026 in Kaohsiung",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://kuroko.kktix.cc/events/marasy2026ks"
-    }
-   ],
-   "lat": 22.6266855,
-   "lng": 120.2655603,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "accupass:2610041516195464824000",
    "title": "[高雄場] Tetsu 年末分享會",
    "start": "2026-12-05T14:00:00+08:00",
@@ -15619,32 +15081,6 @@
    "aliases": [],
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "kktix:datesayurikh",
-   "title": "伊達小百合  Fan Meeting 2026 In Kaohsiung",
-   "start": "2026-12-05T18:30:00+08:00",
-   "end": "2026-12-05T18:30:00+08:00",
-   "venue": "高雄駁二正港小劇場",
-   "address": "高雄市鼓山區麗興里蓬萊路99號蓬萊區B9倉庫駁二藝術特區",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "鳴音合創有限公司",
-   "organizer_type": "民間",
-   "description": "《Love Live! Superstar!!》澀谷香音聲優、Liella! 成員伊達小百合，將於 12 月 5 日在高雄駁二正港小劇場舉辦粉絲見面會；同日也將參與駁二動漫祭，與粉絲相見，迎接年末活動",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://resonance-works.kktix.cc/events/datesayurikh"
-    }
-   ],
-   "lat": 22.6201549,
-   "lng": 120.2786076,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -16331,32 +15767,6 @@
    ]
   },
   {
-   "id": "kktix:26boi-c1",
-   "title": "2026世界公視大展精選丨高雄場 ─【單元：被噤聲的記憶】",
-   "start": "2026-12-11T18:30:00+08:00",
-   "end": "2026-12-11T21:30:00+08:00",
-   "venue": "高雄市立圖書館總館 Kaohsiung Main Public Library",
-   "address": "高雄市前鎮區新光路61號7樓",
-   "district": "前鎮區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "公共電視 PTS",
-   "organizer_type": "不確定",
-   "description": "「2026世界公視大展精選Best of INPUT」精選14部國際紀實作品，【被噤聲的記憶】單元，播映西班牙紀錄片《西班牙禁片》與韓國《西大門刑務所》音樂紀實劇，映後安排座談。免費索票，名額有限。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://ptsfestival.kktix.cc/events/26boi-c1"
-    }
-   ],
-   "lat": 22.6101687,
-   "lng": 120.3017978,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "weiwuying:6a793128b1b5840007664bdd",
    "title": "《烈聲與低語—梵志登與ESO》",
    "start": "2026-12-11T19:30:00+08:00",
@@ -16669,32 +16079,6 @@
    ]
   },
   {
-   "id": "kktix:26boi-c2",
-   "title": "2026世界公視大展精選丨高雄場 ─【單元：她們的畫像】",
-   "start": "2026-12-12T14:00:00+08:00",
-   "end": "2026-12-12T17:00:00+08:00",
-   "venue": "高雄市立圖書館總館 Kaohsiung Main Public Library",
-   "address": "高雄市前鎮區新光路61號7樓",
-   "district": "前鎮區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "公共電視 PTS",
-   "organizer_type": "不確定",
-   "description": "2026世界公視大展精選Best of INPUT精選14部國際紀實作品【她們的畫像】單元呈現三段女性生命故事：《謝謝你的花》《資深閨蜜出遊去》《走過廣島的千枝子》，映後安排座談，免費索票，名額有限。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://ptsfestival.kktix.cc/events/26boi-c2"
-    }
-   ],
-   "lat": 22.6101687,
-   "lng": 120.3017978,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "twmarket:61122:20261212",
    "title": "冬日植光 x 眷人吉市",
    "start": "2026-12-12T14:00:00+08:00",
@@ -16799,32 +16183,6 @@
    ]
   },
   {
-   "id": "kktix:26boi-c3",
-   "title": "2026世界公視大展精選丨高雄場 ─【單元：平行世界】",
-   "start": "2026-12-12T18:30:00+08:00",
-   "end": "2026-12-12T21:30:00+08:00",
-   "venue": "高雄市立圖書館總館 Kaohsiung Main Public Library",
-   "address": "高雄市前鎮區新光路61號7樓",
-   "district": "前鎮區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "公共電視 PTS",
-   "organizer_type": "不確定",
-   "description": "2026世界公視大展精選Best of INPUT精選14部紀實作品，【平行世界】單元選映《業配叢林》《致命性勒索》《數位轉生》，探討科技如何改變我們相信的現實。映後座談，免費索票，名額有限。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://ptsfestival.kktix.cc/events/26boi-c3"
-    }
-   ],
-   "lat": 22.6101687,
-   "lng": 120.3017978,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "weiwuying:6aa0b8e08979e70007eacbf2",
    "title": "《納莫拉澤2026鋼琴獨奏會》",
    "start": "2026-12-12T19:30:00+08:00",
@@ -16874,58 +16232,6 @@
    "aliases": [],
    "sources": [
     "weiwuying"
-   ]
-  },
-  {
-   "id": "kktix:7ed8da97",
-   "title": "【12/12】ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
-   "start": "2026-12-12T19:30:00+08:00",
-   "end": "2026-12-12T19:30:00+08:00",
-   "venue": "高雄巨蛋",
-   "address": "高雄市左營區新下里博愛二路757號",
-   "district": "左營區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "KKLIVE Taiwan",
-   "organizer_type": "民間",
-   "description": "「啥物款浪漫的夢，啥物款人來做。」從喝著汽水到喝著啤酒，每次乾杯都有不同的事情可以分享、每次聽〈同學會〉都長大了一點、每次都在滅火器裡見到好久不見的熟面孔。 我們一起青春熱血，也一起成家立業。在不同的",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://kklivetw.kktix.cc/events/7ed8da97"
-    }
-   ],
-   "lat": 22.6691269,
-   "lng": 120.3021058,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
-   "id": "kktix:coldn20261212",
-   "title": "【12/12 高雄】涵冷娜脫口秀專場《喊卡之後》 封箱巡迴",
-   "start": "2026-12-12T19:30:00+08:00",
-   "end": "2026-12-12T21:30:00+08:00",
-   "venue": "高雄場 洛克音樂藝文展演空間",
-   "address": "高雄市前金區六合二路 145 號 B1",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "卡米地 Live Comedy Club Taipei",
-   "organizer_type": "民間",
-   "description": "喊卡之後， 我人生還是好卡 卡在女神跟女神 經病之間， 卡在幽默跟落寞之間。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://comedyclub.kktix.cc/events/coldn20261212"
-    }
-   ],
-   "lat": 22.6308975,
-   "lng": 120.2963897,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -16981,32 +16287,6 @@
    ]
   },
   {
-   "id": "kktix:26boi-c4",
-   "title": "2026世界公視大展精選丨高雄場 ─【單元：創傷的餘燼】",
-   "start": "2026-12-13T14:00:00+08:00",
-   "end": "2026-12-13T17:00:00+08:00",
-   "venue": "高雄市立圖書館總館 Kaohsiung Main Public Library",
-   "address": "高雄市前鎮區新光路61號7樓",
-   "district": "前鎮區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "公共電視",
-   "organizer_type": "不確定",
-   "description": "「2026世界公視大展精選Best of INPUT」精選14部國際紀實作品，【創傷的餘燼】單元推出《玻璃之家》與《兩根菸》，傷痕雖未消失，餘燼仍能照亮彼此的路，映後安排座談。免費索票，名額有限。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://ptsfestival.kktix.cc/events/26boi-c4"
-    }
-   ],
-   "lat": 22.6101687,
-   "lng": 120.3017978,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "twmarket:61122:20261213",
    "title": "冬日植光 x 眷人吉市",
    "start": "2026-12-13T14:00:00+08:00",
@@ -17056,32 +16336,6 @@
    "aliases": [],
    "sources": [
     "weiwuying"
-   ]
-  },
-  {
-   "id": "kktix:coldn20261213",
-   "title": "【12/13 高雄】涵冷娜脫口秀專場《喊卡之後》 封箱巡迴",
-   "start": "2026-12-13T14:30:00+08:00",
-   "end": "2026-12-13T16:30:00+08:00",
-   "venue": "高雄場 洛克音樂藝文展演空間",
-   "address": "高雄市前金區六合二路 145 號 B1",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "卡米地 Live Comedy Club Taipei",
-   "organizer_type": "民間",
-   "description": "喊卡之後， 我人生還是好卡 卡在女神跟女神 經病之間， 卡在幽默跟落寞之間。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://comedyclub.kktix.cc/events/coldn20261213"
-    }
-   ],
-   "lat": 22.6308975,
-   "lng": 120.2963897,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -17160,58 +16414,6 @@
    "aliases": [],
    "sources": [
     "twmarket"
-   ]
-  },
-  {
-   "id": "kktix:8476e7a2",
-   "title": "【12/13】ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
-   "start": "2026-12-13T17:30:00+08:00",
-   "end": "2026-12-13T17:30:00+08:00",
-   "venue": "高雄巨蛋",
-   "address": "高雄市左營區新下里博愛二路757號",
-   "district": "左營區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "KKLIVE Taiwan",
-   "organizer_type": "民間",
-   "description": "「啥物款浪漫的夢，啥物款人來做。」從喝著汽水到喝著啤酒，每次乾杯都有不同的事情可以分享、每次聽〈同學會〉都長大了一點、每次都在滅火器裡見到好久不見的熟面孔。 我們一起青春熱血，也一起成家立業。在不同的",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://kklivetw.kktix.cc/events/8476e7a2"
-    }
-   ],
-   "lat": 22.6691269,
-   "lng": 120.3021058,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
-   "id": "kktix:26boi-c5",
-   "title": "2026世界公視大展精選丨高雄場 ─【單元：看不見的手】",
-   "start": "2026-12-13T18:30:00+08:00",
-   "end": "2026-12-13T21:30:00+08:00",
-   "venue": "高雄市立圖書館總館 Kaohsiung Main Public Library",
-   "address": "高雄市前鎮區新光路61號7樓",
-   "district": "前鎮區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "公共電視 PTS",
-   "organizer_type": "不確定",
-   "description": "「2026世界公視大展精選Best of INPUT」精選14部國際紀實作品，【看不見的手】單元呈現四部作品《法西斯訓練營》《被北京盯上》《封印真相》《仇恨上線中》，映後安排座談。免費索票，名額有限。",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://ptsfestival.kktix.cc/events/26boi-c5"
-    }
-   ],
-   "lat": 22.6101687,
-   "lng": 120.3017978,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -17576,32 +16778,6 @@
    "aliases": [],
    "sources": [
     "twmarket"
-   ]
-  },
-  {
-   "id": "kktix:20261219",
-   "title": "APPT冬季學術研討會-【三城數位論壇~縱貫線共創新數位未來】",
-   "start": "2026-12-19T09:00:00+08:00",
-   "end": "2026-12-20T17:00:00+08:00",
-   "venue": "高雄醫學大學 第一教學大樓B1-演藝廳",
-   "address": "高雄市三民區十全一路100號-第一教學大樓B1-演藝廳",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "台灣牙周補綴醫學會",
-   "organizer_type": "民間",
-   "description": "台灣牙周補綴醫學會-冬季學術研討會『三城數位論壇~縱貫線共創新數位未來』 大會日期: 115/12/19~20 大會地點: 高雄醫學大學 第一教學大樓B1-演藝廳",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://appt.kktix.cc/events/20261219"
-    }
-   ],
-   "lat": 22.6463843,
-   "lng": 120.3107528,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -18609,19 +17785,12 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/%e9%9d%88%e9%ad%82%e7%9a%84%e5%9b%9e%e8%81%b2-%e9%ab%98%e9%9b%84%e8%81%96%e8%aa%95%e5%a0%b4/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://echosociety.kktix.cc/events/8d3f7e62"
     }
    ],
-   "lat": 22.6159666,
-   "lng": 120.2920764,
-   "aliases": [
-    "kktix:8d3f7e62"
-   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
    "sources": [
-    "kktix",
     "kpmc"
    ]
   },
@@ -18886,32 +18055,6 @@
    ]
   },
   {
-   "id": "kktix:gk20261226",
-   "title": "【12/26 高雄場】GK爸爸原創故事繪本 Live Podcast 六週年同樂會",
-   "start": "2026-12-26T15:30:00+08:00",
-   "end": "2026-12-26T17:00:00+08:00",
-   "venue": "Loi了咖啡 音樂展演空間",
-   "address": "高雄市新興區民主路26號",
-   "district": "新興區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "卡米地 Live Comedy Club Taipei",
-   "organizer_type": "民間",
-   "description": "《GK爸爸原創故事繪本 Live Podcast 六週年同樂會 》 熱烈迴響，北中南好評加演",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://comedyclub.kktix.cc/events/gk20261226"
-    }
-   ],
-   "lat": 22.6332115,
-   "lng": 120.2999282,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "kpmc:16035",
    "title": "【超級邊Super Band 演唱會】",
    "start": "2026-12-26T18:00:00+08:00",
@@ -19162,19 +18305,12 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1227/"
-    },
-    {
-     "source": "kktix",
-     "url": "https://walkingmusic.kktix.cc/events/9be3aedc"
     }
    ],
-   "lat": 22.618058,
-   "lng": 120.285667,
-   "aliases": [
-    "kktix:9be3aedc"
-   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
    "sources": [
-    "kktix",
     "kpmc"
    ]
   },
@@ -19803,32 +18939,6 @@
    ]
   },
   {
-   "id": "kktix:mnpp2026go",
-   "title": "午夜乒乓 丘高氣爽 Chill & High 高雄專場",
-   "start": "2027-01-09T17:00:00+08:00",
-   "end": "2027-01-09T20:30:00+08:00",
-   "venue": "LIVE WAREHOUSE大庫",
-   "address": "803高雄市鹽埕區大義街2-5號C10",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "Airhead Records. 空氣腦唱片",
-   "organizer_type": "民間",
-   "description": "午夜乒乓 丘高氣爽 Chill & High 專場 • 日期：2027年 1 月 9 日 星期六 • 地點：LIVE WAREHOUSE 大庫 高雄",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://airheadrecords.kktix.cc/events/mnpp2026go"
-    }
-   ],
-   "lat": 22.618058,
-   "lng": 120.285667,
-   "aliases": [],
-   "sources": [
-    "kktix"
-   ]
-  },
-  {
    "id": "weiwuying:6a992064a243ae0007eb5b9e",
    "title": "《星耀百老匯》",
    "start": "2027-01-09T19:30:00+08:00",
@@ -19878,32 +18988,6 @@
    "aliases": [],
    "sources": [
     "kpmc"
-   ]
-  },
-  {
-   "id": "kktix:51b02629",
-   "title": "巫啟賢“ ALL THE BEST ”40周年金曲世界巡迴演唱會",
-   "start": "2027-01-09T19:30:00+08:00",
-   "end": "2027-01-09T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "卡司娛樂有限公司",
-   "organizer_type": "民間",
-   "description": "《紅塵來去一場夢》道盡人生聚散、紅塵起落，溫柔又通透；《你是我的唯一》純粹真摯、溫柔治愈，成為無數人的青春告白曲；《愛那麼重》深情厚重、共情萬千，道盡愛情里的牽掛與珍惜。除此之外，《團圓》《思念誰》《",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://casaentertainment.kktix.cc/events/51b02629"
-    }
-   ],
-   "lat": 22.6181461,
-   "lng": 120.2885805,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -20034,32 +19118,6 @@
    "aliases": [],
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "kktix:mononoawarektown",
-   "title": "MONO NO AWARE PASSION TOUR 2027 in Kaohsiung",
-   "start": "2027-01-16T20:00:00+08:00",
-   "end": "2027-01-16T20:00:00+08:00",
-   "venue": "百樂門",
-   "address": "高雄市新興區中山一路276號",
-   "district": "新興區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "浪漫的工作室",
-   "organizer_type": "民間",
-   "description": "MONO NO AWARE 2027台灣專場 浪漫的現場之王，如詩歌的詞曲與撼動人心的編曲，日本另類搖滾代表首次登入高雄",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://romanticoffice.kktix.cc/events/mononoawarektown"
-    }
-   ],
-   "lat": 22.635209,
-   "lng": 120.302691,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {
@@ -21048,32 +20106,6 @@
    "aliases": [],
    "sources": [
     "weiwuying"
-   ]
-  },
-  {
-   "id": "kktix:rsmusic",
-   "title": "雄岸折光-2027高雄五校熱音社聯合成果發表會",
-   "start": "2027-05-23T15:00:00+08:00",
-   "end": "2027-05-23T22:00:00+08:00",
-   "venue": "LiveWareHouse 大庫",
-   "address": "高雄市鹽埕區大義街2-5號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "中正熱音、明誠熱音、新莊熱音、三民熱音、文山熱音",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "kktix",
-     "url": "https://rsmusic2027.kktix.cc/events/rsmusic"
-    }
-   ],
-   "lat": 22.6206153,
-   "lng": 120.2857389,
-   "aliases": [],
-   "sources": [
-    "kktix"
    ]
   },
   {

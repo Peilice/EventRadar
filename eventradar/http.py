@@ -1,8 +1,8 @@
 """共用 HTTP 抓取，含重試。
 
-使用 curl_cffi 模擬瀏覽器的 TLS 指紋：KKTIX 前面的 Cloudflare 會擋 requests
-的指紋（同樣標頭用 requests 得到 403）；另外 Python 3.13 起的嚴格憑證檢查會拒絕
-cloud.culture.tw 的憑證（缺 Subject Key Identifier），curl_cffi 不受影響。
+使用 curl_cffi 模擬瀏覽器的 TLS 指紋：有些網站前面的 Cloudflare 會擋 requests
+的指紋；另外 Python 3.13 起的嚴格憑證檢查會拒絕 cloud.culture.tw 的憑證
+（缺 Subject Key Identifier），curl_cffi 不受影響。
 """
 
 from __future__ import annotations
