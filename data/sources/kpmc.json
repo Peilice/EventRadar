@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T03:55:12.242866+08:00",
+ "fetched_at": "2026-10-23T03:44:21.387516+08:00",
  "events": [
   {
    "id": "kpmc:16031",
@@ -18,6 +18,32 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-lwh-0108/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16209",
+   "title": "午夜乒乓 丘高氣爽 Chill & High 高雄專場",
+   "start": "2027-01-09T18:00:00+08:00",
+   "end": "2027-01-09T18:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "Airhead Records. 空氣腦唱片",
+   "organizer_type": "民間",
+   "description": "演出：午夜乒乓\n票價：限量雙打票：NT＄1300 (2pc) 預售票：NT＄700 現場票：NT＄800",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0109-2/"
     }
    ],
    "lat": null,
@@ -392,32 +418,6 @@
    ]
   },
   {
-   "id": "kpmc:16062",
-   "title": "義大利指彈天團 — 40 Fingers亞洲巡迴演出",
-   "start": "2026-10-31T19:00:00+08:00",
-   "end": "2026-10-31T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 鯨魚堤岸 03",
-   "address": "高雄市苓雅區海邊路",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "好滿意音樂",
-   "organizer_type": "不確定",
-   "description": "演出：40 Fingers\n票價：NT$3,600 / NT$2,800 / NT$2,200 / NT$1,800 / NT$1,400 / NT$1,000",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:15903",
    "title": "Abandoned Teddy 奔等泰迪『心宿』發片巡迴-高雄場",
    "start": "2026-10-31T19:00:00+08:00",
@@ -434,6 +434,32 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1031/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16062",
+   "title": "義大利指彈天團 — 40 Fingers亞洲巡迴演出",
+   "start": "2026-10-31T19:00:00+08:00",
+   "end": "2026-10-31T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 鯨魚堤岸 03",
+   "address": "高雄市苓雅區海邊路",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "好滿意音樂",
+   "organizer_type": "不確定",
+   "description": "演出：40 Fingers\n票價：NT$3,600 / NT$2,800 / NT$2,200 / NT$1,800 / NT$1,400 / NT$1,000",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/"
     }
    ],
    "lat": null,
@@ -990,6 +1016,58 @@
    ]
   },
   {
+   "id": "kpmc:16235",
+   "title": "高流系：歌唱訓練營「唱出你的自由」",
+   "start": "2026-12-05T10:00:00+08:00",
+   "end": "2026-12-05T10:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：陳威宇、劉明湘 Rose Liu、張簡君偉、Elin Lee、黃凱文 Kevin Huang、宇伶、王品恩、王陽傑、謝祈中\n票價：6,500 元 / 人",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wts-1205/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16237",
+   "title": "高流系：歌唱訓練營「唱出你的自由」",
+   "start": "2026-12-06T10:00:00+08:00",
+   "end": "2026-12-06T10:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：陳威宇、劉明湘 Rose Liu、張簡君偉、Elin Lee、黃凱文 Kevin Huang、宇伶、王品恩、王陽傑、謝祈中\n票價：6,500 元 / 人",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wts-1206/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "kpmc:16145",
    "title": "高雄場｜Ofelia 歐菲《明年我要出專輯啦！》",
    "start": "2026-12-11T20:00:00+08:00",
@@ -1006,6 +1084,58 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1211/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16238",
+   "title": "高流系：歌唱訓練營「唱出你的自由」",
+   "start": "2026-12-12T10:00:00+08:00",
+   "end": "2026-12-12T10:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：陳威宇、劉明湘 Rose Liu、張簡君偉、Elin Lee、黃凱文 Kevin Huang、宇伶、王品恩、王陽傑、謝祈中\n票價：6,500 元 / 人",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wts-1212/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16239",
+   "title": "高流系：歌唱訓練營「唱出你的自由」",
+   "start": "2026-12-13T10:00:00+08:00",
+   "end": "2026-12-13T10:00:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：陳威宇、劉明湘 Rose Liu、張簡君偉、Elin Lee、黃凱文 Kevin Huang、宇伶、王品恩、王陽傑、謝祈中\n票價：6,500 元 / 人",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-wts-1213/"
     }
    ],
    "lat": null,
@@ -1053,7 +1183,7 @@
    "fee": "付費",
    "organizer": "琉璃花RURIKA、天国地獄、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）x 高雄流行音樂中心",
    "organizer_type": "政府",
-   "description": "演出：琉璃花RURIKA、天国地獄、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）\n票價：預售票500元 現場票1,000元",
+   "description": "演出：琉璃花RURIKA、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）\n票價：預售票500元 現場票1,000元",
    "links": [
     {
      "source": "kpmc",
