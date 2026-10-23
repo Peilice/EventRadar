@@ -1,6 +1,58 @@
 {
- "fetched_at": "2026-10-22T03:55:12.242866+08:00",
+ "fetched_at": "2026-10-24T03:46:35.976490+08:00",
  "events": [
+  {
+   "id": "ksml:16432",
+   "title": "【寶珠分館】🚂紅豆冰哥哥紙芝居稅務列車《咩咩餐廳》11/08(日)上午10:00-11:00",
+   "start": "2026-11-08T10:00:00+08:00",
+   "end": "2026-11-08T11:00:00+08:00",
+   "venue": "寶珠分館 藝文研習室(高雄市三民區大順二路468號4樓)",
+   "address": "高雄市三民區大順二路468號4樓",
+   "district": "三民區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館寶珠分館",
+   "organizer_type": "政府",
+   "description": "【寶珠分館】紅豆冰哥哥紙芝居稅務列車《咩咩餐廳》\n叮叮叮～紙芝居列車即將進站！🚂\n由✨紅豆冰哥哥・何弘斌 帶來生動有趣的紙芝居演出～",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16432"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16431",
+   "title": "【寶珠分館】🌸「彩妝搶先學—極簡舒壓保養」11/5、11/12、11/19(週四)下午13:30-15:30",
+   "start": "2026-11-05T13:30:00+08:00",
+   "end": "2026-11-19T15:30:00+08:00",
+   "venue": "寶珠分館 藝文研習室（高雄市三民區大順二路468號4樓）",
+   "address": "高雄市三民區大順二路468號4樓",
+   "district": "三民區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館寶珠分館",
+   "organizer_type": "政府",
+   "description": "【寶珠分館】「彩妝搶先學—極簡舒壓保養」\n🌸11月主題課程：\n你是否也有這些困擾？",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16431"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16430",
    "title": "【橋頭分館】10/31 (六) 14:00 數位創藝趣．杯墊DIY",
@@ -266,7 +318,7 @@
    "title": "【總館-國際】2026 歐洲教育展 European Education Fair Taiwan 高雄場次＆南洋多元文化體驗",
    "start": "2026-10-27T14:00:00+08:00",
    "end": "2026-10-27T20:00:00+08:00",
-   "venue": "高雄市立圖書館總館1F廣場。",
+   "venue": "高雄市立圖書館總館1F廣場",
    "address": "高雄市前鎮區新光路61號",
    "district": "前鎮區",
    "category": "其他",
@@ -808,32 +860,6 @@
    ]
   },
   {
-   "id": "ksml:16394",
-   "title": "【新興民眾閱覽室】10/24(六)下午14:00-16:00「柬」單生活與節慶：探索柬埔寨文化視角",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-24T16:00:00+08:00",
-   "venue": "新興民眾閱覽室 親子圖書室",
-   "address": "高雄市新興區民生一路271號",
-   "district": "新興區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館新興民眾閱覽室",
-   "organizer_type": "政府",
-   "description": "【精彩活動預告】\n想要帶孩子一起走出課本、用五感體驗獨特的東南亞文化嗎？ 本次特別邀請多元文化講師——徐閣芸老師，帶領大家跨越國界，從豐富多彩的文化視角深度認識柬埔寨！\n🌟 活動亮點搶先看",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16394"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16388",
    "title": "【楠仔坑分館】10/31（六）哈客童樂繪～歡迎報名參加",
    "start": "2026-10-31T10:00:00+08:00",
@@ -850,32 +876,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16388"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16387",
-   "title": "【新興民眾閱覽室】10/24(六)上午10:00-11:00【Holiday Storytime】",
-   "start": "2026-10-24T10:00:00+08:00",
-   "end": "2026-10-24T11:00:00+08:00",
-   "venue": "新興民眾閱覽室親子圖書室(高雄市新興區民生一路271號 忠孝公園內)",
-   "address": "高雄市新興區民生一路271號",
-   "district": "新興區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館新興民眾閱覽室",
-   "organizer_type": "政府",
-   "description": "🎃 Halloween 萬聖節特別企劃！ 🎃\n萬聖節即將來到，究竟古靈精怪的巫婆廚房裡隱藏著什麼驚喜與祕密呢？ 這次我們邀請到受孩子們喜愛的 琳蒂蒂老師，帶領大家一起翻開經典繪本《What's In The Witch's Kitchen?》，走進充滿趣味與想像力的魔法世界！除了精彩刺激的英文故事體驗，還有親手製作專屬 Witch Pot（萬聖巫婆湯鍋） 的手作 DIY 唷！快帶著家中的小探險家一起來感受濃濃的萬聖節氣氛吧！\n📌 活動資訊",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16387"
     }
    ],
    "lat": null,
@@ -954,32 +954,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16376"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16375",
-   "title": "【大東藝術圖書館】10/24(六) ✨AI 家庭共學 - 影像生成創作與Ai提示✨",
-   "start": "2026-10-24T10:00:00+08:00",
-   "end": "2026-10-24T12:00:00+08:00",
-   "venue": "大東藝術圖書館2F多功能教室，3F海報室",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館大東藝術圖書館",
-   "organizer_type": "政府",
-   "description": "活動老師：曾澤民\n助理講師：陳璽筠\n活動主題：✨ AI 家庭共學 - 影像生成創作與Ai提示 ✨",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16375"
     }
    ],
    "lat": null,

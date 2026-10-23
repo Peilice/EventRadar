@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T03:44:21.387516+08:00",
+ "fetched_at": "2026-10-24T03:46:35.976490+08:00",
  "events": [
   {
    "id": "kpmc:16031",
@@ -122,58 +122,6 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-lwh-0129/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16083",
-   "title": "【The Oldies but Goodies】午後西洋金曲時光：Bee Gees & Phil Collins",
-   "start": "2026-10-23T15:00:00+08:00",
-   "end": "2026-10-23T15:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：蘇珊Susan、王威凱、林長志\n票價：單人400元 含150元午茶飲品，現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e3%80%90the-oldies-but-goodies%e3%80%91%e5%8d%88%e5%be%8c%e8%a5%bf%e6%b4%8b%e9%87%91%e6%9b%b2%e6%99%82%e5%85%89%ef%bc%9abee-gees-phil-collins/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16085",
-   "title": "Maria Kim爵士三重奏",
-   "start": "2026-10-23T20:00:00+08:00",
-   "end": "2026-10-23T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：Maria Kim、Bruce Kang、 Bobo\n票價：單人800元 雙人1500元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/maria-kim%e7%88%b5%e5%a3%ab%e4%b8%89%e9%87%8d%e5%a5%8f/"
     }
    ],
    "lat": null,
@@ -1110,6 +1058,32 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-wts-1212/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16241",
+   "title": "《永遠是生誕祭有多好》鬼灯翠2026生誕祭",
+   "start": "2026-12-12T13:00:00+08:00",
+   "end": "2026-12-12T13:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "鬼灯翠 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：鬼灯翠 w/99ㄑㄑ、琉璃花RURIKA、稻妻利央、Karei & ooo、悠洛YoLo-OVO、米粒R ミリア\n票價：預售票600元 現場票800元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1212/"
     }
    ],
    "lat": null,
