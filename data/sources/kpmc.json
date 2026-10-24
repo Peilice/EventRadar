@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T03:46:35.976490+08:00",
+ "fetched_at": "2026-10-25T02:35:05.238921+08:00",
  "events": [
   {
    "id": "kpmc:16031",
@@ -122,58 +122,6 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-lwh-0129/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15889",
-   "title": "尤雅- 2026《往事只能回味》演唱會-高雄站",
-   "start": "2026-10-24T19:30:00+08:00",
-   "end": "2026-10-24T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "全球音樂經紀有限公司",
-   "organizer_type": "民間",
-   "description": "演出：尤雅\n票價：NT$4200 NT$3600 NT$3000 NT$2400 NT$1800 NT$1600(視線不良區) 身障票NT$1500 NT$1200",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-hih-1024/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15829",
-   "title": "有些故事，家人就是最好的陪伴｜Matt Fullen《Family Tree 我們這一家》新專輯發表會",
-   "start": "2026-10-24T20:00:00+08:00",
-   "end": "2026-10-24T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：Matt Fullen傅麥特\n票價：雙人800元 單人450元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e6%9c%89%e4%ba%9b%e6%95%85%e4%ba%8b%ef%bc%8c%e5%ae%b6%e4%ba%ba%e5%b0%b1%e6%98%af%e6%9c%80%e5%a5%bd%e7%9a%84%e9%99%aa%e4%bc%b4%ef%bd%9cmatt-fullen%e3%80%8afamily-tree-%e6%88%91%e5%80%91%e9%80%99/"
     }
    ],
    "lat": null,
@@ -366,32 +314,6 @@
    ]
   },
   {
-   "id": "kpmc:15903",
-   "title": "Abandoned Teddy 奔等泰迪『心宿』發片巡迴-高雄場",
-   "start": "2026-10-31T19:00:00+08:00",
-   "end": "2026-10-31T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "Abandoned Teddy 奔等泰迪 x 高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：Abandoned Teddy 奔等泰迪　w/夕陽武士\n票價：預售票500元 現場票600元",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1031/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:16062",
    "title": "義大利指彈天團 — 40 Fingers亞洲巡迴演出",
    "start": "2026-10-31T19:00:00+08:00",
@@ -408,6 +330,32 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15903",
+   "title": "Abandoned Teddy 奔等泰迪『心宿』發片巡迴-高雄場",
+   "start": "2026-10-31T19:00:00+08:00",
+   "end": "2026-10-31T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "Abandoned Teddy 奔等泰迪 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：Abandoned Teddy 奔等泰迪　w/夕陽武士\n票價：預售票500元 現場票600元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1031/"
     }
    ],
    "lat": null,

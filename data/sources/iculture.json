@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T03:44:21.387516+08:00",
+ "fetched_at": "2026-10-25T02:35:05.238921+08:00",
  "events": [
   {
    "id": "iculture:690293fb26b324253c0da978",
@@ -3402,6 +3402,136 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753712",
+   "title": "11月高雄市電影館｜你和我的房間這種感覺",
+   "start": "2026-11-20T16:50:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753713",
+   "title": "11月高雄市電影館｜善男信女",
+   "start": "2026-11-20T18:50:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QJ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753714",
+   "title": "11月高雄市電影館｜第四幕",
+   "start": "2026-11-20T19:20:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753715",
+   "title": "11月高雄市電影館｜盧丹的惡魔",
+   "start": "2026-11-27T19:10:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF39"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753716",
+   "title": "11月高雄市電影館｜窗外有藍天 4K經典數位修復",
+   "start": "2026-11-27T19:00:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF3G"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "sources": [
     "iculture"

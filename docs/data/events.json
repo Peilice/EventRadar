@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T03:46:35.976490+08:00",
+ "generated_at": "2026-10-25T02:35:05.238921+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -3169,32 +3169,6 @@
    ]
   },
   {
-   "id": "accupass:2610090605471838284623",
-   "title": "☕ 給正在思考未來的你：用一杯咖啡的時間，為人生描繪另一種可能",
-   "start": "2026-10-09T14:15:00+08:00",
-   "end": "2026-10-24T14:00:00+08:00",
-   "venue": "高禾醫院",
-   "address": "台灣高雄市鼓山區博愛一路460號",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "求精外語留學機構",
-   "organizer_type": "不確定",
-   "description": "☕ 給正在思考未來的你：用一杯咖啡的時間，為人生描繪另一種可能 生活的步調總是匆忙，我們有多久沒有靜下心來，好好聊聊自己或孩子的下一步？ 教育不只有單一路徑，世界的寬度，往往超乎我們的想像。 週六午後，誠摯邀請你帶著放鬆的心情，給自己一段沉澱與交流的時光，和我們一起坐下來，聊聊關於「走向國際」的更多選擇與思考。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610090605471838284623"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
    "id": "khh_travel:C2_397000000A_008062",
    "title": "2026 Takao Rock 打狗祭",
    "start": "2026-10-10T00:00:00+08:00",
@@ -3819,266 +3793,6 @@
    ]
   },
   {
-   "id": "twmarket:60978:20261024",
-   "title": "2026高雄商圈聯合慶典秋收高雄雄好逛",
-   "start": "2026-10-24T00:00:00+08:00",
-   "end": "2026-10-24T23:59:59+08:00",
-   "venue": "中央公園",
-   "address": "",
-   "district": "前金區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "大高雄市觀光商圈總會",
-   "organizer_type": "民間",
-   "description": "場次：10/23（五）、10/24（六）、10/25（日）、10/26（一）\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2310-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%b8%ad%e5%a4%ae%e5%85%ac%e5%9c%92-2026%e9%ab%98%e9%9b%84%e5%95%86%e5%9c%88%e8%81%af%e5%90%88%e6%85%b6%e5%85%b8%e7%a7%8b%e6%94%b6%e9%ab%98%e9%9b%84/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:60681:20261024",
-   "title": "仲秋季夏榮耀盃",
-   "start": "2026-10-24T00:00:00+08:00",
-   "end": "2026-10-24T23:59:59+08:00",
-   "venue": "高雄岡山樂購廣場【正門廣場】",
-   "address": "",
-   "district": "岡山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "滑動飛炫運動行銷工作室",
-   "organizer_type": "民間",
-   "description": "場次：10/24（六）、10/25（日）\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2410-25-%e9%ab%98%e9%9b%84%e5%b8%82%e9%9b%86-%e9%ab%98%e9%9b%84%e5%b2%a1%e5%b1%b1%e6%a8%82%e8%b3%bc%e5%bb%a3%e5%a0%b4%e3%80%90%e6%ad%a3%e9%96%80%e5%bb%a3%e5%a0%b4%e3%80%91-%e4%bb%b2%e7%a7%8b/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "ksml:16195",
-   "title": "🏯大東講堂🏯10/24(六)邀請陳嘉晉主講「人文、風土、建築」，歡迎參加！",
-   "start": "2026-10-24T00:00:00+08:00",
-   "end": "2026-10-24T23:59:59+08:00",
-   "venue": "大東文化藝術中心演講廳（鳳山區光遠路161號）捷運橘線大東站2號出口",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館大東藝術圖書館",
-   "organizer_type": "政府",
-   "description": "※本場次採線上報名，即日起至額滿為止，當天視剩餘座位開放現場候補，報名方式請詳報名網址。\n日 期：2026年10月24日( 六 )\n時 間：14:30 - 17:00 (13:30開放報到入場)",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16195"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "accupass:2610030223181031730745",
-   "title": "大高雄多元人才登峰培育計畫－Gemini CLI 應用",
-   "start": "2026-10-24T08:00:00+08:00",
-   "end": "2026-10-24T18:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市裕誠路1102號",
-   "district": "",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "高雄市立三民高級家事商業職業學校-資料處理科",
-   "organizer_type": "政府",
-   "description": "適合對象：具備基本命令列觀念，欲體驗終端機 AI 開發助手的程式開發初學者。 學習重點：Gemini CLI 安裝與環境設定、Gemini 2.5 Pro 基本指令互動、提示詞編寫與基礎沙盒（Sandboxing）安全概念。 核心能力：學會在命令列環境中流暢操作 Gemini CLI，並理解 AI 開發流程中的基礎安全性。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610030223181031730745"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "ksml:16334",
-   "title": "【橋頭分館】10/24 (六) 9:00 台語新視界-走讀電台認識台語新聞播報",
-   "start": "2026-10-24T09:00:00+08:00",
-   "end": "2026-10-24T12:00:00+08:00",
-   "venue": "高雄市三民區九如二路492號（鳳鳴廣播大廈）",
-   "address": "高雄市三民區九如二路492號（鳳鳴廣播大廈）",
-   "district": "三民區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館橋頭分館",
-   "organizer_type": "政府",
-   "description": "台語新視界-走讀電台認識台語新聞播報 《115年培育台語家庭計畫》\n高雄資深廣播節目主持人沈若繡,帶你走進在地鳳鳴電台,認識播音室設備,透過台語新聞播報,學習口語表達與發音技巧,還要親自拿起麥克風,挑戰一段台語新聞錄音！\n👉【台語課程】 可獲得台語認列點數 1 點",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16334"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16428",
-   "title": "【左新分館】🎉活動宣傳【粉紅十月親子活動】說故事📖+手作🎀",
-   "start": "2026-10-24T10:00:00+08:00",
-   "end": "2026-10-24T11:00:00+08:00",
-   "venue": "高雄市立圖書館左新分館 左新圖書館 一樓兒童區說故事室",
-   "address": "高雄市左營區博愛三路453號",
-   "district": "左營區",
-   "category": "親子",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館左新分館",
-   "organizer_type": "政府",
-   "description": "#粉紅十月\n#SDGs永續發展目標\n#說故事+手作",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16428"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "accupass:2609260712231590185687",
-   "title": "小小美容師體驗營",
-   "start": "2026-10-24T10:00:00+08:00",
-   "end": "2026-10-24T11:30:00+08:00",
-   "venue": "一心路林森路口樓下全家",
-   "address": "台灣高雄市前鎮區一心二路157號6F之2",
-   "district": "前鎮區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "阿爾堤斯美學教室(教育局立案)",
-   "organizer_type": "不確定",
-   "description": "🌸 小小美容師親子體驗營 🌸 讓孩子在遊戲中學習美容保養知識，親自體驗美容師的工作日常，從肌膚清潔、保濕保養，到美容禮儀與服務流程，培養自信、禮貌與生活美感！",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2609260712231590185687"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "ksml:16407",
-   "title": "【河堤分館】10/24(六) 總舖師出任務：找尋回憶中的古早味",
-   "start": "2026-10-24T10:00:00+08:00",
-   "end": "2026-10-24T12:00:00+08:00",
-   "venue": "高雄市立圖書館河堤分館 3樓多功能教室",
-   "address": "高雄市三民區裕誠路1號",
-   "district": "三民區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館河堤分館",
-   "organizer_type": "政府",
-   "description": "總舖師出任務：找尋回憶中的古早味\n玩桌遊、認識辦桌文化，動手做出懷舊好滋味！\n「辦桌」（pān-toh）是許多台灣人共同的生活記憶，也是蘊含人情味與地方特色的重要傳統文化。從熱鬧的宴席、豐盛的佳餚，到總舖師的精湛手藝，每一道菜、每一個環節，都藏著屬於台灣的美好故事。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16407"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16376",
-   "title": "📌【岡山文化中心分館】📌10/24🌏🥢【異國料理｜越世界春捲 DIY】🥢🌏",
-   "start": "2026-10-24T10:00:00+08:00",
-   "end": "2026-10-24T12:00:00+08:00",
-   "venue": "岡山文化中心分館",
-   "address": "高雄市岡山區岡山南路43號",
-   "district": "岡山區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄市立圖書館岡山文化中心分館",
-   "organizer_type": "政府",
-   "description": "🌏🥢【異國料理｜越世界春捲 DIY】🥢🌏\n想帶孩子一起動手做料理、體驗越南異國風味嗎？💕\n這次就來學做清爽又好吃的「越氏春捲」！從食材準備、包捲到完成，親子一起動手做，享受料理的樂趣，也一起品嚐來自越南的美味🌿🦐",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16376"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "twmarket:60448:20261024",
-   "title": "橋糖一巷微市集",
-   "start": "2026-10-24T10:00:00+08:00",
-   "end": "2026-10-24T18:00:00+08:00",
-   "venue": "橋頭糖廠",
-   "address": "",
-   "district": "橋頭區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/3（六）、10/4（日）、10/10（六）、10/11（日）、10/17（六）、10/18（日）、10/24（六）、10/25（日）、10/31（六）\n時間：10:00–18:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-0110-31-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a9%8b%e9%a0%ad%e7%b3%96%e5%bb%a0-%e6%a9%8b%e7%b3%96%e4%b8%80%e5%b7%b7%e5%be%ae%e5%b8%82%e9%9b%86/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "accupass:2610140319356653848210",
    "title": "【醒村開園季活動】Let’s PLAY！親子體驗工作坊(PART 2)",
    "start": "2026-10-24T10:30:00+08:00",
@@ -4105,32 +3819,6 @@
    ]
   },
   {
-   "id": "twmarket:59549:20261024",
-   "title": "樂居市集小島聚會",
-   "start": "2026-10-24T12:00:00+08:00",
-   "end": "2026-10-24T18:00:00+08:00",
-   "venue": "墨凡高雄駅一番街",
-   "address": "",
-   "district": "三民區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/24（六）、10/25（日）、10/26（一）\n時間：12:00–18:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2410-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a2%a8%e5%87%a1%e9%ab%98%e9%9b%84%e9%a7%85%e4%b8%80%e7%95%aa%e8%a1%97-%e6%a8%82%e5%b1%85%e5%b8%82%e9%9b%86%e5%b0%8f%e5%b3%b6%e8%81%9a%e6%9c%83/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "accupass:2606090904562061082131",
    "title": "【高雄義享】第六屆尋找明日之星-明星夢想秀",
    "start": "2026-10-24T12:00:00+08:00",
@@ -4147,370 +3835,6 @@
     {
      "source": "accupass",
      "url": "https://www.accupass.com/event/2606090904562061082131"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2607070749131980267872",
-   "title": "空氣鳳梨生態瓶",
-   "start": "2026-10-24T13:00:00+08:00",
-   "end": "2026-10-24T14:00:00+08:00",
-   "venue": "七賢一路與復興一路口(高雄福華大飯店B1F)",
-   "address": "台灣高雄市新興區七賢一路311號B1F(高雄福華大飯店)",
-   "district": "新興區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄福華名品",
-   "organizer_type": "不確定",
-   "description": "在這堂課中，你將親手打造一座專屬於自己的微型生態世界。 透過空氣鳳梨與自然素材的搭配，課程由講師一步步帶領， 即使是初學者也能輕鬆上手！ 此堂課不只是完成一件作品，更是一段沉浸於自然的療癒過程。 創造出具有個人風格的綠色景觀，讓生活多一點呼吸感與儀式感。 歡迎喜愛植物、手作與療癒生活的你與我們一起享受午後的植人時光。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2607070749131980267872"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "twmarket:59407:20261024",
-   "title": "漫光市集",
-   "start": "2026-10-24T13:00:00+08:00",
-   "end": "2026-10-24T19:30:00+08:00",
-   "venue": "大立百貨B館1F騎樓",
-   "address": "",
-   "district": "前金區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：8/29（六）、8/30（日）、9/12（六）、9/13（日）、9/19（六）、9/20（日）、10/9（五）、10/10（六）、10/11（日）、10/24（六）、10/25（日）、10/26（一）\n時間：13:00–19:30\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-08-2910-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e7%ab%8b%e7%99%be%e8%b2%a8b%e9%a4%a81f%e9%a8%8e%e6%a8%93-%e6%bc%ab%e5%85%89%e5%b8%82%e9%9b%86/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61328:20261024",
-   "title": "漫光星光微型演唱會市集",
-   "start": "2026-10-24T13:00:00+08:00",
-   "end": "2026-10-24T19:30:00+08:00",
-   "venue": "大立百貨與新光三越三多店",
-   "address": "",
-   "district": "前金區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/9（五）、10/11（日）、10/17（六）、10/18（日）、10/24（六）、10/25（日）、10/26（一）、11/7（六）、11/8（日）、11/21（六）、11/22（日）、12/19（六）、12/20（日）、12/25（五）、12/26（六）、12/27（日）、1/1（五）、1/2（六）、1/3（日）、1/9（六）、1/10（日）、1/23（六）、1/24（日）、2/6（六）、2/7（日）、2/8（一）\n時間：13:00–19:30\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-092026-02-08-%e9%ab%98%e9%9b%84-%e5%a4%a7%e7%ab%8b%e7%99%be%e8%b2%a8%e8%88%87%e6%96%b0%e5%85%89%e4%b8%89%e8%b6%8a%e4%b8%89%e5%a4%9a%e5%ba%97-%e6%bc%ab%e5%85%89%e6%98%9f%e5%85%89%e5%be%ae/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "accupass:2609241630411839653519",
-   "title": "【醒在時光裡：醒村的感官與敘事再造】眷村的咏嘆調與變奏",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-24T15:30:00+08:00",
-   "venue": "一把青戲劇特展  打卡互動展示區",
-   "address": "台灣高雄市岡山區醒路88號",
-   "district": "岡山區",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "AWAKE醒村文化景觀園區",
-   "organizer_type": "不確定",
-   "description": "《一把青》編劇黃世鳴親臨高雄岡山醒村！本活動將帶領觀眾走入創作現場，揭密如何以細膩筆觸，將僅萬字的短篇小說改編為橫跨時代的史詩劇本。結合「一把青戲劇特展」與專屬打卡互動區，這是一場交織文學、影像與眷村文化的深度對話。報名參加即可獲得限定小禮物，名額有限，報名從速！",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2609241630411839653519"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610160654529791658190",
-   "title": "Hito共學館｜高雄館 ● AI音樂創作課程",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-24T16:00:00+08:00",
-   "venue": "華友聯總部",
-   "address": "台灣高雄市鳳山區文龍路85號8樓",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "華友聯建築",
-   "organizer_type": "不確定",
-   "description": "➤腦中有旋律，卻不知道怎麼變成一首歌？這次Hito共學館邀請大家認識AI音樂創作工具，跟著老師一起探索編曲的樂趣，讓靈感有機會被聽見！ 看見「刷出新聲音」主題曲比賽，想參加卻不知道從哪裡開始？我們準備了免費AI編曲課程，不熟悉工具也沒關係，從課堂踏認識不同類型的生成式 AI 音樂工具及其應用情境。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610160654529791658190"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "ksml:16408",
-   "title": "【中崙分館】115年10月24日(六)【台語意識培力講座】從生活日常到語言保存的意識覺醒~熱烈招生",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-24T16:00:00+08:00",
-   "venue": "高雄市立圖書館中崙分館",
-   "address": "高雄市鳳山區中崙五路1號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館中崙分館",
-   "organizer_type": "政府",
-   "description": "活動海報 【台語意識培力講座】從生活日常到語言保存的意識覺醒\n一句親切的問候、一段熟悉的對話，從市場買菜、夜市點餐，到家人間的閒話家常，台語其實一直存在於我們的日常生活中，也承載著豐富的文化記憶。\n但你是否曾想過，為什麼有些人聽得懂台語，卻不習慣開口說？學習母語，真的有想像中那麼困難嗎？",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16408"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16409",
-   "title": "【河堤分館】10/24(六)用台語來共讀，嘛會當足趣味！|親子共讀培力",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-24T16:00:00+08:00",
-   "venue": "高雄市立圖書館河堤分館 3樓多功能教室",
-   "address": "高雄市三民區裕誠路1號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館河堤分館",
-   "organizer_type": "政府",
-   "description": "用台語來共讀，嘛會當足趣味！\n親子台語繪本共讀趣~\n台語不只是日常生活中的語言，更是陪伴孩子成長、傳遞情感與文化的美好媒介！",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16409"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "accupass:2608190315299847845000",
-   "title": "砂蠟香薰杯DIY",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-24T16:00:00+08:00",
-   "venue": "七賢一路與復興一路口(高雄福華大飯店B1F)",
-   "address": "台灣高雄市新興區七賢一路311號B1F(高雄福華大飯店)",
-   "district": "新興區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄福華名品",
-   "organizer_type": "不確定",
-   "description": "週末午後，給自己一段放鬆療癒的時光，來一場專屬於心靈的 Spa 之旅。在這堂冰砂香氛蠟燭課程中，透過色彩搭配與冰砂蠟的調製，依照當下的心情創作出屬於自己的作品，再加入喜愛的香氛，完成一顆獨一無二的冰砂香氛蠟燭。創作的過程不只是手作體驗，更是與自己對話的時刻，在輕鬆聊天與溫暖陪伴中，讓身心慢慢沉澱，享受「聊心，更療心」的美好時光。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2608190315299847845000"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "ksml:16310",
-   "title": "📌【岡山文化中心分館】📌10/24🎃Trick or Treat！萬聖薑餅屋 DIY",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-24T16:00:00+08:00",
-   "venue": "岡山文化中心分館3樓多功能教室(高雄市岡山區岡山南路43號)",
-   "address": "高雄市岡山區岡山南路43號",
-   "district": "岡山區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄市立圖書館岡山文化中心分館",
-   "organizer_type": "政府",
-   "description": "1.活動日期：2026/10/24(六)下午14:00-16:00\n2.活動地點：岡山文化中心分館3樓多功能教室(高雄市岡山區岡山南路43號)\n3.報名期間：即日起至額滿為止。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16310"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "accupass:2610040834182532393180",
-   "title": "【高雄公益】社交升級研究所 ‧ 兩性心理學系列【台政大專家識人實驗計畫｜1對1社交實境體驗 × 情感成長】",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-25T16:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運五塊厝附近",
-   "district": "苓雅區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "社交升級研究所（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "✨【高雄公益】社交升級研究所｜台政大專家識人實驗計畫✨ 結合兩性心理學與台政大專家指導，透過 1 對 1 實境互動，帶妳拆解盲點、看懂男人心！完成研究體驗累計最高領 $30,000 津貼，升級識人眼光，遇見 Mr. Right！ 📍質感空間 💰限額免費（採預約審核制）",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610040834182532393180"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610020834101328902245",
-   "title": "🎮【高雄沉浸式社交】10 場展覽漫步試煉：解鎖「鑑定紳士」審判官 | 心理測驗・MBTI",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-25T16:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運汽機車便捷直達之質感藝文場域/展覽空間（周邊附設完善停車機能）",
-   "district": "",
-   "category": "展覽",
-   "fee": "免費",
-   "organizer": "戀愛試煉實驗室（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "這是一場殘酷又浪漫的**「紳士鑑定」**！ 🌟 女生（審判官）： 限時免費看展。妳的匿名裁決決定他的去留，給低分他即刻淘汰，且再也見不到妳！ 🌟 男生（挑戰賽）： 挑戰 $2,000 獎金！需在 10 場漫步中維持 70 分以上高標。 🕐 時間： 2 小時/場（預約制）。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610020834101328902245"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610020833193084535650",
-   "title": "💰【高雄戀愛賞金】評分領 $4,000 獎學金：女生專屬戀愛賞金挑戰 | 質感社交・限額免費",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-25T16:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運五塊厝附近",
-   "district": "苓雅區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "戀愛試煉實驗室（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "這是一場專為追求效率與質感的單身者設計的挑戰！透過精準的一對一約會與雙方互評機制，確保每場互動的高品質。 實質獎勵：每累積 20 場無心動對象，即領 $4,000 賞金；推廣好友再拿獎金。 專業助攻：評分未達標者提供免費諮詢，助你精準修正戀愛信號。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610020833193084535650"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610040806126395726000",
-   "title": "【高雄手作】Maji戀愛解命所 ‧ 自我探索三部曲【星盤 × 生命靈數 × 香氛療癒DIY｜打造專屬香氛 × 遇見命中相合的異性】",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-25T17:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運五塊厝附近",
-   "district": "苓雅區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "Maji戀愛解命所（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "✨【高雄手作】Maji戀愛解命所｜自我探索三部曲✨ 結合星盤與生命靈數，親手調配專屬氣場香氛！精緻 2 男 2 女互動，帶著香氛成果破冰交流，無壓力探索性格與情感契合度，遇見命中相合的 TA。 📍質感空間 💰限額免費（採預約審核制）",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610040806126395726000"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610020843551275566266",
-   "title": "🔥【女生限定】評分男生領 $30,000：妳的直覺就是價值| 心理學・趣味實驗_高雄場",
-   "start": "2026-10-24T14:00:00+08:00",
-   "end": "2026-10-25T18:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運五塊厝附近",
-   "district": "苓雅區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "Maji戀愛解命所",
-   "organizer_type": "不確定",
-   "description": "邀請妳加入社交評鑑實驗！透過1對1真實互動，審查男生聊天力並提供專業回饋，妳的評分將決定他是否合格。完成任務可獲最高 $30,000 評鑑金，還有機會優先認識優質對象。限18歲以上單身女性報名，一起用直覺與眼光改變對話命運！",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610020843551275566266"
     }
    ],
    "lat": null,
@@ -4573,32 +3897,6 @@
    ]
   },
   {
-   "id": "accupass:2610040252141384848334",
-   "title": "投資心法 X 靜心體驗",
-   "start": "2026-10-24T14:30:00+08:00",
-   "end": "2026-10-24T16:00:00+08:00",
-   "venue": "農田水利署高雄管理處大樓",
-   "address": "台灣高雄市明誠二路332號6樓625室",
-   "district": "",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "高雄佛國精舍",
-   "organizer_type": "不確定",
-   "description": "融合「印心禪法」與「理財思維」 找到身心平衡的投資之道 課程三大重點 印心禪法禪定體驗 精算師的投資視角 身心平衡的投資心法",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610040252141384848334"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
    "id": "weiwuying:69c3539696bdfd0007710581",
    "title": "同黨劇團 《父親母親》",
    "start": "2026-10-24T14:30:00+08:00",
@@ -4625,136 +3923,6 @@
    ]
   },
   {
-   "id": "weiwuying:6a7d41c744a9110007066a51",
-   "title": "《Silver Screen Memories電影時代－非非藝術團隊演唱會 》",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T15:00:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "音樂與電影交會的世界 生命中的美好時光",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a7d41c744a9110007066a51"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "twmarket:59733:20261024",
-   "title": "夢遊海音島",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T20:00:00+08:00",
-   "venue": "高雄流行音樂中心海音館前廣場",
-   "address": "",
-   "district": "鹽埕區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/24（六）、10/25（日）\n時間：15:00–20:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2410-25-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%b5%81%e8%a1%8c%e9%9f%b3%e6%a8%82%e4%b8%ad%e5%bf%83%e6%b5%b7%e9%9f%b3%e9%a4%a8%e5%89%8d%e5%bb%a3%e5%a0%b4-%e5%a4%a2%e9%81%8a%e6%b5%b7/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61265:20261024",
-   "title": "昆仲好市",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T20:00:00+08:00",
-   "venue": "台塑王氏昆仲公園",
-   "address": "高雄市前鎮區中山三路39號",
-   "district": "前鎮區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "財團法人高雄市台塑王氏昆仲公園文化基金會、台塑生醫",
-   "organizer_type": "不確定",
-   "description": "場次：10/17（六）、10/18（日）、10/24（六）、11/21（六）、11/22（日）、12/19（六）、12/20（日）\n時間：15:00–20:00\n地址：高雄市前鎮區中山三路39號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-1712-20-%e9%ab%98%e9%9b%84-%e5%8f%b0%e5%a1%91%e7%8e%8b%e6%b0%8f%e6%98%86%e4%bb%b2%e5%85%ac%e5%9c%92-%e6%98%86%e4%bb%b2%e5%a5%bd%e5%b8%82/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:59736:20261024",
-   "title": "骷髏守門人",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T20:00:00+08:00",
-   "venue": "駁二藝術特區蓬萊倉庫",
-   "address": "",
-   "district": "鹽埕區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/24（六）、10/26（一）\n時間：15:00–20:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2410-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80%e8%93%ac%e8%90%8a%e5%80%89%e5%ba%ab-%e9%aa%b7%e9%ab%8f%e5%ae%88%e9%96%80%e4%ba%ba/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:59271:20261024",
-   "title": "兜文創市集",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T20:30:00+08:00",
-   "venue": "衛武營國家藝術文化中心北廣場及海安商圈及成大商圈",
-   "address": "",
-   "district": "鳳山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：9/5（六）、9/6（日）、10/24（六）、10/25（日）、10/31（六）、11/1（日）\n時間：15:00–20:30\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-09-0511-01-%e9%ab%98%e9%9b%84%e5%b8%82%e5%8f%b0%e5%8d%97%e5%b8%82-%e8%a1%9b%e6%ad%a6%e7%87%9f%e5%9c%8b%e5%ae%b6%e8%97%9d%e8%a1%93%e6%96%87%e5%8c%96%e4%b8%ad%e5%bf%83%e5%8c%97%e5%bb%a3%e5%a0%b4/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "accupass:2609160809261219126761",
    "title": "【假日農夫】一日旗山蕉農，從入住香蕉庄頭開始（2026年10月24日-10月25日）",
    "start": "2026-10-24T15:00:00+08:00",
@@ -4771,162 +3939,6 @@
     {
      "source": "accupass",
      "url": "https://www.accupass.com/event/2609160809261219126761"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610020805167088416330",
-   "title": "🎨 【高雄藝文】個人色彩漫步任務：挑戰解鎖「命定色」對象 | 心理測驗・MBTI",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-25T18:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市交通便利的展覽空間／藝文場域／美術館區",
-   "district": "",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "玩任務（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "【藝術展覽 × 個人色彩】情感探索任務 🎨 妳的專屬色彩是春季或冬季？透過 10場藝文展覽漫步，認識不同色彩屬性的異性。報名即享「色彩自測」，精準媒合 2男2女 互動，實測誰最能襯托妳的光采。 週末預約制 ✔ 限18歲以上單身，開啟妳的美感社交！",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610020805167088416330"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610020804179958810550",
-   "title": "🎲【高雄派對】桌遊互動體驗任務：挑戰 10 種星座戀愛情境！解鎖並肩破關的默契火花",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-25T18:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市精選桌遊空間",
-   "district": "",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "玩任務（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "📖 戀愛互動桌遊體驗招募中！ 以星座 x 愛情為主題，體驗 10 種桌遊/牌卡，每場約 2 小時，並與 不同星座異性互動。活動週六、週日，提供 免費餅乾飲料。 招募 18 歲以上單身者，喜歡聊天、敢嘗試、對星座與愛情互動有興趣皆可報名！",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610020804179958810550"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "weiwuying:6a30f2b51b5a900008aff175",
-   "title": "《行・城・記憶》—聲音的旅行",
-   "start": "2026-10-24T19:30:00+08:00",
-   "end": "2026-10-24T19:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "那些走過的城市，終將成為心中的風景。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a30f2b51b5a900008aff175"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "kpmc:15889",
-   "title": "尤雅- 2026《往事只能回味》演唱會-高雄站",
-   "start": "2026-10-24T19:30:00+08:00",
-   "end": "2026-10-24T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "全球音樂經紀有限公司",
-   "organizer_type": "民間",
-   "description": "演出：尤雅\n票價：NT$4200 NT$3600 NT$3000 NT$2400 NT$1800 NT$1600(視線不良區) 身障票NT$1500 NT$1200",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-hih-1024/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15829",
-   "title": "有些故事，家人就是最好的陪伴｜Matt Fullen《Family Tree 我們這一家》新專輯發表會",
-   "start": "2026-10-24T20:00:00+08:00",
-   "end": "2026-10-24T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：Matt Fullen傅麥特\n票價：雙人800元 單人450元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e6%9c%89%e4%ba%9b%e6%95%85%e4%ba%8b%ef%bc%8c%e5%ae%b6%e4%ba%ba%e5%b0%b1%e6%98%af%e6%9c%80%e5%a5%bd%e7%9a%84%e9%99%aa%e4%bc%b4%ef%bd%9cmatt-fullen%e3%80%8afamily-tree-%e6%88%91%e5%80%91%e9%80%99/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "accupass:2610160813443634882950",
-   "title": "2026 十月 【雄好笑 漫才 OPEN MIC】",
-   "start": "2026-10-24T20:00:00+08:00",
-   "end": "2026-10-24T22:00:00+08:00",
-   "venue": "肆意咖啡酒館",
-   "address": "台灣高雄市三民區博愛一路142號2樓",
-   "district": "三民區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "笑點工作室 歐尼獎",
-   "organizer_type": "民間",
-   "description": "高雄喜劇節目＋1 —— 雄好笑 漫才OPEN MIC ｜今年最後一場｜多組漫才團體｜即興遊戲／大喜利｜ 好笑因子等你來收集，一起來享受高雄最好笑的一晚吧！",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610160813443634882950"
     }
    ],
    "lat": null,
@@ -6144,6 +5156,32 @@
    "sources": [
     "accupass",
     "iculture"
+   ]
+  },
+  {
+   "id": "accupass:2610240256581488443667",
+   "title": "走進電影場景，細數古厝風華",
+   "start": "2026-10-29T13:00:00+08:00",
+   "end": "2026-10-29T16:00:00+08:00",
+   "venue": "吳家古厝",
+   "address": "台灣831高雄市大寮區潮寮里健康街17巷2號",
+   "district": "大寮區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "文化環境發展協會",
+   "organizer_type": "民間",
+   "description": "走進電影場景：實地探訪《大囍臨門》拍攝場景之一——吳家古厝。 認識古厝建築：細看閩南傳統、日治時期與西洋古典風格交會的建築細節。 理解地方故事：沿著高屏溪堤防走讀，認識河流、堤防與大寮生活的關係。 觀察河岸生態：了解溪埔地、河岸植物與在地環境守護行動。 體驗自然手作：透過葉脈拓印／槌染，完成一件專屬於自己的自然紀念作品。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610240256581488443667"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -9255,6 +8293,32 @@
    ]
   },
   {
+   "id": "accupass:2610240328451296730947",
+   "title": "大寮熱鬧季 3場地方小旅行",
+   "start": "2026-11-07T09:00:00+08:00",
+   "end": "2026-11-22T17:00:00+08:00",
+   "venue": "鳳凰山登山口、義仁赤崁福德爺廟、吳家古厝",
+   "address": "台灣高雄市大寮區忠義里、義仁里、潮寮里",
+   "district": "大寮區",
+   "category": "節慶／觀光",
+   "fee": "付費",
+   "organizer": "初冊文化",
+   "organizer_type": "不確定",
+   "description": "參加「閱讀大寮・大寮熱鬧季」，你可以體驗： 地方走讀：鳳凰山、瑞榮磚窯、古井、古厝、廟宇導覽 手作 DIY：登窯繩結、毛豆麻糬、菱角拔染、菱角菓子燒、菱角綁染、紅豆餅 在地美食探索：自由品嚐大寮庄頭小吃與老街美食 水圳解謎遊戲：走進山仔頂水圳步道，尋找地方線索 完成任務兌獎：通過解謎可至初冊店兌換獎品 兌夢卡蒐集：參加活動可獲得兌夢卡，集滿可於書市集兌換周邊 用腳步讀地方，用雙手做故事，用味覺記住大寮。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610240328451296730947"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "accupass:2610010146522379317080",
    "title": "甜酒釀體驗工作坊",
    "start": "2026-11-07T09:30:00+08:00",
@@ -10139,6 +9203,32 @@
    ]
   },
   {
+   "id": "accupass:2610020843551275566266",
+   "title": "🔥【女生限定】評分男生領 $30,000：妳的直覺就是價值| 心理學・趣味實驗_高雄場",
+   "start": "2026-11-07T14:00:00+08:00",
+   "end": "2026-11-08T18:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運五塊厝附近",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "Maji戀愛解命所",
+   "organizer_type": "不確定",
+   "description": "邀請妳加入社交評鑑實驗！透過1對1真實互動，審查男生聊天力並提供專業回饋，妳的評分將決定他是否合格。完成任務可獲最高 $30,000 評鑑金，還有機會優先認識優質對象。限18歲以上單身女性報名，一起用直覺與眼光改變對話命運！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610020843551275566266"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "accupass:2610060749091437228748",
    "title": "2026高雄WildWild野生活-手作、帳篷體驗專區",
    "start": "2026-11-07T14:00:00+08:00",
@@ -10448,32 +9538,6 @@
    "aliases": [],
    "sources": [
     "kpmc"
-   ]
-  },
-  {
-   "id": "ksml:16432",
-   "title": "【寶珠分館】🚂紅豆冰哥哥紙芝居稅務列車《咩咩餐廳》11/08(日)上午10:00-11:00",
-   "start": "2026-11-08T10:00:00+08:00",
-   "end": "2026-11-08T11:00:00+08:00",
-   "venue": "寶珠分館 藝文研習室(高雄市三民區大順二路468號4樓)",
-   "address": "高雄市三民區大順二路468號4樓",
-   "district": "三民區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館寶珠分館",
-   "organizer_type": "政府",
-   "description": "【寶珠分館】紅豆冰哥哥紙芝居稅務列車《咩咩餐廳》\n叮叮叮～紙芝居列車即將進站！🚂\n由✨紅豆冰哥哥・何弘斌 帶來生動有趣的紙芝居演出～",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16432"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "ksml"
    ]
   },
   {
@@ -12557,6 +11621,110 @@
    ]
   },
   {
+   "id": "accupass:2610040834182532393180",
+   "title": "【高雄公益】社交升級研究所 ‧ 兩性心理學系列【台政大專家識人實驗計畫｜1對1社交實境體驗 × 情感成長】",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-15T16:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運五塊厝附近",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "社交升級研究所（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "✨【高雄公益】社交升級研究所｜台政大專家識人實驗計畫✨ 結合兩性心理學與台政大專家指導，透過 1 對 1 實境互動，帶妳拆解盲點、看懂男人心！完成研究體驗累計最高領 $30,000 津貼，升級識人眼光，遇見 Mr. Right！ 📍質感空間 💰限額免費（採預約審核制）",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610040834182532393180"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610020834101328902245",
+   "title": "🎮【高雄沉浸式社交】10 場展覽漫步試煉：解鎖「鑑定紳士」審判官 | 心理測驗・MBTI",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-15T16:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運汽機車便捷直達之質感藝文場域/展覽空間（周邊附設完善停車機能）",
+   "district": "",
+   "category": "展覽",
+   "fee": "免費",
+   "organizer": "戀愛試煉實驗室（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "這是一場殘酷又浪漫的**「紳士鑑定」**！ 🌟 女生（審判官）： 限時免費看展。妳的匿名裁決決定他的去留，給低分他即刻淘汰，且再也見不到妳！ 🌟 男生（挑戰賽）： 挑戰 $2,000 獎金！需在 10 場漫步中維持 70 分以上高標。 🕐 時間： 2 小時/場（預約制）。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610020834101328902245"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610020833193084535650",
+   "title": "💰【高雄戀愛賞金】評分領 $4,000 獎學金：女生專屬戀愛賞金挑戰 | 質感社交・限額免費",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-15T16:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運五塊厝附近",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "戀愛試煉實驗室（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "這是一場專為追求效率與質感的單身者設計的挑戰！透過精準的一對一約會與雙方互評機制，確保每場互動的高品質。 實質獎勵：每累積 20 場無心動對象，即領 $4,000 賞金；推廣好友再拿獎金。 專業助攻：評分未達標者提供免費諮詢，助你精準修正戀愛信號。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610020833193084535650"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610040806126395726000",
+   "title": "【高雄手作】Maji戀愛解命所 ‧ 自我探索三部曲【星盤 × 生命靈數 × 香氛療癒DIY｜打造專屬香氛 × 遇見命中相合的異性】",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-15T17:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運五塊厝附近",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "Maji戀愛解命所（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "✨【高雄手作】Maji戀愛解命所｜自我探索三部曲✨ 結合星盤與生命靈數，親手調配專屬氣場香氛！精緻 2 男 2 女互動，帶著香氛成果破冰交流，無壓力探索性格與情感契合度，遇見命中相合的 TA。 📍質感空間 💰限額免費（採預約審核制）",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610040806126395726000"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "accupass:2610230851105539666850",
    "title": "【繪本特企】與狗狗的光影相遇-光影故事屋 × 無尾香蕉動物學校",
    "start": "2026-11-14T14:00:00+08:00",
@@ -14098,6 +13266,32 @@
    ]
   },
   {
+   "id": "iculture:6ada767326b3245efc753712",
+   "title": "11月高雄市電影館｜你和我的房間這種感覺",
+   "start": "2026-11-20T16:50:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:6ad91d1d26b3245efc753706",
    "title": "11月高雄市電影館｜黑球",
    "start": "2026-11-20T18:20:00+08:00",
@@ -14114,6 +13308,32 @@
     {
      "source": "iculture",
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3Q5"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753713",
+   "title": "11月高雄市電影館｜善男信女",
+   "start": "2026-11-20T18:50:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QJ"
     }
    ],
    "lat": null,
@@ -14147,6 +13367,32 @@
    "aliases": [],
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753714",
+   "title": "11月高雄市電影館｜第四幕",
+   "start": "2026-11-20T19:20:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -14277,6 +13523,32 @@
    "aliases": [],
    "sources": [
     "twmarket"
+   ]
+  },
+  {
+   "id": "ksml:16198",
+   "title": "🏮大東講堂🏮11/21(六)邀請王立人主講「看與思的N面向」，歡迎參加！",
+   "start": "2026-11-21T00:00:00+08:00",
+   "end": "2026-11-21T23:59:59+08:00",
+   "venue": "大東文化藝術中心演講廳（鳳山區光遠路161號）捷運橘線大東站2號出口",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館大東藝術圖書館",
+   "organizer_type": "政府",
+   "description": "※本場次採線上報名，即日起至額滿為止，當天視剩餘座位開放現場候補，報名方式請詳報名網址。\n日 期：2026年11月21日( 六 )\n時 間：14:30 - 17:00 (13:30開放報到入場)",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16198"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "ksml"
    ]
   },
   {
@@ -15194,6 +14466,32 @@
    "aliases": [],
    "sources": [
     "kpmc"
+   ]
+  },
+  {
+   "id": "ksml:14412",
+   "title": "【高雄文學館】𝟏𝟏/𝟐𝟐港都文藝學會 「文學創作－生命中的光與熱」 系列講座",
+   "start": "2026-11-22T00:00:00+08:00",
+   "end": "2026-11-22T23:59:59+08:00",
+   "venue": "高雄市立圖書館高雄文學館",
+   "address": "高雄市前金區民生二路39號",
+   "district": "前金區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄文學館",
+   "organizer_type": "政府",
+   "description": "11月活動海報 109年始，高雄文學館啟動「文學品味線」、「跨藝實驗線」、「地方紀實線」、「社群培力線」、「典藏轉譯線」五個文學推廣路線，每個路線包含「講座」、「對談」、「工作坊」、「展覽」、「專欄」等不同類型的系列活動。每年度，邀請港都文藝學會協辦「文學品味線」講座，透過12位高雄作家分享擅長的不同文類及專業，拓展民眾的閱讀與創作的品味及寬度。\n∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵\n港都文藝學會 「文學創作－生命中的光與熱」 系列講座 ▍𝟏𝟏月場",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,14412"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "ksml"
    ]
   },
   {
@@ -16140,6 +15438,58 @@
    ]
   },
   {
+   "id": "iculture:6ada767326b3245efc753716",
+   "title": "11月高雄市電影館｜窗外有藍天 4K經典數位修復",
+   "start": "2026-11-27T19:00:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF3G"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753715",
+   "title": "11月高雄市電影館｜盧丹的惡魔",
+   "start": "2026-11-27T19:10:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF39"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "weiwuying:6a94f46b09ea090008f26770",
    "title": "《聲琴樂語 VII》",
    "start": "2026-11-27T19:30:00+08:00",
@@ -16683,6 +16033,58 @@
    "aliases": [],
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "accupass:2610020805167088416330",
+   "title": "🎨 【高雄藝文】個人色彩漫步任務：挑戰解鎖「命定色」對象 | 心理測驗・MBTI",
+   "start": "2026-11-28T15:00:00+08:00",
+   "end": "2026-11-29T18:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市交通便利的展覽空間／藝文場域／美術館區",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "玩任務（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "【藝術展覽 × 個人色彩】情感探索任務 🎨 妳的專屬色彩是春季或冬季？透過 10場藝文展覽漫步，認識不同色彩屬性的異性。報名即享「色彩自測」，精準媒合 2男2女 互動，實測誰最能襯托妳的光采。 週末預約制 ✔ 限18歲以上單身，開啟妳的美感社交！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610020805167088416330"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610020804179958810550",
+   "title": "🎲【高雄派對】桌遊互動體驗任務：挑戰 10 種星座戀愛情境！解鎖並肩破關的默契火花",
+   "start": "2026-11-28T15:00:00+08:00",
+   "end": "2026-11-29T18:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市精選桌遊空間",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "玩任務（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "📖 戀愛互動桌遊體驗招募中！ 以星座 x 愛情為主題，體驗 10 種桌遊/牌卡，每場約 2 小時，並與 不同星座異性互動。活動週六、週日，提供 免費餅乾飲料。 招募 18 歲以上單身者，喜歡聊天、敢嘗試、對星座與愛情互動有興趣皆可報名！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610020804179958810550"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -20517,6 +19919,32 @@
    ]
   },
   {
+   "id": "twmarket:61537:20261219",
+   "title": "聖誕小鎮",
+   "start": "2026-12-19T15:00:00+08:00",
+   "end": "2026-12-19T21:00:00+08:00",
+   "venue": "義大購物中心",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/19（六）、12/20（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-1912-20-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%be%a9%e5%a4%a7%e8%b3%bc%e7%89%a9%e4%b8%ad%e5%bf%83-%e8%81%96%e8%aa%95%e5%b0%8f%e9%8e%ae/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
    "id": "accupass:2609250959112975172080",
    "title": "【醒在時光裡：醒村的感官與敘事再造】暮色搖擺：曲盤裡的舞動時光",
    "start": "2026-12-19T17:30:00+08:00",
@@ -20819,6 +20247,32 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-10-1712-20-%e9%ab%98%e9%9b%84-%e5%8f%b0%e5%a1%91%e7%8e%8b%e6%b0%8f%e6%98%86%e4%bb%b2%e5%85%ac%e5%9c%92-%e6%98%86%e4%bb%b2%e5%a5%bd%e5%b8%82/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61537:20261220",
+   "title": "聖誕小鎮",
+   "start": "2026-12-20T15:00:00+08:00",
+   "end": "2026-12-20T21:00:00+08:00",
+   "venue": "義大購物中心",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/19（六）、12/20（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-1912-20-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%be%a9%e5%a4%a7%e8%b3%bc%e7%89%a9%e4%b8%ad%e5%bf%83-%e8%81%96%e8%aa%95%e5%b0%8f%e9%8e%ae/"
     }
    ],
    "lat": null,

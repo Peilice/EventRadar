@@ -1,6 +1,58 @@
 {
- "fetched_at": "2026-10-24T03:46:35.976490+08:00",
+ "fetched_at": "2026-10-25T02:35:05.238921+08:00",
  "events": [
+  {
+   "id": "twmarket:61537:20261219",
+   "title": "聖誕小鎮",
+   "start": "2026-12-19T15:00:00+08:00",
+   "end": "2026-12-19T21:00:00+08:00",
+   "venue": "義大購物中心",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/19（六）、12/20（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-1912-20-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%be%a9%e5%a4%a7%e8%b3%bc%e7%89%a9%e4%b8%ad%e5%bf%83-%e8%81%96%e8%aa%95%e5%b0%8f%e9%8e%ae/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61537:20261220",
+   "title": "聖誕小鎮",
+   "start": "2026-12-20T15:00:00+08:00",
+   "end": "2026-12-20T21:00:00+08:00",
+   "venue": "義大購物中心",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/19（六）、12/20（日）\n時間：15:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-1912-20-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%be%a9%e5%a4%a7%e8%b3%bc%e7%89%a9%e4%b8%ad%e5%bf%83-%e8%81%96%e8%aa%95%e5%b0%8f%e9%8e%ae/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:61507:20261219",
    "title": "聖誕活動市集",
@@ -538,32 +590,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-12-0512-27-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%8f%b0%e9%90%b5%e9%ab%98%e9%9b%84%e6%a9%9f%e5%bb%a0-%e9%ab%98%e9%9b%84%e8%a6%aa%e5%ad%90%e9%81%8a%e6%a8%82%e5%9c%92%e5%8d%80%e5%b8%82%e9%9b%86/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61328:20261024",
-   "title": "漫光星光微型演唱會市集",
-   "start": "2026-10-24T13:00:00+08:00",
-   "end": "2026-10-24T19:30:00+08:00",
-   "venue": "大立百貨與新光三越三多店",
-   "address": "",
-   "district": "前金區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/9（五）、10/11（日）、10/17（六）、10/18（日）、10/24（六）、10/25（日）、10/26（一）、11/7（六）、11/8（日）、11/21（六）、11/22（日）、12/19（六）、12/20（日）、12/25（五）、12/26（六）、12/27（日）、1/1（五）、1/2（六）、1/3（日）、1/9（六）、1/10（日）、1/23（六）、1/24（日）、2/6（六）、2/7（日）、2/8（一）\n時間：13:00–19:30\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-092026-02-08-%e9%ab%98%e9%9b%84-%e5%a4%a7%e7%ab%8b%e7%99%be%e8%b2%a8%e8%88%87%e6%96%b0%e5%85%89%e4%b8%89%e8%b6%8a%e4%b8%89%e5%a4%9a%e5%ba%97-%e6%bc%ab%e5%85%89%e6%98%9f%e5%85%89%e5%be%ae/"
     }
    ],
    "lat": null,
@@ -1380,32 +1406,6 @@
    ]
   },
   {
-   "id": "twmarket:61265:20261024",
-   "title": "昆仲好市",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T20:00:00+08:00",
-   "venue": "台塑王氏昆仲公園",
-   "address": "高雄市前鎮區中山三路39號",
-   "district": "前鎮區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "財團法人高雄市台塑王氏昆仲公園文化基金會、台塑生醫",
-   "organizer_type": "不確定",
-   "description": "場次：10/17（六）、10/18（日）、10/24（六）、11/21（六）、11/22（日）、12/19（六）、12/20（日）\n時間：15:00–20:00\n地址：高雄市前鎮區中山三路39號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-1712-20-%e9%ab%98%e9%9b%84-%e5%8f%b0%e5%a1%91%e7%8e%8b%e6%b0%8f%e6%98%86%e4%bb%b2%e5%85%ac%e5%9c%92-%e6%98%86%e4%bb%b2%e5%a5%bd%e5%b8%82/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "twmarket:61265:20261121",
    "title": "昆仲好市",
    "start": "2026-11-21T15:00:00+08:00",
@@ -1890,32 +1890,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-12-0512-06-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c-%e5%9f%8e%e5%b8%82%e5%b7%b4%e5%88%b9-%e9%a7%81%e4%ba%8c%e5%8b%95%e6%bc%ab%e7%a5%ad/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:60978:20261024",
-   "title": "2026高雄商圈聯合慶典秋收高雄雄好逛",
-   "start": "2026-10-24T00:00:00+08:00",
-   "end": "2026-10-24T23:59:59+08:00",
-   "venue": "中央公園",
-   "address": "",
-   "district": "前金區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "大高雄市觀光商圈總會",
-   "organizer_type": "民間",
-   "description": "場次：10/23（五）、10/24（六）、10/25（日）、10/26（一）\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2310-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%b8%ad%e5%a4%ae%e5%85%ac%e5%9c%92-2026%e9%ab%98%e9%9b%84%e5%95%86%e5%9c%88%e8%81%af%e5%90%88%e6%85%b6%e5%85%b8%e7%a7%8b%e6%94%b6%e9%ab%98%e9%9b%84/"
     }
    ],
    "lat": null,
@@ -2732,32 +2706,6 @@
    ]
   },
   {
-   "id": "twmarket:60681:20261024",
-   "title": "仲秋季夏榮耀盃",
-   "start": "2026-10-24T00:00:00+08:00",
-   "end": "2026-10-24T23:59:59+08:00",
-   "venue": "高雄岡山樂購廣場【正門廣場】",
-   "address": "",
-   "district": "岡山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "滑動飛炫運動行銷工作室",
-   "organizer_type": "民間",
-   "description": "場次：10/24（六）、10/25（日）\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2410-25-%e9%ab%98%e9%9b%84%e5%b8%82%e9%9b%86-%e9%ab%98%e9%9b%84%e5%b2%a1%e5%b1%b1%e6%a8%82%e8%b3%bc%e5%bb%a3%e5%a0%b4%e3%80%90%e6%ad%a3%e9%96%80%e5%bb%a3%e5%a0%b4%e3%80%91-%e4%bb%b2%e7%a7%8b/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "twmarket:60681:20261025",
    "title": "仲秋季夏榮耀盃",
    "start": "2026-10-25T00:00:00+08:00",
@@ -2852,32 +2800,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-12-0512-06-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%b8%89%e5%a4%9a%e5%95%86%e5%9c%88-%e4%b8%89%e5%a4%9a%e8%81%96%e8%aa%95%e7%94%9f%e6%b4%bb%e7%af%80/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:60448:20261024",
-   "title": "橋糖一巷微市集",
-   "start": "2026-10-24T10:00:00+08:00",
-   "end": "2026-10-24T18:00:00+08:00",
-   "venue": "橋頭糖廠",
-   "address": "",
-   "district": "橋頭區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/3（六）、10/4（日）、10/10（六）、10/11（日）、10/17（六）、10/18（日）、10/24（六）、10/25（日）、10/31（六）\n時間：10:00–18:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-0110-31-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a9%8b%e9%a0%ad%e7%b3%96%e5%bb%a0-%e6%a9%8b%e7%b3%96%e4%b8%80%e5%b7%b7%e5%be%ae%e5%b8%82%e9%9b%86/"
     }
    ],
    "lat": null,
@@ -3512,32 +3434,6 @@
    ]
   },
   {
-   "id": "twmarket:59736:20261024",
-   "title": "骷髏守門人",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T20:00:00+08:00",
-   "venue": "駁二藝術特區蓬萊倉庫",
-   "address": "",
-   "district": "鹽埕區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/24（六）、10/26（一）\n時間：15:00–20:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2410-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80%e8%93%ac%e8%90%8a%e5%80%89%e5%ba%ab-%e9%aa%b7%e9%ab%8f%e5%ae%88%e9%96%80%e4%ba%ba/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "twmarket:59736:20261026",
    "title": "骷髏守門人",
    "start": "2026-10-26T15:00:00+08:00",
@@ -3554,32 +3450,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-10-2410-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80%e8%93%ac%e8%90%8a%e5%80%89%e5%ba%ab-%e9%aa%b7%e9%ab%8f%e5%ae%88%e9%96%80%e4%ba%ba/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:59733:20261024",
-   "title": "夢遊海音島",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T20:00:00+08:00",
-   "venue": "高雄流行音樂中心海音館前廣場",
-   "address": "",
-   "district": "鹽埕區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/24（六）、10/25（日）\n時間：15:00–20:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2410-25-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%b5%81%e8%a1%8c%e9%9f%b3%e6%a8%82%e4%b8%ad%e5%bf%83%e6%b5%b7%e9%9f%b3%e9%a4%a8%e5%89%8d%e5%bb%a3%e5%a0%b4-%e5%a4%a2%e9%81%8a%e6%b5%b7/"
     }
    ],
    "lat": null,
@@ -3850,32 +3720,6 @@
    ]
   },
   {
-   "id": "twmarket:59549:20261024",
-   "title": "樂居市集小島聚會",
-   "start": "2026-10-24T12:00:00+08:00",
-   "end": "2026-10-24T18:00:00+08:00",
-   "venue": "墨凡高雄駅一番街",
-   "address": "",
-   "district": "三民區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/24（六）、10/25（日）、10/26（一）\n時間：12:00–18:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-2410-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a2%a8%e5%87%a1%e9%ab%98%e9%9b%84%e9%a7%85%e4%b8%80%e7%95%aa%e8%a1%97-%e6%a8%82%e5%b1%85%e5%b8%82%e9%9b%86%e5%b0%8f%e5%b3%b6%e8%81%9a%e6%9c%83/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "twmarket:59549:20261025",
    "title": "樂居市集小島聚會",
    "start": "2026-10-25T12:00:00+08:00",
@@ -4032,32 +3876,6 @@
    ]
   },
   {
-   "id": "twmarket:59407:20261024",
-   "title": "漫光市集",
-   "start": "2026-10-24T13:00:00+08:00",
-   "end": "2026-10-24T19:30:00+08:00",
-   "venue": "大立百貨B館1F騎樓",
-   "address": "",
-   "district": "前金區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：8/29（六）、8/30（日）、9/12（六）、9/13（日）、9/19（六）、9/20（日）、10/9（五）、10/10（六）、10/11（日）、10/24（六）、10/25（日）、10/26（一）\n時間：13:00–19:30\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-08-2910-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e7%ab%8b%e7%99%be%e8%b2%a8b%e9%a4%a81f%e9%a8%8e%e6%a8%93-%e6%bc%ab%e5%85%89%e5%b8%82%e9%9b%86/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "twmarket:59407:20261025",
    "title": "漫光市集",
    "start": "2026-10-25T13:00:00+08:00",
@@ -4178,32 +3996,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-11-1411-15-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%87%b9%e5%ad%90%e5%ba%95%e6%a3%ae%e6%9e%97%e5%85%ac%e5%9c%92-%e8%a7%92%e8%90%bd%e5%be%ae%e5%85%89-%e6%ba%ab%e6%83%85%e5%9f%8e%e5%b8%82/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:59271:20261024",
-   "title": "兜文創市集",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T20:30:00+08:00",
-   "venue": "衛武營國家藝術文化中心北廣場及海安商圈及成大商圈",
-   "address": "",
-   "district": "鳳山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：9/5（六）、9/6（日）、10/24（六）、10/25（日）、10/31（六）、11/1（日）\n時間：15:00–20:30\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-09-0511-01-%e9%ab%98%e9%9b%84%e5%b8%82%e5%8f%b0%e5%8d%97%e5%b8%82-%e8%a1%9b%e6%ad%a6%e7%87%9f%e5%9c%8b%e5%ae%b6%e8%97%9d%e8%a1%93%e6%96%87%e5%8c%96%e4%b8%ad%e5%bf%83%e5%8c%97%e5%bb%a3%e5%a0%b4/"
     }
    ],
    "lat": null,
