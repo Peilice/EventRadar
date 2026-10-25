@@ -279,9 +279,7 @@ main { min-width: 0; }
 .field-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; }
 @media (min-width: 1000px) {
   .field-row { grid-template-columns: 1fr 1fr; }
-  .field-row-dates { grid-template-columns: 1fr; }
-  .field-row-3 > :first-child { grid-column: 1 / -1; }
-}
+  .field-row-dates { grid-template-columns: 1fr; }}
 
 input, select, button { font: inherit; color: inherit; }
 input, select {

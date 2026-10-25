@@ -222,7 +222,6 @@ function readFilters() {
     to: f.get("to") || "9999-12-31",
     district: f.get("district"),
     fee: f.get("fee"),
-    organizer_type: f.get("organizer_type"),
     categories: state.categories,
     sources: state.sources,
     marks: state.markFilter,
@@ -234,7 +233,6 @@ function matches(e, f) {
   if (dayOf(e.start) > f.to || dayOf(e.end) < f.from) return false;
   if (f.district && e.district !== f.district) return false;
   if (f.fee && e.fee !== f.fee) return false;
-  if (f.organizer_type && e.organizer_type !== f.organizer_type) return false;
   if (f.categories.size && !f.categories.has(e.category)) return false;
   if (f.sources.size && !e.sources.some((s) => f.sources.has(s))) return false;
   if (f.marks.size && !f.marks.has(state.marks[e.id])) return false;
@@ -253,7 +251,6 @@ function countActiveFilters(f) {
   if (!f.marks.size && !f.newOnly && (f.from !== today || f.to !== addDays(today, DEFAULT_RANGE_DAYS))) n++;
   if (f.district) n++;
   if (f.fee) n++;
-  if (f.organizer_type) n++;
   if (f.categories.size) n++;
   if (f.sources.size) n++;
   if (f.marks.size) n++;
