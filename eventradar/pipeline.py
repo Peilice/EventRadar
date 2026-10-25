@@ -64,6 +64,9 @@ def run_source(source, now: datetime, save_raw: Path | None = None) -> tuple[lis
         return events, status
     except Exception as e:  # 單一來源失敗不影響其他來源
         log.error("%s 失敗：%s", source.NAME, e)
+        resp = getattr(e, "response", None)
+        if resp is not None:  # HTTP 錯誤時附上回應內容，方便判斷被擋的原因
+            log.error("  %s %s\n  %s", resp.status_code, resp.url, resp.text[:500])
         log.debug(traceback.format_exc())
         events = [ev for ev in previous if ev.end >= now]
         status.update(ok=False, count=0, cached_count=len(events), error=f"{type(e).__name__}: {e}"[:300])
