@@ -79,7 +79,14 @@
           篩選 <span class="active-count" id="active-count"></span>
         </summary>
         <form id="filter-form" autocomplete="off">
-          <button type="button" class="reset" id="reset-filters">清除篩選</button>
+          <div class="sync">
+            <div class="form-actions">
+              <button type="button" class="reset" id="reset-filters">清除篩選</button>
+              <button type="button" class="reset" id="sync-share">分享同步連結</button>
+            </div>
+            <input type="text" class="sync-link" id="sync-link" readonly aria-label="同步連結" hidden>
+            <p class="hint sync-msg" id="sync-msg" aria-live="polite"></p>
+          </div>
           <label class="field">
             <span>關鍵字</span>
             <input type="search" name="q" placeholder="活動名稱、場地、主辦單位">
@@ -103,12 +110,6 @@
             <legend>我的標記</legend>
             <div class="chips" id="mark-chips"></div>
             <p class="hint">選取時不限日期。標記存在這台裝置的瀏覽器，活動結束後自動移除。</p>
-            <div class="sync">
-              <button type="button" class="reset" id="sync-share">分享同步連結</button>
-              <p class="hint">在另一台裝置打開連結，標記就會合併過去；之後再改要重新分享一次。</p>
-              <input type="text" class="sync-link" id="sync-link" readonly aria-label="同步連結" hidden>
-              <p class="hint sync-msg" id="sync-msg" aria-live="polite"></p>
-            </div>
           </fieldset>
           <fieldset class="field">
             <legend>分類</legend>
