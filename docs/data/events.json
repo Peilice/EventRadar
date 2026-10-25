@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T00:50:19.898803+08:00",
+ "generated_at": "2026-10-26T01:14:15.560301+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -18548,6 +18548,33 @@
    ]
   },
   {
+   "id": "weiwuying:6ad5ce207a63f600077b3cb6",
+   "title": "衛武營 K-POP Dance Party 主題導覽",
+   "start": "2026-11-29T15:00:00+08:00",
+   "end": "2026-11-29T15:00:00+08:00",
+   "venue": "衛武營",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "整個衛武營，都是我們的舞蹈練習室！",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ad5ce207a63f600077b3cb6"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-26",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "accupass:2609250842361108233070",
    "title": "【醒在時光裡：醒村的感官與敘事再造】建築的記憶：從文資視角看眷村群落",
    "start": "2026-11-29T15:00:00+08:00",
@@ -26179,6 +26206,33 @@
    ]
   },
   {
+   "id": "weiwuying:6ac4a0e986975700088f6758",
+   "title": "《欣響室內管樂團『環遊世界音樂派對』》",
+   "start": "2027-02-13T19:30:00+08:00",
+   "end": "2027-02-13T19:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "踏上新奇的旅程，體驗異國的音樂風情",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ac4a0e986975700088f6758"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-26",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6ab22f958697570008857a4f",
    "title": "《琴弦上的波西米亞》",
    "start": "2027-02-13T19:30:00+08:00",
@@ -26209,6 +26263,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ac4ab7f86975700088f695c",
+   "title": "《2027鑼鼓齊鳴慶豐收音樂會》",
+   "start": "2027-02-14T14:30:00+08:00",
+   "end": "2027-02-14T14:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "管弦齊鳴歌盛歲，鑼鼓歡騰慶豐年。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ac4ab7f86975700088f695c"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-26",
+   "sources": [
     "weiwuying"
    ]
   },
@@ -26576,6 +26657,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "weiwuying:6ad5d86c7a63f600077b3f99",
+   "title": "《光與塵》",
+   "start": "2027-02-26T19:30:00+08:00",
+   "end": "2027-02-26T19:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "以聖靈之光 照見塵世人生",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ad5d86c7a63f600077b3f99"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-26",
+   "sources": [
+    "weiwuying"
    ]
   },
   {

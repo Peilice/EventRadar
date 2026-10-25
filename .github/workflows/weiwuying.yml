@@ -1,0 +1,45 @@
+name: 抓取衛武營
+
+# 衛武營擋 GitHub Actions 機房的 IP（nginx 直接回 403），改在台灣的 self-hosted runner 抓。
+# 只提交 data/sources/weiwuying.json，網頁資料由「每日更新活動」以 --skip weiwuying 合併輸出。
+on:
+  schedule:
+    - cron: "30 15 * * *" # UTC 15:30 = 台灣時間 23:30，比每日更新早半小時
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-weiwuying
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: [self-hosted, Windows]
+    timeout-minutes: 15
+    defaults:
+      run:
+        shell: powershell
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: py -3.14 -m venv .venv
+      - run: .venv\Scripts\python -m pip install -q -r requirements.txt
+
+      - name: 抓取衛武營
+        run: .venv\Scripts\python -m eventradar --only weiwuying
+
+      - name: 提交資料
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sources/weiwuying.json
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            echo "資料沒有變動"
+            exit 0
+          }
+          git commit -q -m "更新衛武營活動資料"
+          git pull --rebase -q
+          git push -q

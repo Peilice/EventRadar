@@ -29,9 +29,10 @@ jobs:
       - run: python -m pytest -q
 
       # 有來源失敗時程式回傳非 0，但資料仍已寫出：先提交，最後再標記失敗
+      # 衛武營擋 GitHub 機房 IP，由本機 runner 的「抓取衛武營」workflow 更新快取，這裡直接沿用
       - name: 抓取活動
         id: fetch
-        run: python -m eventradar
+        run: python -m eventradar --skip weiwuying
         continue-on-error: true
 
       - name: 提交資料
@@ -43,6 +44,7 @@ jobs:
             echo "資料沒有變動"
           else
             git commit -m "每日更新活動資料"
+            git pull --rebase -q
             git push
           fi
 

@@ -101,3 +101,23 @@ def test_first_seen_marks_new_events(tmp_path, monkeypatch, now):
     # 來源漏抓一天後又出現，不算新活動
     build_titles(2, [old])
     assert build_titles(3, [old, make_event("a", 2, "新活動")])["新活動"] == "2026-10-20"
+
+
+def test_skipped_source_uses_cache_until_stale(tmp_path, monkeypatch, now):
+    monkeypatch.setattr(pipeline, "CACHE_DIR", tmp_path / "cache")
+    monkeypatch.setattr(pipeline, "OUTPUT_DIR", tmp_path / "out")
+
+    ev = Event(id="b:1", title="本機抓的活動", start=now, end=now + timedelta(days=30), district="鳳山區",
+               links=[Link("b", "https://b.example/1")])
+    # 本機只抓 b，寫入快取
+    monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", []), make_source("b", [ev])])
+    pipeline.build(now=now, only=["b"])
+
+    # 雲端跳過 b：b 一抓就會失敗，但不該被呼叫
+    monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", []), make_source("b", error=RuntimeError("403"))])
+    b = pipeline.build(now=now + timedelta(days=1), skip=["b"])["sources"]["b"]
+    assert b["ok"] is True and b["count"] == 1 and b["last_success"] == now.isoformat()
+
+    # 本機太久沒更新：標為失敗，活動仍沿用
+    b = pipeline.build(now=now + timedelta(days=3), skip=["b"])["sources"]["b"]
+    assert b["ok"] is False and b["cached_count"] == 1 and "本機" in b["error"]

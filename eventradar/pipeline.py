@@ -27,6 +27,8 @@ FIRST_SEEN_KEEP_DAYS = 60
 # 筆數比上次（仍未結束的）少了九成以上，多半是網站回傳不完整，視同失敗
 MIN_RATIO = 0.1
 MIN_BASELINE = 20  # 上次筆數太少時不檢查，避免小來源正常波動被誤判
+# --skip 的來源由別處（本機 runner）更新快取，超過這麼久沒更新視同失敗
+SKIP_MAX_AGE = timedelta(days=2)
 
 log = logging.getLogger("eventradar")
 
@@ -73,6 +75,20 @@ def run_source(source, now: datetime, save_raw: Path | None = None) -> tuple[lis
         return events, status
 
 
+def use_cache(source, now: datetime) -> tuple[list[Event], dict]:
+    """不抓取，直接用別處更新的快取；狀態依快取的抓取時間判斷。"""
+    cached = _read_json(CACHE_DIR / f"{source.NAME}.json", {"events": []})
+    events = [ev for ev in map(Event.from_dict, cached["events"]) if ev.end >= now]
+    fetched_at = cached.get("fetched_at")
+    status = {"label": source.LABEL, "last_attempt": fetched_at, "last_success": fetched_at}
+    if fetched_at and now - datetime.fromisoformat(fetched_at) <= SKIP_MAX_AGE:
+        status.update(ok=True, count=len(events), error="")
+    else:
+        days = SKIP_MAX_AGE.days
+        status.update(ok=False, count=0, cached_count=len(events), error=f"超過 {days} 天沒有更新（由本機 runner 抓取）")
+    return events, status
+
+
 def mark_first_seen(events: list[Event], now: datetime) -> None:
     """幫每筆活動填上第一次被抓到的日期，並更新紀錄檔。"""
     today = now.date().isoformat()
@@ -85,7 +101,12 @@ def mark_first_seen(events: list[Event], now: datetime) -> None:
     _write_json(FIRST_SEEN_PATH, {k: v for k, v in sorted(seen.items()) if v["last"] >= cutoff})
 
 
-def build(now: datetime | None = None, only: list[str] | None = None, save_raw: Path | None = None) -> dict:
+def build(
+    now: datetime | None = None,
+    only: list[str] | None = None,
+    save_raw: Path | None = None,
+    skip: list[str] | None = None,
+) -> dict:
     now = now or now_taipei()
     old_status = _read_json(OUTPUT_DIR / "status.json", {}).get("sources", {})
 
@@ -97,6 +118,11 @@ def build(now: datetime | None = None, only: list[str] | None = None, save_raw: 
             all_events += [ev for ev in map(Event.from_dict, cached["events"]) if ev.end >= now]
             if source.NAME in old_status:
                 statuses[source.NAME] = old_status[source.NAME]
+            continue
+        if skip and source.NAME in skip:
+            events, status = use_cache(source, now)
+            statuses[source.NAME] = status
+            all_events += events
             continue
         events, status = run_source(source, now, save_raw)
         if not status["ok"] and source.NAME in old_status:
@@ -121,13 +147,16 @@ def build(now: datetime | None = None, only: list[str] | None = None, save_raw: 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="eventradar", description="蒐集高雄活動資訊")
     parser.add_argument("--only", nargs="+", help="只重新抓指定來源，其他沿用快取")
+    parser.add_argument("--skip", nargs="+", help="不抓指定來源，沿用別處更新的快取（太久沒更新視同失敗）")
     parser.add_argument("--save-raw", type=Path, help="把各來源原始回應存到此目錄（製作測試資料用）")
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO, format="%(message)s")
 
-    status = build(only=args.only, save_raw=args.save_raw)
-    failed = [name for name, s in status["sources"].items() if not s.get("ok")]
+    status = build(only=args.only, save_raw=args.save_raw, skip=args.skip)
+    sources = status["sources"]
+    # --only 時只看這次有抓的來源，其他來源沿用的舊狀態不算
+    failed = [name for name in args.only or sources if not sources.get(name, {}).get("ok")]
     # 任一來源失敗就回傳非 0；資料仍已寫出，由 GitHub Actions 先提交再標記失敗並寄通知
     if failed:
         log.error("失敗的來源：%s", "、".join(failed))

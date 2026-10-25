@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T03:55:12.242866+08:00",
+ "fetched_at": "2026-10-26T01:14:15.560301+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -23,240 +23,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a47328b908c4a000753a0eb",
-   "title": "《銅管幻想曲》",
-   "start": "2026-10-22T19:00:00+08:00",
-   "end": "2026-10-22T19:00:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "五種音色，一個心跳",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a47328b908c4a000753a0eb"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a01857abe7855000708adbf",
-   "title": "躍演《勸世三姊妹》中文音樂劇",
-   "start": "2026-10-16T19:30:00+08:00",
-   "end": "2026-10-25T13:30:00+08:00",
-   "venue": "衛武營 歌劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "笑到最後，才發現勸的是自己的人生。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a01857abe7855000708adbf"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a8699899199ab00089d96e6",
-   "title": "「節目異動」《鼓語．聲織》",
-   "start": "2026-10-23T19:30:00+08:00",
-   "end": "2026-10-23T19:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "南臺灣兩大打擊樂團——陸淯姿擊樂團與敲打擊樂團首度攜手演出，以「鼓語交鋒 / 聲織共鳴」為主題，透過多元當代作品展現打擊樂豐富的聲響魅力與藝術能量。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a8699899199ab00089d96e6"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a26227f808b390008702541",
-   "title": "「節目異動」《窩噗瘋一下 The Whoop Group x 高雄市管樂團》",
-   "start": "2026-10-23T19:30:00+08:00",
-   "end": "2026-10-23T19:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "歐洲能量與臺灣管樂的熾烈共振",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a26227f808b390008702541"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69c3539696bdfd0007710581",
-   "title": "同黨劇團 《父親母親》",
-   "start": "2026-10-24T14:30:00+08:00",
-   "end": "2026-10-25T14:30:00+08:00",
-   "venue": "衛武營 戲劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "《父親母親》於 2021 年首演即大獲好評，本劇溫柔包覆白色恐怖與身分認同的議題，更透過日治時期本土布袋戲的發展，寫實呼應殖民下臺灣人轉換身分求生存的過往。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69c3539696bdfd0007710581"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a7d41c744a9110007066a51",
-   "title": "《Silver Screen Memories電影時代－非非藝術團隊演唱會 》",
-   "start": "2026-10-24T15:00:00+08:00",
-   "end": "2026-10-24T15:00:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "音樂與電影交會的世界 生命中的美好時光",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a7d41c744a9110007066a51"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a30f2b51b5a900008aff175",
-   "title": "《行・城・記憶》—聲音的旅行",
-   "start": "2026-10-24T19:30:00+08:00",
-   "end": "2026-10-24T19:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "那些走過的城市，終將成為心中的風景。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a30f2b51b5a900008aff175"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a193b829f93a700089327df",
-   "title": "《玉山音樂饗宴 維也納少年合唱團》",
-   "start": "2026-10-25T14:30:00+08:00",
-   "end": "2026-10-25T14:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "世界最美的歌聲―維也納少年合唱團創立於1498年，是世界上最著名的合唱團。招牌的水手服、黃鶯般的歌聲，這群來自藍色多瑙河畔傳唱528年的小天使，將為您帶來天籟般的音樂饗宴。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a193b829f93a700089327df"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a335463e2c4c600089cb167",
-   "title": "《托馬許．卡米耶尼亞克2026台灣音樂會》",
-   "start": "2026-10-25T15:00:00+08:00",
-   "end": "2026-10-25T15:00:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "卡米耶尼亞克2026台灣音樂會，以李斯特的靈性旅程為起點，延續至阿爾康的內在交響宇宙，是十九世紀音樂的縮影，也思考音樂承載個人、信仰與社會的多重角色。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a335463e2c4c600089cb167"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -283,6 +50,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -309,6 +77,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -335,6 +104,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -361,6 +131,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -387,6 +158,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -413,6 +185,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -439,6 +212,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -465,6 +239,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -491,6 +266,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -517,6 +293,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -543,6 +320,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -569,6 +347,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -595,6 +374,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -621,6 +401,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -647,6 +428,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -673,6 +455,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -699,6 +482,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -725,6 +509,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -751,6 +536,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -777,6 +563,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -803,6 +590,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -829,6 +617,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -855,6 +644,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -881,6 +671,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -907,6 +698,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -933,6 +725,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -959,6 +752,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -985,6 +779,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1011,6 +806,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1037,6 +833,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1063,6 +860,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1089,6 +887,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1115,6 +914,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1141,6 +941,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1167,6 +968,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1193,6 +995,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1219,6 +1022,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1245,6 +1049,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1271,6 +1076,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1297,6 +1103,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1323,6 +1130,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1349,6 +1157,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1375,6 +1184,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1401,6 +1211,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1427,6 +1238,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1453,6 +1265,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1479,6 +1292,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1505,6 +1319,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1531,6 +1346,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1557,6 +1373,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1583,6 +1400,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1609,6 +1427,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1635,6 +1454,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1661,6 +1481,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1687,6 +1508,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1713,6 +1535,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1739,6 +1562,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1765,6 +1589,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1791,6 +1616,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1817,6 +1643,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1843,6 +1670,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1869,6 +1697,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1895,6 +1724,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1921,6 +1751,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1947,6 +1778,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1973,6 +1805,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -1999,6 +1832,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2025,6 +1859,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2051,6 +1886,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2077,6 +1913,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2103,6 +1940,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2129,6 +1967,34 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ad5ce207a63f600077b3cb6",
+   "title": "衛武營 K-POP Dance Party 主題導覽",
+   "start": "2026-11-29T15:00:00+08:00",
+   "end": "2026-11-29T15:00:00+08:00",
+   "venue": "衛武營",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "整個衛武營，都是我們的舞蹈練習室！",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ad5ce207a63f600077b3cb6"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2155,6 +2021,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2181,6 +2048,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2207,6 +2075,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2233,6 +2102,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2259,6 +2129,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2285,6 +2156,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2311,6 +2183,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2337,6 +2210,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2363,6 +2237,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2389,6 +2264,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2415,6 +2291,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2441,6 +2318,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2467,6 +2345,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2493,6 +2372,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2519,6 +2399,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2545,6 +2426,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2571,6 +2453,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2597,6 +2480,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2623,6 +2507,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2649,6 +2534,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2675,6 +2561,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2701,6 +2588,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2727,6 +2615,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2753,6 +2642,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2779,6 +2669,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2805,6 +2696,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2831,6 +2723,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2857,6 +2750,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2883,6 +2777,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2909,6 +2804,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2935,6 +2831,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2961,6 +2858,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -2987,6 +2885,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3013,6 +2912,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3039,6 +2939,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3065,6 +2966,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3091,6 +2993,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3117,6 +3020,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3143,6 +3047,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3169,6 +3074,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3195,6 +3101,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3221,6 +3128,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3247,6 +3155,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3273,6 +3182,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3299,6 +3209,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3325,6 +3236,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3351,6 +3263,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3377,6 +3290,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3403,6 +3317,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3429,6 +3344,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3455,6 +3371,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3481,6 +3398,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3507,6 +3425,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3533,6 +3452,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3559,6 +3479,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3585,6 +3506,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3611,6 +3533,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3637,6 +3560,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3663,6 +3587,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3689,6 +3614,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3715,6 +3641,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3741,6 +3668,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3767,6 +3695,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3793,6 +3722,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3819,6 +3749,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3845,6 +3776,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3871,6 +3803,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3897,6 +3830,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3923,6 +3857,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3949,6 +3884,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -3975,6 +3911,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4001,6 +3938,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4027,6 +3965,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4053,6 +3992,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4079,6 +4019,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4105,6 +4046,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4131,6 +4073,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4157,6 +4100,34 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ac4a0e986975700088f6758",
+   "title": "《欣響室內管樂團『環遊世界音樂派對』》",
+   "start": "2027-02-13T19:30:00+08:00",
+   "end": "2027-02-13T19:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "踏上新奇的旅程，體驗異國的音樂風情",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ac4a0e986975700088f6758"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4183,6 +4154,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4209,6 +4181,34 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ac4ab7f86975700088f695c",
+   "title": "《2027鑼鼓齊鳴慶豐收音樂會》",
+   "start": "2027-02-14T14:30:00+08:00",
+   "end": "2027-02-14T14:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "管弦齊鳴歌盛歲，鑼鼓歡騰慶豐年。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ac4ab7f86975700088f695c"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4235,6 +4235,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4261,6 +4262,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4287,6 +4289,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4313,6 +4316,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4339,6 +4343,34 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ad5d86c7a63f600077b3f99",
+   "title": "《光與塵》",
+   "start": "2027-02-26T19:30:00+08:00",
+   "end": "2027-02-26T19:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "以聖靈之光 照見塵世人生",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ad5d86c7a63f600077b3f99"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4365,6 +4397,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4391,6 +4424,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4417,6 +4451,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4443,6 +4478,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4469,6 +4505,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4495,6 +4532,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4521,6 +4559,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
@@ -4547,6 +4586,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "weiwuying"
    ]
