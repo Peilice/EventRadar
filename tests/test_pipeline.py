@@ -4,6 +4,8 @@ import json
 from datetime import timedelta
 from types import SimpleNamespace
 
+import pytest
+
 from eventradar import pipeline
 from eventradar.model import Event, Link
 
@@ -15,6 +17,11 @@ def make_source(name, events=None, error=None):
         return b""
 
     return SimpleNamespace(NAME=name, LABEL=name.upper(), fetch=fetch, parse=lambda content, now: list(events or []))
+
+
+@pytest.fixture(autouse=True)
+def isolated_first_seen(tmp_path, monkeypatch):
+    monkeypatch.setattr(pipeline, "FIRST_SEEN_PATH", tmp_path / "first_seen.json")
 
 
 def test_failed_source_falls_back_to_cache(tmp_path, monkeypatch, now):
@@ -68,3 +75,29 @@ def test_sudden_drop_treated_as_failure(tmp_path, monkeypatch, now):
     # 正常減少（例如活動陸續結束）不受影響
     monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", make_events(40))])
     assert pipeline.build(now=now + timedelta(hours=2))["sources"]["a"]["ok"] is True
+
+
+def test_first_seen_marks_new_events(tmp_path, monkeypatch, now):
+    monkeypatch.setattr(pipeline, "CACHE_DIR", tmp_path / "cache")
+    monkeypatch.setattr(pipeline, "OUTPUT_DIR", tmp_path / "out")
+
+    def make_event(source, i, title):
+        return Event(id=f"{source}:{i}", title=title, start=now, end=now + timedelta(days=30), district="鹽埕區",
+                     links=[Link(source, f"https://{source}.example/{i}")])
+
+    def build_titles(day, a_events, b_events=()):
+        monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", a_events), make_source("b", list(b_events))])
+        pipeline.build(now=now + timedelta(days=day))
+        events = json.loads((tmp_path / "out" / "events.json").read_text(encoding="utf-8"))["events"]
+        return {e["title"]: e["first_seen"] for e in events}
+
+    old = make_event("a", 1, "老活動")
+    assert build_titles(0, [old]) == {"老活動": "2026-10-19"}
+
+    # 隔天新增一筆；老活動同時出現在 b 來源，合併後仍沿用最早的日期
+    seen = build_titles(1, [old, make_event("a", 2, "新活動")], [make_event("b", 9, "老活動")])
+    assert seen == {"老活動": "2026-10-19", "新活動": "2026-10-20"}
+
+    # 來源漏抓一天後又出現，不算新活動
+    build_titles(2, [old])
+    assert build_titles(3, [old, make_event("a", 2, "新活動")])["新活動"] == "2026-10-20"

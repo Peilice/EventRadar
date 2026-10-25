@@ -572,6 +572,7 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
   font-size: 0.78rem;
 }
 .tag-free { background: var(--sun); color: #15213f; border-color: #15213f; }
+.tag-new { background: var(--sunset); color: #15213f; border-color: #15213f; }
 .tag-gov { color: var(--gov); border-color: currentColor; }
 .tag-private { color: var(--private); border-color: currentColor; }
 

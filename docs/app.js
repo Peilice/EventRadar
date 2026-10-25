@@ -31,6 +31,9 @@ const state = {
   marks: {},
   markFilter: new Set(),
   markChips: new Map(),
+  // 最近一次更新的日期；first_seen 等於這天的活動就是這次新增的
+  latestDay: "",
+  newFilter: new Set(),
   view: "list",
   calMonth: "",
   calDay: "",
@@ -87,6 +90,8 @@ function whenText(e) {
 function safeUrl(url) {
   return /^https?:\/\//i.test(url || "") ? url : null;
 }
+
+const isNew = (e) => e.first_seen === state.latestDay;
 
 // --- 標記 ---
 
@@ -147,6 +152,7 @@ function readFilters() {
     categories: state.categories,
     sources: state.sources,
     marks: state.markFilter,
+    newOnly: state.newFilter.size > 0,
   };
 }
 
@@ -158,6 +164,7 @@ function matches(e, f) {
   if (f.categories.size && !f.categories.has(e.category)) return false;
   if (f.sources.size && !e.sources.some((s) => f.sources.has(s))) return false;
   if (f.marks.size && !f.marks.has(state.marks[e.id])) return false;
+  if (f.newOnly && !isNew(e)) return false;
   if (f.q) {
     const hay = [e.title, e.venue, e.address, e.organizer, e.description].join(" ").toLowerCase();
     if (!f.q.split(/\s+/).every((w) => hay.includes(w))) return false;
@@ -169,13 +176,14 @@ function countActiveFilters(f) {
   const today = taipeiToday();
   let n = 0;
   if (f.q) n++;
-  if (!f.marks.size && (f.from !== today || f.to !== addDays(today, DEFAULT_RANGE_DAYS))) n++;
+  if (!f.marks.size && !f.newOnly && (f.from !== today || f.to !== addDays(today, DEFAULT_RANGE_DAYS))) n++;
   if (f.district) n++;
   if (f.fee) n++;
   if (f.organizer_type) n++;
   if (f.categories.size) n++;
   if (f.sources.size) n++;
   if (f.marks.size) n++;
+  if (f.newOnly) n++;
   return n;
 }
 
@@ -227,6 +235,7 @@ function renderEvent(e) {
     li.textContent = text;
     tags.append(li);
   };
+  if (isNew(e)) addTag("新增", "tag-new");
   if (e.fee === "免費") addTag("免費", "tag-free");
   else if (e.fee === "付費") addTag("付費");
   if (e.organizer_type === "政府") addTag("政府", "tag-gov");
@@ -275,8 +284,8 @@ function render() {
 }
 
 function renderList() {
-  // 只看標記時不限日期：停用的欄位不會出現在 FormData，readFilters 會改用預設值
-  form.elements.from.disabled = form.elements.to.disabled = state.markFilter.size > 0;
+  // 只看標記或新增時不限日期：停用的欄位不會出現在 FormData，readFilters 會改用預設值
+  form.elements.from.disabled = form.elements.to.disabled = state.markFilter.size > 0 || state.newFilter.size > 0;
   const f = readFilters();
   const filtered = state.events.filter((e) => matches(e, f));
   const upcoming = filtered.filter((e) => dayOf(e.start) >= f.from);
@@ -358,7 +367,9 @@ function renderEmpty(activeFilters) {
   box.querySelector("p").textContent =
     state.markFilter.size && !Object.keys(state.marks).length
       ? "還沒有標記任何活動。點活動卡片上的「想去」或「已報名」就會出現在這裡。"
-      : "這段期間沒有符合條件的新活動。";
+      : state.newFilter.size
+        ? "這次更新沒有符合條件的新增活動。"
+        : "這段期間沒有符合條件的新活動。";
   if (activeFilters) {
     const b = document.createElement("button");
     b.type = "button";
@@ -619,8 +630,22 @@ function makeMarkChips(container, selected, chips) {
   }
 }
 
+// 最近一次更新是今天就叫「今天新增」，否則標出日期，避免更新中斷時誤以為是今天
+function newLabel() {
+  const [, m, d] = state.latestDay.split("-").map(Number);
+  return state.latestDay === taipeiToday() ? "今天新增" : `${m}/${d} 新增`;
+}
+
 function setupFilters() {
   makeMarkChips($("#mark-chips"), state.markFilter, state.markChips);
+
+  const newChip = makeChip(state.newFilter, "new", newLabel());
+  newChip.classList.add("chip-new");
+  const newCount = document.createElement("span");
+  newCount.className = "chip-count";
+  newCount.textContent = state.events.filter((e) => isNew(e) && dayOf(e.end) >= taipeiToday()).length;
+  newChip.append(" ", newCount);
+  $("#new-chips").append(newChip);
 
   const chips = $("#category-chips");
   for (const c of CATEGORIES) {
@@ -668,6 +693,7 @@ function resetFilters() {
   state.categories.clear();
   state.sources.clear();
   state.markFilter.clear();
+  state.newFilter.clear();
   form.querySelectorAll(".chip").forEach((b) => b.setAttribute("aria-pressed", "false"));
 }
 
@@ -702,9 +728,11 @@ async function main() {
     const data = await eventsRes.json();
     const status = statusRes.ok ? await statusRes.json() : { sources: {} };
     state.events = data.events;
+    state.latestDay = dayOf(data.generated_at);
     syncMarks(data.events);
     renderStatus(status);
-    $("#meta").textContent = `更新於 ${fmtDateTime(data.generated_at)} · 共 ${data.events.length} 筆活動`;
+    const newCount = data.events.filter(isNew).length;
+    $("#meta").textContent = `更新於 ${fmtDateTime(data.generated_at)} · 共 ${data.events.length} 筆活動${newCount ? ` · 新增 ${newCount} 筆` : ""}`;
     setupFilters();
     setupCalendar();
     render();

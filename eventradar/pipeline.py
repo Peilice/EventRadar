@@ -10,7 +10,7 @@ import argparse
 import json
 import logging
 import traceback
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 from .dedupe import dedupe
@@ -20,6 +20,10 @@ from .sources import SOURCES
 ROOT = Path(__file__).resolve().parent.parent
 CACHE_DIR = ROOT / "data" / "sources"
 OUTPUT_DIR = ROOT / "docs" / "data"
+# 每個活動 ID 第一次與最後一次被抓到的日期，用來判斷哪些是新增的活動
+FIRST_SEEN_PATH = ROOT / "data" / "first_seen.json"
+# 超過這麼多天沒再出現才從紀錄移除，避免來源偶爾漏抓、之後又出現時被當成新活動
+FIRST_SEEN_KEEP_DAYS = 60
 # 筆數比上次（仍未結束的）少了九成以上，多半是網站回傳不完整，視同失敗
 MIN_RATIO = 0.1
 MIN_BASELINE = 20  # 上次筆數太少時不檢查，避免小來源正常波動被誤判
@@ -66,6 +70,18 @@ def run_source(source, now: datetime, save_raw: Path | None = None) -> tuple[lis
         return events, status
 
 
+def mark_first_seen(events: list[Event], now: datetime) -> None:
+    """幫每筆活動填上第一次被抓到的日期，並更新紀錄檔。"""
+    today = now.date().isoformat()
+    seen = _read_json(FIRST_SEEN_PATH, {})
+    for ev in events:
+        record = seen.setdefault(ev.id, {"first": today})
+        record["last"] = today
+        ev.first_seen = record["first"]
+    cutoff = (now - timedelta(days=FIRST_SEEN_KEEP_DAYS)).date().isoformat()
+    _write_json(FIRST_SEEN_PATH, {k: v for k, v in sorted(seen.items()) if v["last"] >= cutoff})
+
+
 def build(now: datetime | None = None, only: list[str] | None = None, save_raw: Path | None = None) -> dict:
     now = now or now_taipei()
     old_status = _read_json(OUTPUT_DIR / "status.json", {}).get("sources", {})
@@ -85,6 +101,7 @@ def build(now: datetime | None = None, only: list[str] | None = None, save_raw: 
         statuses[source.NAME] = status
         all_events += events
 
+    mark_first_seen(all_events, now)
     merged = dedupe(all_events, [s.NAME for s in SOURCES])
     merged.sort(key=lambda e: (e.start, e.end, e.title))
     log.info("合併前 %d 筆，合併後 %d 筆", len(all_events), len(merged))

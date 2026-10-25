@@ -109,4 +109,6 @@ def _merge(group: list[Event]) -> Event:
         lat=_first([e.lat for e in group]),
         lng=_first([e.lng for e in group]),
         aliases=[i for e in group for i in [e.id, *e.aliases] if i != base.id],
+        # 已有的活動又出現在別的來源，不算新活動
+        first_seen=min((e.first_seen for e in group if e.first_seen), default=""),
     )

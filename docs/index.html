@@ -19,7 +19,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@400;500;700;800;900&family=Fredoka:wght@500;600;700&display=swap">
   <!-- 改了 style.css 或 app.js 就更新 ?v=，避免瀏覽器拿到快取裡的舊檔 -->
-  <link rel="stylesheet" href="style.css?v=20261021b">
+  <link rel="stylesheet" href="style.css?v=20261025">
 </head>
 <body>
   <!-- 圖示：同一套 24px 格線、2px 圓頭線條 -->
@@ -93,6 +93,11 @@
               <input type="date" name="to">
             </label>
           </div>
+          <fieldset class="field">
+            <legend>新活動</legend>
+            <div class="chips" id="new-chips"></div>
+            <p class="hint">只看最近一次更新才出現的活動，選取時不限日期。</p>
+          </fieldset>
           <fieldset class="field">
             <legend>我的標記</legend>
             <div class="chips" id="mark-chips"></div>
@@ -232,6 +237,6 @@
     </article>
   </template>
 
-  <script src="app.js?v=20261021b"></script>
+  <script src="app.js?v=20261025"></script>
 </body>
 </html>

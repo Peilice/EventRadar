@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data data/sources
+          git add docs/data data/sources data/first_seen.json
           if git diff --cached --quiet; then
             echo "資料沒有變動"
           else
