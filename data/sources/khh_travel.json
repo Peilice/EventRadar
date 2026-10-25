@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T02:35:05.238921+08:00",
+ "fetched_at": "2026-10-26T00:50:19.898803+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -23,6 +23,7 @@
    "lat": 22.62208,
    "lng": 120.27477,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -49,6 +50,7 @@
    "lat": 22.62305,
    "lng": 120.3421,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -75,6 +77,7 @@
    "lat": 22.70312,
    "lng": 120.29447,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -101,6 +104,7 @@
    "lat": 22.70312,
    "lng": 120.29447,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -127,6 +131,7 @@
    "lat": 22.70312,
    "lng": 120.29447,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -153,6 +158,7 @@
    "lat": 22.6572,
    "lng": 120.28231,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -179,6 +185,7 @@
    "lat": 22.61997,
    "lng": 120.28165,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -205,6 +212,7 @@
    "lat": 22.62251,
    "lng": 120.34295,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -231,6 +239,7 @@
    "lat": 22.61277,
    "lng": 120.30432,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -257,6 +266,7 @@
    "lat": 22.61119,
    "lng": 120.29903,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -283,6 +293,7 @@
    "lat": 22.61865,
    "lng": 120.27779,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -309,6 +320,7 @@
    "lat": 22.6223,
    "lng": 120.3894,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -335,6 +347,7 @@
    "lat": 22.59572,
    "lng": 120.30743,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -361,6 +374,7 @@
    "lat": 22.88656,
    "lng": 120.48229,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -387,6 +401,7 @@
    "lat": 22.62248,
    "lng": 120.28893,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -413,6 +428,7 @@
    "lat": 22.61842,
    "lng": 120.28914,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -439,32 +455,7 @@
    "lat": 22.61998,
    "lng": 120.28153,
    "aliases": [],
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
-   "id": "khh_travel:C2_397000000A_008105",
-   "title": "2026高雄國際偶戲節",
-   "start": "2026-10-17T00:00:00+08:00",
-   "end": "2026-10-25T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市820岡山區高雄市皮影戲館、岡山文化中心",
-   "district": "岡山區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局、高雄市立歷史博物館、高雄市皮影戲館",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/8105/"
-    }
-   ],
-   "lat": 22.78269,
-   "lng": 120.29844,
-   "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -491,6 +482,7 @@
    "lat": 22.66887,
    "lng": 120.30272,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -517,6 +509,7 @@
    "lat": 22.62045,
    "lng": 120.3403,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -543,6 +536,7 @@
    "lat": 22.61801,
    "lng": 120.28892,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -569,6 +563,7 @@
    "lat": 22.62733,
    "lng": 120.30163,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -595,6 +590,7 @@
    "lat": 22.6527,
    "lng": 120.34991,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]
@@ -621,6 +617,7 @@
    "lat": 22.63456,
    "lng": 120.27517,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "khh_travel"
    ]

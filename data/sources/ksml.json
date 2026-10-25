@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T02:35:05.238921+08:00",
+ "fetched_at": "2026-10-26T00:50:19.898803+08:00",
  "events": [
   {
    "id": "ksml:16198",
@@ -23,6 +23,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -49,6 +50,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -75,6 +77,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -101,6 +104,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -127,6 +131,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -153,6 +158,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -179,6 +185,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -205,6 +212,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -231,6 +239,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -257,6 +266,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -283,6 +293,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -309,6 +320,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -335,6 +347,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -361,6 +374,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -387,6 +401,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -413,6 +428,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -439,6 +455,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -465,6 +482,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -491,6 +509,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -517,6 +536,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -543,6 +563,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -569,6 +590,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -595,6 +617,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -621,6 +644,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -647,6 +671,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -673,6 +698,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -699,6 +725,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -725,6 +752,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -751,6 +779,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -777,6 +806,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -803,6 +833,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -829,6 +860,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -855,6 +887,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -881,6 +914,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -907,6 +941,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -933,6 +968,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -959,6 +995,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -985,6 +1022,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]
@@ -1011,6 +1049,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "ksml"
    ]

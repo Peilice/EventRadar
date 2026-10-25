@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T02:35:05.238921+08:00",
+ "fetched_at": "2026-10-26T00:50:19.898803+08:00",
  "events": [
   {
    "id": "kpmc:16031",
@@ -23,6 +23,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -49,6 +50,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -75,6 +77,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -101,6 +104,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -127,84 +131,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15891",
-   "title": "《Disney in Concert: Once Upon a Time》",
-   "start": "2026-10-25T13:00:00+08:00",
-   "end": "2026-10-25T13:00:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "全球音樂經紀有限公司",
-   "organizer_type": "民間",
-   "description": "演出：Andrew Johnson x Whitney Claire Kaufman x Aaron Phillips x Lisa Livesay\n票價：NT$3580 NT$3180 NT$2780 NT$2480 NT$2180 NT$1180(視線不良區) 身障票NT$1380 NT$1090",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-hih-1025/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15897",
-   "title": "Eüreka《A Story of Epiphany》同名專輯發片巡迴 – 高雄",
-   "start": "2026-10-25T19:00:00+08:00",
-   "end": "2026-10-25T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "Eüreka、墨聲 Moshound",
-   "organizer_type": "不確定",
-   "description": "演出：Eüreka\n票價：預售票700元 現場票900元",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1025/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16087",
-   "title": "JACK CONQUEROO LIVE 2：密西西比藍調夜",
-   "start": "2026-10-25T20:00:00+08:00",
-   "end": "2026-10-25T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：Jack Conqueroo\n票價：單人350元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/jack-conqueroo-live-2%ef%bc%9a%e5%af%86%e8%a5%bf%e8%a5%bf%e6%af%94%e8%97%8d%e8%aa%bf%e5%a4%9c/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -231,6 +158,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -257,6 +185,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -283,6 +212,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -309,32 +239,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16062",
-   "title": "義大利指彈天團 — 40 Fingers亞洲巡迴演出",
-   "start": "2026-10-31T19:00:00+08:00",
-   "end": "2026-10-31T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 鯨魚堤岸 03",
-   "address": "高雄市苓雅區海邊路",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "好滿意音樂",
-   "organizer_type": "不確定",
-   "description": "演出：40 Fingers\n票價：NT$3,600 / NT$2,800 / NT$2,200 / NT$1,800 / NT$1,400 / NT$1,000",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -361,6 +266,34 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16062",
+   "title": "義大利指彈天團 — 40 Fingers亞洲巡迴演出",
+   "start": "2026-10-31T19:00:00+08:00",
+   "end": "2026-10-31T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 鯨魚堤岸 03",
+   "address": "高雄市苓雅區海邊路",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "好滿意音樂",
+   "organizer_type": "不確定",
+   "description": "演出：40 Fingers\n票價：NT$3,600 / NT$2,800 / NT$2,200 / NT$1,800 / NT$1,400 / NT$1,000",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -387,6 +320,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -413,6 +347,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -439,6 +374,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -465,6 +401,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -491,6 +428,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -517,6 +455,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -543,6 +482,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -569,6 +509,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -595,6 +536,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -621,6 +563,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -647,6 +590,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -673,6 +617,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -699,6 +644,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -725,6 +671,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -751,6 +698,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -777,6 +725,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -803,6 +752,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -829,6 +779,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -855,6 +806,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -881,6 +833,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -907,6 +860,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -933,6 +887,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -959,6 +914,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -985,6 +941,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1011,6 +968,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1037,6 +995,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1063,6 +1022,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1089,6 +1049,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1115,6 +1076,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1141,6 +1103,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1167,6 +1130,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1193,6 +1157,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
@@ -1219,6 +1184,7 @@
    "lat": null,
    "lng": null,
    "aliases": [],
+   "first_seen": "",
    "sources": [
     "kpmc"
    ]
