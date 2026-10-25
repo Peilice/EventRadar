@@ -354,6 +354,10 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 .chip-mark[aria-pressed="true"] .icon { color: inherit; fill: currentColor; }
 .chip-mark[aria-pressed="true"] .icon { --tear: var(--text); }
 .field input:disabled { opacity: 0.45; cursor: not-allowed; }
+.sync { display: grid; gap: 6px; margin-top: 8px; }
+.sync .hint { margin: 0; }
+.sync-msg:empty { display: none; }
+.sync-link { font-size: 0.8rem; }
 
 .reset {
   justify-self: start;

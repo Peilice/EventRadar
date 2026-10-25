@@ -112,8 +112,7 @@ function saveMarks() {
 }
 
 // 對照目前的資料：去重後主 ID 若改變，從 aliases 找回標記；已結束或已下架的活動清掉
-function syncMarks(events) {
-  const saved = loadMarks();
+function syncMarks(events, saved = loadMarks()) {
   const today = taipeiToday();
   state.marks = {};
   for (const e of events) {
@@ -128,6 +127,81 @@ function toggleMark(e, kind) {
   if (state.marks[e.id] === kind) delete state.marks[e.id];
   else state.marks[e.id] = kind;
   saveMarks();
+}
+
+// --- 跨裝置同步：把標記編進網址的 #sync=，在另一台裝置打開就合併進去 ---
+
+const SYNC_PREFIX = "#sync=";
+
+// 標記物件 → JSON → base64url，網址裡不會出現需要跳脫的字元
+function encodeMarks(marks) {
+  const bytes = new TextEncoder().encode(JSON.stringify(marks));
+  return btoa(String.fromCharCode(...bytes)).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+
+function decodeMarks(code) {
+  try {
+    const bin = atob(code.replace(/-/g, "+").replace(/_/g, "/"));
+    const m = JSON.parse(new TextDecoder().decode(Uint8Array.from(bin, (c) => c.charCodeAt(0))));
+    return m && typeof m === "object" ? m : null;
+  } catch {
+    return null;
+  }
+}
+
+const syncLink = () => `${location.origin}${location.pathname}${SYNC_PREFIX}${encodeMarks(state.marks)}`;
+
+// 網址帶 #sync= 時合併進已存的標記（同一活動以連結裡的為準），並把 #sync= 從網址拿掉，
+// 免得重新整理又匯入一次。回傳合併後的標記與匯入筆數；網址沒帶或格式不對回傳 null
+function importSyncHash() {
+  if (!location.hash.startsWith(SYNC_PREFIX)) return null;
+  const incoming = decodeMarks(location.hash.slice(SYNC_PREFIX.length));
+  history.replaceState(null, "", location.pathname + location.search);
+  if (!incoming) return { marks: loadMarks(), count: -1 };
+  const marks = loadMarks();
+  let count = 0;
+  for (const [id, kind] of Object.entries(incoming)) {
+    if (!MARK_LABELS[kind]) continue;
+    marks[id] = kind;
+    count++;
+  }
+  return { marks, count };
+}
+
+function syncMessage(imported) {
+  if (imported.count < 0) return "同步連結格式不對，沒有匯入標記";
+  return `已從同步連結匯入 ${imported.count} 筆標記`;
+}
+
+async function shareSyncLink() {
+  const msg = $("#sync-msg");
+  const out = $("#sync-link");
+  out.hidden = true;
+  if (!Object.keys(state.marks).length) {
+    msg.textContent = "還沒有標記任何活動。";
+    return;
+  }
+  const url = syncLink();
+  // 手機用系統分享（可直接傳到 LINE 給自己），桌機複製到剪貼簿
+  if (navigator.share && window.matchMedia("(pointer: coarse)").matches) {
+    try {
+      await navigator.share({ title: "高雄活動雷達：我的標記", url });
+      msg.textContent = "在另一台裝置打開這個連結，就會匯入標記。";
+      return;
+    } catch (err) {
+      if (err.name === "AbortError") return;
+    }
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+    msg.textContent = "已複製連結。在另一台裝置打開，就會匯入標記。";
+  } catch {
+    // 剪貼簿被擋時改顯示連結讓使用者自己複製
+    out.value = url;
+    out.hidden = false;
+    out.select();
+    msg.textContent = "無法自動複製，請手動複製下方連結。";
+  }
 }
 
 function updateMarkCounts() {
@@ -638,6 +712,7 @@ function newLabel() {
 
 function setupFilters() {
   makeMarkChips($("#mark-chips"), state.markFilter, state.markChips);
+  $("#sync-share").addEventListener("click", shareSyncLink);
 
   const newChip = makeChip(state.newFilter, "new", newLabel());
   newChip.classList.add("chip-new");
@@ -713,6 +788,12 @@ function setupCalendar() {
     location.hash = state.view === "calendar" ? "" : "calendar";
   });
   window.addEventListener("hashchange", () => {
+    // 已開著的分頁直接貼上同步連結時，只會觸發 hashchange 不會重新載入
+    const imported = importSyncHash();
+    if (imported) {
+      syncMarks(state.events, imported.marks);
+      $("#sync-msg").textContent = syncMessage(imported);
+    }
     state.view = viewFromHash();
     render();
   });
@@ -729,10 +810,12 @@ async function main() {
     const status = statusRes.ok ? await statusRes.json() : { sources: {} };
     state.events = data.events;
     state.latestDay = dayOf(data.generated_at);
-    syncMarks(data.events);
+    const imported = importSyncHash();
+    syncMarks(data.events, imported?.marks);
     renderStatus(status);
     const newCount = data.events.filter(isNew).length;
     $("#meta").textContent = `更新於 ${fmtDateTime(data.generated_at)} · 共 ${data.events.length} 筆活動${newCount ? ` · 新增 ${newCount} 筆` : ""}`;
+    if (imported) $("#meta").textContent += ` · ${syncMessage(imported)}`;
     setupFilters();
     setupCalendar();
     render();
