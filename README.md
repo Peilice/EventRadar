@@ -43,7 +43,7 @@ python -m venv .venv
 .venv/Scripts/python -m http.server 8799 --directory docs  # 開 http://127.0.0.1:8799/
 ```
 
-其他選項：`--only accupass` 只重抓指定來源；`--save-raw <目錄>` 保存原始回應，用來更新 `tests/fixtures/`。
+其他選項：`--only accupass` 只重抓指定來源；`--skip weiwuying` 不抓指定來源、沿用快取；`--save-raw <目錄>` 保存原始回應，用來更新 `tests/fixtures/`。
 
 ## 部署（GitHub）
 
@@ -51,6 +51,8 @@ python -m venv .venv
 2. Settings → Pages → Source 選 `Deploy from a branch`，分支 `main`、資料夾 `/docs`
 3. Settings → Actions → General → Workflow permissions 選 `Read and write permissions`
 4. 到 Actions 頁手動執行一次「每日更新活動」確認可以跑
+
+衛武營擋 GitHub Actions 機房的 IP，由「抓取衛武營」workflow 在台灣的 self-hosted runner（`runs-on: [self-hosted, Windows]`，需裝好 Python 3.14 與 `py` 啟動器）每天 23:30 抓取並提交 `data/sources/weiwuying.json`，每日更新以 `--skip weiwuying` 沿用；超過 2 天沒更新會標為失敗。
 
 之後每天台灣時間 00:00 自動更新（GitHub 尖峰時段可能延遲）。有任何來源失敗時 workflow 會標紅並寄信給你，網頁底部的來源狀態也會標紅。
 
