@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T02:43:28.114654+08:00",
+ "fetched_at": "2026-10-27T04:53:43.395662+08:00",
  "events": [
   {
    "id": "kpmc:16031",
@@ -229,7 +229,7 @@
    "fee": "免費",
    "organizer": "高雄流行音樂中心、德國經濟辦事處 German Trade Office Taipei (AHK Taiwan)、德國漢堡自由漢薩市文化與媒體部 Ministry of Culture and Media of the Free and Hanseatic City of Hamburg",
    "organizer_type": "政府",
-   "description": "票價：免費參加",
+   "description": "演出：BOVIY 、Sophia Kennedy、呂允 Lu Yun 、Majin、雷擎、椅子樂團 The Chairs、書是窩-黃百合老師、佳伶老師繪本花園、台灣最好睡的Podcast、Lu.Studio Eve老師\n票價：免費參加",
    "links": [
     {
      "source": "kpmc",
@@ -326,6 +326,114 @@
    ]
   },
   {
+   "id": "kpmc:15243",
+   "title": "夢境現實｜鐵達尼VR",
+   "start": "2026-11-01T00:00:00+08:00",
+   "end": "2026-11-01T00:00:00+08:00",
+   "venue": "高雄流行音樂中心 鯨魚堤岸 01",
+   "address": "高雄市苓雅區海邊路",
+   "district": "苓雅區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "夢境現實 Moondream Reality",
+   "organizer_type": "不確定",
+   "description": "演出：全球首座沉浸式劇院\n票價：KKday、Niceday、KlooK (至平台確認購票方案與價格)",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e5%a4%a2%e5%a2%83%e7%8f%be%e5%af%a6%ef%bd%9c%e9%90%b5%e9%81%94%e5%b0%bcvr/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:14124",
+   "title": "夢境現實《親子互動展》",
+   "start": "2026-11-01T00:00:00+08:00",
+   "end": "2026-11-01T00:00:00+08:00",
+   "venue": "高雄流行音樂中心 鯨魚堤岸 01",
+   "address": "高雄市苓雅區海邊路",
+   "district": "苓雅區",
+   "category": "親子",
+   "fee": "未知",
+   "organizer": "夢境現實 Moondream Reality",
+   "organizer_type": "不確定",
+   "description": "演出：全球首座沉浸式劇院\n票價：KKday、Niceday、KlooK (至平台確認購票方案與價格)",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/mr2601/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16054",
+   "title": "《泊》郭書瑜 個展",
+   "start": "2026-11-01T10:00:00+08:00",
+   "end": "2026-11-01T10:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館 前廳",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "免費",
+   "organizer": "百瓦哥咖啡",
+   "organizer_type": "民間",
+   "description": "演出：郭書瑜\n票價：免費參觀",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e3%80%8a%e6%b3%8a%e3%80%8b%e9%83%ad%e6%9b%b8%e7%91%9c-%e5%80%8b%e5%b1%95/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16056",
+   "title": "小島散步｜小島裡的風土日常 期間限定選物",
+   "start": "2026-11-01T11:00:00+08:00",
+   "end": "2026-11-01T11:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "免費",
+   "organizer": "聲日裏物",
+   "organizer_type": "不確定",
+   "description": "演出：TINGFANG\n票價：免費參觀",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e5%b0%8f%e5%b3%b6%e6%95%a3%e6%ad%a5%ef%bd%9c%e5%b0%8f%e5%b3%b6%e8%a3%a1%e7%9a%84%e9%a2%a8%e5%9c%9f%e6%97%a5%e5%b8%b8-%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e9%81%b8%e7%89%a9/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "kpmc:15694",
    "title": "「圓 Circle of Harmony 」藥師寺寬邦般若心經MUSIC 10週年世界巡演 In 高雄",
    "start": "2026-11-01T19:30:00+08:00",
@@ -342,6 +450,60 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1101/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16253",
+   "title": "KEEP ROLLING. KEEP THE ROLL! 電影海報典藏販售展",
+   "start": "2026-11-06T14:00:00+08:00",
+   "end": "2026-11-06T14:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "免費",
+   "organizer": "聲日裏物",
+   "organizer_type": "不確定",
+   "description": "票價：免費參觀 線上及現場同步販售",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/keep-rolling-keep-the-roll-%e9%9b%bb%e5%bd%b1%e6%b5%b7%e5%a0%b1%e5%85%b8%e8%97%8f%e8%b2%a9%e5%94%ae%e5%b1%95/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16257",
+   "title": "爵士揚門｜麥克雞塊人",
+   "start": "2026-11-06T20:00:00+08:00",
+   "end": "2026-11-06T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：吳允菲、黃品硯、曾暐庭、吳憫心、羅沛璿、吳翊丞\n票價：低消150元＋入場費100元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e7%88%b5%e5%a3%ab%e6%8f%9a%e9%96%80%ef%bd%9c%e9%ba%a5%e5%85%8b%e9%9b%9e%e5%a1%8a%e4%ba%ba/"
     }
    ],
    "lat": null,
@@ -612,6 +774,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1120/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16256",
+   "title": "KEEP ROLLING. KEEP PLAYING! 轉吧! 金曲黑膠之夜",
+   "start": "2026-11-21T19:00:00+08:00",
+   "end": "2026-11-21T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "聲日裏物",
+   "organizer_type": "不確定",
+   "description": "演出：DJ｜ 艾比路唱片行 — 陳建勳 James\n票價：每場NT$300/人",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/keep-rolling-keep-playing-%e8%bd%89%e5%90%a7-%e9%87%91%e6%9b%b2%e9%bb%91%e8%86%a0%e4%b9%8b%e5%a4%9c/"
     }
    ],
    "lat": null,

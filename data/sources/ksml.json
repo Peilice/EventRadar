@@ -1,6 +1,33 @@
 {
- "fetched_at": "2026-10-26T00:50:19.898803+08:00",
+ "fetched_at": "2026-10-27T04:53:43.395662+08:00",
  "events": [
+  {
+   "id": "ksml:16447",
+   "title": "【李科永分館】萬聖月光奇幻夜－戶外光影劇場",
+   "start": "2026-11-01T19:00:00+08:00",
+   "end": "2026-11-01T20:00:00+08:00",
+   "venue": "李科永圖書館 戶外草坪",
+   "address": "高雄市前金區民生二路37號",
+   "district": "前金區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館李科永紀念圖書館",
+   "organizer_type": "政府",
+   "description": "狗斯特的小小魔法師好友，集合！\n小小魔法師集合完成！\n但是，狗斯特的魔法還沒有結束……",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16447"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16198",
    "title": "🏮大東講堂🏮11/21(六)邀請王立人主講「看與思的N面向」，歡迎參加！",
@@ -882,6 +909,33 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16196"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16372",
+   "title": "【李科永分館】 狗斯特的萬聖節派對 - 狗斯特搗蛋任務",
+   "start": "2026-10-01T00:00:00+08:00",
+   "end": "2026-11-01T23:59:59+08:00",
+   "venue": "高雄市立圖書館李科永紀念圖書館",
+   "address": "高雄市前金區民生二路37號",
+   "district": "前金區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館李科永紀念圖書館",
+   "organizer_type": "政府",
+   "description": "｜狗斯特搗蛋任務 🎁\n狗斯特已經出沒！\n這次，狗斯特偷偷準備了一個小任務，",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372"
     }
    ],
    "lat": null,

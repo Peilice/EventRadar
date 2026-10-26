@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T02:43:28.114654+08:00",
+ "fetched_at": "2026-10-27T04:53:43.395662+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -137,33 +137,6 @@
    ]
   },
   {
-   "id": "khh_travel:C2_397000000A_007735",
-   "title": "Re：戰鬥之城",
-   "start": "2026-06-06T00:00:00+08:00",
-   "end": "2026-10-26T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市804鼓山區內惟藝術中心",
-   "district": "鼓山區",
-   "category": "節慶／觀光",
-   "fee": "未知",
-   "organizer": "台灣電力公司、高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/7735/"
-    }
-   ],
-   "lat": 22.6572,
-   "lng": 120.28231,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
    "id": "khh_travel:C2_397000000A_007861",
    "title": "還是先躺一下再說？ Lay Down",
    "start": "2026-06-12T00:00:00+08:00",
@@ -211,33 +184,6 @@
    ],
    "lat": 22.62251,
    "lng": 120.34295,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
-   "id": "khh_travel:C2_397000000A_007904",
-   "title": "2026高雄鹹酥雞嘉年華",
-   "start": "2026-10-25T00:00:00+08:00",
-   "end": "2026-10-26T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市802苓雅區高雄大遠百-1F追夢廣場",
-   "district": "苓雅區",
-   "category": "節慶／觀光",
-   "fee": "未知",
-   "organizer": "高雄市政府觀光局",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/7904/"
-    }
-   ],
-   "lat": 22.61277,
-   "lng": 120.30432,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -380,33 +326,6 @@
    ]
   },
   {
-   "id": "khh_travel:C2_397000000A_008061",
-   "title": "2026高雄電影節",
-   "start": "2026-10-09T00:00:00+08:00",
-   "end": "2026-10-26T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市803鹽埕區高雄市電影館、內惟藝術中心、高雄市立圖書館總館、VR體感劇院、駁二藝術特區、LIVE WAREHOUSE",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "文化部、高雄市政府、數位發展部 數位產業署",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/8061/"
-    }
-   ],
-   "lat": 22.62248,
-   "lng": 120.28893,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
    "id": "khh_travel:C2_397000000A_008062",
    "title": "2026 Takao Rock 打狗祭",
    "start": "2026-10-10T00:00:00+08:00",
@@ -427,33 +346,6 @@
    ],
    "lat": 22.61842,
    "lng": 120.28914,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
-   "id": "khh_travel:C2_397000000A_008098",
-   "title": "2026 TTXC 台灣文化科技大會",
-   "start": "2026-10-09T00:00:00+08:00",
-   "end": "2026-10-26T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市803鹽埕區駁二藝術特區",
-   "district": "鹽埕區",
-   "category": "節慶／觀光",
-   "fee": "未知",
-   "organizer": "文化部、高雄市政府",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/8098/"
-    }
-   ],
-   "lat": 22.61998,
-   "lng": 120.28153,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -589,33 +481,6 @@
    ],
    "lat": 22.6527,
    "lng": 120.34991,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
-   "id": "khh_travel:C2_397000000A_008131",
-   "title": "壽山萌鬼派對｜親子藝起玩・萬聖手作趣",
-   "start": "2026-10-25T00:00:00+08:00",
-   "end": "2026-10-26T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市804鼓山區壽山動物園",
-   "district": "鼓山區",
-   "category": "親子",
-   "fee": "未知",
-   "organizer": "高雄市政府",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/8131/"
-    }
-   ],
-   "lat": 22.63456,
-   "lng": 120.27517,
    "aliases": [],
    "first_seen": "",
    "sources": [
