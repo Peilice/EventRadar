@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-26T15:33:03+00:00",
+  "title": "Design System: 高雄活動雷達",
+  "extensions": {
+    "colorMeta": {
+      "seaside-blue": {
+        "role": "primary",
+        "displayName": "西子灣海藍",
+        "canonical": "#1e4fc7",
+        "tonalRamp": [
+          "oklch(15% 0.117 263.7)",
+          "oklch(25% 0.194 263.7)",
+          "oklch(38% 0.194 263.7)",
+          "oklch(50% 0.194 263.7)",
+          "oklch(62% 0.194 263.7)",
+          "oklch(74% 0.194 263.7)",
+          "oklch(86% 0.194 263.7)",
+          "oklch(95% 0.117 263.7)"
+        ],
+        "darkMode": "#1b3f9e"
+      },
+      "seaside-blue-deep": {
+        "role": "primary",
+        "displayName": "西子灣深海",
+        "canonical": "#15379a",
+        "tonalRamp": [
+          "oklch(15% 0.100 264.7)",
+          "oklch(25% 0.166 264.7)",
+          "oklch(38% 0.166 264.7)",
+          "oklch(50% 0.166 264.7)",
+          "oklch(62% 0.166 264.7)",
+          "oklch(74% 0.166 264.7)",
+          "oklch(86% 0.166 264.7)",
+          "oklch(95% 0.100 264.7)"
+        ],
+        "darkMode": "#132e78"
+      },
+      "on-sea": {
+        "role": "neutral",
+        "displayName": "海報米白",
+        "canonical": "#fff8ea",
+        "tonalRamp": [
+          "oklch(15% 0.012 84.6)",
+          "oklch(25% 0.020 84.6)",
+          "oklch(38% 0.020 84.6)",
+          "oklch(50% 0.020 84.6)",
+          "oklch(62% 0.020 84.6)",
+          "oklch(74% 0.020 84.6)",
+          "oklch(86% 0.020 84.6)",
+          "oklch(95% 0.012 84.6)"
+        ]
+      },
+      "pineapple-yellow": {
+        "role": "secondary",
+        "displayName": "鳳梨黃",
+        "canonical": "#ffc93c",
+        "tonalRamp": [
+          "oklch(15% 0.096 86.4)",
+          "oklch(25% 0.159 86.4)",
+          "oklch(38% 0.159 86.4)",
+          "oklch(50% 0.159 86.4)",
+          "oklch(62% 0.159 86.4)",
+          "oklch(74% 0.159 86.4)",
+          "oklch(86% 0.159 86.4)",
+          "oklch(95% 0.096 86.4)"
+        ],
+        "darkMode": "#ffcf55"
+      },
+      "cijin-sunset": {
+        "role": "secondary",
+        "displayName": "旗津夕陽橘",
+        "canonical": "#ff6b35",
+        "tonalRamp": [
+          "oklch(15% 0.116 39.2)",
+          "oklch(25% 0.193 39.2)",
+          "oklch(38% 0.193 39.2)",
+          "oklch(50% 0.193 39.2)",
+          "oklch(62% 0.193 39.2)",
+          "oklch(74% 0.193 39.2)",
+          "oklch(86% 0.193 39.2)",
+          "oklch(95% 0.116 39.2)"
+        ],
+        "darkMode": "#ff8a5c"
+      },
+      "time-orange": {
+        "role": "tertiary",
+        "displayName": "時間橘",
+        "canonical": "#c2410c",
+        "tonalRamp": [
+          "oklch(15% 0.104 38.4)",
+          "oklch(25% 0.174 38.4)",
+          "oklch(38% 0.174 38.4)",
+          "oklch(50% 0.174 38.4)",
+          "oklch(62% 0.174 38.4)",
+          "oklch(74% 0.174 38.4)",
+          "oklch(86% 0.174 38.4)",
+          "oklch(95% 0.104 38.4)"
+        ],
+        "darkMode": "#ffa36b"
+      },
+      "harbor-ink": {
+        "role": "neutral",
+        "displayName": "夜港墨",
+        "canonical": "#15213f",
+        "tonalRamp": [
+          "oklch(15% 0.036 265.9)",
+          "oklch(25% 0.059 265.9)",
+          "oklch(38% 0.059 265.9)",
+          "oklch(50% 0.059 265.9)",
+          "oklch(62% 0.059 265.9)",
+          "oklch(74% 0.059 265.9)",
+          "oklch(86% 0.059 265.9)",
+          "oklch(95% 0.036 265.9)"
+        ],
+        "darkMode": "#fbf1dc"
+      },
+      "newsprint": {
+        "role": "neutral",
+        "displayName": "米黃報紙",
+        "canonical": "#fff5e3",
+        "tonalRamp": [
+          "oklch(15% 0.016 82.4)",
+          "oklch(25% 0.026 82.4)",
+          "oklch(38% 0.026 82.4)",
+          "oklch(50% 0.026 82.4)",
+          "oklch(62% 0.026 82.4)",
+          "oklch(74% 0.026 82.4)",
+          "oklch(86% 0.026 82.4)",
+          "oklch(95% 0.016 82.4)"
+        ],
+        "darkMode": "#0e1630"
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "白紙",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15% 0.000 89.9)",
+          "oklch(25% 0.000 89.9)",
+          "oklch(38% 0.000 89.9)",
+          "oklch(50% 0.000 89.9)",
+          "oklch(62% 0.000 89.9)",
+          "oklch(74% 0.000 89.9)",
+          "oklch(86% 0.000 89.9)",
+          "oklch(95% 0.000 89.9)"
+        ],
+        "darkMode": "#17213f"
+      },
+      "surface-warm": {
+        "role": "neutral",
+        "displayName": "暖白",
+        "canonical": "#fffaf0",
+        "tonalRamp": [
+          "oklch(15% 0.009 84.6)",
+          "oklch(25% 0.014 84.6)",
+          "oklch(38% 0.014 84.6)",
+          "oklch(50% 0.014 84.6)",
+          "oklch(62% 0.014 84.6)",
+          "oklch(74% 0.014 84.6)",
+          "oklch(86% 0.014 84.6)",
+          "oklch(95% 0.009 84.6)"
+        ],
+        "darkMode": "#1c2748"
+      },
+      "muted-ink": {
+        "role": "neutral",
+        "displayName": "淡墨",
+        "canonical": "#4b5675",
+        "tonalRamp": [
+          "oklch(15% 0.032 269.2)",
+          "oklch(25% 0.053 269.2)",
+          "oklch(38% 0.053 269.2)",
+          "oklch(50% 0.053 269.2)",
+          "oklch(62% 0.053 269.2)",
+          "oklch(74% 0.053 269.2)",
+          "oklch(86% 0.053 269.2)",
+          "oklch(95% 0.032 269.2)"
+        ],
+        "darkMode": "#b6bfda"
+      },
+      "line-soft": {
+        "role": "neutral",
+        "displayName": "紙邊線",
+        "canonical": "#e9dcc2",
+        "tonalRamp": [
+          "oklch(15% 0.022 84.6)",
+          "oklch(25% 0.037 84.6)",
+          "oklch(38% 0.037 84.6)",
+          "oklch(50% 0.037 84.6)",
+          "oklch(62% 0.037 84.6)",
+          "oklch(74% 0.037 84.6)",
+          "oklch(86% 0.037 84.6)",
+          "oklch(95% 0.022 84.6)"
+        ],
+        "darkMode": "#2c3863"
+      },
+      "gov-blue": {
+        "role": "semantic",
+        "displayName": "政府藍",
+        "canonical": "#1d4ed8",
+        "tonalRamp": [
+          "oklch(15% 0.130 264.4)",
+          "oklch(25% 0.217 264.4)",
+          "oklch(38% 0.217 264.4)",
+          "oklch(50% 0.217 264.4)",
+          "oklch(62% 0.217 264.4)",
+          "oklch(74% 0.217 264.4)",
+          "oklch(86% 0.217 264.4)",
+          "oklch(95% 0.130 264.4)"
+        ],
+        "darkMode": "#a7c0ff"
+      },
+      "private-green": {
+        "role": "semantic",
+        "displayName": "民間綠",
+        "canonical": "#047857",
+        "tonalRamp": [
+          "oklch(15% 0.063 165.6)",
+          "oklch(25% 0.105 165.6)",
+          "oklch(38% 0.105 165.6)",
+          "oklch(50% 0.105 165.6)",
+          "oklch(62% 0.105 165.6)",
+          "oklch(74% 0.105 165.6)",
+          "oklch(86% 0.105 165.6)",
+          "oklch(95% 0.063 165.6)"
+        ],
+        "darkMode": "#7ee2bd"
+      },
+      "danger": {
+        "role": "semantic",
+        "displayName": "警示紅",
+        "canonical": "#b91c1c",
+        "tonalRamp": [
+          "oklch(15% 0.114 27.5)",
+          "oklch(25% 0.190 27.5)",
+          "oklch(38% 0.190 27.5)",
+          "oklch(50% 0.190 27.5)",
+          "oklch(62% 0.190 27.5)",
+          "oklch(74% 0.190 27.5)",
+          "oklch(86% 0.190 27.5)",
+          "oklch(95% 0.114 27.5)"
+        ],
+        "darkMode": "#ffb4b4"
+      },
+      "danger-soft": {
+        "role": "semantic",
+        "displayName": "警示淡紅",
+        "canonical": "#fde4e4",
+        "tonalRamp": [
+          "oklch(15% 0.016 17.7)",
+          "oklch(25% 0.027 17.7)",
+          "oklch(38% 0.027 17.7)",
+          "oklch(50% 0.027 17.7)",
+          "oklch(62% 0.027 17.7)",
+          "oklch(74% 0.027 17.7)",
+          "oklch(86% 0.027 17.7)",
+          "oklch(95% 0.016 17.7)"
+        ],
+        "darkMode": "#4a1d27"
+      },
+      "footer-muted": {
+        "role": "neutral",
+        "displayName": "夜港淡字",
+        "canonical": "#c3cbe4",
+        "tonalRamp": [
+          "oklch(15% 0.022 271.5)",
+          "oklch(25% 0.036 271.5)",
+          "oklch(38% 0.036 271.5)",
+          "oklch(50% 0.036 271.5)",
+          "oklch(62% 0.036 271.5)",
+          "oklch(74% 0.036 271.5)",
+          "oklch(86% 0.036 271.5)",
+          "oklch(95% 0.022 271.5)"
+        ]
+      },
+      "footer-line": {
+        "role": "neutral",
+        "displayName": "夜港格線",
+        "canonical": "#2f3d66",
+        "tonalRamp": [
+          "oklch(15% 0.044 268.4)",
+          "oklch(25% 0.073 268.4)",
+          "oklch(38% 0.073 268.4)",
+          "oklch(50% 0.073 268.4)",
+          "oklch(62% 0.073 268.4)",
+          "oklch(74% 0.073 268.4)",
+          "oklch(86% 0.073 268.4)",
+          "oklch(95% 0.044 268.4)"
+        ],
+        "darkMode": "#233057"
+      },
+      "cat-exhibit": {
+        "role": "category",
+        "displayName": "展覽藍",
+        "canonical": "#1d4ed8",
+        "tonalRamp": [
+          "oklch(15% 0.130 264.4)",
+          "oklch(25% 0.217 264.4)",
+          "oklch(38% 0.217 264.4)",
+          "oklch(50% 0.217 264.4)",
+          "oklch(62% 0.217 264.4)",
+          "oklch(74% 0.217 264.4)",
+          "oklch(86% 0.217 264.4)",
+          "oklch(95% 0.130 264.4)"
+        ]
+      },
+      "cat-show": {
+        "role": "category",
+        "displayName": "表演桃紅",
+        "canonical": "#c2185b",
+        "tonalRamp": [
+          "oklch(15% 0.121 5.6)",
+          "oklch(25% 0.202 5.6)",
+          "oklch(38% 0.202 5.6)",
+          "oklch(50% 0.202 5.6)",
+          "oklch(62% 0.202 5.6)",
+          "oklch(74% 0.202 5.6)",
+          "oklch(86% 0.202 5.6)",
+          "oklch(95% 0.121 5.6)"
+        ]
+      },
+      "cat-talk": {
+        "role": "category",
+        "displayName": "講座紫",
+        "canonical": "#6d28d9",
+        "tonalRamp": [
+          "oklch(15% 0.145 292.6)",
+          "oklch(25% 0.241 292.6)",
+          "oklch(38% 0.241 292.6)",
+          "oklch(50% 0.241 292.6)",
+          "oklch(62% 0.241 292.6)",
+          "oklch(74% 0.241 292.6)",
+          "oklch(86% 0.241 292.6)",
+          "oklch(95% 0.145 292.6)"
+        ]
+      },
+      "cat-fest": {
+        "role": "category",
+        "displayName": "節慶橘",
+        "canonical": "#c2410c",
+        "tonalRamp": [
+          "oklch(15% 0.104 38.4)",
+          "oklch(25% 0.174 38.4)",
+          "oklch(38% 0.174 38.4)",
+          "oklch(50% 0.174 38.4)",
+          "oklch(62% 0.174 38.4)",
+          "oklch(74% 0.174 38.4)",
+          "oklch(86% 0.174 38.4)",
+          "oklch(95% 0.104 38.4)"
+        ]
+      },
+      "cat-market": {
+        "role": "category",
+        "displayName": "市集褐",
+        "canonical": "#92580a",
+        "tonalRamp": [
+          "oklch(15% 0.067 65.5)",
+          "oklch(25% 0.111 65.5)",
+          "oklch(38% 0.111 65.5)",
+          "oklch(50% 0.111 65.5)",
+          "oklch(62% 0.111 65.5)",
+          "oklch(74% 0.111 65.5)",
+          "oklch(86% 0.111 65.5)",
+          "oklch(95% 0.067 65.5)"
+        ]
+      },
+      "cat-kids": {
+        "role": "category",
+        "displayName": "親子綠",
+        "canonical": "#047857",
+        "tonalRamp": [
+          "oklch(15% 0.063 165.6)",
+          "oklch(25% 0.105 165.6)",
+          "oklch(38% 0.105 165.6)",
+          "oklch(50% 0.105 165.6)",
+          "oklch(62% 0.105 165.6)",
+          "oklch(74% 0.105 165.6)",
+          "oklch(86% 0.105 165.6)",
+          "oklch(95% 0.063 165.6)"
+        ]
+      },
+      "cat-sport": {
+        "role": "category",
+        "displayName": "運動青",
+        "canonical": "#0e7490",
+        "tonalRamp": [
+          "oklch(15% 0.056 223.1)",
+          "oklch(25% 0.094 223.1)",
+          "oklch(38% 0.094 223.1)",
+          "oklch(50% 0.094 223.1)",
+          "oklch(62% 0.094 223.1)",
+          "oklch(74% 0.094 223.1)",
+          "oklch(86% 0.094 223.1)",
+          "oklch(95% 0.056 223.1)"
+        ]
+      },
+      "cat-other": {
+        "role": "category",
+        "displayName": "其他灰",
+        "canonical": "#4b5563",
+        "tonalRamp": [
+          "oklch(15% 0.016 256.8)",
+          "oklch(25% 0.026 256.8)",
+          "oklch(38% 0.026 256.8)",
+          "oklch(50% 0.026 256.8)",
+          "oklch(62% 0.026 256.8)",
+          "oklch(74% 0.026 256.8)",
+          "oklch(86% 0.026 256.8)",
+          "oklch(95% 0.016 256.8)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "站名",
+        "purpose": "只用於頁首站名，配深海錯位字影。"
+      },
+      "headline": {
+        "displayName": "月曆標題",
+        "purpose": "月曆年月。"
+      },
+      "title": {
+        "displayName": "活動標題",
+        "purpose": "卡片標題，text-wrap: balance。"
+      },
+      "body": {
+        "displayName": "內文",
+        "purpose": "頁面基準與資料文字。"
+      },
+      "body-small": {
+        "displayName": "卡片資料",
+        "purpose": "時間、地點、主辦。"
+      },
+      "label": {
+        "displayName": "圓體標籤",
+        "purpose": "欄位標籤、按鈕、chip、分類頂條。"
+      },
+      "numeral": {
+        "displayName": "票根數字",
+        "purpose": "日期票根大字；計數與月曆日期用小一號。"
+      }
+    },
+    "shadows": [
+      {
+        "name": "paper",
+        "value": "4px 4px 0 var(--shadow-c)",
+        "purpose": "卡片、篩選面板、月曆格、進行中區塊。"
+      },
+      {
+        "name": "paper-lifted",
+        "value": "7px 7px 0 var(--shadow-c)",
+        "purpose": "卡片 hover／focus-within，同時 translate(-3px,-3px)。"
+      },
+      {
+        "name": "ticket",
+        "value": "3px 3px 0 var(--shadow-c)",
+        "purpose": "日期票根、月曆切換鈕。"
+      },
+      {
+        "name": "button",
+        "value": "2px 2px 0 var(--shadow-c)",
+        "purpose": "chip、標記按鈕、月曆箭頭；hover 3px，active 歸零並位移 2px。"
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.22, 1, 0.36, 1)",
+        "purpose": "所有狀態轉場的指數型緩出。"
+      },
+      {
+        "name": "press",
+        "value": "0.18s",
+        "purpose": "按鈕與 chip 的浮起／壓下。"
+      },
+      {
+        "name": "lift",
+        "value": "0.25s",
+        "purpose": "卡片浮起、展開箭頭旋轉。"
+      },
+      {
+        "name": "radar-sweep",
+        "value": "5s linear infinite",
+        "purpose": "頁首雷達標誌的掃描，光點同步閃爍；reduced-motion 時停止。"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "640px"
+      },
+      {
+        "name": "desktop",
+        "value": "1000px"
+      },
+      {
+        "name": "max",
+        "value": "1280px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "清除篩選、分享同步連結等次要動作；hover 填滿夕陽橘。",
+      "html": "<button class=\"ds-btn-ghost\">清除篩選</button>",
+      "css": ".ds-btn-ghost{min-height:40px;padding:6px 16px;border:2px solid #15213f;border-radius:999px;background:transparent;color:#15213f;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:800;font-size:1rem;cursor:pointer;transition:background-color .18s,color .18s}.ds-btn-ghost:hover{background:#ff6b35;border-color:#ff6b35;color:#15213f}.ds-btn-ghost:focus-visible{outline:3px solid #ff6b35;outline-offset:3px}"
+    },
+    {
+      "name": "Filter Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "篩選 chip，帶計數；按下有壓下手感，選取時反轉為墨底。",
+      "html": "<div style=\"display:flex;gap:8px\"><button class=\"ds-chip\">今天新增 <span class=\"ds-chip-count\">5</span></button><button class=\"ds-chip\" aria-pressed=\"true\">想去 <span class=\"ds-chip-count\">2</span></button></div>",
+      "css": ".ds-chip{display:inline-flex;align-items:center;gap:6px;min-height:38px;padding:4px 14px;border-radius:999px;border:2px solid #15213f;background:#fff;color:#15213f;box-shadow:2px 2px 0 #15213f;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:700;font-size:.9rem;cursor:pointer;transition:transform .18s cubic-bezier(.22,1,.36,1),box-shadow .18s cubic-bezier(.22,1,.36,1)}.ds-chip:hover{transform:translate(-1px,-1px);box-shadow:3px 3px 0 #15213f}.ds-chip:active{transform:translate(2px,2px);box-shadow:0 0 0 #15213f}.ds-chip:focus-visible{outline:3px solid #ff6b35;outline-offset:3px}.ds-chip[aria-pressed=true]{background:#15213f;color:#fff5e3}.ds-chip-count{min-width:1.6em;padding:0 6px;border-radius:999px;background:#e9dcc2;color:#15213f;font-family:Fredoka,sans-serif;font-size:.78rem;text-align:center}.ds-chip[aria-pressed=true] .ds-chip-count{background:#ffc93c}"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "暖白底、墨線、焦點時鳳梨黃光圈。",
+      "html": "<label class=\"ds-field\"><span>關鍵字</span><input class=\"ds-input\" type=\"search\" placeholder=\"活動名稱、場地、主辦單位\"></label>",
+      "css": ".ds-field{display:grid;gap:6px;max-width:320px}.ds-field>span{font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:800;font-size:.85rem;color:#15213f}.ds-input{min-height:44px;padding:8px 12px;background:#fffaf0;border:2px solid #15213f;border-radius:12px;color:#15213f;font:inherit;transition:box-shadow .2s cubic-bezier(.22,1,.36,1),background-color .2s}.ds-input::placeholder{color:#4b5675}.ds-input:hover{background:#fff}.ds-input:focus-visible{outline:none;background:#fff;box-shadow:0 0 0 3px #ffc93c}"
+    },
+    {
+      "name": "Event Card",
+      "kind": "card",
+      "refersTo": "event-card",
+      "description": "分類色頂條＋標記按鈕＋時間地點主辦；hover 浮起。",
+      "html": "<article class=\"ds-card\"><div class=\"ds-card-cat\"><svg viewBox=\"0 0 24 24\"><path d=\"M2 4h6a4 4 0 0 1 4 4v13a3 3 0 0 0-3-3H2z\"/><path d=\"M22 4h-6a4 4 0 0 0-4 4v13a3 3 0 0 1 3-3h7z\"/></svg>講座／課程<span class=\"ds-mark\">想去</span></div><h3>永生花藝相框手作</h3><p class=\"ds-when\">10/26（一） 10:00–12:00</p><p class=\"ds-where\">一心路林森路口樓下全家 · 前鎮區</p><span class=\"ds-tag\">免費</span></article>",
+      "css": ".ds-card{max-width:340px;background:#fff;border:2px solid #15213f;border-radius:20px;box-shadow:4px 4px 0 #15213f;padding:0 16px 14px;overflow:hidden;color:#15213f;transition:transform .25s cubic-bezier(.22,1,.36,1),box-shadow .25s cubic-bezier(.22,1,.36,1)}.ds-card:hover{transform:translate(-3px,-3px);box-shadow:7px 7px 0 #15213f}.ds-card-cat{display:flex;align-items:center;gap:8px;margin:0 -16px 12px;padding:9px 16px;background:color-mix(in oklab,#6d28d9 16%,#fff);border-bottom:2px solid #15213f;color:#6d28d9;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:800;font-size:.88rem}.ds-card-cat svg{width:1.3em;height:1.3em;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.ds-mark{margin-left:auto;padding:2px 10px;border-radius:999px;border:2px solid #15213f;background:#ff6b35;color:#15213f;box-shadow:2px 2px 0 #15213f;font-size:.8rem}.ds-card h3{margin:0 0 10px;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:800;font-size:1.12rem;line-height:1.4}.ds-card p{margin:0;font-size:.9rem}.ds-when{font-weight:700;color:#c2410c}.ds-where{color:#4b5675;margin-top:4px!important}.ds-tag{display:inline-block;margin-top:12px;padding:1px 10px;border-radius:999px;border:1.5px solid #15213f;background:#ffc93c;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:800;font-size:.78rem}"
+    },
+    {
+      "name": "Day Ticket",
+      "kind": "custom",
+      "refersTo": "day-ticket",
+      "description": "撕下來的日期票根：鳳梨黃（週末夕陽橘）、半圓缺口、歪斜的今天徽章。",
+      "html": "<div class=\"ds-day\"><span class=\"ds-ticket\"><span class=\"ds-num\">26</span><span class=\"ds-meta\"><span>10 月</span><span>週一</span></span></span><span class=\"ds-rel\">今天</span><span class=\"ds-rule\"></span><span class=\"ds-count\">8 場</span></div>",
+      "css": ".ds-day{display:flex;align-items:center;gap:10px;color:#15213f}.ds-ticket{display:inline-flex;align-items:center;gap:10px;padding:4px 18px 4px 14px;border:2px solid #15213f;border-radius:14px;background:#ffc93c;box-shadow:3px 3px 0 #15213f;-webkit-mask:radial-gradient(circle 7px at 0 50%,#0000 98%,#000) left/51% 100% no-repeat,radial-gradient(circle 7px at 100% 50%,#0000 98%,#000) right/51% 100% no-repeat;mask:radial-gradient(circle 7px at 0 50%,#0000 98%,#000) left/51% 100% no-repeat,radial-gradient(circle 7px at 100% 50%,#0000 98%,#000) right/51% 100% no-repeat}.ds-num{font-family:Fredoka,sans-serif;font-weight:700;font-size:2.1rem;line-height:1}.ds-meta{display:grid;line-height:1.15;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:800;font-size:.85rem}.ds-rel{padding:3px 12px;border-radius:999px;background:#1e4fc7;color:#fff8ea;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:800;font-size:.85rem;transform:rotate(-4deg)}.ds-rule{flex:1;min-width:12px;border-top:3px dotted #e9dcc2}.ds-count{font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:700;font-size:.9rem;color:#4b5675}"
+    },
+    {
+      "name": "Hero Poster",
+      "kind": "nav",
+      "refersTo": "hero",
+      "description": "西子灣海藍頁首：鳳梨黃太陽套夕陽橘光環、網點、波浪下緣。",
+      "html": "<header class=\"ds-hero\"><h1>高雄活動雷達</h1><p>自動彙整高雄的政府與民間活動</p><svg viewBox=\"0 0 1440 60\" preserveAspectRatio=\"none\"><path d=\"M0 30c120 22 240 22 360 0s240-22 360 0 240 22 360 0 240-22 360 0v30H0z\"/></svg></header>",
+      "css": ".ds-hero{position:relative;overflow:hidden;padding:24px 20px 52px;color:#fff8ea;background:radial-gradient(circle at calc(100% - 50px) 20px,#ffc93c 0 44px,transparent 45px),radial-gradient(circle at calc(100% - 50px) 20px,transparent 0 56px,#ff6b35 57px 62px,transparent 63px),#1e4fc7}.ds-hero h1{margin:0;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:900;font-size:2.2rem;line-height:1.1;letter-spacing:.04em;text-shadow:3px 3px 0 #15379a}.ds-hero p{margin:6px 0 0;font-family:'Chiron GoRound TC','Noto Sans TC',sans-serif;font-weight:700}.ds-hero svg{position:absolute;left:0;bottom:-1px;width:100%;height:30px}.ds-hero path{fill:#fff5e3}"
+    }
+  ],
+  "narrative": {
+    "northStar": "高雄週末口袋地圖",
+    "overview": "這是一份讓人週末前翻開、隨手就能找到去處的在地小冊。它的語言借自港邊的布告欄與手作海報：西子灣海藍的大色塊、鳳梨黃的太陽、旗津夕陽橘的強調，全部用夜港墨的粗線描邊，再壓上一層硬陰影，像一張張貼上去、摸得到邊緣的紙片。氣質是熱鬧、親切、有手感：色塊大膽，但每張卡片的時間、地點、主辦都排得清楚好掃，因為使用者是來找活動的，不是來欣賞版面的。\n\n密度屬於「工具」等級：桌機是左側篩選欄加卡片看板，手機收成單欄。所有表現力集中在幾個固定位置：頁首海報（雷達標誌、太陽、網點、波浪）、日期票根、分類色頂條、按得下去的按鈕。其他地方保持米黃報紙底與墨色文字，讓資訊說話。\n\n深色模式不是反白，而是「夜裡的港口」：底色換成深海藍（#0e1630），墨線改成較亮的藍灰，強調色略提亮，分類色往白混合以維持對比。",
+    "keyCharacteristics": [
+      "墨線描邊（2px）加零模糊的硬陰影，是整套系統的深度語言",
+      "圓潤字體（Chiron GoRound TC）負責所有標題、標籤與按鈕；內文用系統黑體",
+      "每個活動分類有一個主色，淺底與文字色都由它以 `color-mix` 推出",
+      "數字用 Fredoka 與等寬數字，日期像票根一樣被撕下來",
+      "頁首與頁尾用波浪邊界接到米黃底，上方是白天的港、下方是夜港"
+    ],
+    "rules": [
+      {
+        "name": "The 墨字上色塊 Rule",
+        "body": "鳳梨黃與夕陽橘上的文字永遠是夜港墨（#15213f），不論淺色或深色模式；暖色塊上不放白字。",
+        "section": "colors"
+      },
+      {
+        "name": "The 一色一分類 Rule",
+        "body": "新增分類只能加一個 `--hue`，不得另外手寫淺底或文字色；深淺一律交給 `color-mix`。",
+        "section": "colors"
+      },
+      {
+        "name": "The 海藍是面 Rule",
+        "body": "西子灣海藍用於大面積的品牌面（頁首、月曆頭），不做成按鈕或連結色；可點的東西靠墨線與硬陰影辨識。",
+        "section": "colors"
+      },
+      {
+        "name": "The 圓體發聲 Rule",
+        "body": "凡是介面在「說話」的地方（標題、標籤、按鈕、chip、狀態）都用 Chiron GoRound；凡是資料（地址、主辦、簡介、表格內容）都用內文黑體。",
+        "section": "typography"
+      },
+      {
+        "name": "The 數字對齊 Rule",
+        "body": "任何會並排比較的數字（日期、計數、筆數、時間）都開 `tabular-nums`。",
+        "section": "typography"
+      },
+      {
+        "name": "The 按得下去 Rule",
+        "body": "有硬陰影的東西就必須能互動或代表一張紙片；按下時陰影歸零、元件位移到陰影的位置，像真的被壓下去。不可點的裝飾不加硬陰影。",
+        "section": "elevation"
+      },
+      {
+        "name": "The 無柔光 Rule",
+        "body": "不使用模糊陰影、發光暈或毛玻璃。焦點用 3px 夕陽橘外框或鳳梨黃光圈表示，不用陰影模擬。",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** 讓所有可點的元件同時具備 2px 墨線與硬陰影，並在 `:active` 時位移到陰影的位置、陰影歸零。",
+      "**Do** 新增分類時只宣告一個 `--hue`，淺底與文字色交給既有的 `color-mix` 規則。",
+      "**Do** 在鳳梨黃、夕陽橘底上一律使用夜港墨（#15213f）文字與描邊，深色模式也一樣。",
+      "**Do** 主題化瀏覽器自帶的表面：選取底色用鳳梨黃、游標與 accent 用夕陽橘、捲軸用淡化的墨色。",
+      "**Do** 數字一律等寬（`tabular-nums`），日期大字用 Fredoka。",
+      "**Do** 改了 `style.css` 或 `app.js` 就更新 `index.html` 裡的 `?v=`。"
+    ],
+    "donts": [
+      "**Don't** 使用模糊陰影、發光暈、毛玻璃或漸層文字；深度只有硬陰影一種。",
+      "**Don't** 把西子灣海藍做成按鈕或連結色；它是頁首與月曆頭的品牌面。",
+      "**Don't** 在暖色塊上放白字，或用灰色文字放在彩色底上。",
+      "**Don't** 在標題、按鈕、標籤上改用內文黑體，或在長段資料上用圓體。",
+      "**Don't** 用 emoji 或 Unicode 符號代替圖示；沿用 24px 格線、2px 圓頭線條的自繪 SVG。",
+      "**Don't** 增加第二個歪斜元素；-4° 的「今天」徽章是唯一的俏皮傾斜。"
+    ]
+  }
+}
