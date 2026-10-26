@@ -139,6 +139,20 @@ a { color: inherit; text-underline-offset: 0.2em; text-decoration-thickness: 2px
   padding-left: max(16px, env(safe-area-inset-left));
   padding-right: max(16px, env(safe-area-inset-right));
   overflow: hidden;
+  /* 蓋過下方的狀態列底色條 */
+  z-index: 4;
+}
+/* 狀態列底色條：捲動時卡片不會從時間、訊號圖示底下透出來 */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: env(safe-area-inset-top);
+  background: var(--bg);
+  z-index: 3;
+  pointer-events: none;
 }
 .hero-inner {
   max-width: 1280px;
@@ -400,7 +414,8 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 /* 日期標頭：像一張撕下來的票根 */
 .day-heading {
   position: sticky;
-  top: 0;
+  /* 全螢幕開啟時黏在狀態列下方，不要鑽到時間底下 */
+  top: env(safe-area-inset-top);
   z-index: 2;
   display: flex;
   align-items: center;
