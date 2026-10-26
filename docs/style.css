@@ -736,13 +736,15 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 .ci-ring { fill: none; stroke-width: 2.2; }
 .ci-dot { fill: var(--sea); stroke: none; }
 .ci-mark { fill: var(--sun); stroke-width: 1.5; }
+.ci-line { fill: none; stroke-width: 1.6; }
 .view-toggle:hover .cal-icon { transform: rotate(-6deg); }
 .view-toggle:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--shadow-c); }
 .view-toggle:active { transform: translate(3px, 3px); box-shadow: 0 0 0 var(--shadow-c); }
-.hi-door { fill: var(--sea); }
-.home-icon,
-.is-calendar .view-toggle .cal-icon:not(.home-icon) { display: none; }
-.is-calendar .view-toggle .home-icon { display: block; }
+/* 深色模式的卡片底太暗，墨線會消失；圖示是一張貼紙，底維持米白 */
+@media (prefers-color-scheme: dark) { .view-toggle { background: var(--on-sea); } }
+.list-icon,
+.is-calendar .view-toggle .cal-icon:not(.list-icon) { display: none; }
+.is-calendar .view-toggle .list-icon { display: block; }
 
 @media (min-width: 1000px) {
   .layout.is-calendar { grid-template-columns: minmax(0, 1fr); }

@@ -19,7 +19,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@400;500;700;800;900&family=Fredoka:wght@500;600;700&display=swap">
   <!-- 改了 style.css 或 app.js 就更新 ?v=，避免瀏覽器拿到快取裡的舊檔 -->
-  <link rel="stylesheet" href="style.css?v=20261026a">
+  <link rel="stylesheet" href="style.css?v=20261026b">
 </head>
 <body>
   <!-- 圖示：同一套 24px 格線、2px 圓頭線條 -->
@@ -153,12 +153,13 @@
             <circle class="ci-dot" cx="12" cy="17.5" r="1.3"/>
             <circle class="ci-mark" cx="16" cy="15.8" r="2.4"/>
           </svg>
-          <!-- 月曆模式改顯示首頁：白牆、橘屋頂、海藍門、黃窗，點了回列表 -->
-          <svg class="cal-icon home-icon" viewBox="0 0 24 24" aria-hidden="true">
-            <rect class="ci-body" x="5" y="10.5" width="14" height="10.5" rx="1.5"/>
-            <path class="ci-band" d="M12 3 2.8 10.6a1 1 0 0 0 .6 1.8h17.2a1 1 0 0 0 .6-1.8z"/>
-            <rect class="hi-door" x="10" y="15" width="4" height="6"/>
-            <circle class="ci-mark" cx="16.3" cy="15.3" r="1.5"/>
+          <!-- 月曆模式改顯示列表：兩張疊起的活動卡片，與月曆同樣是橘色頂條、黃點標記 -->
+          <svg class="cal-icon list-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <rect class="ci-body" x="7" y="3" width="13.5" height="12" rx="2.5"/>
+            <rect class="ci-body" x="3.5" y="7" width="14.5" height="14" rx="2.5"/>
+            <path class="ci-band" d="M3.5 11.5V9.5A2.5 2.5 0 0 1 6 7h9.5A2.5 2.5 0 0 1 18 9.5v2z"/>
+            <path class="ci-line" d="M6.8 14.8h7.6M6.8 17.8h4.6"/>
+            <circle class="ci-mark" cx="15.2" cy="18" r="1.6"/>
           </svg>
         </button>
       </div>
@@ -235,6 +236,6 @@
     </article>
   </template>
 
-  <script src="app.js?v=20261026a"></script>
+  <script src="app.js?v=20261026b"></script>
 </body>
 </html>
