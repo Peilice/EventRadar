@@ -90,7 +90,7 @@
 /* .board 等元件設了 display，會蓋過 hidden 屬性 */
 [hidden] { display: none !important; }
 
-html { scrollbar-color: var(--line) var(--bg); }
+html { scrollbar-color: color-mix(in oklab, var(--line) 55%, var(--bg)) var(--bg); }
 
 body {
   margin: 0;
@@ -142,6 +142,17 @@ a { color: inherit; text-underline-offset: 0.2em; text-decoration-thickness: 2px
   /* 蓋過下方的狀態列底色條 */
   z-index: 4;
 }
+/* 海報的網點印刷：右側濃、往左淡出 */
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(color-mix(in oklab, var(--on-sea) 16%, transparent) 1.3px, transparent 1.8px);
+  background-size: 11px 11px;
+  -webkit-mask-image: linear-gradient(105deg, transparent 35%, #000 90%);
+          mask-image: linear-gradient(105deg, transparent 35%, #000 90%);
+  pointer-events: none;
+}
 /* 狀態列底色條：捲動時卡片不會從時間、訊號圖示底下透出來 */
 body::before {
   content: "";
@@ -155,6 +166,7 @@ body::before {
   pointer-events: none;
 }
 .hero-inner {
+  position: relative;
   max-width: 1280px;
   margin: 0 auto;
   display: flex;
@@ -200,6 +212,8 @@ body::before {
   background: color-mix(in oklab, var(--sea-deep) 75%, transparent);
   font-size: 0.82rem;
   font-variant-numeric: tabular-nums;
+  /* 窄螢幕換行時只在空白處斷開，不把「活動」拆成兩行 */
+  word-break: keep-all;
 }
 .wave {
   position: absolute;
@@ -234,6 +248,7 @@ main { min-width: 0; }
     padding: 4px 8px 12px 4px;
     margin: -4px -8px 0 -4px;
     scrollbar-width: thin;
+    scrollbar-color: color-mix(in oklab, var(--line) 30%, transparent) transparent;
   }
 }
 
@@ -420,9 +435,10 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
   display: flex;
   align-items: center;
   gap: 10px;
-  margin: 18px -10px -4px;
-  padding: 10px 10px;
-  background: var(--bg);
+  margin: 18px -10px -10px;
+  padding: 10px 10px 16px;
+  /* 黏在上方時，底緣淡出，卡片不會被一刀切齊 */
+  background: linear-gradient(var(--bg) calc(100% - 10px), color-mix(in oklab, var(--bg) 0%, transparent));
   font-size: 1rem;
 }
 @media (min-width: 1000px) {
@@ -487,7 +503,6 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 
 /* 活動卡片 */
 .event {
-  --cat: var(--text);
   position: relative;
   display: flex;
   flex-direction: column;
@@ -598,13 +613,28 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 .event-desc, .event-links { position: relative; z-index: 1; }
 .event-desc { margin-top: 10px; }
 .event-desc summary {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   cursor: pointer;
+  list-style: none;
   font-family: var(--font-display);
   font-weight: 700;
   font-size: 0.85rem;
   color: var(--muted);
 }
+.event-desc summary::-webkit-details-marker { display: none; }
+/* 跟篩選面板同一款箭頭，告訴人這裡點得開 */
+.event-desc summary::after {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: translateY(-2px) rotate(45deg);
+  transition: transform 0.25s var(--ease);
+}
+.event-desc[open] summary::after { transform: translateY(1px) rotate(-135deg); }
 .event-desc summary:hover { color: var(--text); }
 .event-desc p { margin-top: 6px !important; font-size: 0.9rem; white-space: pre-line; }
 
@@ -769,6 +799,7 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
     overflow: auto;
     padding: 0 10px 12px;
     scrollbar-width: thin;
+    scrollbar-color: color-mix(in oklab, var(--line) 30%, transparent) transparent;
   }
   .cal-agenda > .day-heading:first-child { margin-top: 0; }
 }
@@ -916,6 +947,8 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 .status th { color: var(--footer-muted); font-weight: 700; font-family: var(--font-display); }
 .status td { font-variant-numeric: tabular-nums; }
 .status td:last-child, .status th:last-child { text-align: right; }
+/* 時間與筆數不換行，讓錯誤訊息去第一欄折行 */
+.status td:nth-child(n+2), .status th:nth-child(n+2) { white-space: nowrap; }
 .status tr.bad td { color: #ffb4b4; background: rgba(255, 99, 99, 0.14); }
 .status .err { display: block; font-size: 0.78rem; word-break: break-all; }
 

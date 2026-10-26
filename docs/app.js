@@ -811,7 +811,8 @@ async function main() {
     syncMarks(data.events, imported?.marks);
     renderStatus(status);
     const newCount = data.events.filter(isNew).length;
-    $("#meta").textContent = `更新於 ${fmtDateTime(data.generated_at)} · 共 ${data.events.length} 筆活動${newCount ? ` · 新增 ${newCount} 筆` : ""}`;
+    // 窄螢幕換行時只在「·」兩側斷開
+    $("#meta").textContent = `更新於 ${fmtDateTime(data.generated_at).replace(/ /g, " ")} · 共 ${data.events.length} 筆活動${newCount ? ` · 新增 ${newCount} 筆` : ""}`;
     if (imported) $("#meta").textContent += ` · ${syncMessage(imported)}`;
     setupFilters();
     setupCalendar();
