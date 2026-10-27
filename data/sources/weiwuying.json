@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T01:32:10.684830+08:00",
+ "fetched_at": "2026-10-27T10:43:09.156609+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -18,33 +18,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a953c1f3041610007c17381"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a475099d45b1700074650b0",
-   "title": "《2026王昱翔薩克斯風獨奏會－法國作品集II》",
-   "start": "2026-10-26T14:30:00+08:00",
-   "end": "2026-10-26T14:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "王昱翔攜手巴黎高等音樂院鋼琴家伊藤富美惠",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a475099d45b1700074650b0"
     }
    ],
    "lat": null,
