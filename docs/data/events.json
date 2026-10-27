@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T10:50:59.878571+08:00",
+ "generated_at": "2026-10-28T04:26:01.139754+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -3725,7 +3725,7 @@
    "id": "accupass:2610212106361915776859",
    "title": "庇護所 — 黃翊熏、施宇睿聯展 ​ ​ ❘ ​ 📍 打狗好好橋",
    "start": "2026-10-25T11:00:00+08:00",
-   "end": "2026-10-31T19:00:00+08:00",
+   "end": "2026-10-31T18:00:00+08:00",
    "venue": "打狗好好橋老屋",
    "address": "台灣高雄市自強一路207巷12號",
    "district": "",
@@ -3746,87 +3746,6 @@
    "first_seen": "2026-10-23",
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610160939436059496690",
-   "title": "Vision 啟點思維｜有求必應：22個吸引力法則",
-   "start": "2026-10-27T13:00:00+08:00",
-   "end": "2026-10-27T16:00:00+08:00",
-   "venue": "亞能量健康醫學診所",
-   "address": "台灣高雄市鼓山區博愛一路466號7樓",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "安富管理顧問有限公司",
-   "organizer_type": "民間",
-   "description": "「思維不轉，機會不來！當你改變內在頻率，豐盛也將隨之而來！」 這不只是一場讀書會，更是結合自我成長、事業交流與人脈資源的能量聚會！ 透過《有求必應：22個吸引力法則》，探索心念、信念與行動如何影響人生與事業。真正的成功，不只是努力追逐，更是從內在建立豐盛思維，吸引對的人脈與機會！ 無論你是渴望突破瓶頸的職場菁英、創業者，還是追求財富自由的行動派，都邀請你一起打破自我設限、告別匱乏思維，解鎖吸引力法則的關鍵！ 從改變思維開始，讓人脈、資源與商機自然匯聚，開啟你的豐盛人生！",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610160939436059496690"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2609240513571597233947",
-   "title": "【高雄場】永碩創富學堂｜專業的守護— 從擔心、安心到放心",
-   "start": "2026-10-27T14:00:00+08:00",
-   "end": "2026-10-27T16:30:00+08:00",
-   "venue": "高雄漢來大飯店",
-   "address": "台灣高雄市前金區成功一路266號",
-   "district": "前金區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "永碩會計師事務所｜ ENRICHEVER",
-   "organizer_type": "不確定",
-   "description": "官方查核思維 × 跨世代傳承實戰。深入剖析房地自住認定、長輩金援金流查稅攻防，以及財富傳承規劃的經典誤區，為家族資產築起最堅固的防護網。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2609240513571597233947"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "ksml:16422",
-   "title": "【總館-國際】2026 歐洲教育展 European Education Fair Taiwan 高雄場次＆南洋多元文化體驗",
-   "start": "2026-10-27T14:00:00+08:00",
-   "end": "2026-10-27T20:00:00+08:00",
-   "venue": "高雄市立圖書館總館1F廣場",
-   "address": "高雄市前鎮區新光路61號",
-   "district": "前鎮區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館多元文化部",
-   "organizer_type": "政府",
-   "description": "活動文宣 2026 歐洲教育展 European Education Fair Taiwan 高雄場次\n＆南洋多元文化體驗活動＆精彩演出－－等你來探索！\n日期｜10月27日（星期二）",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16422"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "ksml"
    ]
   },
   {
@@ -3934,33 +3853,6 @@
     {
      "source": "accupass",
      "url": "https://www.accupass.com/event/2609300623541403322810"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610030131531175296190",
-   "title": "(高雄場) 維京遊輪--歐洲之旅",
-   "start": "2026-10-28T14:30:00+08:00",
-   "end": "2026-10-28T16:00:00+08:00",
-   "venue": "旅遊服務中心高雄服務處",
-   "address": "台灣高雄市前金區中正四路235號5樓-1",
-   "district": "前金區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "旅遊達人講座",
-   "organizer_type": "不確定",
-   "description": "維京遊輪《伊敦號》2026年起首次航行於歐洲，以4萬多噸位數的優雅船身為客人提供了深入地中海名城、小島的航線；全船載客量不到1000人的舒適旅遊，以全新的旅行方式重遊故地或發現新地，體驗維京致力為享受慢旅行、偏愛文化探索、品味優雅的旅客提供高品值的遊輪之旅",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610030131531175296190"
     }
    ],
    "lat": null,
@@ -4634,6 +4526,33 @@
    ]
   },
   {
+   "id": "ksml:16452",
+   "title": "【左新分館】🎉招生中！ 【科普繪本故事時間｜《海邊的星星巨人》】 巧克力老師】",
+   "start": "2026-10-31T10:00:00+08:00",
+   "end": "2026-10-31T11:00:00+08:00",
+   "venue": "左新分館 一樓兒童區故事屋",
+   "address": "高雄市左營區博愛三路453號",
+   "district": "左營區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館左新分館",
+   "organizer_type": "政府",
+   "description": "【科普繪本故事時間｜《海邊的星星巨人》】✨🌊\n活動內容說明：🌍💙\n本活動結合SDGs14水域生命之永續發展目標，以兒童為參與對象，由故事達人巧克力老師透過故事引導孩子一起發現問題，透過故事學習分類、推論，練習說出自己的想法，陪孩子找答案，滿足孩子好奇心！🤔📖💡",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16452"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "ksml:16388",
    "title": "【楠仔坑分館】10/31（六）哈客童樂繪～歡迎報名參加",
    "start": "2026-10-31T10:00:00+08:00",
@@ -5100,6 +5019,33 @@
    ]
   },
   {
+   "id": "ksml:16450",
+   "title": "【翠屏分館】10/31(六) 深藍星球補給站: 好舒適的貝殼~學員名單公告",
+   "start": "2026-10-31T14:00:00+08:00",
+   "end": "2026-10-31T16:00:00+08:00",
+   "venue": "翠屏分館玄關",
+   "address": "高雄市楠梓區德惠路55號3樓",
+   "district": "楠梓區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館翠屏分館",
+   "organizer_type": "政府",
+   "description": "【錄取名單公告】\n⭐備取名單非正式錄取，請等候館方電話通知⭐\n​",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16450"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "ksml:16427",
    "title": "【翠屏分館】10/31(六) 深藍星球補給站: 好舒適的貝殼~歡迎報名參加~",
    "start": "2026-10-31T14:00:00+08:00",
@@ -5520,7 +5466,7 @@
    "links": [
     {
      "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-%e6%bc%a2%e5%a0%a1%e5%a5%bd%e6%b8%af%e7%af%80-harbour-beats/"
+     "url": "https://kpmc.com.tw/program/2026-harbour-beats/"
     }
    ],
    "lat": null,
@@ -6693,6 +6639,33 @@
    ]
   },
   {
+   "id": "accupass:2610271252242033374491",
+   "title": "十一月例會｜ELECTIONS：你的城市，你的聲音｜Toastmasters 英文交流",
+   "start": "2026-11-03T19:30:00+08:00",
+   "end": "2026-11-03T21:30:00+08:00",
+   "venue": "渤海街175號對面入口進入",
+   "address": "台灣高雄市新興區中正三路34號 14樓",
+   "district": "新興區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "ALE MAX Toastmasters Club",
+   "organizer_type": "民間",
+   "description": "如果有機會為城市帶來一點改變，你最想實現什麼願景？本次 ALE MAX 英文交流活動以 **「ELECTIONS：你的城市，你的聲音」** 為主題，邀請大家發揮想像力，用英文分享心中的理想城市！透過備稿演講、即席問答、講評回饋與交流，在友善的環境中練習英文表達、建立自信。當晚還有 輕鬆有趣的時事討論，透過簡短的新聞分享與互動交流，練習從不同角度思考，聆聽並尊重多元觀點。 不需要演講經驗，也不用擔心英文不夠流利！歡迎想練習口說、拓展視野、認識新朋友的你，一起勇敢開口，讓每個想法都有被聽見的機會！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610271252242033374491"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "accupass:2512170232511312320245",
    "title": "魚笱與歌聲：大武壠漁獵文化與年度夜祭祭典",
    "start": "2026-11-04T13:00:00+08:00",
@@ -6742,6 +6715,33 @@
    "lng": null,
    "aliases": [],
    "first_seen": "2026-10-19",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610270459221693335880",
+   "title": "2026 沙灘草地音樂會《CONNECT IDG Beach Concert》 高雄西子灣",
+   "start": "2026-11-04T16:00:00+08:00",
+   "end": "2026-11-04T18:00:00+08:00",
+   "venue": "西子灣沙灘會館 (Sunset Beach Resort)",
+   "address": "台灣高雄市804鼓山區桃源里蓮海路51號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "心世界 跨界展演冥想空間 Shinsekai Wellness Space",
+   "organizer_type": "不確定",
+   "description": "CONNECT IDG Beach Concert 沙灘草地音樂會｜2026 年11月4日，相約高雄西子灣海岸，在音樂、自然與內在連結中，共度一場開放而有溫度的戶外音樂體驗。從銅鑼共振、大地之母的節奏，到 DUP 世界和平舞圈，透過聲音、律動與集體參與，感受人與自然、自己與他人之間的連結。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610270459221693335880"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
    "sources": [
     "accupass"
    ]
@@ -7284,6 +7284,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "kpmc"
+   ]
+  },
+  {
+   "id": "accupass:2610071300506409685560",
+   "title": "喜劇開港 週五 OPEN MIC（十一月場）",
+   "start": "2026-11-06T20:00:00+08:00",
+   "end": "2026-11-27T22:00:00+08:00",
+   "venue": "鸚鵡螺餐酒館－五福店",
+   "address": "台灣高雄市鹽埕區五福四路117號 2F",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "喜劇開港",
+   "organizer_type": "不確定",
+   "description": "喜劇開港週五 OPEN MIC 十一月場，11/6、11/13、11/20、11/27 每週五 20:00 在高雄鸚鵡螺餐酒館－五福店登場。 高雄唯一喜劇俱樂部，舉辦各式喜劇、除了脫口秀、即興劇，漫才等等都有機會看到！帶好友來同樂吧！ 上半場為脫口秀演員數位輪番上陣！ 下半場為即興喜劇,由觀眾與我們一同完成演出！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610071300506409685560"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -8584,7 +8611,7 @@
   },
   {
    "id": "accupass:2610060749091437228748",
-   "title": "2026高雄WildWild野生活-手作、帳篷體驗專區",
+   "title": "2026高雄WildWild野生活｜手作・帳篷・戶外體驗報名專區",
    "start": "2026-11-07T14:00:00+08:00",
    "end": "2026-11-08T21:00:00+08:00",
    "venue": "衛武營-中央草坪",
@@ -8769,6 +8796,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "kpmc:16272",
+   "title": "Yellow Sky With Blue Moon｜A Tempo 四重奏",
+   "start": "2026-11-07T20:00:00+08:00",
+   "end": "2026-11-07T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：YanNi、林以軒、陳書緯、Emile、王劭威\n票價：單人500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/yellow-sky-with-blue-moon%ef%bd%9ca-tempo-%e5%9b%9b%e9%87%8d%e5%a5%8f/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
    ]
   },
   {
@@ -9336,6 +9390,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "kpmc:16274",
+   "title": "Dafu”OJS48”Project feat. Shun Kikuta菊田俊介",
+   "start": "2026-11-08T19:00:00+08:00",
+   "end": "2026-11-08T19:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 2F",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：根石大輔、菊田俊介、山田洋平\n票價：單人700元 門票含100元餐飲抵用券 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/dafuojs48project-feat-shun-kikuta%e8%8f%8a%e7%94%b0%e4%bf%8a%e4%bb%8b/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
    ]
   },
   {
@@ -10230,6 +10311,33 @@
    ]
   },
   {
+   "id": "kpmc:16276",
+   "title": "Give me a moment｜宋楚琳＆周意紋",
+   "start": "2026-11-13T20:00:00+08:00",
+   "end": "2026-11-13T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：宋楚琳Apu hlauracana、周意紋\n票價：單人500元 雙人900元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/give-me-a-moment%ef%bd%9c%e5%ae%8b%e6%a5%9a%e7%90%b3%ef%bc%86%e5%91%a8%e6%84%8f%e7%b4%8b/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "twmarket:59275:20261114",
    "title": "角落微光.溫情城市-秋冬送暖公益市集",
    "start": "2026-11-14T00:00:00+08:00",
@@ -10443,6 +10551,33 @@
    "first_seen": "2026-10-20",
    "sources": [
     "twmarket"
+   ]
+  },
+  {
+   "id": "accupass:2610270732333764396880",
+   "title": "2026罕見疾病大專研習課程(高雄場)",
+   "start": "2026-11-14T09:00:00+08:00",
+   "end": "2026-11-15T16:40:00+08:00",
+   "venue": "和逸飯店•高雄中山館 數位互動會議室",
+   "address": "台灣高雄市前鎮區中山二路260號30樓",
+   "district": "前鎮區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "財團法人罕見疾病基金會",
+   "organizer_type": "民間",
+   "description": "2026罕見疾病大專研習課程(高雄場)~歡迎報名參加 什麼是罕見疾病？罕見疾病又是怎麼發生的？透過罕見疾病大專研習課程，認識罕見疾病，了解基因遺傳的奧秘，探索生命價值，啟發對於罕病相關議題之興趣。 本次活動以「罕見長路的溫暖陪跑體驗」方式，透過深入淺出講座介紹、生命故事分享及體驗活動，讓大家了解罕病的特性、治療、照護以及病人們的生命故事。想認識罕病的你(妳)，快來報名吧！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610270732333764396880"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -10902,6 +11037,33 @@
    "first_seen": "2026-10-23",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "ksml:16451",
+   "title": "【楠仔坑分館】11/14（六）用繪本認捌台語～寶島台語囡仔古（意識培力）～歡迎報名",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-14T15:30:00+08:00",
+   "venue": "楠仔坑分館2樓書香教室",
+   "address": "高雄市楠梓區楠梓路262號",
+   "district": "楠梓區",
+   "category": "親子",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館楠仔坑分館",
+   "organizer_type": "政府",
+   "description": "1151114寶島台語囡仔古jpg ▶️本活動提供台語家庭會員集點1.5點◀️\n【楠仔坑分館】用繪本認捌台語～寶島台語囡仔古（意識培力）\n💟活動主題｜台語意識宣講Ｘ台語故事：紅尻川賊仔事件！Ｘ親子手作",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16451"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "ksml"
    ]
   },
   {
@@ -11391,6 +11553,33 @@
    ]
   },
   {
+   "id": "ksml:16449",
+   "title": "【中崙分館】115年11月14日 (六)【台語意識培力講座】台語毋是聽有就好，會曉講上重要",
+   "start": "2026-11-14T18:30:00+08:00",
+   "end": "2026-11-14T20:30:00+08:00",
+   "venue": "高雄市立圖書館中崙分館2F多功能教室",
+   "address": "高雄市鳳山區中崙五路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館中崙分館",
+   "organizer_type": "政府",
+   "description": "【台語意識培力講座】台語毋是聽有就好，會曉講上重要\n👂 聽得懂台語，卻不一定講得出來？別擔心！這次咱就來把台語帶入生活，從「聽有」進一步到「講會」！✨\n🍎 食物按怎講？🎨 色水有啥物趣味？",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16449"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "kpmc:15106",
    "title": "山下智久 2026 巡迴演唱會 DREAMING 高雄場",
    "start": "2026-11-14T19:00:00+08:00",
@@ -11523,6 +11712,60 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610231425334490427370",
+   "title": "《南義吟遊詩人》音樂會x唱歌工作坊｜Fabio Pagano × 鳳儒・11/14–15｜高雄心世界",
+   "start": "2026-11-14T19:30:00+08:00",
+   "end": "2026-11-15T15:30:00+08:00",
+   "venue": "心世界展演空間、捷運鹽埕埔站 3號4號出口 步行1分鐘",
+   "address": "台灣高雄市鹽埕區大勇路76巷2號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "心世界 跨界展演冥想空間 Shinsekai Wellness Space",
+   "organizer_type": "不確定",
+   "description": "南義傳統歌謠音樂會 South Italian Folk Music x 吟唱工作坊 Singing Workshop｜來自義大利拿坡里的演員 Fabio Pagano，與台灣藝術工作者余鳳儒 Fon，於 2024 年在台灣相識，因為對歌唱與表演的熱愛，展開台義結合的音樂合作，至今已在台灣與義大利各地帶來近 20 場演出。 這次，讓我們透過兩人的演出與分享，走進南義大利文化、歌謠與表演世界！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610231425334490427370"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "kpmc:16278",
+   "title": "爵式Open Jam #64",
+   "start": "2026-11-14T20:00:00+08:00",
+   "end": "2026-11-14T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "其他",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：爵式 WiJazz Records\n票價：250元 附指定飲品，現場收費 現場報名",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e7%88%b5%e5%bc%8fopen-jam-64/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
    ]
   },
   {
@@ -12201,6 +12444,33 @@
    ]
   },
   {
+   "id": "kpmc:16280",
+   "title": "歲月微醺：愛與時光的呢喃｜爵式人聲樂團",
+   "start": "2026-11-15T16:00:00+08:00",
+   "end": "2026-11-15T16:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：爵式人聲樂團\n票價：單人450元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e6%ad%b2%e6%9c%88%e5%be%ae%e9%86%ba%ef%bc%9a%e6%84%9b%e8%88%87%e6%99%82%e5%85%89%e7%9a%84%e5%91%a2%e5%96%83%ef%bd%9c%e7%88%b5%e5%bc%8f%e4%ba%ba%e8%81%b2%e6%a8%82%e5%9c%98/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "iculture:6a988e4126b32434f43580c2",
    "title": "2026 功學社「賞心樂目」年度音樂會（高雄場）",
    "start": "2026-11-15T16:00:00+08:00",
@@ -12640,6 +12910,33 @@
    ]
   },
   {
+   "id": "accupass:2610270929381190376455",
+   "title": "2026社會企業論壇 |  跨域影響 X 在地賦能",
+   "start": "2026-11-19T09:30:00+08:00",
+   "end": "2026-11-19T17:00:00+08:00",
+   "venue": "高雄林皇宮樂宴廳(3樓)",
+   "address": "台灣高雄市鼓山區博愛二路99號",
+   "district": "鼓山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "財團法人西子灣教育基金會",
+   "organizer_type": "民間",
+   "description": "⚡︎三大亮點 ⟡通路影響力：企業從「末端上架」延伸至「前端輔導」，如何帶動在地商品進入主流市場？ ⟡深耕在地力：企業的採購需求轉化為綠色供應鏈，如何用企業資源為地方注入活水？ ⟡科技運用力：運用綠能、數據與數位科技，如何幫助偏鄉與在地團隊突破人力與營運瓶頸？",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610270929381190376455"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "accupass:2606010057411746552807",
    "title": "《 For Us 》金泰亨fans cafe",
    "start": "2026-11-19T10:00:00+08:00",
@@ -13069,6 +13366,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "kpmc:16282",
+   "title": "探戈之夜｜班多鈕與人聲的交會",
+   "start": "2026-11-20T19:30:00+08:00",
+   "end": "2026-11-20T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：吳詠隆、江玉芳\n票價：單人500元 雙人900元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e6%8e%a2%e6%88%88%e4%b9%8b%e5%a4%9c%ef%bd%9c%e7%8f%ad%e5%a4%9a%e9%88%95%e8%88%87%e4%ba%ba%e8%81%b2%e7%9a%84%e4%ba%a4%e6%9c%83/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
    ]
   },
   {
@@ -14186,6 +14510,33 @@
    ]
   },
   {
+   "id": "kpmc:16284",
+   "title": "迷幻電風琴之夜！第六彈！",
+   "start": "2026-11-21T20:00:00+08:00",
+   "end": "2026-11-21T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：宋易修、許子薇、涂宸華、李祈均\n票價：單人500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "ksml:14412",
    "title": "【高雄文學館】𝟏𝟏/𝟐𝟐港都文藝學會 「文學創作－生命中的光與熱」 系列講座",
    "start": "2026-11-22T00:00:00+08:00",
@@ -14672,6 +15023,33 @@
    ]
   },
   {
+   "id": "kpmc:16286",
+   "title": "yannialwaysblue TR!O",
+   "start": "2026-11-22T16:00:00+08:00",
+   "end": "2026-11-22T16:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：YanNi、劉大任、王劭威\n票價：單人500元 雙人900元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/yannialwaysblue-tro/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "accupass:2610141744548907675560",
    "title": "【即興主題日】那間老鼠開的動畫公司",
    "start": "2026-11-22T19:30:00+08:00",
@@ -15057,6 +15435,33 @@
    ]
   },
   {
+   "id": "accupass:2610170658496682876760",
+   "title": "【短影音工作坊】一學就上手 ! 短影音風格實戰：用AI 拆解演算法突破同溫層",
+   "start": "2026-11-26T14:00:00+08:00",
+   "end": "2026-11-26T17:00:00+08:00",
+   "venue": "高雄市政府青年局 K-TV高雄新媒體人才培育中心",
+   "address": "台灣高雄市鳳山區光復路二段132號2樓(鳳山行政中心前棟)",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "高雄新媒體人才培育中心",
+   "organizer_type": "不確定",
+   "description": "🔅課綱： 1. 2026 短影音演算法的「視覺與結構偏好」 2. 用 AI 拆解百萬影片的「突破同溫層 」 3. 激發故事腦與 AI 共創風格重構 4. 實作演練：學員實作",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610170658496682876760"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "weiwuying:6ab32e6f86975700088691da",
    "title": "【2026臺灣舞蹈平台】藝術家創作提案",
    "start": "2026-11-26T14:00:00+08:00",
@@ -15219,6 +15624,33 @@
    ]
   },
   {
+   "id": "kpmc:16288",
+   "title": "【The Oldies but Goodies】午後西洋金曲時光：7＆80年代金曲",
+   "start": "2026-11-27T15:00:00+08:00",
+   "end": "2026-11-27T15:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：蘇珊Susan、王威凱、董杰安\n票價：單人400元 含150元午茶飲品 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e3%80%90the-oldies-but-goodies%e3%80%91%e5%8d%88%e5%be%8c%e8%a5%bf%e6%b4%8b%e9%87%91%e6%9b%b2%e6%99%82%e5%85%89%ef%bc%9a7%ef%bc%8680%e5%b9%b4%e4%bb%a3%e9%87%91%e6%9b%b2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "iculture:6ada767326b3245efc753716",
    "title": "11月高雄市電影館｜窗外有藍天 4K經典數位修復",
    "start": "2026-11-27T19:00:00+08:00",
@@ -15378,6 +15810,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "kpmc:16290",
+   "title": "Voyager Collective ft. Pablo Liebhaber",
+   "start": "2026-11-27T20:00:00+08:00",
+   "end": "2026-11-27T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：林佳穎、宋易修、Pablo Liebhaber、涂宸華、湯銘鴻\n票價：單人500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/voyager-collective-ft-pablo-liebhaber/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
    ]
   },
   {
@@ -16485,6 +16944,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "kpmc:16292",
+   "title": "黃彥斌第二張全創作爵士小提琴專輯《緣》 專輯巡迴｜Na Razie 再見．再遇見",
+   "start": "2026-11-29T16:00:00+08:00",
+   "end": "2026-11-29T16:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：黃彥斌、宋易修、湯銘鴻、葉庭均\n票價：單人500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e9%bb%83%e5%bd%a5%e6%96%8c%e7%ac%ac%e4%ba%8c%e5%bc%b5%e5%85%a8%e5%89%b5%e4%bd%9c%e7%88%b5%e5%a3%ab%e5%b0%8f%e6%8f%90%e7%90%b4%e5%b0%88%e8%bc%af%e3%80%8a%e7%b7%a3%e3%80%8b-%e5%b0%88%e8%bc%af%e5%b7%a1/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
    ]
   },
   {
@@ -20476,7 +20962,7 @@
    "fee": "付費",
    "organizer": "琉璃花RURIKA、天国地獄、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）x 高雄流行音樂中心",
    "organizer_type": "政府",
-   "description": "演出：琉璃花RURIKA、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）\n票價：預售票500元 現場票1,000元",
+   "description": "演出：琉璃花RURIKA、終焉Rebirth、DUALIA、無我夢中、花奏スマイル（O.A.）、AXIA\n票價：預售票500元 現場票1,000元",
    "links": [
     {
      "source": "kpmc",
@@ -21606,6 +22092,33 @@
    ]
   },
   {
+   "id": "accupass:2610220953392582065720",
+   "title": "【產業新尖兵】 AI Agent 跨領域應⽤與AI企業⾃動化實務班",
+   "start": "2026-12-28T08:30:00+08:00",
+   "end": "2027-02-22T17:30:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市三民區建工路415號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "國立高雄科技大學 ESG與數位科技應用中心",
+   "organizer_type": "政府",
+   "description": "想學 AI 卻沒有程式基礎？ 國立高雄科技大學-ESG與數位科技應用中心開辦「AI Agent 跨領域應用與 AI 企業自動化實務班」，專為 15–29 歲待業青年及非資訊背景初學者設計！ 課程涵蓋生成式 AI、n8n 工作流自動化、Python 辦公室自動化、AI Agent＋RAG 智慧知識庫及 Vibe Coding AI 輔助開發。 符合資格者享政府訓練費用補助及最高 27,000 元學習獎勵金。 學 AI 技術、實作作品、就業媒合，為下一份工作增加實力！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610220953392582065720"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "weiwuying:6ab0f8718697570008854426",
    "title": "《2026許志瑜鋼琴獨奏會》",
    "start": "2026-12-28T19:30:00+08:00",
@@ -22008,6 +22521,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "kpmc:16243",
+   "title": "阿克沃 Awkward《裂縫之間》專輯發片場－高雄站",
+   "start": "2027-01-02T19:30:00+08:00",
+   "end": "2027-01-02T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "阿克沃 Awkward x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：阿克沃 Awkward\n票價：預售單人票 $650 預售雙人票 $1200 現場票 $800",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0102/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
    ]
   },
   {
@@ -23689,6 +24229,60 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "kpmc:16265",
+   "title": "空中補給屬於時間的答案巡迴演唱會-高雄站(確切時間待更新)",
+   "start": "2027-07-24T17:00:00+08:00",
+   "end": "2027-07-24T17:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "全球音樂經紀有限公司",
+   "organizer_type": "民間",
+   "description": "演出：空中補給\n票價：4200 3800 3300 2880 2280 1600 身障票 1650 身障票 1440",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-hih-0724/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16267",
+   "title": "空中補給屬於時間的答案巡迴演唱會-高雄站(確切時間待更新)",
+   "start": "2027-07-25T17:00:00+08:00",
+   "end": "2027-07-25T17:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "全球音樂經紀有限公司",
+   "organizer_type": "民間",
+   "description": "演出：空中補給\n票價：4200 3800 3300 2880 2280 1600 身障票 1650 身障票 1440",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-hih-0725/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-28",
+   "sources": [
+    "kpmc"
    ]
   }
  ]

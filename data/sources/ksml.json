@@ -1,6 +1,114 @@
 {
- "fetched_at": "2026-10-27T10:50:59.878571+08:00",
+ "fetched_at": "2026-10-28T04:26:01.139754+08:00",
  "events": [
+  {
+   "id": "ksml:16452",
+   "title": "【左新分館】🎉招生中！ 【科普繪本故事時間｜《海邊的星星巨人》】 巧克力老師】",
+   "start": "2026-10-31T10:00:00+08:00",
+   "end": "2026-10-31T11:00:00+08:00",
+   "venue": "左新分館 一樓兒童區故事屋",
+   "address": "高雄市左營區博愛三路453號",
+   "district": "左營區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館左新分館",
+   "organizer_type": "政府",
+   "description": "【科普繪本故事時間｜《海邊的星星巨人》】✨🌊\n活動內容說明：🌍💙\n本活動結合SDGs14水域生命之永續發展目標，以兒童為參與對象，由故事達人巧克力老師透過故事引導孩子一起發現問題，透過故事學習分類、推論，練習說出自己的想法，陪孩子找答案，滿足孩子好奇心！🤔📖💡",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16452"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16451",
+   "title": "【楠仔坑分館】11/14（六）用繪本認捌台語～寶島台語囡仔古（意識培力）～歡迎報名",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-14T15:30:00+08:00",
+   "venue": "楠仔坑分館2樓書香教室",
+   "address": "高雄市楠梓區楠梓路262號",
+   "district": "楠梓區",
+   "category": "親子",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館楠仔坑分館",
+   "organizer_type": "政府",
+   "description": "1151114寶島台語囡仔古jpg ▶️本活動提供台語家庭會員集點1.5點◀️\n【楠仔坑分館】用繪本認捌台語～寶島台語囡仔古（意識培力）\n💟活動主題｜台語意識宣講Ｘ台語故事：紅尻川賊仔事件！Ｘ親子手作",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16451"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16450",
+   "title": "【翠屏分館】10/31(六) 深藍星球補給站: 好舒適的貝殼~學員名單公告",
+   "start": "2026-10-31T14:00:00+08:00",
+   "end": "2026-10-31T16:00:00+08:00",
+   "venue": "翠屏分館玄關",
+   "address": "高雄市楠梓區德惠路55號3樓",
+   "district": "楠梓區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館翠屏分館",
+   "organizer_type": "政府",
+   "description": "【錄取名單公告】\n⭐備取名單非正式錄取，請等候館方電話通知⭐\n​",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16450"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16449",
+   "title": "【中崙分館】115年11月14日 (六)【台語意識培力講座】台語毋是聽有就好，會曉講上重要",
+   "start": "2026-11-14T18:30:00+08:00",
+   "end": "2026-11-14T20:30:00+08:00",
+   "venue": "高雄市立圖書館中崙分館2F多功能教室",
+   "address": "高雄市鳳山區中崙五路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館中崙分館",
+   "organizer_type": "政府",
+   "description": "【台語意識培力講座】台語毋是聽有就好，會曉講上重要\n👂 聽得懂台語，卻不一定講得出來？別擔心！這次咱就來把台語帶入生活，從「聽有」進一步到「講會」！✨\n🍎 食物按怎講？🎨 色水有啥物趣味？",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16449"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16448",
    "title": "【新興民眾閱覽室】11/8(日)上午10:00-12:00《佮阿公踅菜市仔:聽故事・耍遊戲・用台語做沙拉》",
@@ -342,33 +450,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,414"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16422",
-   "title": "【總館-國際】2026 歐洲教育展 European Education Fair Taiwan 高雄場次＆南洋多元文化體驗",
-   "start": "2026-10-27T14:00:00+08:00",
-   "end": "2026-10-27T20:00:00+08:00",
-   "venue": "高雄市立圖書館總館1F廣場",
-   "address": "高雄市前鎮區新光路61號",
-   "district": "前鎮區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館多元文化部",
-   "organizer_type": "政府",
-   "description": "活動文宣 2026 歐洲教育展 European Education Fair Taiwan 高雄場次\n＆南洋多元文化體驗活動＆精彩演出－－等你來探索！\n日期｜10月27日（星期二）",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16422"
     }
    ],
    "lat": null,
