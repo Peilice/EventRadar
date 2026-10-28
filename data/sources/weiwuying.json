@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T10:43:09.156609+08:00",
+ "fetched_at": "2026-10-28T11:12:15.107248+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -72,6 +72,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a39edd891fdd80008fb8fe8"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ae01cf27af9a8000765c441",
+   "title": "《怪市發生》萬聖節市集",
+   "start": "2026-10-30T16:00:00+08:00",
+   "end": "2026-11-01T14:00:00+08:00",
+   "venue": "衛武營北廣場",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "當夜幕降臨，沉睡在城市角落的精靈逐一甦醒， 怪物悄然現身，發光怪眼也緩緩睜開。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ae01cf27af9a8000765c441"
     }
    ],
    "lat": null,
@@ -4322,6 +4349,33 @@
    ]
   },
   {
+   "id": "weiwuying:6ad5df157a63f600077b4107",
+   "title": "《高雄市英明國中管弦樂班年度音樂會》",
+   "start": "2027-02-25T19:30:00+08:00",
+   "end": "2027-02-25T19:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "高雄市立英明國民中學藝才管弦樂班璀璨成立二十週年！上半場由校內比賽獲選的協奏曲獨奏者及室內樂得獎同學，共同展現精湛的音樂底蘊；下半場帶來比才、德弗札克與夏布里耶的經典交響名作，展現熱情的青春琴韻。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ad5df157a63f600077b4107"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6ad5d86c7a63f600077b3f99",
    "title": "《光與塵》",
    "start": "2027-02-26T19:30:00+08:00",
@@ -4473,33 +4527,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a796672ff50b500072e306f"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69e0939d083b77000852411f",
-   "title": "2026【衛武營藝企學】下半年登場！",
-   "start": "2026-09-22T10:30:00+08:00",
-   "end": "2026-10-28T10:30:00+08:00",
-   "venue": "衛武營",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "衛武營國家藝術文化中心為南臺灣藝術發展重要基地，擁有全亞洲最大的管風琴、全臺唯一葡萄園式座席設計音樂廳與全臺唯一凸出式可升降延伸舞台的戲劇院。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69e0939d083b77000852411f"
     }
    ],
    "lat": null,
