@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T04:26:01.139754+08:00",
+ "fetched_at": "2026-10-29T04:45:53.113320+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -211,33 +211,6 @@
    ],
    "lat": 22.61119,
    "lng": 120.29903,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
-   "id": "khh_travel:C2_397000000A_007979",
-   "title": "《海邊的星星巨人》鯨鯊主題行動貨櫃巡迴展",
-   "start": "2026-08-30T00:00:00+08:00",
-   "end": "2026-10-28T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市804鼓山區棧貳庫KW2 海側廣場",
-   "district": "鼓山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "海洋委員會海洋保育署",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/7979/"
-    }
-   ],
-   "lat": 22.61865,
-   "lng": 120.27779,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -481,6 +454,60 @@
    ],
    "lat": 22.6527,
    "lng": 120.34991,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008140",
+   "title": "2026高雄萬聖節｜你瓜瓜所以我瓜瓜",
+   "start": "2026-10-30T00:00:00+08:00",
+   "end": "2026-11-01T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市830鳳山區衛武營國家藝術文化中心",
+   "district": "鳳山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府教育局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8140/"
+    }
+   ],
+   "lat": 22.623,
+   "lng": 120.34244,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008145",
+   "title": "樂遊高雄｜七大亮點打卡GO好禮",
+   "start": "2026-10-28T00:00:00+08:00",
+   "end": "2027-10-31T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市830鳳山區光復路二段132號",
+   "district": "鳳山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府觀光局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8145/"
+    }
+   ],
+   "lat": 22.63025,
+   "lng": 120.34391,
    "aliases": [],
    "first_seen": "",
    "sources": [

@@ -1,6 +1,168 @@
 {
- "fetched_at": "2026-10-28T04:26:01.139754+08:00",
+ "fetched_at": "2026-10-29T04:45:53.113320+08:00",
  "events": [
+  {
+   "id": "ksml:16463",
+   "title": "【橋頭分館】11/7 (六) 14:00 《動物園大對決》繪本學台語",
+   "start": "2026-11-07T14:00:00+08:00",
+   "end": "2026-11-07T15:00:00+08:00",
+   "venue": "高雄市立圖書館橋頭分館1樓兒童室",
+   "address": "高雄市橋頭區隆豐路7號",
+   "district": "橋頭區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館橋頭分館",
+   "organizer_type": "政府",
+   "description": "《動物園大對決》繪本學台語\n跟著胡淑屏老師一起走進《動物園大對決》台語兒童繪本的世界，認識各種動物的台語名稱，透過有趣的繪本故事，讓孩子邊看、邊聽、邊學台語！\n經由繪本閱讀與生活經驗的連結，引導民眾理解台語傳承與保存的重要性，建立正確的台語意識。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16463"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16461",
+   "title": "【橋頭分館】11/7 (六) 10:00 咱來耍台語（動物）",
+   "start": "2026-11-07T10:00:00+08:00",
+   "end": "2026-11-07T12:00:00+08:00",
+   "venue": "高雄市立圖書館橋頭分館2樓多功能室",
+   "address": "高雄市橋頭區隆豐路7號",
+   "district": "橋頭區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館橋頭分館",
+   "organizer_type": "政府",
+   "description": "咱來耍台語（動物）\n囡仔若聽無台語，咱欲按怎引𤆬伊開喙？😀\n蘇紋巧老師透過繪本、動物聲音模仿佮肢體遊戲，予親子佇聽講、觀察佮遊戲中自然接觸台語，建立親子共學的信心，將台語佇家庭生活中繼續傳落去。🥰",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16461"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16458",
+   "title": "[鼓山分館] 115年鼓山成人讀書會11/14（六）早上10起「性別主流」共讀《愛織毛線的男孩》歡迎您的參與!",
+   "start": "2026-11-14T10:00:00+08:00",
+   "end": "2026-11-14T23:59:59+08:00",
+   "venue": "高雄市立圖書館鼓山分館3樓多功能教室",
+   "address": "高雄市鼓山區鼓山三路19-3號",
+   "district": "鼓山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館鼓山分館",
+   "organizer_type": "政府",
+   "description": "共讀:愛織毛線的男孩\n*帶領人：林月娥(七賢國中退休老師)\n主角小菲覺得自己和其他大吵大鬧的男同學「不一樣」，他喜歡靜靜地待在安靜的角落。有一天老師教小菲織毛線，他從中找到了樂趣與成就感。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16458"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16457",
+   "title": "[鼓山分館]115年11/14（六）14:00~起鼓山青少年週末電影院「多元性別」 共賞《當他們認真編織時》歡迎參加!",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-14T23:59:59+08:00",
+   "venue": "高雄市立圖書館鼓山分館3樓多功能教室",
+   "address": "高雄市鼓山區鼓山三路19-3號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館鼓山分館",
+   "organizer_type": "政府",
+   "description": "影片欣賞--《當他們認真編織時》片長127分，劇情片，輔12\n■ 內容簡介\n由知名導演 荻上直子 自編自導。電影大膽且溫柔地探討了跨性別、多元家庭及LGBT等社會議題，並在第 67 屆柏林影展獲得泰迪熊獎評審團特別獎，故事講述國小五年級的小女孩小友，因不負責任的母親再度離家出走，只好投靠舅舅牧生。小友意外發現舅舅的同居戀人凜子是一名已完成手術的跨性別女性。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16457"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16456",
+   "title": "[鼓山分館]115年11/14(六)台語意識培力-內惟 。Kóng Tâi-gí -台語電影日下午16:00起共賞《李天祿布袋戲》歡迎參加!",
+   "start": "2026-11-14T16:00:00+08:00",
+   "end": "2026-11-14T23:59:59+08:00",
+   "venue": "高雄市立圖書館鼓山分館3樓多功能教室",
+   "address": "高雄市鼓山區鼓山三路19-3號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館鼓山分館",
+   "organizer_type": "政府",
+   "description": "意識培力-內惟 。Kóng Tâi-gí -「內惟看。電影」《亦宛然掌中劇團／李天祿布袋戲》\n(長度：89分，劇情片，級別：普遍級)\n透過李天祿阿公教小朋友學布袋戲的故事，娓娓道出這個陪伴許多人度過美好童年的傳統戲曲的迷人之處。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16456"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16454",
+   "title": "📌【岡山文化中心分館】📌11/14歌仔戲藝術戲劇體驗營",
+   "start": "2026-11-14T10:00:00+08:00",
+   "end": "2026-11-14T12:00:00+08:00",
+   "venue": "高雄市立圖書館岡山文化中心分館 岡山文化中心圖書館",
+   "address": "高雄市岡山區岡山南路43號",
+   "district": "岡山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館岡山文化中心分館",
+   "organizer_type": "政府",
+   "description": "你看過歌仔戲，卻沒有真正體驗過嗎？\n這次，換你站上舞台！✨\n不只是欣賞，更要親自參與！",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16454"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16452",
    "title": "【左新分館】🎉招生中！ 【科普繪本故事時間｜《海邊的星星巨人》】 巧克力老師】",
@@ -207,6 +369,33 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16198"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16432",
+   "title": "【寶珠分館】🚂紅豆冰哥哥紙芝居稅務列車《咩咩餐廳》11/22(日)上午10:00-11:00",
+   "start": "2026-11-22T10:00:00+08:00",
+   "end": "2026-11-22T11:00:00+08:00",
+   "venue": "寶珠分館 藝文研習室(高雄市三民區大順二路468號4樓)",
+   "address": "高雄市三民區大順二路468號4樓",
+   "district": "三民區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館寶珠分館",
+   "organizer_type": "政府",
+   "description": "【寶珠分館】紅豆冰哥哥紙芝居稅務列車《咩咩餐廳》\n叮叮叮～紙芝居列車即將進站！🚂\n由✨紅豆冰哥哥・何弘斌 帶來生動有趣的紙芝居演出～",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16432"
     }
    ],
    "lat": null,
@@ -936,33 +1125,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16400"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16388",
-   "title": "【楠仔坑分館】10/31（六）哈客童樂繪～歡迎報名參加",
-   "start": "2026-10-31T10:00:00+08:00",
-   "end": "2026-10-31T11:00:00+08:00",
-   "venue": "楠仔坑分館2樓書香教室",
-   "address": "高雄市楠梓區楠梓路262號",
-   "district": "楠梓區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館楠仔坑分館",
-   "organizer_type": "政府",
-   "description": "1151031哈客童樂繪海報jpg 透過生動有趣的繪本故事，帶著大小朋友一起認識客語，從故事情境、趣味互動中，跟著老師說說簡單又實用的客語詞彙，不用擔心會不會說客語，輕鬆參加、開心體驗就可以！除了聽故事、玩遊戲，還有親子創藝 DIY 🎨，邀請爸爸媽媽陪著孩子一起動動手，享受一段充滿故事、語言與創作的親子時光❤️\n┄▸◂┄▹◃┄▸◂┄\n【楠仔坑分館】哈客童樂繪～客語說故事",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16388"
     }
    ],
    "lat": null,

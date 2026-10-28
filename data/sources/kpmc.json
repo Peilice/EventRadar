@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T04:26:01.139754+08:00",
+ "fetched_at": "2026-10-29T04:45:53.113320+08:00",
  "events": [
   {
    "id": "kpmc:16243",
@@ -974,33 +974,6 @@
    ]
   },
   {
-   "id": "kpmc:16143",
-   "title": "2026 Fire Live 壞兒來福 Vol.4",
-   "start": "2026-11-20T19:30:00+08:00",
-   "end": "2026-11-20T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "一生好命 / 來者何人 whoou! / 應聲倒地 x 高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：一生好命 / 來者何人 whoou! / 應聲倒地\n票價：一般預售票 450 元 現場票 550 元",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1120/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:16282",
    "title": "探戈之夜｜班多鈕與人聲的交會",
    "start": "2026-11-20T19:30:00+08:00",
@@ -1017,6 +990,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/%e6%8e%a2%e6%88%88%e4%b9%8b%e5%a4%9c%ef%bd%9c%e7%8f%ad%e5%a4%9a%e9%88%95%e8%88%87%e4%ba%ba%e8%81%b2%e7%9a%84%e4%ba%a4%e6%9c%83/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16143",
+   "title": "2026 Fire Live 壞兒來福 Vol.4",
+   "start": "2026-11-20T19:30:00+08:00",
+   "end": "2026-11-20T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "一生好命 / 來者何人 whoou! / 應聲倒地 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：一生好命 / 來者何人 whoou! / 應聲倒地\n票價：一般預售票 450 元 現場票 550 元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1120/"
     }
    ],
    "lat": null,
@@ -1460,6 +1460,33 @@
    ]
   },
   {
+   "id": "kpmc:16294",
+   "title": "【美秀集團《等無》巡迴 2026】",
+   "start": "2026-12-05T20:00:00+08:00",
+   "end": "2026-12-05T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心、火玄火包股份有限公司",
+   "organizer_type": "政府",
+   "description": "演出：美秀集團\n票價：預售票1500元 現場票1800元 身心票750元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1205/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "kpmc:16237",
    "title": "高流系：歌唱訓練營「唱出你的自由」",
    "start": "2026-12-06T10:00:00+08:00",
@@ -1476,6 +1503,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-wts-1206/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16297",
+   "title": "【美秀集團《等無》巡迴 2026】",
+   "start": "2026-12-06T20:00:00+08:00",
+   "end": "2026-12-06T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心、火玄火包股份有限公司",
+   "organizer_type": "政府",
+   "description": "演出：美秀集團\n票價：預售票1500元 現場票1800元 身心票750元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1206/"
     }
    ],
    "lat": null,
@@ -1552,7 +1606,7 @@
    "fee": "付費",
    "organizer": "鬼灯翠 x 高雄流行音樂中心",
    "organizer_type": "政府",
-   "description": "演出：鬼灯翠 w/99ㄑㄑ、琉璃花RURIKA、稻妻利央、Karei & ooo、悠洛YoLo-OVO、米粒R ミリア\n票價：預售票600元 現場票800元",
+   "description": "演出：鬼灯翠 w/99ㄑㄑ、琉璃花RURIKA、稲妻莉央、Karei & ooo、悠洛YoLo-OVO、米粒R ミリア\n票價：預售票600元 現場票800元",
    "links": [
     {
      "source": "kpmc",
