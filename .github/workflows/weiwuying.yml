@@ -24,6 +24,9 @@ jobs:
     defaults:
       run:
         shell: powershell
+    # 讓 Python 以 UTF-8 輸出，否則 Windows 預設 cp950，日誌的中文會變亂碼
+    env:
+      PYTHONUTF8: "1"
     steps:
       - uses: actions/checkout@v4
 
@@ -38,6 +41,7 @@ jobs:
 
       # Windows PowerShell 5.1 會把 runner 產生的腳本（無 BOM 的 UTF-8）當成 Big5 讀，
       # 腳本內不能有中文；中文 commit 訊息改由環境變數傳入
+      # --only 仍會重寫 docs/data 與 first_seen.json（交給每日更新產生），commit 後先丟掉才能 pull --rebase
       - name: 提交資料
         env:
           COMMIT_MESSAGE: 更新衛武營與文化部活動資料
@@ -51,6 +55,7 @@ jobs:
             exit 0
           }
           git commit -q -m $env:COMMIT_MESSAGE
+          git checkout -q -- .
           git pull --rebase -q
           git push -q
 
