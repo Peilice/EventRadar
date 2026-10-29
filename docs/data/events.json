@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:22:16.577595+08:00",
+ "generated_at": "2026-10-29T18:45:24.028720+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -3934,8 +3934,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "高雄愛樂室內合唱團",
+   "organizer_type": "民間",
    "description": "在歌聲裡相遇 於詩意中共鳴",
    "links": [
     {
@@ -3943,18 +3943,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a39edd891fdd80008fb8fe8"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105220235260489728"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105220235260489728"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2105220235260489728:20261029",
     "iculture:6ac3dafe26b324165c32e59a"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -4184,7 +4190,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "VIO提琴樂集",
    "organizer_type": "不確定",
    "description": "2026張群小提琴獨奏音樂會",
    "links": [
@@ -4193,19 +4199,52 @@
      "url": "https://www.npac-weiwuying.org/programs/6a6af633ef008b00072bcd32"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2077604197323137025"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2077604197323137025"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2077604197323137025:20261030",
     "iculture:6a7a04f126b32427d0604397"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
+   ]
+  },
+  {
+   "id": "opentix:2080134872605343745:20261030",
+   "title": "所在劇集 2026原創歷史音樂劇《無聲の海腳間仔》",
+   "start": "2026-10-30T19:30:00+08:00",
+   "end": "2026-10-30T21:30:00+08:00",
+   "venue": "高雄中山堂劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "所在劇集",
+   "organizer_type": "不確定",
+   "description": "2026 讀劇發表，好評如潮 三方語言 X 原創音樂 X 在地故事 融合「臺灣台語」、「臺灣客語」、「日本語」的時代對話 「海矣，你若有聲。」 1943 年，高雄湊町 在戰爭陰影籠罩下，空襲警報劃破夜空 人群潰散、命運分岔 在混亂中 有人失去至親、有人拼命守住記憶、有人被迫沉默 而所有未能說出口的聲音 最終都流向大海 來自澎湖的女子春螺，罹患肺癆，生命所剩無多。她在胞弟海男的堅持下，離開故鄉，前往高雄，也試圖尋找人生最後的可能。在湊町，他們遇見了來自瀰濃的孤女望妹，而望妹的姊姊神秘失蹤，留下的只有一甕甕酸菜與無處安放的思念。三個失根之人，在光彩的湊町角落——「海腳間仔」相依為命，彼此填補生命的…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2080134872605343745"
+    }
+   ],
+   "lat": 22.68992611,
+   "lng": 120.29194599,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -5339,8 +5378,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "亞藝藝術有限公司",
+   "organizer_type": "民間",
    "description": "以深刻詮釋，串起百年音樂對話",
    "links": [
     {
@@ -5348,18 +5387,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a47529a287f0800087ff278"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2072870491394531328"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2072870491394531328"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2072870491394531328:20261031",
     "iculture:6a5125ec26b32427d060417c"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -5787,18 +5832,24 @@
      "url": "https://www.npac-weiwuying.org/programs/69c37ff1125d070007604ccf"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2050494429271105537"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2050494429271105537"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2050494429271105537:20261031",
     "iculture:6a04aef826b3243414ccc801"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -5827,6 +5878,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "kpmc"
+   ]
+  },
+  {
+   "id": "opentix:2080134872605343745:20261031",
+   "title": "所在劇集 2026原創歷史音樂劇《無聲の海腳間仔》",
+   "start": "2026-10-31T19:30:00+08:00",
+   "end": "2026-10-31T21:30:00+08:00",
+   "venue": "高雄中山堂劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "所在劇集",
+   "organizer_type": "不確定",
+   "description": "2026 讀劇發表，好評如潮 三方語言 X 原創音樂 X 在地故事 融合「臺灣台語」、「臺灣客語」、「日本語」的時代對話 「海矣，你若有聲。」 1943 年，高雄湊町 在戰爭陰影籠罩下，空襲警報劃破夜空 人群潰散、命運分岔 在混亂中 有人失去至親、有人拼命守住記憶、有人被迫沉默 而所有未能說出口的聲音 最終都流向大海 來自澎湖的女子春螺，罹患肺癆，生命所剩無多。她在胞弟海男的堅持下，離開故鄉，前往高雄，也試圖尋找人生最後的可能。在湊町，他們遇見了來自瀰濃的孤女望妹，而望妹的姊姊神秘失蹤，留下的只有一甕甕酸菜與無處安放的思念。三個失根之人，在光彩的湊町角落——「海腳間仔」相依為命，彼此填補生命的…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2080134872605343745"
+    }
+   ],
+   "lat": 22.68992611,
+   "lng": 120.29194599,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -5866,8 +5944,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "財團法人擊樂文教基金會",
+   "organizer_type": "民間",
    "description": "從最純粹的脈動出發 回歸音樂的本質",
    "links": [
     {
@@ -5875,18 +5953,25 @@
      "url": "https://www.npac-weiwuying.org/programs/6a2baddcfb8ae70007666171"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2064989613489934337"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2064989613489934337"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2064989613489934337:20261031",
+    "opentix:2064989613489934337:20261101",
     "iculture:6a396ac926b3243414ccd4c1"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -5999,7 +6084,7 @@
    ]
   },
   {
-   "id": "iculture:6ad8f32926b3245efc7536f8",
+   "id": "opentix:2108145268293541889:20261101",
    "title": "115高熊音樂成果發表會",
    "start": "2026-11-01T09:30:00+08:00",
    "end": "2026-11-01T16:25:00+08:00",
@@ -6008,21 +6093,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "振宇藝術樂團",
+   "organizer_type": "民間",
+   "description": "學習不分性別、不分年齡，愛樂的大家，難得在同一日，相邀聚集在的這個舞台上，展現各自練習的成果!",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2108145268293541889"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2108145268293541889"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6ad8f32926b3245efc7536f8"
+   ],
    "first_seen": "2026-10-26",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -6350,6 +6442,33 @@
    ]
   },
   {
+   "id": "opentix:2080134872605343745:20261101",
+   "title": "所在劇集 2026原創歷史音樂劇《無聲の海腳間仔》",
+   "start": "2026-11-01T14:30:00+08:00",
+   "end": "2026-11-01T16:30:00+08:00",
+   "venue": "高雄中山堂劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "所在劇集",
+   "organizer_type": "不確定",
+   "description": "2026 讀劇發表，好評如潮 三方語言 X 原創音樂 X 在地故事 融合「臺灣台語」、「臺灣客語」、「日本語」的時代對話 「海矣，你若有聲。」 1943 年，高雄湊町 在戰爭陰影籠罩下，空襲警報劃破夜空 人群潰散、命運分岔 在混亂中 有人失去至親、有人拼命守住記憶、有人被迫沉默 而所有未能說出口的聲音 最終都流向大海 來自澎湖的女子春螺，罹患肺癆，生命所剩無多。她在胞弟海男的堅持下，離開故鄉，前往高雄，也試圖尋找人生最後的可能。在湊町，他們遇見了來自瀰濃的孤女望妹，而望妹的姊姊神秘失蹤，留下的只有一甕甕酸菜與無處安放的思念。三個失根之人，在光彩的湊町角落——「海腳間仔」相依為命，彼此填補生命的…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2080134872605343745"
+    }
+   ],
+   "lat": 22.68992611,
+   "lng": 120.29194599,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "weiwuying:6a447a28444f570008f2a4ca",
    "title": "狂美《璀璨經典百老匯II》 交響音樂會",
    "start": "2026-11-01T14:30:00+08:00",
@@ -6368,18 +6487,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a447a28444f570008f2a4ca"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2062049163975860225"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2062049163975860225"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2062049163975860225:20261101",
     "iculture:6a3eb0f726b3247a14361d75"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -6616,27 +6741,33 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "燈角樂團",
+   "organizer_type": "民間",
+   "description": "十四歲隻身負笈英國時，恩師送給鋼琴家唐佳迎一張李帕第（Dinu Lipatti）的錄音；自此，這位未曾謀面的傳奇鋼琴家，成為陪伴她探索的「看不見的老師」——演奏者如何在前人的遺產中學習，同時發展出屬於自己的聲音？本場音樂會以四首跨越世代的作品搭配親切導聆，帶領聽眾走進作品背後的聲音世界。李帕第的琴音以純淨安詳撫慰人心，而這也是唐佳迎的夢想——盼藉著音樂，將神所賜的安慰帶給每一顆心。無論您是否熟悉古典音樂，都能在衛武營表演廳，感受音樂穿越時代、與當下生命相遇。 演出曲目 巴赫：《平均律鍵盤曲集》第二冊，F大調前奏曲與賦格，BWV 880 J. S. Bach: Prelude and Fugue…",
    "links": [
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a6033d53623540007c01f71"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2085249028283408385"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2085249028283408385"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2085249028283408385:20261101",
     "iculture:6a7f4afa26b32427d06043d5"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -7178,6 +7309,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "opentix:2075422956057141248:20261106",
+   "title": "2026正港雄有戲─橄欖葉劇團《四個同床異夢的枕邊人》",
+   "start": "2026-11-06T13:30:00+08:00",
+   "end": "2026-11-06T21:10:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局 橄欖葉劇團",
+   "organizer_type": "政府",
+   "description": "【節目介紹】 橄欖葉劇團《四個》系列全新製作。 一對快要離婚的夫妻，一對即將步入婚姻的戀人， 在一間深夜的寢具店裡，相遇彼此，也撞見了自己。 有人想被愛，有人害怕失去愛，有人明明躺在同一張床上， 卻早已做著不同的夢。 「我的世界，因你的沉睡而開始，也因你的甦醒而結束。」 這張床，究竟是獻給愛情的祝福， 還是讓人不得不清醒的現實？ 有些人睡著了， 有些人，其實從來沒醒過。 【製作團隊】 編劇｜郭耘廷 導演｜張皓瑀 演員｜李夢純、鄭羽辰、鄧棋薰、張至尚、蔣永瀚 肢體指導｜張雅婷 肢體指導助理｜林怡德 主題曲創作暨吉他指導｜李義風 導演助理暨音效執行｜林晏君 製作顧問｜曾秀玲 行政顧問｜吳珮如 執行…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2075422956057141248"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -8369,6 +8527,33 @@
    ]
   },
   {
+   "id": "opentix:2056288538199531521:20261107",
+   "title": "田和越叁周年TEN OR ONE 全新9號作【寒窯之外】",
+   "start": "2026-11-07T13:30:00+08:00",
+   "end": "2026-11-07T18:30:00+08:00",
+   "venue": "田和越．茶劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "尚和歌仔戲劇團",
+   "organizer_type": "民間",
+   "description": "【劇情大綱】 【寒窯之外】小戲倉系列 歌仔戲VS職人劇·傳統與當代跨域風 林安，一個即將被淘汰的建築繪圖員， 在離職前的最後一個晚上，畫了一隻嚮往自由的鴻雁； 沒想到，鴻雁飛出了螢幕… 那夜，鴻雁帶著林安走進寒窯的世界裡， 讓他重新畫出一間屬於自己的房子、屬於自己的人生… 而鴻雁展翅，也終於飛回了平貴與寶釧的寒窯、一個牠最想念的家… 【餐點說明】 1.本演出附贈餐飲，購票入場、將享有一份精緻田和越劇場餐（以即興式餐飲為主）。 2.餐飲需素食的朋友，請於購票後5天內，拍照或截圖票券資訊（註明座位號碼），私訊劇團FB，待收到劇團回覆，將為您的餐點置換素食品項。 【演出及餐飲須知】 1.活動全長約1…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2056288538199531521"
+    }
+   ],
+   "lat": 22.6543837,
+   "lng": 120.2831031,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "twmarket:59858:20261107",
    "title": "星光市集",
    "start": "2026-11-07T13:30:00+08:00",
@@ -8990,6 +9175,33 @@
    ]
   },
   {
+   "id": "opentix:2075422956057141248:20261107",
+   "title": "2026正港雄有戲─橄欖葉劇團《四個同床異夢的枕邊人》",
+   "start": "2026-11-07T14:30:00+08:00",
+   "end": "2026-11-07T21:10:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局 橄欖葉劇團",
+   "organizer_type": "政府",
+   "description": "【節目介紹】 橄欖葉劇團《四個》系列全新製作。 一對快要離婚的夫妻，一對即將步入婚姻的戀人， 在一間深夜的寢具店裡，相遇彼此，也撞見了自己。 有人想被愛，有人害怕失去愛，有人明明躺在同一張床上， 卻早已做著不同的夢。 「我的世界，因你的沉睡而開始，也因你的甦醒而結束。」 這張床，究竟是獻給愛情的祝福， 還是讓人不得不清醒的現實？ 有些人睡著了， 有些人，其實從來沒醒過。 【製作團隊】 編劇｜郭耘廷 導演｜張皓瑀 演員｜李夢純、鄭羽辰、鄧棋薰、張至尚、蔣永瀚 肢體指導｜張雅婷 肢體指導助理｜林怡德 主題曲創作暨吉他指導｜李義風 導演助理暨音效執行｜林晏君 製作顧問｜曾秀玲 行政顧問｜吳珮如 執行…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2075422956057141248"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "khcc:-40201:20261107",
    "title": "FOCASA馬戲團《幾米男孩的100次勇敢》",
    "start": "2026-11-07T14:30:00+08:00",
@@ -9012,6 +9224,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40201&AP=$M102_DATE-115/11/08"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2079092696435740673"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2079092696435740673"
     }
@@ -9020,12 +9236,15 @@
    "lng": 120.3171311,
    "aliases": [
     "khcc:-40201:20261108",
+    "opentix:2079092696435740673:20261107",
+    "opentix:2079092696435740673:20261108",
     "iculture:6a6a32df26b32427d06042f4"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -9245,7 +9464,7 @@
    ]
   },
   {
-   "id": "iculture:6a4fd45e26b32427d060416a",
+   "id": "opentix:2074043552615690241:20261107",
    "title": "我只在乎你 - 鄧麗君名曲交響之夜",
    "start": "2026-11-07T19:30:00+08:00",
    "end": "2026-11-07T21:30:00+08:00",
@@ -9254,21 +9473,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "夢響創藝股份有限公司",
+   "organizer_type": "民間",
+   "description": "聲影流轉，世代溫柔：當鄧麗君的永恆旋律，遇上夢響管弦樂團的磅礡交響 每個人心中，都有一首鄧麗君 有些聲音，能穿越時空的藩籬，成為一個時代的集體心跳。 當微風吹過思念的街角，當月光灑在寧靜的夜空，許多人的腦海中，總會不由自主地浮現那段溫柔、甜美，又帶著一絲絲愁緒的旋律。那是鄧麗君。她的歌聲，是收音機裡最長情的陪伴，是黑膠唱片上緩緩流淌的歲月，更是華語流行音樂史上最耀眼、最不可磨滅的絕代風華。 她的歌曲撫慰了無數孤單與疲憊的靈魂，陪伴我們走過青春、走過戀情，走過那段最動人的黃金年代。不論外面的世界如何喧囂變幻，只要她的歌聲一響起，心靈彷彿就能找到安放的港灣。 然而，這些深刻在我們腦海裡的經典旋律，…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2074043552615690241"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2074043552615690241"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a4fd45e26b32427d060416a"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -9290,6 +9516,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40312&AP=$M102_DATE-115/11/07"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2039594730535641089"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2039594730535641089"
     }
@@ -9297,12 +9527,14 @@
    "lat": 22.6247642,
    "lng": 120.3634355,
    "aliases": [
+    "opentix:2039594730535641089:20261107",
     "iculture:69d68a1726b3242a48a9e17d"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -9328,6 +9560,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39998&AP=$M102_DATE-115/11/08"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2103082618053140481"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2103082618053140481"
     }
@@ -9336,12 +9572,15 @@
    "lng": 120.3171311,
    "aliases": [
     "khcc:-39998:20261108",
+    "opentix:2103082618053140481:20261107",
+    "opentix:2103082618053140481:20261108",
     "iculture:6ac52c8126b324165c32e5ab"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -9696,6 +9935,33 @@
    ]
   },
   {
+   "id": "opentix:2056288538199531521:20261108",
+   "title": "田和越叁周年TEN OR ONE 全新9號作【寒窯之外】",
+   "start": "2026-11-08T13:30:00+08:00",
+   "end": "2026-11-08T18:30:00+08:00",
+   "venue": "田和越．茶劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "尚和歌仔戲劇團",
+   "organizer_type": "民間",
+   "description": "【劇情大綱】 【寒窯之外】小戲倉系列 歌仔戲VS職人劇·傳統與當代跨域風 林安，一個即將被淘汰的建築繪圖員， 在離職前的最後一個晚上，畫了一隻嚮往自由的鴻雁； 沒想到，鴻雁飛出了螢幕… 那夜，鴻雁帶著林安走進寒窯的世界裡， 讓他重新畫出一間屬於自己的房子、屬於自己的人生… 而鴻雁展翅，也終於飛回了平貴與寶釧的寒窯、一個牠最想念的家… 【餐點說明】 1.本演出附贈餐飲，購票入場、將享有一份精緻田和越劇場餐（以即興式餐飲為主）。 2.餐飲需素食的朋友，請於購票後5天內，拍照或截圖票券資訊（註明座位號碼），私訊劇團FB，待收到劇團回覆，將為您的餐點置換素食品項。 【演出及餐飲須知】 1.活動全長約1…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2056288538199531521"
+    }
+   ],
+   "lat": 22.6543837,
+   "lng": 120.2831031,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "twmarket:59858:20261108",
    "title": "星光市集",
    "start": "2026-11-08T13:30:00+08:00",
@@ -9882,6 +10148,33 @@
    "first_seen": "2026-10-20",
    "sources": [
     "twmarket"
+   ]
+  },
+  {
+   "id": "opentix:2075422956057141248:20261108",
+   "title": "2026正港雄有戲─橄欖葉劇團《四個同床異夢的枕邊人》",
+   "start": "2026-11-08T14:30:00+08:00",
+   "end": "2026-11-08T16:10:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局 橄欖葉劇團",
+   "organizer_type": "政府",
+   "description": "【節目介紹】 橄欖葉劇團《四個》系列全新製作。 一對快要離婚的夫妻，一對即將步入婚姻的戀人， 在一間深夜的寢具店裡，相遇彼此，也撞見了自己。 有人想被愛，有人害怕失去愛，有人明明躺在同一張床上， 卻早已做著不同的夢。 「我的世界，因你的沉睡而開始，也因你的甦醒而結束。」 這張床，究竟是獻給愛情的祝福， 還是讓人不得不清醒的現實？ 有些人睡著了， 有些人，其實從來沒醒過。 【製作團隊】 編劇｜郭耘廷 導演｜張皓瑀 演員｜李夢純、鄭羽辰、鄧棋薰、張至尚、蔣永瀚 肢體指導｜張雅婷 肢體指導助理｜林怡德 主題曲創作暨吉他指導｜李義風 導演助理暨音效執行｜林晏君 製作顧問｜曾秀玲 行政顧問｜吳珮如 執行…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2075422956057141248"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -10225,8 +10518,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "新象股份有限公司",
+   "organizer_type": "民間",
    "description": "高雄首場協奏曲之夜，從《藍色狂想曲》到《三重協奏曲》，串聯爵士、法式現代與德奧古典，揭開音樂節精彩序章。",
    "links": [
     {
@@ -10234,18 +10527,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a4cc5091af6f70008cf6893"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2079132570898259969"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2079132570898259969"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2079132570898259969:20261110",
     "iculture:6a639b4726b32427d0604253"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -10349,18 +10648,24 @@
      "url": "https://www.npac-weiwuying.org/programs/69dc88ac0d5d250007a494b8"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2052306394696761345"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2052306394696761345"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2052306394696761345:20261111",
     "iculture:6a07580126b3243414ccc91e"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -10374,7 +10679,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "無與倫比音樂藝術",
    "organizer_type": "不確定",
    "description": "雅韻隨歌聲流轉，共譜臺日交流的美好樂章",
    "links": [
@@ -10383,18 +10688,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a475892287f0800087ff394"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2070066032631992320"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2070066032631992320"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2070066032631992320:20261111",
     "iculture:6a45485726b32427d0604024"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -10615,7 +10926,7 @@
    ]
   },
   {
-   "id": "iculture:6ac3dafe26b324165c32e599",
+   "id": "opentix:2103068204084047873:20261112",
    "title": "樂心共鳴-韓台身心障礙音樂家國際交流音樂會",
    "start": "2026-11-12T19:30:00+08:00",
    "end": "2026-11-12T21:30:00+08:00",
@@ -10624,10 +10935,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "城市擊樂團",
+   "organizer_type": "民間",
+   "description": "本場「韓台身心障礙音樂家國際交流音樂會」以展現身心障礙音樂家之專業演奏能力與長期學習成果為核心，呈現其在音樂訓練與藝術實踐中的卓越表現。 參與演出的音樂家皆經歷系統性的音樂教育與嚴謹訓練，於技巧掌握、音樂詮釋及舞台表現等方面，均展現高度專業水準。透過持續不懈的學習與實踐，他們不僅在音樂的傳達與技術上的表現獨具魅力，更在藝術表現上發展出感人且深具感染力的音樂語言。 本次演出不僅是成果的呈現，更是學習歷程的具體展現。每一首樂曲，皆承載著長時間的練習累積與對音樂的深刻理解；每一次演出，皆體現出音樂家對自我要求與藝術品質的堅持。 透過本音樂會，期望讓觀眾看見身心障礙者在專業藝術領域中的實力與潛能，進一…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2103068204084047873"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2103068204084047873"
@@ -10635,10 +10950,13 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "iculture:6ac3dafe26b324165c32e599"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -10885,6 +11203,33 @@
    ]
   },
   {
+   "id": "opentix:2079024127582380033:20261113",
+   "title": "2026 正港雄有戲《功德嘉年華》",
+   "start": "2026-11-13T13:30:00+08:00",
+   "end": "2026-11-13T15:00:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "明華園星字戲劇團 高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "◤節目介紹◢ 以一場告別式為起點，用亡魂視角看家人、親友與法會儀式中的種種情感與人性百態。在荒謬與溫馨交織的喪禮過程中，帶領觀眾思考死亡、告別與生命的意義。演出結合現代劇、歌仔戲與逐漸式微的「目蓮救母」藝陣文化，以黑色幽默手法呈現臺灣喪葬民俗，讓不同世代觀眾在笑聲與感動中認識本土文化，開啟對生死課題的深刻對話。 ----------------------------------------------------------- 【明華園星字戲劇團 簡介】 明華園星字戲劇團成立於2002年，源自台灣最具代表性的歌仔戲世家——明華園戲劇團，由創辦人陳明吉先生於1929年創立，擁有逾90年歷史。星…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2079024127582380033"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "iculture:6a736fdc26b32427d0604358",
    "title": "2026 正港雄有戲《功德嘉年華》",
    "start": "2026-11-13T13:30:00+08:00",
@@ -11056,8 +11401,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "新竹縣泰雅學堂教育協會",
+   "organizer_type": "民間",
    "description": "《界線qays》－青年團首場衛武營專場",
    "links": [
     {
@@ -11065,18 +11410,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a603b14cdcdfe0008f603f5"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2094726891126235137"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2094726891126235137"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2094726891126235137:20261113",
     "iculture:6a9afcb326b324165c32e363"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -11090,7 +11441,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "台灣愛樂協會 (04)22603977、AMA 亞藝藝術",
    "organizer_type": "不確定",
    "description": "鄧泰山的名字常與蕭邦連在一起，但這位鋼琴家拿手的不只是蕭邦，法式音樂中的曼妙色彩也是他心之所向，此次演出的拉威爾與蒙波就是最佳例證，邀請您親聆感受。",
    "links": [
@@ -11099,18 +11450,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a54a8db8f8c17000769c894"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2086709571007508481"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2086709571007508481"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2086709571007508481:20261113",
     "iculture:6a833f7626b32427d06043e9"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -11151,8 +11508,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "綠光創藝股份有限公司",
+   "organizer_type": "民間",
    "description": "當我把最大部份的愛放在你這裡之後，我能給其他人的，也只是零碎的。",
    "links": [
     {
@@ -11160,18 +11517,26 @@
      "url": "https://www.npac-weiwuying.org/programs/6a3ca6825d4f570008715908"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2070074346117287937"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2070074346117287937"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2070074346117287937:20261113",
+    "opentix:2070074346117287937:20261114",
+    "opentix:2070074346117287937:20261115",
     "iculture:6a435f1826b32427d0603f6f"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -11743,7 +12108,7 @@
    ]
   },
   {
-   "id": "iculture:6a6cd5a926b32427d0604317",
+   "id": "opentix:2079846062269460481:20261114",
    "title": "《小小音樂大師課》孩子們的秋季交響樂・高雄",
    "start": "2026-11-14T11:00:00+08:00",
    "end": "2026-11-21T17:20:00+08:00",
@@ -11752,21 +12117,29 @@
    "district": "鳳山區",
    "category": "親子",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "賦格兒童音樂文化事業股份有限公司",
+   "organizer_type": "民間",
+   "description": "小號明快嘹亮，和小紅帽勇敢走進森林；萬聖節，木琴叮咚敲開糖果屋詭譎綺麗的大門；低音提琴踏出巨人的沉重腳步，跟著傑克一路攀上雲端；高音薩克斯風則乘著魔毯，闖入《天方夜譚》的奇幻世界。從海底、森林到雲端與沙漠，童話奇遇，在秋日的音色裡展開！ 管弦樂手及鋼琴家現場演奏╳童話說書╳感覺統合律動╳金鼎金曲製作團隊編創 ＝為 1-6 歲孩子精心打造的音樂啟蒙工作坊 ✅視覺、聽覺、觸覺全開體驗，從小培育聽覺美感 ✅交響樂團演奏家近距離教學，開啟孩子的視野 ✅學會坐好之前，先學打開耳朵 🎵小小音樂大師課 🎵 系列工作坊 🌟 師資專業透明 🌟 在孩子模仿欲望最旺盛的學齡前時期，賦格嚴選國內傑出的青年表演藝術家，…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2079846062269460481"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2079846062269460481"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2079846062269460481:20261121",
+    "iculture:6a6cd5a926b32427d0604317"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -12398,6 +12771,33 @@
    ]
   },
   {
+   "id": "opentix:2079024127582380033:20261114",
+   "title": "2026 正港雄有戲《功德嘉年華》",
+   "start": "2026-11-14T14:30:00+08:00",
+   "end": "2026-11-14T16:00:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "明華園星字戲劇團 高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "◤節目介紹◢ 以一場告別式為起點，用亡魂視角看家人、親友與法會儀式中的種種情感與人性百態。在荒謬與溫馨交織的喪禮過程中，帶領觀眾思考死亡、告別與生命的意義。演出結合現代劇、歌仔戲與逐漸式微的「目蓮救母」藝陣文化，以黑色幽默手法呈現臺灣喪葬民俗，讓不同世代觀眾在笑聲與感動中認識本土文化，開啟對生死課題的深刻對話。 ----------------------------------------------------------- 【明華園星字戲劇團 簡介】 明華園星字戲劇團成立於2002年，源自台灣最具代表性的歌仔戲世家——明華園戲劇團，由創辦人陳明吉先生於1929年創立，擁有逾90年歷史。星…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2079024127582380033"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "weiwuying:6a4480497040b10008792144",
    "title": "奇美音樂節【燦爛的深邃：布拉姆斯與他的時代】山光水色，雨暴風狂：布拉姆斯與德弗札克的名曲盛宴",
    "start": "2026-11-14T14:30:00+08:00",
@@ -12407,8 +12807,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "財團法人奇美博物館基金會",
+   "organizer_type": "民間",
    "description": "布拉姆斯與德弗札克的名曲盛宴",
    "links": [
     {
@@ -12416,18 +12816,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a4480497040b10008792144"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2061379215727935489"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2061379215727935489"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2061379215727935489:20261114",
     "iculture:6a435f1026b32427d0603f56"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -12738,8 +13144,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "天狼星口琴樂團",
+   "organizer_type": "民間",
    "description": "口琴小巧，卻蘊藏無限可能。《拾光》邀您在歲末相聚，聽見天狼星一路累積的光影，也迎向即將展開的音樂旅程。",
    "links": [
     {
@@ -12747,18 +13153,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a6af906ef008b00072bcdda"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2084197567053049856"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2084197567053049856"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2084197567053049856:20261114",
     "iculture:6a7761ee26b32427d060438e"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -12808,6 +13220,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40363&AP=$M102_DATE-115/11/14"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2107302653674582017"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2107302653674582017"
     }
@@ -12815,12 +13231,14 @@
    "lat": 22.6276246,
    "lng": 120.2868631,
    "aliases": [
+    "opentix:2107302653674582017:20261114",
     "iculture:6acd158126b324165c32e5df"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -13145,6 +13563,51 @@
    "first_seen": "2026-10-24",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "weiwuying:69c3902a7d6fea00076ee43b",
+   "title": "賽門．拉圖爵士與巴伐利亞廣播交響樂團",
+   "start": "2026-11-15T11:30:00+08:00",
+   "end": "2026-11-15T20:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "拉圖爵士率領巴伐利亞廣播交響樂團及台北愛樂合唱團，全臺獨家演繹馬勒交響鉅作《復活》，以音樂叩問生命，見證大師半世紀淬鍊之聲。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/69c3902a7d6fea00076ee43b"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2047561986406621185"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2108147849766019073"
+    },
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2047561986406621185"
+    }
+   ],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2047561986406621185:20261115",
+    "opentix:2108147849766019073:20261115",
+    "iculture:6a04aef826b3243414ccc7fe"
+   ],
+   "first_seen": "2026-10-19",
+   "sources": [
+    "iculture",
+    "opentix",
+    "weiwuying"
    ]
   },
   {
@@ -13526,6 +13989,33 @@
    ]
   },
   {
+   "id": "opentix:2079024127582380033:20261115",
+   "title": "2026 正港雄有戲《功德嘉年華》",
+   "start": "2026-11-15T14:30:00+08:00",
+   "end": "2026-11-15T16:00:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "明華園星字戲劇團 高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "◤節目介紹◢ 以一場告別式為起點，用亡魂視角看家人、親友與法會儀式中的種種情感與人性百態。在荒謬與溫馨交織的喪禮過程中，帶領觀眾思考死亡、告別與生命的意義。演出結合現代劇、歌仔戲與逐漸式微的「目蓮救母」藝陣文化，以黑色幽默手法呈現臺灣喪葬民俗，讓不同世代觀眾在笑聲與感動中認識本土文化，開啟對生死課題的深刻對話。 ----------------------------------------------------------- 【明華園星字戲劇團 簡介】 明華園星字戲劇團成立於2002年，源自台灣最具代表性的歌仔戲世家——明華園戲劇團，由創辦人陳明吉先生於1929年創立，擁有逾90年歷史。星…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2079024127582380033"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "weiwuying:6a603d6acdcdfe0008f6045c",
    "title": "《時光之旅(四)~迎光－黃瓊儀鋼琴獨奏會》",
    "start": "2026-11-15T14:30:00+08:00",
@@ -13535,8 +14025,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "西灣室內樂團",
+   "organizer_type": "民間",
    "description": "小調的幽暗走向大調的光明 如幽谷迎向希望",
    "links": [
     {
@@ -13544,18 +14034,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a603d6acdcdfe0008f6045c"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2085244131569651713"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2085244131569651713"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2085244131569651713:20261115",
     "iculture:6a7a04f226b32427d060439e"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -13578,6 +14074,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40316&AP=$M102_DATE-115/11/15"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2085659801316474881"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2085659801316474881"
     }
@@ -13585,16 +14085,18 @@
    "lat": 22.6247642,
    "lng": 120.3634355,
    "aliases": [
+    "opentix:2085659801316474881:20261115",
     "iculture:6a8490f526b32427d0604415"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
-   "id": "iculture:6a3eb10226b3247a14361d79",
+   "id": "opentix:2062388054961393665:20261115",
    "title": "【表演工作坊】《彈琴說愛》",
    "start": "2026-11-15T14:30:00+08:00",
    "end": "2026-11-15T17:00:00+08:00",
@@ -13603,21 +14105,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "表演工作坊文化創意股份有限公司",
+   "organizer_type": "民間",
+   "description": "《彈琴說愛》 Just Play It 天才視障鋼琴手與瘋狂美籍音樂教授 兩臺鋼琴以及五位合音天使， 你絕對沒聽過「用鋼琴說相聲」 「最想像不到的組合，串出最深動的生命故事，看此戲是一種最簡單的快樂。」 ——【表演工作坊】藝術總監 賴聲川 「最溫暖的舞台劇，表演工作坊《彈琴說愛》，邀請你聽見，用最簡單的音符，傳達最簡單的快樂。」 ——陳文茜 「很多喜劇，看完會一笑而過，然後會模糊這段記憶，但《彈琴說愛》不會，它在幽默之餘，還用音樂講述了生命的偉大之處，這是這部戲最感動的地方。」 ——雲南日報 「《彈琴說愛》是一場無法複製的相聲文本，⋯⋯，是一場以生命歷史作為即興創作底本的表演。」 ——表演藝術…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2062388054961393665"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2062388054961393665"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a3eb10226b3247a14361d79"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -13756,40 +14265,6 @@
    ]
   },
   {
-   "id": "weiwuying:69c3902a7d6fea00076ee43b",
-   "title": "賽門．拉圖爵士與巴伐利亞廣播交響樂團",
-   "start": "2026-11-15T19:00:00+08:00",
-   "end": "2026-11-15T20:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "拉圖爵士率領巴伐利亞廣播交響樂團及台北愛樂合唱團，全臺獨家演繹馬勒交響鉅作《復活》，以音樂叩問生命，見證大師半世紀淬鍊之聲。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69c3902a7d6fea00076ee43b"
-    },
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2047561986406621185"
-    }
-   ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [
-    "iculture:6a04aef826b3243414ccc7fe"
-   ],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "iculture",
-    "weiwuying"
-   ]
-  },
-  {
    "id": "accupass:2610160709551867385658",
    "title": "2026海洋保育面面觀暨第四屆海貢獎頒獎典禮",
    "start": "2026-11-16T09:30:00+08:00",
@@ -13880,8 +14355,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "木樓合唱團",
+   "organizer_type": "民間",
    "description": "史詩與火焰，唱出跨越世紀的人聲歸宿。",
    "links": [
     {
@@ -13889,18 +14364,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a59cc1e89f59900078c5613"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100491251944562689"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100491251944562689"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2100491251944562689:20261116",
     "iculture:6ab55ab226b324165c32e534"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -14049,7 +14530,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "海軍勤務大隊軍樂隊",
    "organizer_type": "不確定",
    "description": "以音樂串起海軍的歷史、使命與榮耀，循著航跡回望守護海疆的歲月，在旋律中聆聽信念的傳承與時代的回響。",
    "links": [
@@ -14058,18 +14539,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a54b01c8e6aa800086b9240"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100127478886973440"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100127478886973440"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2100127478886973440:20261117",
     "iculture:6abe953a26b324165c32e560"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -14173,18 +14660,24 @@
      "url": "https://www.npac-weiwuying.org/programs/69af96e2738aff000732176e"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2043952009527836673"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2043952009527836673"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2043952009527836673:20261118",
     "iculture:6a04af0326b3243414ccc80b"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -14691,8 +15184,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
    "description": "高市交再度邀請國際鋼琴名家馬丁．賈西亞．賈西亞，攜手演繹舒伯特與舒曼經典五重奏，細說室內樂最真誠動人的音樂低語。",
    "links": [
     {
@@ -14700,18 +15193,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a869d5036422a000830025b"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2086770908630368257"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2086770908630368257"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2086770908630368257:20261120",
     "iculture:6a8490f526b32427d0604416"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -14725,8 +15224,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "長榮交響樂團",
+   "organizer_type": "民間",
    "description": "本場精選德布西《伊貝利亞》、李伯森《聶魯達詩歌選》及尼爾森《第四號交響曲「不朽」》，展現印象色彩、深刻詩意與磅礡生命力。",
    "links": [
     {
@@ -14734,18 +15233,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a448f867040b10008792454"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2099696972758896641"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2099696972758896641"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2099696972758896641:20261120",
     "iculture:6ab1662e26b324165c32e4fb"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -14772,19 +15277,27 @@
      "url": "https://www.npac-weiwuying.org/programs/6a9918c9d79537000796bc0b"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051266879060606977"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051266879060606977"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
     "weiwuying:6a9918c9d79537000796bc0b",
+    "opentix:2051266879060606977:20261120",
+    "opentix:2051266879060606977:20261121",
+    "opentix:2051266879060606977:20261122",
     "iculture:6a04af0326b3243414ccc80e"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -14798,8 +15311,8 @@
    "district": "鳳山區",
    "category": "講座／課程",
    "fee": "付費",
-   "organizer": "面白大丈夫",
-   "organizer_type": "不確定",
+   "organizer": "臭直男有限公司",
+   "organizer_type": "民間",
    "description": "演出單位：面白大丈夫",
    "links": [
     {
@@ -14815,6 +15328,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40318&AP=$M102_DATE-115/11/22"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2093301714069286912"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2093301714069286912"
     }
@@ -14824,12 +15341,16 @@
    "aliases": [
     "khcc:-40318:20261121",
     "khcc:-40318:20261122",
+    "opentix:2093301714069286912:20261120",
+    "opentix:2093301714069286912:20261121",
+    "opentix:2093301714069286912:20261122",
     "iculture:6aa82bbb26b324165c32e3d6"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -15920,7 +16441,7 @@
    ]
   },
   {
-   "id": "iculture:6a9ef12d26b324165c32e37b",
+   "id": "opentix:2093894064069353473:20261121",
    "title": "絕美蕭邦 ～ 林瑋祺2026鋼琴獨奏會",
    "start": "2026-11-21T19:30:00+08:00",
    "end": "2026-11-21T21:30:00+08:00",
@@ -15929,21 +16450,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "斐亞文化藝術股份有限公司",
+   "organizer_type": "民間",
+   "description": "鋼琴家林瑋祺在2026年以『絕美蕭邦Exquisite Chopin』為主題，規劃了這一場完全蕭邦的音樂會，分享蕭邦留給後世的絕美珍寶，是讓我們望向悠遠詩意、如歌的船歌、是我們在靜夜裡沉澱反思的夜曲、是明快充滿生命力的馬厝卡舞曲、結合幻想曲風令人眩目懾服的幻想波蘭舞曲、以及他最後一首鋼琴奏鳴曲。 陪伴著我們的蕭邦作品永遠都在，十九世紀燦爛的藝術，在二十一世紀依然鮮明動人，鋼琴家以自己的生命經驗詮釋在紙上的音符，從少年時期的驚喜迸發、陪伴我們經歷生命的軌跡，每一段都是絕美風景。鋼琴家林瑋祺曾榮獲第四屆中華蕭邦鋼琴大賽第一名，1997中華民國首屆協奏曲大賽第一名，1999第八屆臺北國際蕭邦鋼琴大賽…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2093894064069353473"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2093894064069353473"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a9ef12d26b324165c32e37b"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -16442,8 +16970,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
    "description": "極限炫技．磅礴交響．熱血音樂之夜",
    "links": [
     {
@@ -16451,18 +16979,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a22655a3660ba0008bf76fe"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2086778741904691201"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2086778741904691201"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2086778741904691201:20261122",
     "iculture:6a8490f526b32427d0604417"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -16663,7 +17197,7 @@
    ]
   },
   {
-   "id": "iculture:6a95b4e326b32434f4358093",
+   "id": "opentix:2090333861981999105:20261123",
    "title": "音樂劇《天堂邊緣》中山大學劇場藝術系年度製作",
    "start": "2026-11-23T19:00:00+08:00",
    "end": "2026-11-24T21:15:00+08:00",
@@ -16672,10 +17206,14 @@
    "district": "鼓山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "國立中山大學",
+   "organizer_type": "政府",
+   "description": "三個徘徊於人間的靈魂——秀燕、何智與菲菲，28年來從震宇出生便守護在他的身邊，無法離開。直到天使突如其來的現身，提出他們必須在24小時內，完成各自最後的遺憾，才能真正踏上前往天堂的旅程。於是，一場橫跨親情、友情與愛情的追尋便悄然展開。 音樂劇《天堂邊緣》以幽默與感動交錯的敘事，道出人生真正的圓滿，不在於沒有遺憾，而是學會該如何放下，並懂得珍惜自己身邊所有。 人生之所以留下遺憾，往往不是因為沒有愛，而是來不及表達；不是沒有選擇，而是在錯過之後才明白珍惜。 如果生命能夠多一次機會， 我們是否會做出不同的決定？又是否真的能讓曾經的缺憾走向圓滿？ 音樂劇《天堂邊緣》於2004年首演，是兩廳院「中文音樂…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2090333861981999105"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2090333861981999105"
@@ -16683,10 +17221,14 @@
    ],
    "lat": 22.628388,
    "lng": 120.264737,
-   "aliases": [],
+   "aliases": [
+    "opentix:2090333861981999105:20261124",
+    "iculture:6a95b4e326b32434f4358093"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -16906,7 +17448,7 @@
    ]
   },
   {
-   "id": "iculture:6a2c3bea26b3243414ccd21b",
+   "id": "opentix:2063941379521384448:20261125",
    "title": "2026探索管風琴音樂《管風琴與天籟》",
    "start": "2026-11-25T14:30:00+08:00",
    "end": "2026-11-25T15:30:00+08:00",
@@ -16915,21 +17457,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "國家表演藝術中心衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "只有在衛武營！全亞洲最大的音樂廳管風琴，究竟能展現什麼樣的百變樣貌？「探索管風琴音樂」系列活動，將是您得到解答的大好機會——透過管風琴家的演奏、平易近人的專業解說，展現管風琴細膩與震撼。不論是音樂愛好者，還是初次探索的你，都能找到共鳴。 ▲ 活動示意圖 探索管風琴音樂《管風琴與天籟》 管風琴的悠揚共鳴、大提琴的深沈低訴，加上女高音的純淨美聲，三重天籟組合，只在本月的「探索管風琴音樂」！本場精選多首經典歌曲，從巴洛克時期的代表詠嘆調：韓德爾最著名〈讓我哭泣吧〉的痛徹心扉、韋瓦第〈時而陽光燦爛〉的人生滋味，再到法國藝術歌曲佛瑞《夢後》的浪漫纏綿，對比聖樂經典《慈悲耶穌》與《聖母萬福》的天籟歌聲，加…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2063941379521384448"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2063941379521384448"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a2c3bea26b3243414ccd21b"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -17199,8 +17748,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國立臺南藝術大學",
+   "organizer_type": "政府",
    "description": "弦上的故鄉",
    "links": [
     {
@@ -17208,18 +17757,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a86a23b36422a0008300369"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089910450669920257"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2089910450669920257"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2089910450669920257:20261126",
     "iculture:6aa2e5ae26b324165c32e3b2"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -17233,8 +17788,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "大地音樂精靈樂團",
+   "organizer_type": "民間",
    "description": "從聖詠到當代音樂跨越時空的聲音旅程",
    "links": [
     {
@@ -17242,18 +17797,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a6b07214f46b60008a15eab"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2082728853642915841"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2082728853642915841"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2082728853642915841:20261126",
     "iculture:6a736fd626b32427d0604350"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -17420,6 +17981,33 @@
    ]
   },
   {
+   "id": "opentix:2058773455445823489:20261127",
+   "title": "唱歌集《以為是BL結果是BFF》青春校園音樂劇",
+   "start": "2026-11-27T13:30:00+08:00",
+   "end": "2026-11-27T21:25:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "唱歌集音樂劇場",
+   "organizer_type": "不確定",
+   "description": "2024首演口碑爆棚、 2025全台五地巡演 2026重返高雄 熱血回歸！ 社交焦慮X自我認同X升學迷惘X性向探索X信任危機 少年燒餅的煩惱：龍套好友+廢柴藍圖 = 一起闖關的小隊！ 急著脫單又焦慮升學申請的高二生燒餅、神秘的出櫃男同學長安德、還有高三的美術班神童戴戴，三個各懷鬼胎的高中生陰錯陽差下，達成協議：燒餅付錢請安德教他整理申請大學的書審、戴戴則幫燒餅物色追女友，原本陌生的三人誤打誤撞，就這樣組成了「脫魯上大學美好人生小隊」。 曾被傷害過、不太懂怎麼跟人親近的安德、成績優異但實際上卻對純美術無愛的戴戴，和貌似又屁又ㄎㄧㄤ、但一直carry著說不出口的秘密的燒餅，這三個各自有著青少年專屬…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2058773455445823489"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "iculture:6a15d2cd26b3243414cccb76",
    "title": "唱歌集《以為是BL結果是BFF》青春校園音樂劇",
    "start": "2026-11-27T13:30:00+08:00",
@@ -17537,8 +18125,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "雲彩室內樂團",
+   "organizer_type": "民間",
    "description": "聲琴樂語 VII 是由女高音演唱家戴旖旎、小提琴家陳沁紅、單簧管家楊蕙祺、大提琴家曾史妃與鋼琴家林欣潔自2019年首次合作演出大受好評後，今年第七度帶來多首不同室內樂形式演出，豐富而精采的樂曲將帶給聽眾一個歡愉的夜晚。",
    "links": [
     {
@@ -17546,18 +18134,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a94f46b09ea090008f26770"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2098255075466424321"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2098255075466424321"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2098255075466424321:20261127",
     "iculture:6aa4373926b324165c32e3c6"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -17571,8 +18165,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "極地之光管弦樂團",
+   "organizer_type": "民間",
    "description": "從韋伯《魔彈射手》的幽深森林出發，經布魯赫深情琴歌，抵達舒伯特《偉大》交響的壯闊迴響，展現德意志浪漫的詩意與力量。",
    "links": [
     {
@@ -17580,18 +18174,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a4cb505fc09f2000842d801"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2064988549014851585"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2064988549014851585"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2064988549014851585:20261127",
     "iculture:6a45485726b32427d0604019"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -17614,18 +18214,25 @@
      "url": "https://www.npac-weiwuying.org/programs/69c39d2f1e6a9400071a8042"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051630316556447745"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051630316556447745"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2051630316556447745:20261127",
+    "opentix:2051630316556447745:20261128",
     "iculture:6a04af0426b3243414ccc812"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -17648,18 +18255,25 @@
      "url": "https://www.npac-weiwuying.org/programs/69c3a13b125d0700076052a3"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051882888425672705"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051882888425672705"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2051882888425672705:20261127",
+    "opentix:2051882888425672705:20261128",
     "iculture:6a04af0426b3243414ccc815"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -17686,6 +18300,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40000&AP=$M102_DATE-115/11/28"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2077294943314518017"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2077294943314518017"
     }
@@ -17694,12 +18312,15 @@
    "lng": 120.3171311,
    "aliases": [
     "khcc:-40000:20261128",
+    "opentix:2077294943314518017:20261127",
+    "opentix:2077294943314518017:20261128",
     "iculture:6a678fdc26b32427d06042be"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -17748,18 +18369,25 @@
      "url": "https://www.npac-weiwuying.org/programs/69c3a71e125d0700076053b0"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051618495298912257"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051618495298912257"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2051618495298912257:20261127",
+    "opentix:2051618495298912257:20261128",
     "iculture:6a04af0426b3243414ccc811"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -17863,18 +18491,25 @@
      "url": "https://www.npac-weiwuying.org/programs/69c3ac8ee131c800074ab57e"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051640974933028865"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051640974933028865"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2051640974933028865:20261128",
+    "opentix:2051640974933028865:20261129",
     "iculture:6a04af0426b3243414ccc814"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -18104,8 +18739,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "曉韵古樂團",
+   "organizer_type": "民間",
    "description": "以古為舟，以創為帆；四方遊藝，創響未來。",
    "links": [
     {
@@ -18113,18 +18748,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a9690601968db0007758152"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089646348479619073"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2089646348479619073"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2089646348479619073:20261128",
     "iculture:6a95b4dc26b32434f435808b"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -18151,6 +18792,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40319&AP=$M102_DATE-115/11/29"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2059552805450129408"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2059552805450129408"
     }
@@ -18159,12 +18804,15 @@
    "lng": 120.3634355,
    "aliases": [
     "khcc:-40319:20261129",
+    "opentix:2059552805450129408:20261128",
+    "opentix:2059552805450129408:20261129",
     "iculture:6a2c3c0b26b3243414ccd226"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -18240,18 +18888,25 @@
      "url": "https://www.npac-weiwuying.org/programs/69c4917b55ff8a0007dc80b4"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051636607388942337"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051636607388942337"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2051636607388942337:20261128",
+    "opentix:2051636607388942337:20261129",
     "iculture:6a04af0426b3243414ccc813"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -18373,8 +19028,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國家表演藝術中心衛武營國家藝術文化中心",
+   "organizer_type": "政府",
    "description": "亞洲新銳與潛在新星的能量，匯聚臺灣舞蹈平台，突破想像邊界的創作光芒，耀眼更帶著無限韻味。",
    "links": [
     {
@@ -18382,18 +19037,25 @@
      "url": "https://www.npac-weiwuying.org/programs/69c49d5d55ff8a0007dc8238"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051590668209029121"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051590668209029121"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2051590668209029121:20261128",
+    "opentix:2051590668209029121:20261129",
     "iculture:6a04af0326b3243414ccc810"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -18461,7 +19123,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "台灣愛樂協會 (04)22603977、AMA 亞藝藝術",
    "organizer_type": "不確定",
    "description": "荷蘭大提琴聖手，全本巴赫無伴奏",
    "links": [
@@ -18470,18 +19132,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a6b002def008b00072bcf5c"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089194355117297665"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2089194355117297665"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2089194355117297665:20261128",
     "iculture:6a8c790426b32434f4358039"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -18510,6 +19178,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "kpmc"
+   ]
+  },
+  {
+   "id": "opentix:2058773455445823489:20261128",
+   "title": "唱歌集《以為是BL結果是BFF》青春校園音樂劇",
+   "start": "2026-11-28T19:30:00+08:00",
+   "end": "2026-11-28T21:25:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "唱歌集音樂劇場",
+   "organizer_type": "不確定",
+   "description": "2024首演口碑爆棚、 2025全台五地巡演 2026重返高雄 熱血回歸！ 社交焦慮X自我認同X升學迷惘X性向探索X信任危機 少年燒餅的煩惱：龍套好友+廢柴藍圖 = 一起闖關的小隊！ 急著脫單又焦慮升學申請的高二生燒餅、神秘的出櫃男同學長安德、還有高三的美術班神童戴戴，三個各懷鬼胎的高中生陰錯陽差下，達成協議：燒餅付錢請安德教他整理申請大學的書審、戴戴則幫燒餅物色追女友，原本陌生的三人誤打誤撞，就這樣組成了「脫魯上大學美好人生小隊」。 曾被傷害過、不太懂怎麼跟人親近的安德、成績優異但實際上卻對純美術無愛的戴戴，和貌似又屁又ㄎㄧㄤ、但一直carry著說不出口的秘密的燒餅，這三個各自有著青少年專屬…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2058773455445823489"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -18765,8 +19460,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
    "description": "《絲語．一瞬》精選八首當代絲竹作品，以城市、山海與人文為題，透過細膩而豐富的樂音語彙，展開一場流轉於風景與心靈之間的絲竹敘事。",
    "links": [
     {
@@ -18774,19 +19469,52 @@
      "url": "https://www.npac-weiwuying.org/programs/6a86a54c9199ab00089d9934"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2085302668497403905"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2085302668497403905"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2085302668497403905:20261129",
     "iculture:6a8490f526b32427d0604413"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
+   ]
+  },
+  {
+   "id": "opentix:2058773455445823489:20261129",
+   "title": "唱歌集《以為是BL結果是BFF》青春校園音樂劇",
+   "start": "2026-11-29T14:30:00+08:00",
+   "end": "2026-11-29T16:25:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "唱歌集音樂劇場",
+   "organizer_type": "不確定",
+   "description": "2024首演口碑爆棚、 2025全台五地巡演 2026重返高雄 熱血回歸！ 社交焦慮X自我認同X升學迷惘X性向探索X信任危機 少年燒餅的煩惱：龍套好友+廢柴藍圖 = 一起闖關的小隊！ 急著脫單又焦慮升學申請的高二生燒餅、神秘的出櫃男同學長安德、還有高三的美術班神童戴戴，三個各懷鬼胎的高中生陰錯陽差下，達成協議：燒餅付錢請安德教他整理申請大學的書審、戴戴則幫燒餅物色追女友，原本陌生的三人誤打誤撞，就這樣組成了「脫魯上大學美好人生小隊」。 曾被傷害過、不太懂怎麼跟人親近的安德、成績優異但實際上卻對純美術無愛的戴戴，和貌似又屁又ㄎㄧㄤ、但一直carry著說不出口的秘密的燒餅，這三個各自有著青少年專屬…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2058773455445823489"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -18880,8 +19608,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "對位室內樂團",
+   "organizer_type": "民間",
    "description": "一場受「航海家Ｘ金唱片」啟發的音樂之旅",
    "links": [
     {
@@ -18889,18 +19617,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a9938dcd79537000796c3a7"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2090423047773200384"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2090423047773200384"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2090423047773200384:20261129",
     "iculture:6a91c05c26b32434f435807a"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -19155,7 +19889,7 @@
    ]
   },
   {
-   "id": "iculture:6a95b4dc26b32434f435808c",
+   "id": "opentix:2067130607362113536:20261130",
    "title": "《和鳴》2026屏東大學音樂學系教授聯合音樂會",
    "start": "2026-11-30T19:30:00+08:00",
    "end": "2026-11-30T21:30:00+08:00",
@@ -19164,21 +19898,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "國立屏東大學",
+   "organizer_type": "政府",
+   "description": "音樂，源於個體的聲音，卻在共鳴中展現最深刻的美感。 《和鳴 In Harmony》匯聚多位音樂家，以多樣的樂器編制與風格，展現音樂的無限面貌。從弦樂到管樂、從獨奏到合奏，每一段演出都是一次聲音的對話——在不同的音色、節奏與情感之間，尋找彼此的呼應與融合。 這場音樂會沒有固定的主題曲目，卻以「和鳴」為核心精神。它象徵的不僅是聲音的共振，更是人與人之間的理解、合作與尊重。當不同樂器在同一個空間中交織出層層音波，觀眾將感受到多元之中孕育出的和諧之美。 讓我們在這個夜晚，一同傾聽—— 讓音符相遇、心靈共鳴，在「和鳴」中找到最純粹的音樂本質。 【聲樂獨唱】女高音／倪孟君 鋼琴／葉乃菁 巴赫：教堂清唱劇《…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2067130607362113536"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2067130607362113536"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a95b4dc26b32434f435808c"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -19272,7 +20013,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "台南家專學校財團法人台南應用科技大學",
    "organizer_type": "不確定",
    "description": "為慶祝台南應用科技大學62週年校慶，音樂系教授們以《璀璨62》音樂會獻上祝福，將演出蕭邦、貝多芬、孟德爾頌、希納斯特拉與史特拉汶斯基等大師作品。樂音飛揚，邀您共賞！",
    "links": [
@@ -19281,18 +20022,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6abc62b58979e70007fafa39"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105226901385277441"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105226901385277441"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2105226901385277441:20261201",
     "iculture:6abfe67d26b324165c32e586"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -19556,8 +20303,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國立臺灣師範大學",
+   "organizer_type": "政府",
    "description": "韶光八秩─臺師大音樂系創系80週年音樂會",
    "links": [
     {
@@ -19565,18 +20312,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a793309b1b5840007664c94"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2087079903211335680"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2087079903211335680"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2087079903211335680:20261204",
     "iculture:6aaacec026b324165c32e416"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -19617,8 +20370,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "含光藝術工作室",
+   "organizer_type": "民間",
    "description": "廖皎含鋼琴講座獨奏會",
    "links": [
     {
@@ -19626,18 +20379,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a6aea30ef008b00072bcace"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2043639453032493057"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2043639453032493057"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2043639453032493057:20261204",
     "iculture:69eba22526b3242a48a9e63c"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -19840,7 +20599,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "MIT米特薩克斯風重奏團",
    "organizer_type": "不確定",
    "description": "給孩子們的第一場音樂會",
    "links": [
@@ -19849,18 +20608,25 @@
      "url": "https://www.npac-weiwuying.org/programs/6a8cee609199ab0008a1c84e"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2083124898860347393"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2083124898860347393"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2083124898860347393:20261205",
+    "opentix:2083124898860347393:20261206",
     "iculture:6a76106e26b32427d0604384"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -20081,6 +20847,33 @@
    ]
   },
   {
+   "id": "opentix:2097251126499532800:20261205",
+   "title": "《地球人遇見小王子》",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-05T20:40:00+08:00",
+   "venue": "大事件劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "躍演",
+   "organizer_type": "不確定",
+   "description": "暢銷書《致無法拒絕長大的我們》原劇 勸世三姊妹主演 #宮能安 生涯紀錄！ 全台巡演破千場 超過萬人同聲讚嘆，感動回饋從不間斷 關於友情、親情、愛情、孤獨、成功、人性和自我 「原來劇場與生活如此靠近！」 這是一趟尋找純真自我的旅程 擁抱哲學與生活碰撞出的種種火花 這個故事 不僅獻給孩子，也獻給大人 一位說書人，帶了一把吉他 運用光影、聲音、歌曲、物件及戲劇扮演 透過半演半說半唱的表演形式 打開《小王子》與現實生活中最直接的對話 以深入淺出的方式 用當代臺灣社會種種光景探索《小王子》中的哲學 人人心中都有一位小王子。 作者 安托萬・德・聖-修伯里 法國作家、飛行員，1900年6月29日生於法國里昂…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2097251126499532800"
+    }
+   ],
+   "lat": 22.6883515,
+   "lng": 120.2969566,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "twmarket:60642:20261205",
    "title": "三多聖誕生活節",
    "start": "2026-12-05T14:00:00+08:00",
@@ -20180,18 +20973,24 @@
      "url": "https://www.npac-weiwuying.org/programs/69dd9d86c3aa6c0007ef8992"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2084948759163445249"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2084948759163445249"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2084948759163445249:20261205",
     "iculture:6a99ab5326b32434f43580c7"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -20367,8 +21166,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "微行星男聲合唱團",
+   "organizer_type": "民間",
    "description": "從歌聲中聽見世界",
    "links": [
     {
@@ -20376,18 +21175,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6ab0f1348979e70007f53bab"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2098234560547303425"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2098234560547303425"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2098234560547303425:20261205",
     "iculture:6ab6ac3426b324165c32e53a"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -20410,6 +21215,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40298&AP=$M102_DATE-115/12/05"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2099693491957506049"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2099693491957506049"
     }
@@ -20417,12 +21226,14 @@
    "lat": 22.6276246,
    "lng": 120.2868631,
    "aliases": [
+    "opentix:2099693491957506049:20261205",
     "iculture:6ab1662e26b324165c32e4fe"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -20444,6 +21255,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40218&AP=$M102_DATE-115/12/05"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2087101890235482113"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2087101890235482113"
     }
@@ -20451,17 +21266,19 @@
    "lat": 22.6259044,
    "lng": 120.3171311,
    "aliases": [
+    "opentix:2087101890235482113:20261205",
     "iculture:6a9c4e3126b324165c32e36b"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
-   "id": "iculture:6abd43b626b324165c32e557",
-   "title": "魔笛家族2026音樂會  聽見我們在幸福唱歌",
+   "id": "opentix:2100529002246807553:20261205",
+   "title": "魔笛家族2026音樂會 聽見我們在幸福唱歌",
    "start": "2026-12-05T19:30:00+08:00",
    "end": "2026-12-05T21:30:00+08:00",
    "venue": "大東文化藝術中心",
@@ -20469,10 +21286,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "高雄市魔笛合奏樂團",
+   "organizer_type": "民間",
+   "description": "一場分享幸福的音樂會 魔笛家族的音樂會，從來不只是一次演出。 我們相信，音樂的價值不只在於技巧的展現，更在於它能夠帶給人什麼。 一首好聽的歌曲，可以讓忙碌的心慢慢安靜；一段熟悉的旋律，可以讓人想起生命中珍貴的人事物；一場充滿情感的演出，更能讓陌生的彼此，因為共同的感動而產生連結。 因此，我們希望每一次音樂會，都能成為團員與觀眾之間的一次美好相遇。 我們不是名師名人，也不是為了追求華麗的舞台而演出。我們只是單純喜愛音樂，願意花時間練習，願意與夥伴一起成長，也願意把自己所珍惜的音樂，分享給更多人。 這份心意，就是魔笛家族一直珍惜的精神。 因音樂相聚，因快樂同行。 在這個充滿忙碌與變化的時代，能夠擁…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100529002246807553"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100529002246807553"
@@ -20480,10 +21301,13 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "iculture:6abd43b626b324165c32e557"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -20730,6 +21554,33 @@
    ]
   },
   {
+   "id": "opentix:2097251126499532800:20261206",
+   "title": "《地球人遇見小王子》",
+   "start": "2026-12-06T14:00:00+08:00",
+   "end": "2026-12-06T15:40:00+08:00",
+   "venue": "大事件劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "躍演",
+   "organizer_type": "不確定",
+   "description": "暢銷書《致無法拒絕長大的我們》原劇 勸世三姊妹主演 #宮能安 生涯紀錄！ 全台巡演破千場 超過萬人同聲讚嘆，感動回饋從不間斷 關於友情、親情、愛情、孤獨、成功、人性和自我 「原來劇場與生活如此靠近！」 這是一趟尋找純真自我的旅程 擁抱哲學與生活碰撞出的種種火花 這個故事 不僅獻給孩子，也獻給大人 一位說書人，帶了一把吉他 運用光影、聲音、歌曲、物件及戲劇扮演 透過半演半說半唱的表演形式 打開《小王子》與現實生活中最直接的對話 以深入淺出的方式 用當代臺灣社會種種光景探索《小王子》中的哲學 人人心中都有一位小王子。 作者 安托萬・德・聖-修伯里 法國作家、飛行員，1900年6月29日生於法國里昂…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2097251126499532800"
+    }
+   ],
+   "lat": 22.6883515,
+   "lng": 120.2969566,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "twmarket:60642:20261206",
    "title": "三多聖誕生活節",
    "start": "2026-12-06T14:00:00+08:00",
@@ -20784,7 +21635,7 @@
    ]
   },
   {
-   "id": "iculture:6a91c05c26b32434f4358078",
+   "id": "opentix:2089278164781281281:20261206",
    "title": "《創世之聲．啟程》",
    "start": "2026-12-06T14:30:00+08:00",
    "end": "2026-12-06T16:30:00+08:00",
@@ -20793,21 +21644,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "TK達高愛樂管弦樂團",
+   "organizer_type": "民間",
+   "description": "TK達高愛樂管弦樂團（Takao Philharmonic Orchestra）由指揮家楊智欽創立，集結台灣新世代優秀音樂家，以高雄歷史地名「Takao」為名，期望以專業藝術水準與國際視野，打造立足南方、放眼世界的新世代管弦樂團。 《創世之聲・啟程》為TK達高愛樂創團首製公演。音樂會以貝多芬《普羅米修斯的創造》序曲揭開序幕，象徵光明、智慧與創造精神，也為樂團的藝術旅程點燃第一道火光。 本場特別邀請日本當代備受矚目的青年小提琴家服部百音（Moné Hattori）擔任獨奏，演出布拉姆斯《D大調小提琴協奏曲》。服部百音11歲即展開國際演奏生涯，曾於韋尼奧夫斯基國際小提琴大賽等三項國際賽事獲得最高榮…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089278164781281281"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2089278164781281281"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a91c05c26b32434f4358078"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -20829,23 +21687,25 @@
      "url": "https://www.npac-weiwuying.org/programs/698017666d11ed00072e6dfb"
     },
     {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2010907685806804993"
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2010907685806804993"
     },
     {
      "source": "iculture",
-     "url": "https://www.opentix.life/event/2010907685806804993"
+     "url": "https://www.opentix.life/program/2010907685806804993"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2010907685806804993:20261206",
     "iculture:6973ae8b26b32454e437c3cb",
     "iculture:6abe0726eb4399d01039b1fb"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -21048,8 +21908,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "燈角樂團",
+   "organizer_type": "民間",
    "description": "2025年12月，由四位任職於美國職業樂團的首席們組成的巔峰單簧管四重奏，在南北台灣造成旋風。",
    "links": [
     {
@@ -21057,18 +21917,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6ab22ac88979e70007f65dda"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2099766707927355393"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2099766707927355393"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2099766707927355393:20261207",
     "iculture:6aad71c426b324165c32e4ef"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -21224,8 +22090,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "高雄市立陽明國民中學",
+   "organizer_type": "政府",
    "description": "預言者的號角-戰爭和救贖的交織",
    "links": [
     {
@@ -21233,23 +22099,29 @@
      "url": "https://www.npac-weiwuying.org/programs/6a79351bb1b5840007664d35"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105249874267750401"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105249874267750401"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2105249874267750401:20261209",
     "iculture:6ac7cf8026b324165c32e5be"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
   {
-   "id": "iculture:6abe953c26b324165c32e57b",
+   "id": "opentix:2101964158463160321:20261209",
    "title": "臺北市立大學舞蹈學系112級師生聯合創作展《趁落日未沉》",
    "start": "2026-12-09T19:30:00+08:00",
    "end": "2026-12-09T22:00:00+08:00",
@@ -21258,10 +22130,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "臺北市立大學",
+   "organizer_type": "政府",
+   "description": "落日尚未沉下， 我們仍在光裡奔跑、碰撞，也尋找自己的方向。 那些一路走來留下的足跡與我們未完成的夢想，都在天色暗下以前，被身體牢記著。 《趁落日未沉》 集結當代舞、民族舞與古典芭蕾， 以不同的身體語彙，描繪屬於我們的青春片刻。 在告別校園、走向下一段旅程以前，我們選擇用舞蹈，留下此刻最鮮明的模樣。 趁落日未沉—— 趁光還在，再用力地跳一次。 演出單位｜臺北市立大學舞蹈學系112級 指導單位｜臺北市政府教育局、臺北市立大學 藝術總監｜許哲彬 技術統籌｜電火科技照明有限公司 燈光設計｜林家樑 平面設計｜林宗勳 攝 影｜張家豪 合辦單位｜臺北市藝文推廣處",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2101964158463160321"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2101964158463160321"
@@ -21269,10 +22145,13 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "iculture:6abe953c26b324165c32e57b"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -21294,18 +22173,24 @@
      "url": "https://www.npac-weiwuying.org/programs/69afb5dff1151f0007a5cdfa"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2043960193015562241"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2043960193015562241"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2043960193015562241:20261209",
     "iculture:6a04aef826b3243414ccc7fc"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -21569,8 +22454,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "ABO 似弦樂團 String Band",
+   "organizer_type": "民間",
    "description": "從教父到海波浪 用琴弦交織黑幫與市井情義",
    "links": [
     {
@@ -21578,18 +22463,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a94fc8709ea090008f268d5"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2092148722984304640"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2092148722984304640"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2092148722984304640:20261211",
     "iculture:6a91c05d26b32434f435807b"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -21603,8 +22494,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "長榮交響樂團",
+   "organizer_type": "民間",
    "description": "從貝多芬《科里奧蘭》序曲出發，梵志登攜手ESO與男中音葛納，詮釋舒伯特、理查．史特勞斯藝術歌曲，並以蕭士塔科維契第九號交響曲作結。",
    "links": [
     {
@@ -21612,23 +22503,29 @@
      "url": "https://www.npac-weiwuying.org/programs/6a793128b1b5840007664bdd"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2102976712891215872"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2102976712891215872"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2102976712891215872:20261211",
     "iculture:6abe953a26b324165c32e56f"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
   {
-   "id": "iculture:6aca728226b324165c32e5cf",
+   "id": "opentix:2107055917664522241:20261211",
    "title": "左營高中舞蹈班115年舞展",
    "start": "2026-12-11T19:30:00+08:00",
    "end": "2026-12-13T17:30:00+08:00",
@@ -21637,10 +22534,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "高雄市立左營高級中學",
+   "organizer_type": "政府",
+   "description": "在歲末年終之際，左營高中舞蹈班的舞展登場了，以為迎接新的一年的到來，與港都的同好共享新春的喜悅。 本年度舞展特邀多位優秀校友擔任編舞，風格包羅了芭蕾舞、現代舞與中國舞等，各有其特色風格，展現不同的情境及熱力。將推出九齣舞作，名稱分別是：《風起時》、《在那之後》、《他們所說的漂亮》、《雙影之流》、《拈花》、《困獸之鬥》、《定針》、《流光》、《星落》等等，展現四十二年的教育成果，全埸演出氣勢磅礡，動作設計新穎，舞者肢體優美，展現力與美雙重的舞蹈美感及豐富的舞臺效果。展現學生三年卓著的學習成果，也顯現舞蹈多元豐富的舞臺呈現。 《風起時》係由編舞者羅凡編創，是一場關於轉變與記憶的舞蹈儀式。舞者們在節奏…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2107055917664522241"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2107055917664522241"
@@ -21648,10 +22549,15 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "opentix:2107055917664522241:20261212",
+    "opentix:2107055917664522241:20261213",
+    "iculture:6aca728226b324165c32e5cf"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -21709,7 +22615,7 @@
    ]
   },
   {
-   "id": "iculture:6ad8f32e26b3245efc7536fe",
+   "id": "opentix:2112025648284856321:20261212",
    "title": "動物王國大探險展-比薩大學自然史博物館 高雄站",
    "start": "2026-12-12T09:00:00+08:00",
    "end": "2027-03-07T18:00:00+08:00",
@@ -21720,8 +22626,12 @@
    "fee": "付費",
    "organizer": "翡冷翠文創事業股份有限公司",
    "organizer_type": "民間",
-   "description": "走進六大生態，展開一場生命探險旅程 《動物王國大探險展》是一場結合真實動物標本、沉浸式光影、場景還原與互動體驗的生態探索旅程。 本次展覽由義大利金獎團隊策劃製作，並獲得享譽全球的比薩大學自然史博物館協助及指導，引進多件世界最高技術製作的真皮動物標本，結合數位影像、科技互動與空間敘事，為觀眾呈現一場穿梭時空的沉浸式探險旅程。",
+   "description": "🐾動物王國大探險展: 比薩大學自然史博物館 走進六大生態，展開一場生命探險旅程 《動物王國大探險展》是一場結合真實動物標本、沉浸式光影、場景還原與互動體驗的生態探索旅程。 本次展覽由義大利金獎團隊策劃製作，並獲得享譽全球的比薩大學自然史博物館協助及指導，引進多件世界最高技術製作的真皮動物標本，結合數位影像、科技互動與空間敘事，為觀眾呈現一場穿梭時空的沉浸式探險旅程。 展覽以森林、沙漠、海洋、草原、極地到史前生命等六大生態環境為主軸，透過大型影像、聲光變化與場景氛圍等多元展示方式，帶領觀眾如臨實境體驗草原從日出到日落的變化、動物大遷徙的震撼，以及深海世界被魚群包圍的沉浸感受，近距離感受不同物種如…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2112025648284856321"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2112025648284856321"
@@ -21734,12 +22644,14 @@
    "lat": 22.6414306,
    "lng": 120.3225512,
    "aliases": [
+    "iculture:6ad8f32e26b3245efc7536fe",
     "accupass:2610151038515314274870"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "accupass",
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -22148,6 +23060,33 @@
    ]
   },
   {
+   "id": "opentix:2100901655904559105:20261212",
+   "title": "笑點工作室《停下來！漫才笑響曲》",
+   "start": "2026-12-12T14:30:00+08:00",
+   "end": "2026-12-12T21:00:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "笑點工作室",
+   "organizer_type": "民間",
+   "description": "🎭 漫才 × 🎵 音樂 × 😂 喜劇 × 💭 人生 ：「等一下，這誰寫的啊？誰准你的笑響曲只有休止符啊！」 長大 不會停下來！ 戀愛 如何停下來？ 工作 選擇停下來⋯ 生命 總會停下來～ 不斷奔跑的人生，是不是該停下來好好笑一笑了呢？！ 《停下來！漫才笑響曲》以五個人生階段， 從童年到告別，看見每個人都努力向前， 也都曾因為某些人、某些事，不得不停下腳步。 最後，當所有人在音樂祭相遇，才發現 —— 原來一路上，在某些瞬間，早已成為人生最重要的旋律。 人生很難，那就先笑一下。 這次，真的可以停下來！ 反正⋯票都買了。 【 笑點工作室 】 笑點工作室於2022年創立於高雄，以歐尼獎作為藝名。 ——…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100901655904559105"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "weiwuying:6a792e31d9f99a000814f5d4",
    "title": "《南都幽靈夜譚》",
    "start": "2026-12-12T14:30:00+08:00",
@@ -22175,7 +23114,7 @@
    ]
   },
   {
-   "id": "iculture:6a4e82eb26b32427d0604161",
+   "id": "opentix:2051489300031848448:20261212",
    "title": "臺灣豫劇團2026飆戲「熱血X戲魂」",
    "start": "2026-12-12T14:30:00+08:00",
    "end": "2026-12-13T15:45:00+08:00",
@@ -22184,10 +23123,14 @@
    "district": "左營區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "國立傳統藝術中心(臺灣豫劇團)",
+   "organizer_type": "政府",
+   "description": "臺灣豫劇團2026飆戲 熱血╳戲魂 點燃舞臺能量 09/19（六）14︰30 《寇準背靴》 寇準｜林原茂 柴郡主｜蔡希澄 奸臣王欽欲毒害大宋名將楊延昭，好友任堂惠代喝毒酒而亡。楊延昭幸免一死，詐死假設靈堂掩人耳目，名相寇準前往弔唁，看出破綻悄悄跟隨楊夫人柴郡主。一場暗夜送食盒的跟蹤秀，便在妙趣橫生的戲曲身段中展現。 《盜庫銀》 青蛇｜張玳寧 白蛇傳經典雋永的武戲，展現無與倫比的武旦高超身手。青蛇小青為了幫助許仙與白素貞開藥舖，前往庫房盜取銀兩，遇上庫神大打出手，展開一連串的精彩對決。 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 09/20（日）14︰30 《司文郎》 宋九郎｜吳淑穎 取材自《聊齋志異》中的一…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051489300031848448"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051489300031848448"
@@ -22195,10 +23138,14 @@
    ],
    "lat": 22.6914486,
    "lng": 120.2904458,
-   "aliases": [],
+   "aliases": [
+    "opentix:2051489300031848448:20261213",
+    "iculture:6a4e82eb26b32427d0604161"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -22229,7 +23176,7 @@
    ]
   },
   {
-   "id": "iculture:6a7761f926b32427d0604390",
+   "id": "opentix:2085264572835840001:20261212",
    "title": "2026唐美雲歌仔戲團《南都幽靈夜譚》高雄場",
    "start": "2026-12-12T14:30:00+08:00",
    "end": "2026-12-13T17:20:00+08:00",
@@ -22238,21 +23185,29 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "唐美雲歌仔戲團",
    "organizer_type": "不確定",
-   "description": "",
+   "description": "躲得過警察，躲不過「鬼室友」 一座百年凶宅，一樁沉冤未雪的謎案 一齣融合歷史、鬼仔古的怪談喜劇 1923年，「治警事件」爆發，總督府展開鋪天蓋地大搜捕。 「臺灣文化協會」熱血青年吳逢秋，為躲避日警，不得已入住臺南一座廢棄的百年凶宅。沒想到，這裡竟住著一群來自不同年代、性格迥異的幽靈住戶，身為新時代知識分子的逢秋，竟然還妄想要「啟迪鬼智」，好好教育這些觀念陳舊的鬼室友。 在被厲鬼們輪番整到懷疑人生的日常中，逢秋意外發現怨靈「鬼大人」森下次郎的秘密，他開始追查這起塵封多年的謎案，原來鬼宅中竟埋藏著一段段早已被世人遺忘的歷史真相。 「本節目獲選國立傳統藝術中心2026歌仔戲旗艦展演補助計畫」 《南都…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2085264572835840001"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2085264572835840001"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2085264572835840001:20261213",
+    "iculture:6a7761f926b32427d0604390"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -22319,7 +23274,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "極致藝術",
    "organizer_type": "不確定",
    "description": "拿出冒險的勇氣，尋找回家的路！",
    "links": [
@@ -22328,18 +23283,25 @@
      "url": "https://www.npac-weiwuying.org/programs/6ab0da798697570008853e87"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2087017782302437377"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2087017782302437377"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2087017782302437377:20261212",
+    "opentix:2087017782302437377:20261213",
     "iculture:6a9ef13226b324165c32e382"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -22434,8 +23396,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "鵬博藝術股份有限公司",
+   "organizer_type": "民間",
    "description": "《BBC音樂雜誌》當月器樂唱片殊榮",
    "links": [
     {
@@ -22443,18 +23405,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6aa0b8e08979e70007eacbf2"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2095048717894885376"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2095048717894885376"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2095048717894885376:20261212",
     "iculture:6a99ab5326b32434f43580c6"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -22621,6 +23589,33 @@
    ]
   },
   {
+   "id": "opentix:2100901655904559105:20261213",
+   "title": "笑點工作室《停下來！漫才笑響曲》",
+   "start": "2026-12-13T14:30:00+08:00",
+   "end": "2026-12-13T16:00:00+08:00",
+   "venue": "駁二正港小劇場",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "笑點工作室",
+   "organizer_type": "民間",
+   "description": "🎭 漫才 × 🎵 音樂 × 😂 喜劇 × 💭 人生 ：「等一下，這誰寫的啊？誰准你的笑響曲只有休止符啊！」 長大 不會停下來！ 戀愛 如何停下來？ 工作 選擇停下來⋯ 生命 總會停下來～ 不斷奔跑的人生，是不是該停下來好好笑一笑了呢？！ 《停下來！漫才笑響曲》以五個人生階段， 從童年到告別，看見每個人都努力向前， 也都曾因為某些人、某些事，不得不停下腳步。 最後，當所有人在音樂祭相遇，才發現 —— 原來一路上，在某些瞬間，早已成為人生最重要的旋律。 人生很難，那就先笑一下。 這次，真的可以停下來！ 反正⋯票都買了。 【 笑點工作室 】 笑點工作室於2022年創立於高雄，以歐尼獎作為藝名。 ——…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100901655904559105"
+    }
+   ],
+   "lat": 22.6201549,
+   "lng": 120.2786076,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "weiwuying:6abc6c5486975700088bed4d",
    "title": "《鄞蔚婷2026鋼琴獨奏會》",
    "start": "2026-12-13T14:30:00+08:00",
@@ -22630,7 +23625,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "鄞蔚婷",
    "organizer_type": "不確定",
    "description": "「異境」以六首作品展開不同的音樂風景：英雄、魔幻、異國、深情、童話與戰火在琴聲中交會，引領聽眾踏上跨越時空的想像之旅。",
    "links": [
@@ -22639,18 +23634,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6abc6c5486975700088bed4d"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2102234971316461569"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2102234971316461569"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2102234971316461569:20261213",
     "iculture:6ace670226b324165c32e5ed"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -22673,6 +23674,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40207&AP=$M102_DATE-115/12/13"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2086734015886159873"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2086734015886159873"
     }
@@ -22680,12 +23685,14 @@
    "lat": 22.6259044,
    "lng": 120.3171311,
    "aliases": [
+    "opentix:2086734015886159873:20261213",
     "iculture:6a7f4b0726b32427d06043d9"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -22725,8 +23732,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "高雄市管樂團",
+   "organizer_type": "民間",
    "description": "一篇樂章一幕世界，用聲音翻閱劇場經典",
    "links": [
     {
@@ -22734,18 +23741,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a793df4b1b5840007664f2a"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2083161007938134017"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2083161007938134017"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2083161007938134017:20261213",
     "iculture:6a736fd626b32427d0604352"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -22894,8 +23907,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "高雄市教師管弦樂團",
+   "organizer_type": "民間",
    "description": "琴的魔手",
    "links": [
     {
@@ -22903,18 +23916,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a7938f8d9f99a000814f8b6"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2092559448512712705"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2092559448512712705"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2092559448512712705:20261215",
     "iculture:6abe953a26b324165c32e55f"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -22973,7 +23992,7 @@
    ]
   },
   {
-   "id": "iculture:6a8490f526b32427d0604418",
+   "id": "opentix:2087065014067822593:20261216",
    "title": "《此岸：弓弦熾舞》梁喬信與高市交小樂集",
    "start": "2026-12-16T19:30:00+08:00",
    "end": "2026-12-16T21:10:00+08:00",
@@ -22982,10 +24001,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
+   "description": "今年 12 月 16 日，高雄市交響樂團將於大東文化藝術中心舉辦一場充滿張力與精緻室內樂美學的音樂會，邀請國際頂尖小提琴家梁喬信（Kerson Leong）攜手「高市交小樂集」（由高雄市交響樂團全體弦樂聲部精英組成的絃樂團）共同呈獻。本場音樂會以「此岸：弓弦熾舞」為題，透過純粹而充滿生命力的弦樂織體，引領聽眾展開一場貼近心靈且情感濃烈的音樂對話。 在曲目安排上，本場演出展現了橫跨數個世紀的豐富音樂風貌。音樂會由柯瑞里充滿巴洛克輝煌與典雅氣息的《D大調第四號大協奏曲》（Concerto Grosso, Op. 6, No. 4）揭開序幕；隨後帶入皮亞佐拉充滿濃郁拉丁情調與強烈探戈張力的《布宜諾斯…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2087065014067822593"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2087065014067822593"
@@ -22993,10 +24016,13 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "iculture:6a8490f526b32427d0604418"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -23009,8 +24035,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "台灣絃樂團",
+   "organizer_type": "民間",
    "description": "台灣絃樂團今年再度以《傳承》為題，於絃樂經典系列音樂會牽起新上國小熊快樂弦樂團孩子們的手站上舞台。邀請您一同將名為「音樂堅持與信念」的火炬傳承下去。",
    "links": [
     {
@@ -23018,18 +24044,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a95275b3041610007c16d98"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105120623508770816"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105120623508770816"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2105120623508770816:20261216",
     "iculture:6ac7cf8026b324165c32e5bd"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -23232,7 +24264,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "台中室內樂集",
    "organizer_type": "不確定",
    "description": "大提琴與鋼琴共繪俄羅斯浪漫詩篇",
    "links": [
@@ -23241,18 +24273,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6abc5eef8979e70007faf9be"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2102937943479726081"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2102937943479726081"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2102937943479726081:20261218",
     "iculture:6abbf23526b324165c32e54c"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -23266,8 +24304,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "社團法人臺北市巴哈靈感音樂文化協會",
+   "organizer_type": "民間",
    "description": "小提琴家Himari於2011年出生於日本，被譽為一代奇才。",
    "links": [
     {
@@ -23275,18 +24313,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a261de4808b39000870246e"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2060315517627953153"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2060315517627953153"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2060315517627953153:20261218",
     "iculture:6a21b01426b3243414cccecb"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -23309,18 +24353,26 @@
      "url": "https://www.npac-weiwuying.org/programs/69dda80cc3aa6c0007ef8b22"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2085331757159772161"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2085331757159772161"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2085331757159772161:20261218",
+    "opentix:2085331757159772161:20261219",
+    "opentix:2085331757159772161:20261220",
     "iculture:6a99ab5a26b32434f43580d1"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -23487,7 +24539,7 @@
    ]
   },
   {
-   "id": "iculture:6ac67e0426b324165c32e5b6",
+   "id": "opentix:2105913187410526208:20261219",
    "title": "斜槓青年創作體《那一天我們跟在雞屁股後面尋路》讀劇會",
    "start": "2026-12-19T14:30:00+08:00",
    "end": "2026-12-19T15:40:00+08:00",
@@ -23496,10 +24548,14 @@
    "district": "前金區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "斜槓青年創作體",
    "organizer_type": "不確定",
-   "description": "",
+   "description": "✦2026年 第一階段讀劇計畫 ✦2027年 劇場演出《那一天我們跟在雞屁股後面尋路》 斜槓青年創作體《那一天我們跟在雞屁股後面尋路》讀劇會 ꜱ. ᴘʀᴏᴅᴜᴄᴛɪᴏɴ “ ᴏɴᴇ ᴅᴀʏ, ᴡᴇ ʀᴀɴ ᴀꜰᴛᴇʀ ᴛʜᴇ ʜᴇɴ ᴛᴏ ꜰɪɴᴅ ᴀ ᴡᴀʏ ” 改編台灣文學金典獎作家 #何玟珒 《那一天我們跟在雞屁股後面尋路》同名短篇〈那一天我們跟在雞屁股後面尋路〉及〈疼痛轉生〉 ———————————————————————— ❝ 那隻雞走過待開發的土地、走過大馬路、走過運河旁的人行道、走過幾座橋，最終某一處停了下來，牠撲打翅膀飛上紅棕色的欄杆（我第一次見過有雞可以飛那麼高的），居高臨下…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105913187410526208"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105913187410526208"
@@ -23507,10 +24563,13 @@
    ],
    "lat": 22.6255678,
    "lng": 120.2980305,
-   "aliases": [],
+   "aliases": [
+    "iculture:6ac67e0426b324165c32e5b6"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -23541,7 +24600,7 @@
    ]
   },
   {
-   "id": "iculture:696e63c026b3243b1ca0c0c3",
+   "id": "opentix:2009206308355796993:20261219",
    "title": "2026臺北相聲大會",
    "start": "2026-12-19T14:30:00+08:00",
    "end": "2026-12-19T16:30:00+08:00",
@@ -23550,10 +24609,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "台北曲藝團",
    "organizer_type": "不確定",
-   "description": "",
+   "description": "【FB粉絲專頁 | Instagram】 台北曲藝團《2026 臺北相聲大會》 九九八十一變，炸開「笑」的多重宇宙！ 北曲年度巡演：一門藝術，各自奮「逗」! 2026北中南巡演正式啟動：笑神走起，這次真的鬧大了！ 【激逗看點】 ◎全台觀眾的年度笑聲儀式、媒體盛讚「最正統卻最敢玩的相聲品牌」 ◎橫跨北中南巡演，從經典段目到科技荒謬劇，7歲到 80 歲都能秒懂的幽默盛宴 ◎融合音樂小品、群口雙簧與傳統段目，展現說唱藝術的百變面貌，絕無冷場 ◎笑花狂爆卻不踩雷、辛辣荒謬又充滿啟發，家長安心、小孩開心！ ◎國藝會「TAIWAN TOP」團隊 33 年淬鍊，藝能全開！ **各場節目單略有不同，依北曲公告…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2009206308355796993"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2009206308355796993"
@@ -23561,10 +24624,13 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "iculture:696e63c026b3243b1ca0c0c3"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -23586,18 +24652,25 @@
      "url": "https://www.npac-weiwuying.org/programs/69b9fe66f0402e0007963cd1"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105624453117001729"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105624453117001729"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2105624453117001729:20261219",
+    "opentix:2105624453117001729:20261220",
     "iculture:6ad25bc626b324165c32e60a"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -23827,7 +24900,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "湯發凱",
    "organizer_type": "不確定",
    "description": "結合多媒體之德國藝術歌曲組裝劇場。",
    "links": [
@@ -23836,23 +24909,56 @@
      "url": "https://www.npac-weiwuying.org/programs/6abc70eb86975700088bedef"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105452507466604545"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105452507466604545"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2105452507466604545:20261219",
     "iculture:6aca728026b324165c32e5cc"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
   {
-   "id": "iculture:6a833f7626b32427d06043e7",
+   "id": "opentix:2090704691960717313:20261219",
+   "title": "南方跳 x 蘇品文《少女須知》（中）獨立製作",
+   "start": "2026-12-19T19:30:00+08:00",
+   "end": "2026-12-19T21:00:00+08:00",
+   "venue": "南方跳實驗空間",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "看嘸舞蹈劇場",
+   "organizer_type": "不確定",
+   "description": "尼好，我是蘇品文（你/他/he/they），這件作品《少女須知》（中）是我在2019年臺北藝穗節發表的個人作品，也是蘇品文女性主義三年計畫《少女須知》系列，唯一沒有再製演出的一件作品。 《少女須知》是一本來自台灣80年代的女性行為指南，至今我還是不解為何台灣終於解嚴後，陸續出線的女性相關書籍都還是以異性戀且男女關係為主軸的敘述—— 「初次約會的時候，與其善於說話，不如善於聽話，這樣會給對方有好感。」 「當妳的伴侶約妳外出時，他也許會給妳一些提示，告訴妳應該穿那樣的服裝。假如他沒有給妳任何建議，那妳最好問他一下。」（註：我只有要去登山才會問。） 「當夏天穿著肩帶式的衣服時，切記勿使內衣之肩帶露出…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2090704691960717313"
+    }
+   ],
+   "lat": 22.64456348,
+   "lng": 120.30273167,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
+   "id": "opentix:2084162408299769857:20261219",
    "title": "陳必先2026鋼琴獨奏會─紀念曹永坤先生逝世20周年",
    "start": "2026-12-19T19:30:00+08:00",
    "end": "2026-12-19T21:25:00+08:00",
@@ -23861,21 +24967,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "瑩聲國際有限公司",
+   "organizer_type": "民間",
+   "description": "傾聽一位藝術家歷經歲月淬鍊後 深厚而純粹的生命姿態 旅德鋼琴家陳必先將以三首舒伯特、巴爾托克的經典作品，展現她凝鍊數十年音樂生涯，在超脫技巧之外，直視音樂本質──從舒伯特早期鋼琴奏鳴曲中最具朝氣與實驗性的《B大調鋼琴奏鳴曲，D.575》、深入巴爾托克創作重要轉捩點，展現對民間素材的研究成果與前衛實驗精神的《14首小品，作品6》，到流露超越塵世的靜謐與深度，也是陳必先首度公開演出的舒伯特晚期顛峰之作《降B大調鋼琴奏鳴曲，D.960》，深刻呈現一位藝術家在歷經歲月淬鍊後，深厚而純粹的生命姿態。同時，也以本場音樂會致敬對她少時習琴多所扶持的瑩聲國際董事長曹永坤先生逝世20周年紀念。 │演出曲目Pro…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2084162408299769857"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2084162408299769857"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a833f7626b32427d06043e7"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -24131,8 +25244,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
    "description": "乘著琴聲越過寒冬，聽見萬物復甦的磅礡迴響",
    "links": [
     {
@@ -24140,18 +25253,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a8d430736422a0008335c6a"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2087506535193788417"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2087506535193788417"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2087506535193788417:20261220",
     "iculture:6a8490f526b32427d060441b"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -24264,7 +25383,34 @@
    ]
   },
   {
-   "id": "iculture:6ab4093026b324165c32e526",
+   "id": "opentix:2090704691960717313:20261220",
+   "title": "南方跳 x 蘇品文《少女須知》（中）獨立製作",
+   "start": "2026-12-20T19:30:00+08:00",
+   "end": "2026-12-20T21:00:00+08:00",
+   "venue": "南方跳實驗空間",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "看嘸舞蹈劇場",
+   "organizer_type": "不確定",
+   "description": "尼好，我是蘇品文（你/他/he/they），這件作品《少女須知》（中）是我在2019年臺北藝穗節發表的個人作品，也是蘇品文女性主義三年計畫《少女須知》系列，唯一沒有再製演出的一件作品。 《少女須知》是一本來自台灣80年代的女性行為指南，至今我還是不解為何台灣終於解嚴後，陸續出線的女性相關書籍都還是以異性戀且男女關係為主軸的敘述—— 「初次約會的時候，與其善於說話，不如善於聽話，這樣會給對方有好感。」 「當妳的伴侶約妳外出時，他也許會給妳一些提示，告訴妳應該穿那樣的服裝。假如他沒有給妳任何建議，那妳最好問他一下。」（註：我只有要去登山才會問。） 「當夏天穿著肩帶式的衣服時，切記勿使內衣之肩帶露出…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2090704691960717313"
+    }
+   ],
+   "lat": 22.64456348,
+   "lng": 120.30273167,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
+   "id": "opentix:2100752451028361216:20261220",
    "title": "【醫聲．白袍金嗓】施宗賢醫師 廣音域 跨界演唱會",
    "start": "2026-12-20T19:30:00+08:00",
    "end": "2026-12-20T21:30:00+08:00",
@@ -24273,10 +25419,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "社團法人台灣福田社會福利發展協會",
+   "organizer_type": "民間",
+   "description": "〈魅力美聲X診間故事X跨界戲劇〉 忙碌看診後白袍卸下故事才正要開始， 皮膚科名醫施宗賢走出診間站上舞台； 以跨越多種曲風歌聲唱出一段段人生， 病歷寫不下的心事終於能悄悄被聽見， 動人歌聲讓每一段故事都有新的溫度， 笑淚愛與遺憾在旋律與戲劇之間再現。 演員串演與Live樂團交織出共鳴… 邀你走進有笑有淚有溫度的生命相遇。 音樂是全齡共學最好的媒介,也是陶冶心靈的良方 台灣福田社會福利發展協會與名醫歌手施宗賢院長合作,並邀請演員暨歌手詹喆君,沈福盈,章孝賢...等人共同演出,在編導陳志楷的新創劇本中,以音樂劇方式結合戲劇故事及歌唱,重新演繹近30年流行歌曲20首且融入古典元素,擬以輕鬆動人劇本帶領…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100752451028361216"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100752451028361216"
@@ -24284,10 +25434,13 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "iculture:6ab4093026b324165c32e526"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -24309,6 +25462,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40208&AP=$M102_DATE-115/12/20"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100914658144260096"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100914658144260096"
     }
@@ -24316,12 +25473,14 @@
    "lat": 22.6259044,
    "lng": 120.3171311,
    "aliases": [
+    "opentix:2100914658144260096:20261220",
     "iculture:6ac67e0326b324165c32e5ae"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -24388,7 +25547,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "拾音人樂集",
    "organizer_type": "不確定",
    "description": "《意識與表象的遊樂園》融合當代音樂、科技藝術與劇場敘事，打破舞台界線，讓觀眾成為作品的一部分，透過觀看與聆聽，共同形塑獨一無二的聲音遊樂園。",
    "links": [
@@ -24397,18 +25556,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a86ae029199ab00089d9ac6"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2064954960502607873"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2064954960502607873"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2064954960502607873:20261222",
     "iculture:6a9857dd26b32434f43580b8"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -24467,7 +25632,7 @@
    ]
   },
   {
-   "id": "iculture:6a2c3bea26b3243414ccd21c",
+   "id": "opentix:2063948663367925761:20261223",
    "title": "2026探索管風琴音樂《法蘭西聖誕之光》",
    "start": "2026-12-23T14:30:00+08:00",
    "end": "2026-12-23T15:30:00+08:00",
@@ -24476,21 +25641,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "國家表演藝術中心衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "只有在衛武營！全亞洲最大的音樂廳管風琴，究竟能展現什麼樣的百變樣貌？「探索管風琴音樂」系列活動，將是您得到解答的大好機會——透過管風琴家的演奏、平易近人的專業解說，展現管風琴細膩與震撼。不論是音樂愛好者，還是初次探索的你，都能找到共鳴。 ▲ 活動示意圖 探索管風琴音樂《法蘭西聖誕之光》 年末處處充滿著耶誕節的溫馨氣氛，又有什麼樂器比教堂內必備的管風琴，更能展現這份歡騰呢？本場「探索管風琴音樂」在傳統耶誕歌曲旋律之外，還從巴洛克時期至現當代四百年的作品中，挑選了具有歡快、熱鬧與滿滿祝福感氛圍的曲子，與大家一同齊聚歲末，歡慶佳節。不論觀眾是否熟悉教堂儀式，耶誕歌曲中呈現的希望氣息，都能夠立刻鼓動人…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2063948663367925761"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2063948663367925761"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a2c3bea26b3243414ccd21c"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -24512,6 +25684,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40360&AP=$M102_DATE-115/12/23"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2102280971281862657"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2102280971281862657"
     }
@@ -24519,12 +25695,14 @@
    "lat": 22.6276246,
    "lng": 120.2868631,
    "aliases": [
+    "opentix:2102280971281862657:20261223",
     "iculture:6abe953a26b324165c32e569"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -24537,7 +25715,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "潘昱同",
    "organizer_type": "不確定",
    "description": "音樂人生中場的回顧、省思與展望",
    "links": [
@@ -24546,18 +25724,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6aa0d5ec8979e70007ead1ab"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2102965715002503169"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2102965715002503169"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2102965715002503169:20261223",
     "iculture:6abe953a26b324165c32e56e"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -24677,7 +25861,7 @@
    ]
   },
   {
-   "id": "iculture:6aad71c426b324165c32e4f0",
+   "id": "opentix:2100157616404054017:20261224",
    "title": "《台語歌劇—行出性命的光》台灣首位女醫師蔡阿信的生命之歌",
    "start": "2026-12-24T19:30:00+08:00",
    "end": "2026-12-25T21:20:00+08:00",
@@ -24686,21 +25870,29 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "新古典室內樂團",
+   "organizer_type": "民間",
+   "description": "NCCE新古典室內樂團多年來致力於以音樂為出發，「有界無域」的創作理念，積極將臺灣豐厚的在地人文元素，以當代表演藝術的創新語彙，持續創作具有獨特劇場美學之跨域原創作品，獲得國際大獎及藝術節之肯定，近年包括： ⭐入選2025 WSD 世界劇場設計展 ⭐榮獲2025倫敦設計大賽金奬 ⭐榮獲2025美國 MUSE Design Awards最高榮譽鉑金獎 ⭐受邀2026英國 Migration Matters Festival 國際藝術節演出 《台語歌劇一行出性命的光》台灣首位女醫師蔡阿信的生命之歌 臺灣第一位女醫師蔡阿信的傳奇人生，首度化為台語歌劇呈現。 從女性求學、行醫到跨越時代的重重考驗，以磅…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100157616404054017"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100157616404054017"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2100157616404054017:20261225",
+    "iculture:6aad71c426b324165c32e4f0"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -24920,7 +26112,7 @@
    ]
   },
   {
-   "id": "iculture:6a8f1c0e26b32434f4358064",
+   "id": "opentix:2082346375042473985:20261225",
    "title": "巔峰重逢 柴一與貝九",
    "start": "2026-12-25T14:30:00+08:00",
    "end": "2026-12-25T16:30:00+08:00",
@@ -24929,21 +26121,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "國立臺灣交響樂團",
+   "organizer_type": "政府",
+   "description": "傳愛再啟 共譜新章 「臺中臺安醫院」蘇主恩院長與陳蓓玲醫師，及「白老師語文資優中心」營運長徐良雄與白佩玉老師，秉持慈善胸懷與扶助弱勢的教育理念，於2010年開啟傳愛行動慈善音樂會。隨後，「公益信託李其鈺社會福利基金」委託人李俊賢與「財團法人天主教天使教堂基金會」亦共襄盛舉，一同以實際行動投入公益。隨著每一年音樂會的抛磚引玉，愈來愈多企業與團體加入主辦行列，凝聚眾人齊心協力，有「台積電企業規劃、南科廠區志工團」、「第一國際資產管顧」、「台中大光扶輪社」、「普仁青年關懷基金會」及「國立臺灣交響樂團」等超過50家企業團體鼎力支持，讓傳愛遍及全臺。 2026年，音樂會邁向新里程，首度於衛武營國家藝術文…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2082346375042473985"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2082346375042473985"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a8f1c0e26b32434f4358064"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -25044,8 +26243,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "富爾敦室內樂團 歐普思音樂藝術",
+   "organizer_type": "民間",
    "description": "「弦舞歐洲」由臺裔小提琴家鄧丞修攜手美籍中提琴家艾美．赫斯，呈獻雙弦重奏饗宴。節目貫穿巴赫、莫札特至浪漫派經典，以細膩對話與絕佳默契，展現歐洲樂舞的磅礡與采風。",
    "links": [
     {
@@ -25053,18 +26252,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a86b15d9199ab00089d9b3b"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2090271128120614912"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2090271128120614912"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2090271128120614912:20261225",
     "iculture:6aa042a626b324165c32e387"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -25168,6 +26373,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40220&AP=$M102_DATE-115/12/26"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2032017897215483905"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2032017897215483905"
     }
@@ -25175,12 +26384,14 @@
    "lat": 22.6259044,
    "lng": 120.3171311,
    "aliases": [
+    "opentix:2032017897215483905:20261226",
     "iculture:69c1724e26b3242a48a9dd7e"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -25319,7 +26530,34 @@
    ]
   },
   {
-   "id": "iculture:6abe953a26b324165c32e56d",
+   "id": "opentix:2102345121869377537:20261226",
+   "title": "2026【我們的音樂探險】",
+   "start": "2026-12-26T15:00:00+08:00",
+   "end": "2026-12-26T16:00:00+08:00",
+   "venue": "衛武營國家藝術文化中心戲劇院",
+   "address": "",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "國家表演藝術中心衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "給孩子的第一場近距離音樂探險 想帶孩子接觸音樂，卻又擔心他坐不住、怕打擾別人嗎？ 這是專為 0–3 歲寶寶打造的沉浸式音樂體驗！ 以「情緒與律動」為主題，在這裡，沒有高高的舞台和一排排的座位。寶寶可以自在感受音樂的現場魅力，讓樂音不只是「聽」，更能看見、感受並自由回應。 在環繞流動的旋律裡，無論是害羞地黏在家人懷裡、隨著旋律輕晃，或是興奮地回應聲響，都是寶寶探索世界最真實的方式。 讓我們在輕鬆無負擔的氛圍中，享受親密的親子時光，留下美好的成長記憶。 探險指南 𝄞 近距離共演 沒有遙遠的舞台，音樂家就在孩子身邊。 寶寶可以在安全與無負擔的前提下自由擺動與觀察，感受音樂的真實魅力。 ♬ 聽見身體的…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2102345121869377537"
+    }
+   ],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
+   "id": "opentix:2102682494419701761:20261226",
    "title": "KCWO Brass-銅管的魅力",
    "start": "2026-12-26T15:00:00+08:00",
    "end": "2026-12-26T17:20:00+08:00",
@@ -25328,21 +26566,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "高雄市管樂團",
+   "organizer_type": "民間",
+   "description": "在喧鬧之外，聽見銅管的極致細膩 過去，你習慣在大型的編制中，感受樂團的磅礡聲浪 這一次，我們首度將舞台主導權交給銅管重奏 上半場，由多位銅管演奏家在連呼吸聲都能清晰聽見的衛武營表演廳中，以眼神的交流與呼吸的搭配，演繹日本金管原創曲的精密細緻。 下半場，擴大銅管重奏編制並加入打擊樂，將細膩的重奏對話，層層堆疊為如同交響樂般的立體聲響。 這場【KCWO BRASS】創團首度製作，將帶你親耳驗證「銅管的魅力」究竟能有多細緻、多深邃。 演出亮點｜ 重新定義「銅管的魅力」：3 大核心看點 1.上半場的默契對決：挑戰銅管極限聲響效果 高難度重奏考驗：精選八木澤教司與高橋宏樹的現代重奏經典，沒有節奏樂器的輔…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2102682494419701761"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2102682494419701761"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6abe953a26b324165c32e56d"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -25535,19 +26780,23 @@
    ]
   },
   {
-   "id": "iculture:69c1724e26b3242a48a9dd7f",
+   "id": "opentix:2032303556119486465:20261226",
    "title": "《聲動漫:ACG音樂祭》",
    "start": "2026-12-26T19:00:00+08:00",
    "end": "2026-12-26T21:00:00+08:00",
-   "venue": "高雄市文化中心至善廳、高雄市文化中心至德堂",
+   "venue": "高雄市文化中心至善廳",
    "address": "高雄市苓雅區五福一路67號",
    "district": "苓雅區",
    "category": "親子",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "聲動室內樂團",
+   "organizer_type": "民間",
+   "description": "💥《聲動漫：ACG音樂祭》 熱血、感動、青春、冒險—— 那些陪伴我們成長的動畫旋律，只要前奏一響起，就能立刻喚醒記憶中最深刻的畫面。 從《新世紀福音戰士》的震撼經典，到《鬼滅之刃》的燃燒戰鬥； 從《灌籃高手》的青春熱血，到《航海王》的偉大冒險； 再到《我推的孩子》、《進擊的巨人》、《東京喰種》等近年話題動畫，每一首歌曲都承載著無數動漫迷的回憶與感動。 《聲動漫：ACG音樂祭》精選多首 耳熟能詳的動畫主題曲與配樂 ，透過現場演奏重新詮釋，帶領觀眾在旋律之中重溫那些令人熱血沸騰、又感動人心的經典瞬間。 聲動室內樂團的五位音樂家，近年多次受邀於 信義威秀影城 MUCROWN 頂級影廳 演出動畫配樂音…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2032303556119486465"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2032303556119486465"
@@ -25555,10 +26804,13 @@
    ],
    "lat": 22.6259044,
    "lng": 120.3171311,
-   "aliases": [],
+   "aliases": [
+    "iculture:69c1724e26b3242a48a9dd7f"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -25640,6 +26892,33 @@
    "first_seen": "2026-10-20",
    "sources": [
     "twmarket"
+   ]
+  },
+  {
+   "id": "opentix:2102345121869377537:20261227",
+   "title": "2026【我們的音樂探險】",
+   "start": "2026-12-27T10:30:00+08:00",
+   "end": "2026-12-27T16:00:00+08:00",
+   "venue": "衛武營國家藝術文化中心戲劇院",
+   "address": "",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "國家表演藝術中心衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "給孩子的第一場近距離音樂探險 想帶孩子接觸音樂，卻又擔心他坐不住、怕打擾別人嗎？ 這是專為 0–3 歲寶寶打造的沉浸式音樂體驗！ 以「情緒與律動」為主題，在這裡，沒有高高的舞台和一排排的座位。寶寶可以自在感受音樂的現場魅力，讓樂音不只是「聽」，更能看見、感受並自由回應。 在環繞流動的旋律裡，無論是害羞地黏在家人懷裡、隨著旋律輕晃，或是興奮地回應聲響，都是寶寶探索世界最真實的方式。 讓我們在輕鬆無負擔的氛圍中，享受親密的親子時光，留下美好的成長記憶。 探險指南 𝄞 近距離共演 沒有遙遠的舞台，音樂家就在孩子身邊。 寶寶可以在安全與無負擔的前提下自由擺動與觀察，感受音樂的真實魅力。 ♬ 聽見身體的…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2102345121869377537"
+    }
+   ],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -25760,8 +27039,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "醫聲室內樂團",
+   "organizer_type": "民間",
    "description": "醫聲室內樂團2026醫聲無界系列，由楊智欽策劃，邀旅美小提琴家歐陽兆彥攜各國醫師音樂家，以弦樂演繹韓德爾、孟德爾頌與蘇克作品，跨越國界與專業，開啟嶄新篇章。",
    "links": [
     {
@@ -25769,23 +27048,29 @@
      "url": "https://www.npac-weiwuying.org/programs/6ac4a9337a63f6000772459b"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2104825705148162048"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2104825705148162048"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2104825705148162048:20261227",
     "iculture:6abbf23526b324165c32e54d"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
   {
-   "id": "iculture:6a8490f526b32427d060441a",
+   "id": "opentix:2087486919881486337:20261227",
    "title": "樂脈光流",
    "start": "2026-12-27T14:30:00+08:00",
    "end": "2026-12-27T16:26:00+08:00",
@@ -25794,21 +27079,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
+   "description": "有些音樂，會陪一座城市長大。 有些旋律，一響起，就是一整個時代。 2026年，對高雄市國樂團而言，是一個值得記住的年份。 《樂脈光流》不只是一場音樂會，更是一場關於臺灣國樂記憶、時代情感與傳承的音樂旅程。 這也是高雄市國樂團常任指揮郭哲誠退休前的最後一場音樂會。 自1984年投入高雄市國樂團以來，郭哲誠以四十多年的黃金歲月，一路陪伴樂團成長，從日常的樂團訓練舞臺上的完美呈現，他以指揮棒串起樂團與土地、音樂與人之間的連結，引領高雄市國樂團深耕在地，發展茁壯，同時為臺灣國樂發展留下一片沃土。同時，他也逐步帶領樂團走上國際舞台，參與北京亞運藝術節、韓國百濟文化祭、上海國際藝術節等重要藝術活動，演出足…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2087486919881486337"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2087486919881486337"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6a8490f526b32427d060441a"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -25963,7 +27255,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "許志瑜",
    "organizer_type": "不確定",
    "description": "琴聲響起 - 愛無限",
    "links": [
@@ -25972,18 +27264,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6ab0f8718697570008854426"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2108030035545325569"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2108030035545325569"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2108030035545325569:20261228",
     "iculture:6acd158126b324165c32e5e1"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -25997,8 +27295,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "社團法人中華民國箴言詩篇聖樂宣揚協會",
+   "organizer_type": "民間",
    "description": "榮耀到地極",
    "links": [
     {
@@ -26006,18 +27304,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6acef23d86975700089600fa"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2104822363661111297"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2104822363661111297"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2104822363661111297:20261228",
     "iculture:6aca728026b324165c32e5cb"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -26058,7 +27362,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "蔡宗言",
    "organizer_type": "不確定",
    "description": "遷徙使作曲家遠離故鄉、也重新理解故鄉。當現實化為記憶，音樂便成為保存失落世界的方式。他們在舊世界與新世界之間重塑身份，讓被遺忘的浪漫於異鄉持續共鳴。",
    "links": [
@@ -26067,18 +27371,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6abc748586975700088beec6"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2101997879263174657"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2101997879263174657"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2101997879263174657:20261229",
     "iculture:6abe953a26b324165c32e568"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -26146,7 +27456,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "宋羽平",
    "organizer_type": "不確定",
    "description": "讓老歌細細的道出～當年的風華卓越。",
    "links": [
@@ -26155,18 +27465,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6ac4ad527a63f600077246c3"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105958106013474816"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105958106013474816"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2105958106013474816:20261230",
     "iculture:6ac67e0326b324165c32e5b0"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -26180,7 +27496,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "陳品任",
    "organizer_type": "不確定",
    "description": "2026 陳品任低音提琴獨奏會",
    "links": [
@@ -26189,18 +27505,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a475b98d45b1700074652c8"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2072980781115437057"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2072980781115437057"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2072980781115437057:20261231",
     "iculture:6a4d315c26b32427d060414b"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -26268,8 +27590,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國家表演藝術中心衛武營國家藝術文化中心",
+   "organizer_type": "政府",
    "description": "在歲月裡凝練的樂章",
    "links": [
     {
@@ -26277,18 +27599,24 @@
      "url": "https://www.npac-weiwuying.org/programs/69ddaff6a8a5b20008a9c53f"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2085334193336229889"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2085334193336229889"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2085334193336229889:20270101",
     "iculture:6a99ab5326b32434f43580c8"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -26482,7 +27810,7 @@
    ]
   },
   {
-   "id": "iculture:6ad7a1c226b3245efc7536bf",
+   "id": "opentix:2108036054516785153:20270102",
    "title": "【奧影流光】高雄之音管樂團第54場定期音樂會",
    "start": "2027-01-02T19:30:00+08:00",
    "end": "2027-01-02T21:00:00+08:00",
@@ -26491,25 +27819,32 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "高雄之音管樂團",
+   "organizer_type": "民間",
+   "description": "【奧影流光】高雄之音管樂團第54場定期音樂會 光穿過時光，撒下斑駁的印記； 影隱於樹梢，輕撫著歲月留下的痕跡。 音樂亦如流光，在時間長河中緩緩流轉，記錄著成長、陪伴與無數真誠相聚的瞬間。 無數個練習的日夜、每一次吹奏、每一場演出，都悄悄收藏進屬於樂團的年輪，成為一路走來最珍貴的印記。 光，流轉於相聚與成長之間； 影，靜靜守護著歲月的痕跡。 今夜，在樹冠舒展、光影流轉的音樂殿堂裡，讓樂音穿梭於林間，流淌於時光之中。願所有曾經播下的熱愛與堅持，都能化作陣陣流光，在歲月長河中持續閃耀，照亮前行的方向。 演出曲目 • Othello / Alfred Reed • Armenian Dances Pa…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2108036054516785153"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2108036054516785153"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6ad7a1c226b3245efc7536bf"
+   ],
    "first_seen": "2026-10-21",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
-   "id": "iculture:6ad6504b26b3245efc7536af",
+   "id": "opentix:2108010089152028673:20270102",
    "title": "蔡珂宜Chloe Chua－2027亞洲巡迴音樂會台灣首演",
    "start": "2027-01-02T19:30:00+08:00",
    "end": "2027-01-02T21:30:00+08:00",
@@ -26518,10 +27853,14 @@
    "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "好滿意音樂有限公司",
+   "organizer_type": "民間",
+   "description": "CHLOE CHUA 蔡珂宜 2027 臺灣首演｜THE TAIWAN DEBUT ✦ 國際樂壇矚目的天才小提琴家 ✦ 一把小提琴，驚豔世界。 一場萬眾期待的音樂盛會，首度降臨臺灣。 從新加坡走向世界頂尖古典音樂舞臺，以超越年齡的音樂成熟度、精湛技巧與極具感染力的演奏風格，成為國際樂壇備受矚目的新世代小提琴家。 CHLOE CHUA 蔡珂宜，2027 年首度來臺！ 她的演奏兼具細膩與力量，既能展現令人屏息的技巧，也能以真摯而深刻的音樂語言觸動人心。 2027 年 1 月，蔡珂宜將於高雄、臺北獻上備受期待的臺灣首演，邀請樂迷親臨現場，感受這位國際小提琴新星的非凡魅力。 ⸻ ✦ ABOUT THE…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2108010089152028673"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2108010089152028673"
@@ -26529,10 +27868,13 @@
    ],
    "lat": 22.6276246,
    "lng": 120.2868631,
-   "aliases": [],
+   "aliases": [
+    "iculture:6ad6504b26b3245efc7536af"
+   ],
    "first_seen": "2026-10-21",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -26599,8 +27941,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "台灣獨奏家交響樂團",
+   "organizer_type": "民間",
    "description": "台灣獨奏家交響樂團年度鉅獻",
    "links": [
     {
@@ -26608,18 +27950,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6ac4b3fc86975700088f6b3f"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2101892767593082880"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2101892767593082880"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2101892767593082880:20270103",
     "iculture:6abe953a26b324165c32e566"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -26735,26 +28083,33 @@
    "id": "weiwuying:6a991dbaa243ae0007eb5b22",
    "title": "《行過山河.遇見星空》",
    "start": "2027-01-07T19:30:00+08:00",
-   "end": "2027-01-07T19:30:00+08:00",
+   "end": "2027-01-07T21:30:00+08:00",
    "venue": "衛武營 音樂廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "免費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "高雄市漢聲合唱團",
+   "organizer_type": "民間",
    "description": "本場音樂會由張成璞指揮攜手對位室內樂團與漢聲合唱團，演繹韋瓦第聖樂，並跨界獻唱在地創作與流行金曲，以古典與當代的對話，帶領聽眾聆賞感受多元藝術的音樂饗宴。",
    "links": [
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a991dbaa243ae0007eb5b22"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2114001967207419904"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2114001967207419904:20270107"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -26786,7 +28141,7 @@
    ]
   },
   {
-   "id": "iculture:6adb94b826b3245efc75371b",
+   "id": "opentix:2112397802711756801:20270108",
    "title": "激情義大利 -- 與李斯特同遊",
    "start": "2027-01-08T19:30:00+08:00",
    "end": "2027-01-08T21:20:00+08:00",
@@ -26795,21 +28150,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "斐亞文化藝術股份有限公司",
+   "organizer_type": "民間",
+   "description": "激情義大利­­-與李斯特同遊（Passion Italy - A Journey with Liszt）是醞釀已久、兄妹共演的音樂會，父母認為留給兒女最好的資產就是一技之長，手足五人都各學了兩種樂器，其中兩個孩子走上主修音樂的專業道路。小妹瑋德一路深造取得鋼琴博士演奏文憑，成了職業演奏家和音樂系教授。大哥瑟德雖往醫學發展，但從未放棄追求音樂的熱情，跟隨名師鑽研聲樂，並數度受邀與樂團和合唱團演出擔任獨唱。難得的兄妹共演為兩人醞釀已久的計畫，以鋼琴獨奏加上與人聲的對話來呈現李斯特作品中的義大利風情，加上兄妹之間的默契，期待擦出不同的音樂火花。 演出曲目 鋼琴/黃瑋德 Franz Liszt李斯特 …",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2112397802711756801"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2112397802711756801"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6adb94b826b3245efc75371b"
+   ],
    "first_seen": "2026-10-26",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -26822,8 +28184,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國立臺灣交響樂團",
+   "organizer_type": "政府",
    "description": "指揮水藍磅礡呈獻莫札特《布拉格》交響曲、史麥塔納《伏爾塔瓦河》與楊納傑克代表作《塔拉斯．布爾巴》狂想曲，攜手女高音蔣啟真獻唱莫札特《欣喜，歡呼，蒙福的靈魂》。",
    "links": [
     {
@@ -26831,18 +28193,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a72d3cfb9145f0007d60128"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2079143354259632129"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2079143354259632129"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2079143354259632129:20270108",
     "iculture:6a6a32d426b32427d06042ea"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -26991,8 +28359,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
    "description": "2027年KSO璀璨鉅獻，百老匯交響之夜",
    "links": [
     {
@@ -27000,18 +28368,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a992064a243ae0007eb5b9e"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100532931097804801"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100532931097804801"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2100532931097804801:20270109",
     "iculture:6ac52c7f26b324165c32e5a4"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -27178,6 +28552,33 @@
    ]
   },
   {
+   "id": "opentix:2089962838785384449:20270116",
+   "title": "臺灣豫劇團2027賀歲公演《王月英棒打程咬金》、《天門陣》",
+   "start": "2027-01-16T14:30:00+08:00",
+   "end": "2027-01-16T16:30:00+08:00",
+   "venue": "高雄中山堂劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "國立傳統藝術中心(臺灣豫劇團)",
+   "organizer_type": "政府",
+   "description": "臺灣豫劇團2027賀歲公演《王月英棒打程咬金》、《天門陣》，熱鬧登場！ 雙嬌制霸，鐵拳銀槍隨時開戰！ 元配代嫁出奇招，女將揮兵破天門； 豫劇舞臺上見人情百態，經典傳奇中賞巾幗風采！ 《王月英棒打程咬金》大老婆的突襲 替天行道棒打渣男 2027/01/16(六)14:30 【主演】 王月英｜張瑄庭 程咬金｜殷青群 ╱ 吳紹騰 雙演 【劇情簡介】 唐朝名將程咬金因戰功顯赫，受封遊街，卻在參軍馬胡慫恿下，對採桑女王蓮蓮一見鍾情，強行下聘納妾。 元配王月英帶著兒子遠赴長安尋夫，途中巧遇欲投河輕生的王蓮蓮，得知真相後，決定李代桃僵，代替蓮蓮上花轎。 洞房之夜，程咬金驚見新娘竟是王月英，一場妙趣橫生的夫妻…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089962838785384449"
+    }
+   ],
+   "lat": 22.68992611,
+   "lng": 120.29194599,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "iculture:6a9857e626b32434f43580bd",
    "title": "臺灣豫劇團2027賀歲公演《王月英棒打程咬金》、《天門陣》",
    "start": "2027-01-16T14:30:00+08:00",
@@ -27232,7 +28633,7 @@
    ]
   },
   {
-   "id": "iculture:6ab55ab226b324165c32e535",
+   "id": "opentix:2100525514221658113:20270117",
    "title": "《好年》新年音樂會",
    "start": "2027-01-17T14:30:00+08:00",
    "end": "2027-01-17T16:10:00+08:00",
@@ -27241,10 +28642,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
+   "description": "新春有約，樂迎好年 年節漸近，年味也在日常裡慢慢醞釀。熟悉的人準備相聚，街頭多了幾分熱鬧，我們也開始期待即將到來的春節。辭舊迎新的時刻，總讓人懷抱著新的盼望—願未來的日子平安順遂，所盼皆有回音。 連續第五年，高雄市國樂團以「 新年音樂會 」與樂迷相約。五年來，我們以國樂迎接春節，讓一次次相聚，逐漸成為彼此熟悉的期待。我們希望這場音樂會不只是一場節慶演出，而是成為屬於高雄的年度風景。當年節的腳步漸近，走進音樂廳，在熟悉而熱烈的樂聲中相聚，一起迎接農曆新年的到來。 2027年，我們以 《好年》 為名。兩個簡單的字，承載著對新一年的期待，也是一句最真摯的祝福。讓高市國的溫暖樂音，陪伴我們辭舊迎新，也…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100525514221658113"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100525514221658113"
@@ -27252,10 +28657,40 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "iculture:6ab55ab226b324165c32e535"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
+   ]
+  },
+  {
+   "id": "opentix:2089962838785384449:20270117",
+   "title": "臺灣豫劇團2027賀歲公演《王月英棒打程咬金》、《天門陣》",
+   "start": "2027-01-17T14:30:00+08:00",
+   "end": "2027-01-17T16:30:00+08:00",
+   "venue": "高雄中山堂劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "國立傳統藝術中心(臺灣豫劇團)",
+   "organizer_type": "政府",
+   "description": "臺灣豫劇團2027賀歲公演《王月英棒打程咬金》、《天門陣》，熱鬧登場！ 雙嬌制霸，鐵拳銀槍隨時開戰！ 元配代嫁出奇招，女將揮兵破天門； 豫劇舞臺上見人情百態，經典傳奇中賞巾幗風采！ 《王月英棒打程咬金》大老婆的突襲 替天行道棒打渣男 2027/01/16(六)14:30 【主演】 王月英｜張瑄庭 程咬金｜殷青群 ╱ 吳紹騰 雙演 【劇情簡介】 唐朝名將程咬金因戰功顯赫，受封遊街，卻在參軍馬胡慫恿下，對採桑女王蓮蓮一見鍾情，強行下聘納妾。 元配王月英帶著兒子遠赴長安尋夫，途中巧遇欲投河輕生的王蓮蓮，得知真相後，決定李代桃僵，代替蓮蓮上花轎。 洞房之夜，程咬金驚見新娘竟是王月英，一場妙趣橫生的夫妻…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089962838785384449"
+    }
+   ],
+   "lat": 22.68992611,
+   "lng": 120.29194599,
+   "aliases": [],
+   "first_seen": "2026-10-29",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -27545,7 +28980,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "大師藝術",
    "organizer_type": "不確定",
    "description": "2027國際大師鋼琴藝術節大師系列",
    "links": [
@@ -27554,18 +28989,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6aa0cd3b86975700087e7a48"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089559719403778048"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2089559719403778048"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2089559719403778048:20270129",
     "iculture:6a9afcb326b324165c32e35c"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -27633,8 +29074,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "狂美交響管樂團 獨秀文化有限公司",
+   "organizer_type": "民間",
    "description": "九部知名百老匯劇碼-經典薈萃、輝煌共振",
    "links": [
     {
@@ -27642,18 +29083,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6ac4b7947a63f600077248d9"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2099675200914427904"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2099675200914427904"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2099675200914427904:20270130",
     "iculture:6abbf23526b324165c32e549"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -27694,7 +29141,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "大師藝術",
    "organizer_type": "不確定",
    "description": "2027國際大師鋼琴藝術節大師系列",
    "links": [
@@ -27703,18 +29150,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6aa0c4e48979e70007eaceaa"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089674844780937217"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2089674844780937217"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2089674844780937217:20270131",
     "iculture:6a9afcb326b324165c32e35e"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -27978,8 +29431,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "大樹下木笛樂團",
+   "organizer_type": "民間",
    "description": "循著古老樂音軌跡，勾勒音樂新疆界",
    "links": [
     {
@@ -27987,18 +29440,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6ad6d28d86975700089a3a33"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2091786934656536577"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2091786934656536577"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2091786934656536577:20270214",
     "iculture:6a95b4dc26b32434f435808d"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -28102,18 +29561,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a7c1ed886aaf400085432ba"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2087529148804542465"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2087529148804542465"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2087529148804542465:20270219",
     "iculture:6a99ab5326b32434f43580c9"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -28136,18 +29601,26 @@
      "url": "https://www.npac-weiwuying.org/programs/6a7befee238c6f000856821e"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2087045896312655873"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2087045896312655873"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2087045896312655873:20270219",
+    "opentix:2087045896312655873:20270220",
+    "opentix:2087045896312655873:20270221",
     "iculture:6a99ab5a26b32434f43580d2"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -28170,18 +29643,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a8560559199ab00089d55b5"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089992529550589953"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2089992529550589953"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2089992529550589953:20270220",
     "iculture:6a99ab5326b32434f43580ca"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -28204,18 +29683,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6aa26ed28979e70007eb2544"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100194148093235200"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100194148093235200"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2100194148093235200:20270220",
     "iculture:6ac67e0626b324165c32e5b9"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -28265,18 +29750,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a8652909199ab00089d86cb"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2092545579254595585"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2092545579254595585"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2092545579254595585:20270221",
     "iculture:6a99ab5326b32434f43580cd"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -28470,7 +29961,7 @@
    ]
   },
   {
-   "id": "iculture:6ad6504b26b3245efc7536ae",
+   "id": "opentix:2107728173323550721:20270227",
    "title": "《雙城樂章》虹韻新春音樂會",
    "start": "2027-02-27T19:30:00+08:00",
    "end": "2027-02-27T21:30:00+08:00",
@@ -28479,21 +29970,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "跨時代交響樂團",
+   "organizer_type": "民間",
+   "description": "2027年新春之際，跨時代交響樂團首度攜手虹韻文創中心， 共譜一場跨越城市與年代的音樂盛宴。 有些旋律，陪我們走過青春；有些旋律，讓人想起遠方的風景。 從維也納的浪漫走向一首首刻在記憶裡的台灣金曲， 在《雙城樂章》中 ，與你重返流金歲月。 【演出曲目】 - 維也納之夜 小約翰．史特勞斯 Johann Strauss II： 《蝙蝠》序曲 Die Fledermaus, Op. 56: Overture 《南國玫瑰》Rosen aus dem Süden, Op. 388 《春之聲》Frühlingsstimmen, Op. 410 《藍色多瑙河》An der schönen blauen Do…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2107728173323550721"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2107728173323550721"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6ad6504b26b3245efc7536ae"
+   ],
    "first_seen": "2026-10-21",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -28524,7 +30022,7 @@
    ]
   },
   {
-   "id": "iculture:6a9d9fc626b324165c32e371",
+   "id": "opentix:2092199503986237440:20270306",
    "title": "2027風動室內樂團《公主百分百》魔鏡冒險",
    "start": "2027-03-06T13:30:00+08:00",
    "end": "2027-03-06T20:10:00+08:00",
@@ -28533,10 +30031,14 @@
    "district": "苓雅區",
    "category": "親子",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "花格子藝術有限公司 風動室內樂團",
+   "organizer_type": "民間",
+   "description": "👑 【公主百分百】魔鏡冒險 👑 帶著孩子們一起走進公主的奇幻世界！ 《公主百分百》滿足每位小精靈的公主夢🎶🎵 ✨廣大風迷真心推薦✨ 👑 節目介紹 👑 經典回歸！ 風動再度為大家帶來深受親子觀眾喜歡的《公主百分百》第一集－魔鏡冒險！ 不僅現場的小觀眾看得開心💕 跨世代的公主主題曲也讓媽媽憶起自己的童年時代，被許多來看過演出的媽媽喻為「母女約會首選」！ 還不快跟上《公主百分百》的巡迴腳步，超前部屬與公主們的夢幻約會！🏰 內容爆笑又歡樂，演出曲目經典又耳熟能詳🎶🎵 ✨頂尖音樂家現場演奏✖最好玩的互動與夢幻舞蹈✖華麗聲光效果✨ 要帶給孩子們驚喜滿滿的100分鐘演出！ ※互動推球之路線為隨機進行，恕無法…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2092199503986237440"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2092199503986237440"
@@ -28544,10 +30046,13 @@
    ],
    "lat": 22.6259044,
    "lng": 120.3171311,
-   "aliases": [],
+   "aliases": [
+    "iculture:6a9d9fc626b324165c32e371"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -28560,8 +30065,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國立臺灣交響樂團",
+   "organizer_type": "政府",
    "description": "指揮水藍攜手日本小提琴天后庄司紗矢香，精彩呈獻卡斯特諾沃－泰德斯科《先知》協奏曲。同場演繹羅西尼《塞維亞理髮師》序曲與霍爾斯特經典《行星組曲》。",
    "links": [
     {
@@ -28569,23 +30074,29 @@
      "url": "https://www.npac-weiwuying.org/programs/6a72d611b9145f0007d601a5"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2078482062961602561"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2078482062961602561"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2078482062961602561:20270307",
     "iculture:6a6a32d326b32427d06042e5"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
   {
-   "id": "iculture:6acd158326b324165c32e5e5",
+   "id": "opentix:2105134764212035585:20270312",
    "title": "娛人時代《放鳥未來人》EnKram手機殼冠名製作",
    "start": "2027-03-12T19:30:00+08:00",
    "end": "2027-03-13T16:10:00+08:00",
@@ -28594,10 +30105,14 @@
    "district": "苓雅區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "娛人時代 靖學表演工作室",
+   "organizer_type": "民間",
+   "description": "▌購票優惠 ◎四人同行優惠85折 ◎娛人會員娛仔優惠85折 ◎加入娛人官方LINE優惠 9折 現在加入：https://lin.ee/yAzMQ6K ◎加入娛人頻道會員享獨家優惠 現在加入：https://reurl.cc/bDmq1y ▌娛人給你滿滿的快樂能量 最新漫才、爆笑短劇、即興喜劇，以及娛人的搞笑企劃，全都在娛人時代Youtube頻道！ ▌觀看更多娛人時代 Youtube｜娛人時代 facebook ｜娛人時代 Podcast｜娛人的喜劇日常 Youtube｜娛人喜劇日常頻道 Instagram｜comedytimes0401 ▌娛人全新喜劇節目 娛人時代全新喜劇節目《班會別鬧！》 …",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105134764212035585"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105134764212035585"
@@ -28605,10 +30120,14 @@
    ],
    "lat": 22.6259044,
    "lng": 120.3171311,
-   "aliases": [],
+   "aliases": [
+    "opentix:2105134764212035585:20270313",
+    "iculture:6acd158326b324165c32e5e5"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -28621,8 +30140,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國立臺灣交響樂團",
+   "organizer_type": "政府",
    "description": "指揮吳曜宇攜手雙簧管大師席利與樂團，演繹蘇克《幻想詼諧曲》與馬替努《雙簧管協奏曲》、《捷克狂想曲》，呈獻跨越半世紀的捷克音樂蛻變之旅。",
    "links": [
     {
@@ -28630,23 +30149,29 @@
      "url": "https://www.npac-weiwuying.org/programs/6a7968b7ff50b500072e30ee"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2078508164126580737"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2078508164126580737"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2078508164126580737:20270326",
     "iculture:6a6a32d326b32427d06042e6"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
   {
-   "id": "iculture:6ac3dafe26b324165c32e594",
+   "id": "opentix:2093296038536970241:20270405",
    "title": "<音緣聚會> 高雄醫學大學校友合唱團十三週年音樂會",
    "start": "2027-04-05T19:30:00+08:00",
    "end": "2027-04-05T21:30:00+08:00",
@@ -28655,10 +30180,14 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "高雄醫學大學校友合唱團",
+   "organizer_type": "民間",
+   "description": "音緣聚會—高雄醫學大學校友合唱團13週年音樂會 因音樂結緣，因歌聲相聚。 走過十三個年頭，高雄醫學大學校友合唱團始終以歌聲維繫情誼，以音樂豐富生命。來自不同世代與專業領域的團員，因共同的熱愛而相聚，在繁忙生活之餘，以合唱尋找心靈共鳴，也在和聲交織之中，建立深厚而珍貴的友誼。 2027年，高雄醫學大學校友合唱團以《音緣聚會》為題，攜手勝利國小合唱團登上大東文化藝術中心舞台，共同呈現一場融合人文關懷、土地情感與世代傳承的音樂饗宴。 本次演出曲目風格多元，從現代合唱作品到民謠改編，從宗教聖歌到流行經典，展現合唱藝術豐富的表現樣貌。《世界恬靜落下的時》與《雪落下的聲音》以細膩而富詩意的音樂語言，引領聽…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2093296038536970241"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2093296038536970241"
@@ -28666,10 +30195,13 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
+   "aliases": [
+    "iculture:6ac3dafe26b324165c32e594"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -28682,7 +30214,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "弦外之音團",
    "organizer_type": "不確定",
    "description": "國內知名大提琴家、永遠的音樂「玩」童！",
    "links": [
@@ -28691,23 +30223,29 @@
      "url": "https://www.npac-weiwuying.org/programs/6a0e6fb8f2bf2c0008d547c9"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2051212395088396288"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051212395088396288"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2051212395088396288:20270508",
     "iculture:6a0b468826b3243414ccc9b1"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
   {
-   "id": "iculture:6ae22db626b3245efc75373a",
+   "id": "opentix:2112418844367187968:20270516",
    "title": "《樂舞－貓・武藏・小次郎》",
    "start": "2027-05-16T14:30:00+08:00",
    "end": "2027-05-16T16:00:00+08:00",
@@ -28716,10 +30254,14 @@
    "district": "苓雅區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "財團法人臺北市富瑜文教基金會",
+   "organizer_type": "民間",
+   "description": "《樂舞—貓．武藏．小次郎》是一部結合原創音樂、舞蹈表演與舞台科技的八幕音樂舞劇，以「修行、技藝、自由」為核心，透過音樂推進敘事、身體回應哲思，將東方思想轉化為當代舞台語彙。作品融合音樂、舞蹈編創與科技視覺，打造兼具敘事性、哲思與沉浸感的視聽體驗。透過跨域合作，探索音樂、身體、影像與空間之間的關係，讓觀眾感受傳統精神與當代創作的交會。",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2112418844367187968"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2112418844367187968"
@@ -28727,14 +30269,17 @@
    ],
    "lat": 22.6259044,
    "lng": 120.3171311,
-   "aliases": [],
+   "aliases": [
+    "iculture:6ae22db626b3245efc75373a"
+   ],
    "first_seen": "2026-10-29",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
-   "id": "iculture:6a9d9fc626b324165c32e372",
+   "id": "opentix:2092433205804978177:20270522",
    "title": "2027風動室內樂團《公主百分百2》生日驚喜",
    "start": "2027-05-22T13:30:00+08:00",
    "end": "2027-05-22T20:00:00+08:00",
@@ -28743,10 +30288,14 @@
    "district": "苓雅區",
    "category": "親子",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "花格子藝術有限公司 風動室內樂團",
+   "organizer_type": "民間",
+   "description": "👑《公主百分百2》生日驚喜👑 大小朋友一起聆聽迪士尼經典音樂♪ 伴隨心動的旋律，與孩子共同度過美好的時光！ 系列節目全台巡演十年，超萌小公主大集合！ 趕快一起加入公主們的派對吧！ 👑 大小公主真心推薦 👑 👑節目介紹👑 萬眾期待！人氣親子音樂劇《公主百分百》巡演十年， 最新續作——《公主百分百2》生日驚喜 熱烈上映！ 頂尖音樂家現場演奏✖最好玩的互動與夢幻舞蹈✖華麗聲光效果 要帶給孩子們驚喜滿滿的90分鐘演出！ ※互動推球之路線為隨機進行，恕無法指定或保證推球至特定座位區域；基於安全考量，部分場館高樓層觀眾席將不實施此互動，如介意此互動形式，敬請斟酌購票。 在準備派對的過程中，公主們會邀請全場…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2092433205804978177"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2092433205804978177"
@@ -28754,14 +30303,17 @@
    ],
    "lat": 22.6259044,
    "lng": 120.3171311,
-   "aliases": [],
+   "aliases": [
+    "iculture:6a9d9fc626b324165c32e372"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
-   "id": "iculture:6aaacec726b324165c32e41a",
+   "id": "opentix:2097267213329641473:20270530",
    "title": "《生氣王子》親子繪本音樂會",
    "start": "2027-05-30T13:30:00+08:00",
    "end": "2027-05-30T17:45:00+08:00",
@@ -28770,10 +30322,14 @@
    "district": "苓雅區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "漫響室內樂團",
+   "organizer_type": "民間",
+   "description": "✨點我加入官方Line 索取 𝟴𝟴折購票優惠碼✨ 改編自知名 繪本作家賴馬 的經典同名繪本 《生氣王子》 ，由 漫響室內樂團 精緻打造，以 銅管五重奏 結合 戲劇 與 馬戲 ，熱鬧呈現！ 故事描述愛生氣的 「艾迪王子」 ，一生氣就會變身成大吼大叫的生氣大象， 為了期待已久的「樂園之旅」，艾迪悄悄準備了一個神祕的 「生氣解藥」 。 不料一路上大家爭執不斷，艾迪更在樂園探險中意外走失！ 當一家人在摩天輪重逢，終於 擁抱彼此的情緒 。 【節目看點】 〃 繪本角色大登台！生氣大象立體現身 〃 繪本變立體！生氣王子現場唱跳給你看！ 〃 夢幻樂園驚喜開園！現場大派對歡樂登場 〃 跟著現場樂團的聲響指令，一…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2097267213329641473"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2097267213329641473"
@@ -28781,14 +30337,17 @@
    ],
    "lat": 22.6259044,
    "lng": 120.3171311,
-   "aliases": [],
+   "aliases": [
+    "iculture:6aaacec726b324165c32e41a"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
-   "id": "iculture:6ac137fe26b324165c32e58c",
+   "id": "opentix:2105220410034397185:20270606",
    "title": "四十週年系列《呂紹嘉、葛里戈里恩與NSO》（高雄場）",
    "start": "2027-06-06T15:00:00+08:00",
    "end": "2027-06-06T17:00:00+08:00",
@@ -28797,21 +30356,28 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
+   "organizer": "國家表演藝術中心國家交響樂團 衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "西貝流士取材自芬蘭民族史詩《卡列瓦拉》寫成《傳說》交響詩組曲，其中以騎士雷敏凱能的冒險和愛情為主軸，透過寫意的手法，展現了作曲家特有的冷冽、卻迷人的音樂魅力。相較之下，理查．史特勞斯則是以華麗的管絃樂色彩、以及纖細的音樂氣質而著稱，他的藝術歌曲更是融合了敏銳的心思，蘊含回味無窮的神韻。 立陶宛女高音葛里戈里恩以極具感染力的音色，被讚譽為當今國際歌劇舞臺上最出色的抒情與戲劇女高音之一。NSO四十週年系列，榮譽指揮呂紹嘉的細膩詮釋，葛里戈里恩水晶般的光采歌聲，帶您現場體驗西貝流士與理查．史特勞斯的音樂精髓！ 【演出人員】 指揮／呂紹嘉 女高音／阿斯米克．葛里戈里恩 國家交響樂團 Shao-Chia…",
    "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105220410034397185"
+    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2105220410034397185"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "iculture:6ac137fe26b324165c32e58c"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture"
+    "iculture",
+    "opentix"
    ]
   },
   {
@@ -28824,8 +30390,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國立臺灣交響樂團",
+   "organizer_type": "政府",
    "description": "NTSO首席客席指揮水藍攜手鋼琴家白建宇，於貝多芬逝世200週年呈獻全套鋼琴協奏曲。從三號的命運張力到五號《皇帝》的雄偉氣魄，兩位大師將以細膩對話致敬樂聖。",
    "links": [
     {
@@ -28833,18 +30399,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a796672ff50b500072e306f"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2078514533891313664"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2078514533891313664"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2078514533891313664:20270617",
     "iculture:6a6a32d326b32427d06042e7"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },

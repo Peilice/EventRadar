@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, TAIPEI, Event, Link
-from eventradar.sources import accupass, iculture, khcc, khh_travel, kpmc, ksml, twmarket, weiwuying
+from eventradar.sources import accupass, iculture, khcc, khh_travel, kpmc, ksml, opentix, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -330,3 +330,35 @@ class TestKhcc:
             "admission": "免票",
             "description": "",
         }
+
+
+class TestOpentix:
+    def test_parses(self, fixture_bytes, now):
+        events = opentix.parse(fixture_bytes("opentix.json"), now)
+        _check_common(events, now)
+        assert sum(1 for e in events if e.district) >= len(events) * 0.9
+
+    def test_sessions_merged_per_day(self, fixture_bytes, now):
+        events = {e.id: e for e in opentix.parse(fixture_bytes("opentix.json"), now)}
+        prefix = "opentix:2075422956057141248:"
+        days = sorted(k[len(prefix):] for k in events if k.startswith(prefix))
+        assert days == ["20261106", "20261107", "20261108"]
+        e = events[prefix + "20261107"]  # 14:30 與 19:30 兩場
+        assert (e.start.strftime("%H:%M"), e.end.strftime("%H:%M")) == ("14:30", "21:10")
+        assert (e.venue, e.district, e.fee) == ("駁二正港小劇場", "鹽埕區", "付費")
+        assert e.links[0].url == "https://www.opentix.life/event/2075422956057141248"
+
+    def test_only_kaohsiung_venue(self, fixture_bytes, now):
+        events = [e for e in opentix.parse(fixture_bytes("opentix.json"), now) if e.id.startswith("opentix:2010907685806804993:")]
+        # 臺中、高雄、臺北巡演，只留高雄場
+        assert [(e.venue, e.start.date().isoformat()) for e in events] == [("衛武營國家藝術文化中心表演廳", "2026-12-06")]
+
+    def test_skips_test_programs_and_zones(self, fixture_bytes, now):
+        titles = {e.title for e in opentix.parse(fixture_bytes("opentix.json"), now)}
+        assert "新手村 節目" not in titles  # 工程師測試用
+        assert "衛武營主辦節目免費身障票專區" not in titles
+
+    def test_fee(self):
+        assert opentix._fee([{"minPrice": 0, "maxPrice": 0}]) == "免費"
+        assert opentix._fee([{"minPrice": 500, "maxPrice": 1200}]) == "付費"
+        assert opentix._fee([]) == "未知"
