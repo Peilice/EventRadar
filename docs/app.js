@@ -917,7 +917,9 @@ function closePanels() {
 
 // --- 捲動 ---
 
-const stickyHeight = () => $("#top").getBoundingClientRect().height;
+// 頂列下緣還掛著一道浪（見 style.css 的 .top::after），日期標頭要黏在浪的下面
+const WAVE_DEPTH = 14;
+const stickyHeight = () => $("#top").getBoundingClientRect().height + WAVE_DEPTH;
 
 function jumpTo(day) {
   const sec = document.getElementById(`d-${day}`);
