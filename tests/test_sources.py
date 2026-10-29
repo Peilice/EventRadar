@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, TAIPEI, Event, Link
-from eventradar.sources import accupass, iculture, khcc, khh_travel, kpmc, ksml, opentix, twmarket, weiwuying
+from eventradar.sources import accupass, iculture, khcc, khh_travel, kmfa, kpmc, ksml, opentix, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -362,3 +362,32 @@ class TestOpentix:
         assert opentix._fee([{"minPrice": 0, "maxPrice": 0}]) == "免費"
         assert opentix._fee([{"minPrice": 500, "maxPrice": 1200}]) == "付費"
         assert opentix._fee([]) == "未知"
+
+
+class TestKmfa:
+    def test_parses(self, fixture_bytes, now):
+        events = kmfa.parse(fixture_bytes("kmfa.json"), now)
+        _check_common(events, now)
+        assert all(e.district == "鼓山區" and e.organizer_type == "政府" for e in events)
+
+    def test_time_from_title(self, fixture_bytes, now):
+        events = {e.id: e for e in kmfa.parse(fixture_bytes("kmfa.json"), now)}
+        e = events["kmfa:750753d7-e525-406c-838d-ad5ad731e7d3"]
+        assert e.start.isoformat() == e.end.isoformat() == "2026-11-01T14:00:00+08:00"
+        assert (e.venue, e.address, e.fee) == ("高雄市立美術館 地下樓演講廳", "高雄市鼓山區美術館路80號", "付費")
+        assert e.links[0].url == "https://www.kmfa.gov.tw/OnlineApplyDetailC001200.aspx?Cond=750753d7-e525-406c-838d-ad5ad731e7d3"
+        tour = events["kmfa:90fd7d19-0c4a-4385-b5db-d1a92b0a6849"]  # 標題沒寫時間：整段期間
+        assert (tour.start.isoformat(), tour.end.isoformat()) == ("2026-09-08T00:00:00+08:00", "2026-11-29T23:59:59+08:00")
+        assert tour.fee == "免費"  # 「子機租借費用$50」不算票價
+
+    def test_sites(self, fixture_bytes, now):
+        events = {e.id: e for e in kmfa.parse(fixture_bytes("kmfa.json"), now)}
+        kids = events["kmfa:31439cc0-5d1d-4720-90e3-2f8c46955fbc"]
+        assert (kids.venue, kids.address) == ("高雄兒童美術館", "高雄市鼓山區馬卡道路330號")
+        assert events["kmfa:d76631d1-a917-4a01-861c-99fcaa9facd8"].venue == "高雄市立美術館園區 地下樓演講廳"
+
+    def test_skips_non_events(self, fixture_bytes, now):
+        ids = {e.id for e in kmfa.parse(fixture_bytes("kmfa.json"), now)}
+        assert "kmfa:611e7186-f90b-4481-a92b-67883e02616c" not in ids  # 徵件
+        assert "kmfa:6c1c6773-96a5-412f-b099-5fffd6fd6e84" not in ids  # 訂閱優惠
+        assert "kmfa:b885f858-d065-4fb3-8338-35048c03a30b" not in ids  # 歡迎來信洽詢合作
