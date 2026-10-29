@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, TAIPEI, Event, Link
-from eventradar.sources import accupass, iculture, khcc, khh_travel, kmfa, kpmc, ksml, opentix, tixcraft, twmarket, weiwuying
+from eventradar.sources import accupass, iculture, khcc, khh_travel, khm, kmfa, kpmc, ksml, opentix, tixcraft, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -425,3 +425,36 @@ class TestTixcraft:
             "title": "Bruno Mars - The Romantic Tour",
             "venue": "高雄國家體育場(世運主場館)",
         }]
+
+
+class TestKhm:
+    def test_parses(self, fixture_bytes, now):
+        events = khm.parse(fixture_bytes("khm.json"), now)
+        _check_common(events, now)
+        assert all(e.district and e.organizer_type == "政府" for e in events)
+
+    def test_session_table(self, fixture_bytes, now):
+        events = {e.id: e for e in khm.parse(fixture_bytes("khm.json"), now)}
+        e = events["khm:411"]
+        assert (e.start.isoformat(), e.end.isoformat()) == ("2026-11-21T14:00:00+08:00", "2026-11-21T16:00:00+08:00")
+        assert (e.venue, e.district, e.fee) == ("左營孔廟(蓮潭路400號)", "左營區", "免費")
+        assert e.links[0].url == "https://www.khm.org.tw/tw/event/detail/411"
+
+    def test_without_session_table(self, fixture_bytes, now):
+        events = {e.id: e for e in khm.parse(fixture_bytes("khm.json"), now)}
+        ride = events["khm:349"]  # 外部表單報名：日期整天、地點從內文讀
+        assert (ride.start.isoformat(), ride.end.isoformat()) == ("2026-02-23T00:00:00+08:00", "2026-12-31T23:59:59+08:00")
+        assert (ride.venue, ride.district, ride.fee) == ("舊打狗驛故事館月台", "鼓山區", "未知")
+        assert events["khm:370"].venue == "舊打狗驛故事館"  # 內文沒寫地點，用標題開頭的館名
+
+    def test_parse_detail(self):
+        page = (
+            '<h3>Event Session</h3><table><tbody><tr><td data-title="場次">一般</td>'
+            '<td data-title="活動時間">2026.11.07 15:00 ~ 2026.11.07 17:00</td>'
+            '<td data-title="活動地點">高雄市立歷史博物館203多功能室</td><td data-title="活動費用">0</td></tr></tbody></table>'
+            '<h3>Information</h3><p>◆講座簡介：</p><p>國姓爺鄭成功</p><h3>Reminders</h3>'
+        )
+        assert khm.parse_detail(page) == {
+            "sessions": [{"time": "2026.11.07 15:00 ~ 2026.11.07 17:00", "place": "高雄市立歷史博物館203多功能室", "fee": "0"}],
+            "info": "◆講座簡介：\n國姓爺鄭成功",
+        }
