@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T04:45:53.113320+08:00",
+ "fetched_at": "2026-10-29T21:15:30.784649+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -508,6 +508,33 @@
    ],
    "lat": 22.63025,
    "lng": 120.34391,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008146",
+   "title": "2026 KFA高雄時尚大賞決賽暨頒獎典禮",
+   "start": "2026-11-14T00:00:00+08:00",
+   "end": "2026-11-14T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市807三民區高雄車站下沉式廣場",
+   "district": "三民區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府青年局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8146/"
+    }
+   ],
+   "lat": 22.63949,
+   "lng": 120.30258,
    "aliases": [],
    "first_seen": "",
    "sources": [
