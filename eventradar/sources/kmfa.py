@@ -8,6 +8,7 @@
   標題沒寫時間的活動視為整天
 - 費用只看內文中提到票價、報名費、免費的行，判斷不出來標「未知」
 - 徵件、訂閱優惠、團體洽詢合作這類不是活動的項目不收
+- 網域走 cbricdns 的 CDN，GitHub Actions 上 DNS 解析時好時壞，改由本機 runner 抓取，每日更新以 --skip 沿用快取
 """
 
 from __future__ import annotations

@@ -1,10 +1,11 @@
-name: 本機抓取衛武營、文化部與拓元
+name: 本機抓取衛武營、文化部、拓元與美術館
 
 # 這些來源改在台灣的 self-hosted runner 抓：
 # - 衛武營擋 GitHub Actions 機房的 IP（nginx 直接回 403）
 # - 文化部 iCulture 在 CI 執行的凌晨時段常缺 OPENTIX、年代售票匯入的活動（只剩約四成，有時只剩個位數），
 #   本機 23:30 抓則完整
 # - 拓元擋 GitHub Actions 機房的 IP（回 403 身分驗證頁）
+# - 美術館網域走 cbricdns 的 CDN，Actions 上 DNS 解析時好時壞
 # 只提交 data/sources/ 的快取，網頁資料由「每日更新活動」以 --skip 合併輸出。
 on:
   schedule:
@@ -37,7 +38,7 @@ jobs:
       # 有來源失敗時程式回傳非 0，但成功的來源快取已寫出：先提交，最後再標記失敗
       - name: 抓取活動
         id: fetch
-        run: .venv\Scripts\python -m eventradar --only weiwuying iculture tixcraft
+        run: .venv\Scripts\python -m eventradar --only weiwuying iculture tixcraft kmfa
         continue-on-error: true
 
       # Windows PowerShell 5.1 會把 runner 產生的腳本（無 BOM 的 UTF-8）當成 Big5 讀，
@@ -45,11 +46,11 @@ jobs:
       # --only 仍會重寫 docs/data 與 first_seen.json（交給每日更新產生），commit 後先丟掉才能 pull --rebase
       - name: 提交資料
         env:
-          COMMIT_MESSAGE: 更新衛武營、文化部與拓元活動資料
+          COMMIT_MESSAGE: 更新衛武營、文化部、拓元與美術館活動資料
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/sources/weiwuying.json data/sources/iculture.json data/sources/tixcraft.json
+          git add data/sources/weiwuying.json data/sources/iculture.json data/sources/tixcraft.json data/sources/kmfa.json
           git diff --cached --quiet
           if ($LASTEXITCODE -eq 0) {
             echo "No changes"
