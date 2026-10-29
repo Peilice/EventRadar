@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, TAIPEI, Event, Link
-from eventradar.sources import accupass, iculture, khcc, khh_travel, kmfa, kpmc, ksml, opentix, twmarket, weiwuying
+from eventradar.sources import accupass, iculture, khcc, khh_travel, kmfa, kpmc, ksml, opentix, tixcraft, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -391,3 +391,37 @@ class TestKmfa:
         assert "kmfa:611e7186-f90b-4481-a92b-67883e02616c" not in ids  # 徵件
         assert "kmfa:6c1c6773-96a5-412f-b099-5fffd6fd6e84" not in ids  # 訂閱優惠
         assert "kmfa:b885f858-d065-4fb3-8338-35048c03a30b" not in ids  # 歡迎來信洽詢合作
+
+
+class TestTixcraft:
+    def test_parses(self, fixture_bytes, now):
+        events = tixcraft.parse(fixture_bytes("tixcraft.json"), now)
+        _check_common(events, now)
+        assert all("高雄" in e.venue and e.district and e.fee == "付費" for e in events)
+
+    def test_fields(self, fixture_bytes, now):
+        events = {e.id: e for e in tixcraft.parse(fixture_bytes("tixcraft.json"), now)}
+        e = events["tixcraft:27_brunomars"]
+        assert (e.start.isoformat(), e.end.isoformat()) == ("2027-05-01T00:00:00+08:00", "2027-05-02T23:59:59+08:00")
+        assert (e.venue, e.district) == ("高雄國家體育場(世運主場館)", "左營區")
+        assert e.links[0].url == "https://tixcraft.com/activity/detail/27_brunomars"
+        assert events["tixcraft:26_ksmasters"].category == "運動"  # 2026高雄羽球大師賽
+
+    def test_skips_zones_and_other_cities(self, fixture_bytes, now):
+        events = tixcraft.parse(fixture_bytes("tixcraft.json"), now)
+        assert not any("專區" in e.title for e in events)
+        assert len({e.title for e in events}) == len(events)  # 各分頁重複列出的同一節目只留一筆
+
+    def test_parse_list(self):
+        page = (
+            '<div class="text-small date">2027/05/01 (Sat.)  ~ 2027/05/02 (Sun.) </div> '
+            '<div class="text-bold pt-1 pb-1"><a href="/activity/detail/27_brunomars">Bruno Mars - The Romantic Tour</a></div> '
+            '<div class="text-small text-med-light">高雄國家體育場(世運主場館)</div>'
+        )
+        assert tixcraft.parse_list(page) == [{
+            "slug": "27_brunomars",
+            "url": "https://tixcraft.com/activity/detail/27_brunomars",
+            "dates": "2027/05/01 (Sat.) ~ 2027/05/02 (Sun.)",
+            "title": "Bruno Mars - The Romantic Tour",
+            "venue": "高雄國家體育場(世運主場館)",
+        }]

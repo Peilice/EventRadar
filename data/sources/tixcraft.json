@@ -1,0 +1,275 @@
+{
+ "fetched_at": "2026-10-29T18:50:57.091888+08:00",
+ "events": [
+  {
+   "id": "tixcraft:27_brunomars",
+   "title": "Bruno Mars - The Romantic Tour",
+   "start": "2027-05-01T00:00:00+08:00",
+   "end": "2027-05-02T23:59:59+08:00",
+   "venue": "高雄國家體育場(世運主場館)",
+   "address": "",
+   "district": "左營區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/27_brunomars"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:27_bbdb",
+   "title": "beabadoobee：The Powerlines Tour in Kaohsiung",
+   "start": "2027-04-11T00:00:00+08:00",
+   "end": "2027-04-11T23:59:59+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/27_bbdb"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:27_westlife",
+   "title": "WESTLIFE 25：THE ANNIVERSARY WORLD TOUR",
+   "start": "2027-01-30T00:00:00+08:00",
+   "end": "2027-01-30T23:59:59+08:00",
+   "venue": "高雄巨蛋",
+   "address": "",
+   "district": "左營區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/27_westlife"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:27_maroon5",
+   "title": "Maroon 5 Asia 2027 in Kaohsiung",
+   "start": "2027-01-24T00:00:00+08:00",
+   "end": "2027-01-24T23:59:59+08:00",
+   "venue": "高雄國家體育場(世運主場館)",
+   "address": "",
+   "district": "左營區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/27_maroon5"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:27_bluekh",
+   "title": "Blue 25th Anniversary Tour in Kaohsiung",
+   "start": "2027-01-17T00:00:00+08:00",
+   "end": "2027-01-17T23:59:59+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/27_bluekh"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:26_topkh",
+   "title": "T.O.P PRE-STUDIO 2026 in KAOHSIUNG",
+   "start": "2026-12-19T00:00:00+08:00",
+   "end": "2026-12-19T23:59:59+08:00",
+   "venue": "高雄巨蛋",
+   "address": "",
+   "district": "左營區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/26_topkh"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:26_aaa",
+   "title": "2026 Asia Artist Awards in Kaohsiung",
+   "start": "2026-12-05T00:00:00+08:00",
+   "end": "2026-12-06T23:59:59+08:00",
+   "venue": "高雄國家體育場(世運主場館)",
+   "address": "",
+   "district": "左營區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/26_aaa"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:26_joji",
+   "title": "JOJI SOLARIS",
+   "start": "2026-11-27T00:00:00+08:00",
+   "end": "2026-11-27T23:59:59+08:00",
+   "venue": "高雄巨蛋",
+   "address": "",
+   "district": "左營區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/26_joji"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:26_btskns",
+   "title": "BTS WORLD TOUR ’ARIRANG’ IN KAOHSIUNG",
+   "start": "2026-11-19T00:00:00+08:00",
+   "end": "2026-11-22T23:59:59+08:00",
+   "venue": "高雄國家體育場",
+   "address": "",
+   "district": "左營區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/26_btskns"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:26_ksmasters",
+   "title": "2026高雄羽球大師賽",
+   "start": "2026-11-11T00:00:00+08:00",
+   "end": "2026-11-15T23:59:59+08:00",
+   "venue": "高雄巨蛋",
+   "address": "",
+   "district": "左營區",
+   "category": "運動",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/26_ksmasters"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  }
+ ]
+}
