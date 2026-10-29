@@ -1,9 +1,10 @@
 """各來源解析器：以存下來的真實回應測試。網站改版時這裡會先壞。"""
 
 import json
+from datetime import datetime
 
-from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, Event, Link
-from eventradar.sources import accupass, iculture, khh_travel, kpmc, ksml, twmarket, weiwuying
+from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, TAIPEI, Event, Link
+from eventradar.sources import accupass, iculture, khcc, khh_travel, kpmc, ksml, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -254,3 +255,78 @@ class TestKsml:
         assert ksml._branch_of("文化中心分館4樓團欣室") == "高雄市文化中心分館"
         assert ksml._branch_of("南鼓山分館") == "南鼓山分館"
         assert ksml._branch_of("李科永圖書館 戶外草坪") == "李科永紀念圖書館"
+
+
+class TestKhcc:
+    def test_parses(self, fixture_bytes, now):
+        events = khcc.parse(fixture_bytes("khcc.json"), now)
+        _check_common(events, now)
+        assert all(e.district for e in events)
+        assert {e.category for e in events} >= {"展覽", "表演／音樂"}
+
+    def test_exhibition(self, fixture_bytes, now):
+        events = {e.id: e for e in khcc.parse(fixture_bytes("khcc.json"), now)}
+        e = events["khcc:4324"]
+        assert e.title == "2026清流畫會會員聯展" and e.category == "展覽"
+        assert (e.start.isoformat(), e.end.isoformat()) == ("2026-10-23T00:00:00+08:00", "2026-11-03T23:59:59+08:00")
+        assert (e.venue, e.address, e.district) == ("高雄市文化中心 至真堂三館", "高雄市苓雅區五福一路67號", "苓雅區")
+        assert e.description.startswith("清流畫會秉持推廣水墨藝術")
+        assert e.links[0].url.endswith("EXEC=D&DATA=4324")
+
+    def test_performance_one_event_per_day(self, fixture_bytes, now):
+        events = {e.id: e for e in khcc.parse(fixture_bytes("khcc.json"), now)}
+        # 11/1 有 15:00 與 19:30 兩場，合併成最早開始到最晚結束
+        e = events["khcc:-40200:20261101"]
+        assert (e.start.strftime("%H:%M"), e.end.strftime("%H:%M")) == ("15:00", "22:00")
+        assert "khcc:-40200:20261102" in events and "khcc:-40200:20261103" in events
+        assert e.fee == "付費" and e.organizer == "凡事策劃藝文整合有限公司"
+        assert e.description == "演出單位：凡事策劃藝文整合有限公司"
+
+    def test_skips_private_and_ended(self, fixture_bytes, now):
+        events = khcc.parse(fixture_bytes("khcc.json"), now)
+        titles = {e.title for e in events}
+        assert "2026奧斯卡音樂大賽" not in titles  # 入場方式：特定對象
+        assert not any(e.venue.startswith("岡山") for e in events)  # 岡山這段期間都是特定對象
+        later = khcc.parse(fixture_bytes("khcc.json"), datetime(2026, 11, 4, tzinfo=TAIPEI))
+        assert "khcc:4324" not in {e.id for e in later}  # 11/3 結束
+
+    def test_venue_names(self, fixture_bytes, now):
+        venues = {e.venue for e in khcc.parse(fixture_bytes("khcc.json"), now)}
+        assert "大東演藝廳" in venues and "高雄市音樂館" in venues
+        assert "大東文化藝術中心展覽館303" in venues  # 去掉「每日10-17時,周一無休」
+        assert "高雄市音樂館 音樂館" not in venues and not any("每日" in v for v in venues)
+
+    def test_fee(self):
+        assert khcc._fee("免票") == "免費"
+        assert khcc._fee("售票") == "付費"
+        assert khcc._fee("索票 (於服務台索取，每人2張)") == "免費"
+        assert khcc._fee("") == "未知"
+
+    def test_parse_list(self):
+        page = (
+            '<div class="row m101_box" onclick="x"><div class="col-md-9">'
+            '<div style="m">活動名稱:<a href="rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40130&AP=$M102_DATE-115/10/31">'
+            '<span style="color:#863408"><午茶絲竹吧></span></a>\n</div>'
+            '<div style="m">演出時間:<span>115/10/31 17:00~18:00</span></a>\n</div>'
+            '<div style="m">演出地點：大東戶外舞台</span></a>\n</div>'
+            '<div style="m">演出單位：高雄市國樂團C</span></a>\n</div></div></div>'
+            '<table><tr><td><a href="#" onClick="GoPage5700(2)">2</a></td></tr></table>'
+        )
+        [item] = khcc.parse_list(page, "04")
+        assert item["title"] == "<午茶絲竹吧>"
+        assert (item["kind"], item["data"], item["when"]) == ("performance", "-40130", "115/10/31 17:00~18:00")
+        assert (item["place"], item["performer"]) == ("大東戶外舞台", "高雄市國樂團C")
+        assert khcc._last_page(page) == 2
+
+    def test_parse_detail(self):
+        page = (
+            '<div  id="toplink"><div class="m1">活動訊息</div></div>'
+            '<div style="m">主辦單位：高雄市政府文化局 財團法人高雄市愛樂文化藝術基金會</div>'
+            '<div style="m">演出時間：115/10/31 (六) | 17:00~18:00</div>'
+            '<div style="m">入場方式：免票</div><div>BACK</div>'
+        )
+        assert khcc.parse_detail(page) == {
+            "organizer": "高雄市政府文化局 財團法人高雄市愛樂文化藝術基金會",
+            "admission": "免票",
+            "description": "",
+        }

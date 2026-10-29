@@ -1,0 +1,2732 @@
+{
+ "fetched_at": "2026-10-29T18:22:16.577595+08:00",
+ "events": [
+  {
+   "id": "khcc:4324",
+   "title": "2026清流畫會會員聯展",
+   "start": "2026-10-23T00:00:00+08:00",
+   "end": "2026-11-03T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂三館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "清流畫會秉持推廣水墨藝術、弘揚東方繪畫精神之理念，以實踐《論語》所倡「志道據德，依仁遊藝」的人文理想為宗旨。創作題材涵蓋山川自然、人文風情、花鳥意象，以及生命哲思與心靈觀照等多元面向，展現豐富而深刻的藝術內涵。\n畫會會員的創作既不拘泥於傳統窠臼，亦不盲從於當代思潮，而是在傳承與創新之間尋求平衡。作品兼容具象與抽象、工筆與寫意，融會中西藝術語彙，以開放而深厚的創作視野，展現水墨藝術多元而細膩的表現形式。每件作品皆圍繞著人與自然的對話，在時代脈動中，始終堅守東方人文美學的精神底蘊。\n在評議委員黃才松教授指導鼓勵下，會員彼此切磋砥礪、相互激勵，共同追求藝術境界的精進與超越。多年來，會員作品於國內外各項美術展覽屢獲殊榮，深受藝術界與社會各界肯定。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4324"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4326",
+   "title": "中華民國臺灣南部美術協會 第74年南部展",
+   "start": "2026-10-30T00:00:00+08:00",
+   "end": "2026-11-10T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂一館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "展出地點/至真堂一、二館\n「南部展」是南部地區藝術家交流互動的平台，除會員創作品展出外，創立公募培育美術人才，設收藏獎，對於藝術扎根付出心力，榮獲2022年高雄文藝獎。今年大展仍承襲優良傳統慣例，於高雄市文化中心展出會員及全國徵件得奬作品約90件，媒材有油畫、水彩、粉彩、壓克力、複合媒材、墨彩、膠彩等。\n活動內容：\n10/31（六)下午3：00開幕茶會暨徵畫頒獎典禮\n11/1（日）下午3：00作品導覽\n11/8(日)下午3:00~4:00作品研討會\n第74年南部展2026全國徵畫得獎名單如下：\n＊金牌獎 :徐美鈴\n＊銀牌獎 :張以燐\n＊銅牌獎 :張信宏\n＊優選 :\n蘇慧堅 林春源 許秀玟 林妙君 張杏熙 陳永清 陳美秀 楊韻玹\n＊入選 :\n吳尚靜 卓美黛 沈煥東 蘇玉燕 楚淑雅 吳玉琴 陳玉鳳 蔣如綺 謝碧雲 陳玉蘭 曾期正\n陳彬彬 張憲楷 張希群 方德齡 葉軒汝 葉如箴 陳 璿 林栩辰 詹秋月 林綉茹 湯嘉明\n李麗娟 簡川特",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4326"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4315",
+   "title": "藝境共築-高雄市美術推廣傑人會顧問暨會員聯展",
+   "start": "2026-10-30T00:00:00+08:00",
+   "end": "2026-11-10T23:59:59+08:00",
+   "venue": "高雄市文化中心 至美軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "高雄市美術推廣傑人會創立於2014年。本會積極主動以真善美的精神，協助推廣藝術使命，為本土藝術之各類多元藝術家，藉新存在主義之精神，以美學為出發潛移默化民心，致力傑出美術創作與推廣為宗旨。\n本展覽以本會的設立宗旨為出發，「藝境共築」強調集體參與的共構歷程，觀賞者在欣賞作品過程中，已成為意境的一部分，與創作者一同完成美感、思想、情感的集體構築與樣貌，期待達到美感共融的境界。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4315"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39908:20261031",
+   "title": "《暗喻幻想》Metaphor：ReFantazio 交響音樂會",
+   "start": "2026-10-31T19:30:00+08:00",
+   "end": "2026-10-31T22:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "凡事策劃藝文整合有限公司&東穹國際音樂股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：凡事策劃藝文整合有限公司&東穹國際音樂股份有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39908&AP=$M102_DATE-115/10/31"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37737:20261031",
+   "title": "藝術市集",
+   "start": "2026-10-31T16:00:00+08:00",
+   "end": "2026-10-31T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37737&AP=$M102_DATE-115/10/31"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40200:20261101",
+   "title": "UNDERTALE：The Determination Symphony",
+   "start": "2026-11-01T15:00:00+08:00",
+   "end": "2026-11-01T22:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "凡事策劃藝文整合有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：凡事策劃藝文整合有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40200&AP=$M102_DATE-115/11/01"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39997:20261101",
+   "title": "歡顏 II 高雄吉他室內樂團音樂會",
+   "start": "2026-11-01T14:30:00+08:00",
+   "end": "2026-11-01T17:00:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "莊嘉良吉他合奏團",
+   "organizer_type": "不確定",
+   "description": "演出單位：高雄吉他室內樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39997&AP=$M102_DATE-115/11/01"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261101",
+   "title": "藝術市集",
+   "start": "2026-11-01T16:00:00+08:00",
+   "end": "2026-11-01T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/01"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40200:20261102",
+   "title": "UNDERTALE：The Determination Symphony",
+   "start": "2026-11-02T19:00:00+08:00",
+   "end": "2026-11-02T21:30:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "凡事策劃藝文整合有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：凡事策劃藝文整合有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40200&AP=$M102_DATE-115/11/02"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40200:20261103",
+   "title": "UNDERTALE：The Determination Symphony",
+   "start": "2026-11-03T19:00:00+08:00",
+   "end": "2026-11-03T21:30:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "凡事策劃藝文整合有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：凡事策劃藝文整合有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40200&AP=$M102_DATE-115/11/03"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4325",
+   "title": "馬悅至真 – 高雄市中國書畫學會會員聯展",
+   "start": "2026-11-06T00:00:00+08:00",
+   "end": "2026-11-17T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂三館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "本會秉持「書畫藝術傳承、發揚光大」的主旨，展現會友們持續不輟的藝術創作能量，用筆墨敘述自然及自在的生活故事，以「書畫同源」之論點，追求形神合一的筆墨趣味，透過繪畫、書藝等不同視覺媒介，傳達中華文化精華之美，是匯集會員們心靈創作的藝術篇章。2026/11/08(日)下午14:30舉行開幕,歡迎蒞臨共襄盛舉。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4325"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40201:20261107",
+   "title": "FOCASA馬戲團《幾米男孩的100次勇敢》",
+   "start": "2026-11-07T14:30:00+08:00",
+   "end": "2026-11-07T22:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "FOCASA馬戲團",
+   "organizer_type": "不確定",
+   "description": "演出單位：FOCASA馬戲團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40201&AP=$M102_DATE-115/11/07"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39998:20261107",
+   "title": "《2026舞囝仔的夢》",
+   "start": "2026-11-07T19:30:00+08:00",
+   "end": "2026-11-07T22:00:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄囝仔舞團",
+   "organizer_type": "民間",
+   "description": "演出單位：高雄囝仔舞團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39998&AP=$M102_DATE-115/11/07"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261107",
+   "title": "藝術市集",
+   "start": "2026-11-07T16:00:00+08:00",
+   "end": "2026-11-07T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/07"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40201:20261108",
+   "title": "FOCASA馬戲團《幾米男孩的100次勇敢》",
+   "start": "2026-11-08T14:30:00+08:00",
+   "end": "2026-11-08T17:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "FOCASA馬戲團",
+   "organizer_type": "不確定",
+   "description": "演出單位：FOCASA馬戲團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40201&AP=$M102_DATE-115/11/08"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39998:20261108",
+   "title": "《2026舞囝仔的夢》",
+   "start": "2026-11-08T14:30:00+08:00",
+   "end": "2026-11-08T17:00:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄囝仔舞團",
+   "organizer_type": "民間",
+   "description": "演出單位：高雄囝仔舞團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39998&AP=$M102_DATE-115/11/08"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261108",
+   "title": "藝術市集",
+   "start": "2026-11-08T16:00:00+08:00",
+   "end": "2026-11-08T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/08"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4334",
+   "title": "前行-2026臺灣南方藝術聯盟年度大展",
+   "start": "2026-11-13T00:00:00+08:00",
+   "end": "2026-11-24T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂一館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "「前行」是一種姿態，也是一條持續生成的藝術道路。成立於2008年的臺灣南方藝術聯盟，以南方為創作出發點與文化根基，匯聚多元世代與媒材的藝術家，建立在地與當代的開放對話。\n對聯盟而言，「南方」代表府城、港都與多元文化交會的自由生命力，不僅立足在地，更致力拓展國內外交流。「前行」則象徵突破與轉化，藝術家回應土地、社會與時代，在傳統與創新之間開拓可能。本次展覽回望過往並面向未來，持續以藝術凝聚能量，讓臺灣南方的文化印記走向更寬廣的世界。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4334"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4307",
+   "title": "《生活裡的微光》高雄市小木馬藝術協會油畫聯展",
+   "start": "2026-11-13T00:00:00+08:00",
+   "end": "2026-11-24T23:59:59+08:00",
+   "venue": "高雄市文化中心 至美軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "高雄市小木馬藝術協會成立於2009年。以推動「藝術生活化」為宗旨， 結合熱愛藝術同好，研習油畫，舉辦畫展、藝術講座，推動美感生活。此次聯展作品以《生活裡的微光》為主題。生活或許平凡，卻總有許多令人感動的瞬間，在不經意間照亮我們的心。晨曦灑落海面的金色光芒、街角老屋的一抹溫暖色彩、家人相聚時的笑容、四季流轉中的自然風景，都是生命中珍貴而溫暖的微光。會員們透過畫筆記錄生活中的感動與美好，讓那些微小卻真實的光芒，在畫布上持續綻放。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4307"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261114",
+   "title": "藝術市集",
+   "start": "2026-11-14T16:00:00+08:00",
+   "end": "2026-11-14T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/14"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261115",
+   "title": "藝術市集",
+   "start": "2026-11-15T16:00:00+08:00",
+   "end": "2026-11-15T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/15"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4310",
+   "title": "浮生行履一尋覓夢中的桃花源 雷紫玲創作展",
+   "start": "2026-11-20T00:00:00+08:00",
+   "end": "2026-12-01T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂三館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "創作是條漫長遥遠的路，而我們都只是時間的過客旅人，有句話說：浮生若夢，今年突然驚覺自己已年過一甲子多了，不由得感慨生命之短暫與無常，人生過程跌宕起伏，悲歡離合，怎能不好好把握生命更加努力創作。藝術一向被我視為生命體現，甚至比我的生命更重要，當然我也很關心我們的家鄉和地球，因為科技的飛速遠超過六十多年前的世界，人口增加，人類的貪婪破壞了豐盛的大地山水，空氣。\n氣候暖化冰山融解，這都是人類生存的重要課題。我一直追求生命中的藝術桃花源…，因為熱愛藝術創作也熱愛大自然的山水、海洋、陽光、綠樹草地和人文景觀，這些都成為我創作的泉源。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4310"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39999:20261121",
+   "title": "當古典遇上影劇(愛上了❤️)Mozart音樂藝術室演奏會",
+   "start": "2026-11-21T19:30:00+08:00",
+   "end": "2026-11-21T22:00:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "Mozart音樂藝術室",
+   "organizer_type": "不確定",
+   "description": "演出單位：Mozart音樂藝術室",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39999&AP=$M102_DATE-115/11/21"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261121",
+   "title": "藝術市集",
+   "start": "2026-11-21T16:00:00+08:00",
+   "end": "2026-11-21T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/21"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261122",
+   "title": "藝術市集",
+   "start": "2026-11-22T16:00:00+08:00",
+   "end": "2026-11-22T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/22"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40202:20261124",
+   "title": "《超人力霸王舞台劇 與光同行 60週年特別公演 Voyager Live In Taiwan 2026》",
+   "start": "2026-11-24T19:30:00+08:00",
+   "end": "2026-11-24T22:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "得益寶股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：得益寶股份有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40202&AP=$M102_DATE-115/11/24"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40000:20261127",
+   "title": "娛人時代《後台，我總算學會了如何去愛》八週年旗艦製作",
+   "start": "2026-11-27T19:30:00+08:00",
+   "end": "2026-11-27T22:00:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "靖學表演工作室",
+   "organizer_type": "民間",
+   "description": "演出單位：娛人時代-靖兒、喜德、丹利、小蓉包 福狸男孩-哈姆、劉向 春雨-聖博、照明",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40000&AP=$M102_DATE-115/11/27"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4328",
+   "title": "【浯島印象-2026臺灣水彩畫協會金門寫生及主題創作展】",
+   "start": "2026-11-27T00:00:00+08:00",
+   "end": "2026-12-08T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂一館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "《浯島印象》延續臺灣水彩畫協會第55屆金門展暨寫生活動的創作迴響，匯聚會員走訪金門島的寫生、采風的觀察與感受。藝術家透過水彩的流動、疊染與留白，描繪聚落建築、海岸風光及人文風景，將地方記憶與個人感知轉化為多元的藝術表現。本展從現場寫生延伸至主題創作，藉由作品展出與相互觀摩，促進會員交流及專業精進，並透過導覽與藝術推廣，邀請觀眾循著水色與筆觸，感受金門的文化底蘊，開展土地、藝術與生活之間的對話。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4328"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4331",
+   "title": "高雄釜山姊妹市60週年慶書畫交流展",
+   "start": "2026-11-27T00:00:00+08:00",
+   "end": "2026-12-08T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂二館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "本交流展緣自釜山書藝BIENNALE孫世運理事長與高雄市十方藝術學會創會葉國華理事長相識於國際書法聯展活動。2位理事長均熱愛書法，廣結善緣，以弘揚書法為職志。適逢高雄與釜山姊妹市60週年之際，十方藝術學會理事長盧毓騏獲邀加入籌備活動，共同商議交流展主題與佈展設計，永誌港都文化共榮的情誼，深耕書藝文化。\n台灣稱書法，韓國稱書藝，二國書寫的共性是篆、隸、楷、行草各體兼備，韓國特將梅、蘭、竹、菊及松等文人畫及韓文書寫融入書法展，是其特性。2026年11月27日至12月08日在高雄市文化中心至真堂二館，舉辦高雄釜山姊妹市60週年慶書畫交流展，展出傳統與創新的書畫作品，期能在書藝上與同好觀摩學習，並為提升生活美學獻上一份心力。高雄釜山二地名家作品盡出，均有其獨到可觀之處，歡迎書畫愛好者蒞臨指導!",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4331"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4308",
+   "title": "高雄市港都藝術交流協會 會員聯展",
+   "start": "2026-11-27T00:00:00+08:00",
+   "end": "2026-12-08T23:59:59+08:00",
+   "venue": "高雄市文化中心 至美軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "高雄市港都藝術交流協會創立於民國90年2月25日。\n會員有繪畫藝術的老師、創作繪畫的藝術家，還有熱愛美術繪畫的朋友們。\n在協會的薰陶下培養會員們在技術技藝的提升，對顏色、線條、造型、光影、光線、質感的動感及認知。更結合人像、民俗生態及花卉風景的拍攝與取景，豐富了每位會員生活上的顏色！在這美好人生的日子裡，我們期望帶給大家在視覺上對美的享受，增廣不同的視野。歡迎蒞臨指敎也期待這次的展出成功。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4308"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40000:20261128",
+   "title": "娛人時代《後台，我總算學會了如何去愛》八週年旗艦製作",
+   "start": "2026-11-28T14:30:00+08:00",
+   "end": "2026-11-28T21:30:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "靖學表演工作室",
+   "organizer_type": "民間",
+   "description": "演出單位：娛人時代-靖兒、喜德、丹利、小蓉包 福狸男孩-哈姆、劉向 春雨-聖博、照明",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40000&AP=$M102_DATE-115/11/28"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261128",
+   "title": "藝術市集",
+   "start": "2026-11-28T16:00:00+08:00",
+   "end": "2026-11-28T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/28"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37738:20261129",
+   "title": "藝術市集",
+   "start": "2026-11-29T16:00:00+08:00",
+   "end": "2026-11-29T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/29"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40204:20261202",
+   "title": "舞岫-高雄市苓雅區115學年度中正國民小學&苓雅國民中舞蹈班聯合成果發表會",
+   "start": "2026-12-02T19:30:00+08:00",
+   "end": "2026-12-02T22:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄市苓雅區中正國民小學",
+   "organizer_type": "不確定",
+   "description": "演出單位：高雄市苓雅區中正國民小學",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40204&AP=$M102_DATE-115/12/02"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4329",
+   "title": "畫刀下的豔律－色韻之間",
+   "start": "2026-12-04T00:00:00+08:00",
+   "end": "2026-12-15T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂三館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "房子－在平面中繪出多重立體建築架構，讓觀者能從中捕捉暢遊於動態與空間，並進入畫中世界逃離俗世，獲取片刻安寧。\n兒童－兒童有如一株幼苗，散發著泥土的芳香，是人類最無邪，燦爛的生命樂章。希望在全然愉悅下所創作的作品，能帶給社會多點溫馨。\n戲劇－戲曲是深具淬鍊的綜合藝術，很適合圖像形式的感知表現。從“未來派”讓『運動與光摧毀了物體的實質』啟發。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4329"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40205:20261205",
+   "title": "IFBBPRO TAIWAN PRO SHOW",
+   "start": "2026-12-05T08:00:00+08:00",
+   "end": "2026-12-05T18:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "柏文健康事業股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：柏文健康事業股份有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40205&AP=$M102_DATE-115/12/05"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40218:20261205",
+   "title": "鑫夕時分",
+   "start": "2026-12-05T19:30:00+08:00",
+   "end": "2026-12-05T21:30:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "瓦力斯夠尚",
+   "organizer_type": "不確定",
+   "description": "演出單位：瓦力斯夠尚",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40218&AP=$M102_DATE-115/12/05"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37739:20261205",
+   "title": "藝術市集",
+   "start": "2026-12-05T16:00:00+08:00",
+   "end": "2026-12-05T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37739&AP=$M102_DATE-115/12/05"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40205:20261206",
+   "title": "IFBBPRO TAIWAN PRO SHOW",
+   "start": "2026-12-06T08:00:00+08:00",
+   "end": "2026-12-06T18:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "柏文健康事業股份有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：柏文健康事業股份有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40205&AP=$M102_DATE-115/12/06"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37739:20261206",
+   "title": "藝術市集",
+   "start": "2026-12-06T16:00:00+08:00",
+   "end": "2026-12-06T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37739&AP=$M102_DATE-115/12/06"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4337",
+   "title": "星寰畫會會員展",
+   "start": "2026-12-11T00:00:00+08:00",
+   "end": "2026-12-22T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂一館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "星寰畫會緣起於民國75年，今年已邁進第40年。此次展出會員秉持獨立不同創作風格，對藝術的執著與熱誠，呈現出不同的創作作品。作品質材有複合媒材、油彩、壓克力、水墨、陶瓷、雕塑等。本會藉此展出來推展及提昇藝術文化活動，歡迎蒞臨觀賞。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4337"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4339",
+   "title": "2026年 高雄市 師大攝影學會 會員聯展",
+   "start": "2026-12-11T00:00:00+08:00",
+   "end": "2026-12-22T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂二館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "高雄市師大攝影學會，簡稱 高師大攝影，成立37週年了，\n一群人的熱情推展，三十多年後繁衍成高雄市主要的攝影團體，\n不僅豐富市民多樣化的學習，更啟發無數民眾對攝影的喜好。\n數位科技不停向前，攝影的技巧與內涵也隨之多樣而豐富，\n攝影紀錄了我們生活的色彩，與永恆的感動，\n2026年高師大攝影學會攝影聯展歡迎您蒞臨，\n更歡迎您加入我們的社團。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4339"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4309",
+   "title": "臺灣書法學會2026年會員聯展",
+   "start": "2026-12-11T00:00:00+08:00",
+   "end": "2026-12-22T23:59:59+08:00",
+   "venue": "高雄市文化中心 至美軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "本會成立至今已邁入第二十二年，旨將中華書法文化由個人的在家創作推廣至各縣市的展覽，內容夾雜各體書法與自由創作，包羅萬象，除了砥礪會友書藝的提升，更讓廣大的社會民眾也能親身沐浴在書法文化的氣息之中，而能達到修身養性，有助於家庭社會之和諧。\n歡迎各界先進及學校團體，蒞臨指導。我們也接受團體預約，免費做詳細的作品導覽！",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4309"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40206:20261212",
+   "title": "魔獸世界 World of Warcraft：20 Years of Music",
+   "start": "2026-12-12T14:30:00+08:00",
+   "end": "2026-12-12T17:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "東穹國際音樂股份有限公司／ 凡事策劃藝文整合有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：高雄市管樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40206&AP=$M102_DATE-115/12/12"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37739:20261212",
+   "title": "藝術市集",
+   "start": "2026-12-12T16:00:00+08:00",
+   "end": "2026-12-12T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37739&AP=$M102_DATE-115/12/12"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40207:20261213",
+   "title": "屁屁偵探 「南方島嶼的神秘遺跡」",
+   "start": "2026-12-13T14:30:00+08:00",
+   "end": "2026-12-13T17:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "銀河谷音劇團",
+   "organizer_type": "民間",
+   "description": "演出單位：銀河谷音劇團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40207&AP=$M102_DATE-115/12/13"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37739:20261213",
+   "title": "藝術市集",
+   "start": "2026-12-13T16:00:00+08:00",
+   "end": "2026-12-13T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37739&AP=$M102_DATE-115/12/13"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4338",
+   "title": "2026高雄市攝影學會暨陳啟川先生攝影貢獻獎聯展",
+   "start": "2026-12-18T00:00:00+08:00",
+   "end": "2026-12-29T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂三館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "離島古早厝情（作者：張萬興）台灣離島的傳統建築承載著豐厚的人文歷史。金門的閩南紅磚與燕尾脊，彰顯宗族文化；澎湖的咾咕石與玄武岩石屋，展現耐風禦鹽的在地智慧；馬祖的花崗岩石屋依山面海，洋溢漁村樸實風貌；蘭嶼達悟族的地下屋，則完美融合自然與海洋文化。\n攝影創作不僅記錄建築的紋理與光影，更捕捉地方的生活故事。隨著歲月推移與時代變遷，透過鏡頭定格斑駁牆面與古老屋瓦，能為逐漸消失的島嶼文化留下珍貴的歷史紀錄。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4338"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40219:20261219",
+   "title": "舞時－半世紀的繁花盛景",
+   "start": "2026-12-19T19:30:00+08:00",
+   "end": "2026-12-19T21:30:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "汎美舞蹈團",
+   "organizer_type": "不確定",
+   "description": "演出單位：汎美舞蹈團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40219&AP=$M102_DATE-115/12/19"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37739:20261219",
+   "title": "藝術市集",
+   "start": "2026-12-19T16:00:00+08:00",
+   "end": "2026-12-19T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37739&AP=$M102_DATE-115/12/19"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40208:20261220",
+   "title": "夢之樂思 李志衡合唱戲劇作品發表會",
+   "start": "2026-12-20T19:30:00+08:00",
+   "end": "2026-12-20T22:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄市木棉花合唱團",
+   "organizer_type": "民間",
+   "description": "演出單位：高雄市木棉花合唱團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40208&AP=$M102_DATE-115/12/20"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37739:20261220",
+   "title": "藝術市集",
+   "start": "2026-12-20T16:00:00+08:00",
+   "end": "2026-12-20T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37739&AP=$M102_DATE-115/12/20"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4323",
+   "title": "山海匯藝-高雄市國際文化藝術協會會員聯展",
+   "start": "2026-12-25T00:00:00+08:00",
+   "end": "2027-01-05T23:59:59+08:00",
+   "venue": "高雄市文化中心 至美軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "高雄市國際文化藝術協會成員均來自不同領域，繪畫與書法皆有不同創作表現，透過各種不同形式、技法及意境創作，獲得各界肯定。\n本會這次的展覽有知名書藝、水墨名家及西畫作品，內容非常精采。從展覽的作品中，傳達深厚藝術根底，獨特創作表達美學經驗累積。隱約可以了解本會在當代對於書法水墨、各類藝術創作的走向，及未來可能發展的路線與期許。歡迎各界踴躍參觀，並不吝指教。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4323"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40220:20261226",
+   "title": "《聲之響宴：宮崎駿動畫音樂會》",
+   "start": "2026-12-26T14:00:00+08:00",
+   "end": "2026-12-26T15:40:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "聲動室內樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：聲動室內樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40220&AP=$M102_DATE-115/12/26"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40221:20261226",
+   "title": "《ACG次元共鳴：當動漫與音樂相遇》",
+   "start": "2026-12-26T19:00:00+08:00",
+   "end": "2026-12-26T20:40:00+08:00",
+   "venue": "高雄市文化中心 至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "聲動室內樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：聲動室內樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40221&AP=$M102_DATE-115/12/26"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37739:20261226",
+   "title": "藝術市集",
+   "start": "2026-12-26T16:00:00+08:00",
+   "end": "2026-12-26T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37739&AP=$M102_DATE-115/12/26"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-37739:20261227",
+   "title": "藝術市集",
+   "start": "2026-12-27T16:00:00+08:00",
+   "end": "2026-12-27T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37739&AP=$M102_DATE-115/12/27"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4333",
+   "title": "打開畫匣子－美術在高雄 《墨焰交融的世俗百態-林輝富烙宣水墨浮世繪個展》",
+   "start": "2026-12-30T00:00:00+08:00",
+   "end": "2027-01-10T23:59:59+08:00",
+   "venue": "高雄市文化中心 雅軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "林輝富自年少起，便著迷於水墨與浮世繪的魅力。相較於宏大山水，他更鍾情描繪世俗生活，慣以幽默風趣的筆調呈現人間百態，這份熱愛在歲月中未曾熄滅。\n多年來林輝富斷續研習水墨與燒烙技法，將生活體悟默默積澱，直到退休後，始得卸下繁務，全心專注投入創作。他大膽嘗試將「燒烙宣紙」——以焊槍燒燙宣紙的獨特技法——與傳統水墨結合，淬鍊火候，突破傳統的視覺層次，探索出屬於自身風格的浮世繪表現。\n焼烙宣紙創作難度極高，必須精準掌握焊槍火候、宣紙炭化痕跡與墨色暈染的微妙平衡，少一分力道不足，多一分則紙穿畫毀。當焦痕與墨韻交融，不僅突破傳統浮世繪線條形式，更展現出更為厚實且獨特的視覺層次。\n以畫修行，分享人生樂趣, 對林輝富而言，這不僅是興趣導致一條藝術創作之路，更是豐富退休後人生、沉澱心境的修行。本次展覽是創作成果的集結，更是邁向個展挑戰的里程碑，每一幅作品都是他與時間、火光與墨韻的深刻對話。誠摯邀請您前來，一同感受火焰與墨痕交織出的喜悅、溫度與生命感動!",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4333"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39812:20270102",
+   "title": "藝術市集",
+   "start": "2027-01-02T16:00:00+08:00",
+   "end": "2027-01-02T21:00:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/02"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39812:20270103",
+   "title": "藝術市集",
+   "start": "2027-01-03T16:00:00+08:00",
+   "end": "2027-01-03T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/03"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4340",
+   "title": "藝躍50・星閃青溪 - 大高雄青溪會員聯展",
+   "start": "2027-01-08T00:00:00+08:00",
+   "end": "2027-01-19T23:59:59+08:00",
+   "venue": "高雄市文化中心 至美軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "大高雄青溪新文藝學會走過輝煌50載！有時代的印記；有歷史的傳承；更是生命與美好相遇的見證。本次會員聯展，是現代東西方多元媒材創作，亦是一場匯聚藝術創作、文化傳承與會員情誼的藝術盛會。每一件作品，都蘊藏著創作者的心血與情感；每一筆墨韻、每一幅畫作，都展現了藝術家對生命的體悟、對文化的熱愛，以及對藝術理想的堅持。五十年，是一段值得珍惜的歷程，更是一份承先啟後的文化使命。從歲月的積累到藝術的綻放，青溪精神在一代代藝術創作者的努力下持續傳承，讓傳統與創新相互交融，讓藝術之美在時代中展現嶄新的生命力。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4340"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39812:20270109",
+   "title": "藝術市集",
+   "start": "2027-01-09T16:00:00+08:00",
+   "end": "2027-01-09T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/09"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39812:20270110",
+   "title": "藝術市集",
+   "start": "2027-01-10T16:00:00+08:00",
+   "end": "2027-01-10T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/10"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39812:20270116",
+   "title": "藝術市集",
+   "start": "2027-01-16T16:00:00+08:00",
+   "end": "2027-01-16T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/16"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39812:20270117",
+   "title": "藝術市集",
+   "start": "2027-01-17T16:00:00+08:00",
+   "end": "2027-01-17T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/17"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39812:20270123",
+   "title": "藝術市集",
+   "start": "2027-01-23T16:00:00+08:00",
+   "end": "2027-01-23T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/23"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39812:20270124",
+   "title": "藝術市集",
+   "start": "2027-01-24T16:00:00+08:00",
+   "end": "2027-01-24T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/24"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40292:20261108",
+   "title": "歌聲裡的舊時光",
+   "start": "2026-11-08T14:30:00+08:00",
+   "end": "2026-11-08T16:30:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "想樂合唱團",
+   "organizer_type": "民間",
+   "description": "演出單位：想樂合唱團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40292&AP=$M102_DATE-115/11/08"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40363:20261114",
+   "title": "2026橫山藝術季系列活動 《澄光聆響》 德新獨奏家室內樂團鋼琴五重奏",
+   "start": "2026-11-14T19:30:00+08:00",
+   "end": "2026-11-14T21:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "彈指之間室內樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：彈指之間室內樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40363&AP=$M102_DATE-115/11/14"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40293:20261117",
+   "title": "國立中山大學音樂系合唱團音樂會",
+   "start": "2026-11-17T19:30:00+08:00",
+   "end": "2026-11-17T21:30:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "國立中山大學",
+   "organizer_type": "政府",
+   "description": "演出單位：國立中山大學",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40293&AP=$M102_DATE-115/11/17"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40295:20261126",
+   "title": "湯志偉低音號獨奏音樂會",
+   "start": "2026-11-26T19:30:00+08:00",
+   "end": "2026-11-26T21:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "南台灣室內樂協會團",
+   "organizer_type": "民間",
+   "description": "演出單位：南台灣室內樂協會團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40295&AP=$M102_DATE-115/11/26"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40298:20261205",
+   "title": "爵聲拾光：爵士經典 X 台灣民歌",
+   "start": "2026-12-05T19:30:00+08:00",
+   "end": "2026-12-05T21:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "WiJazz Singers 爵式人聲樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：WiJazz Singers 爵式人聲樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40298&AP=$M102_DATE-115/12/05"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40394:20261205",
+   "title": "2026第十七屆高雄同志大遊行",
+   "start": "2026-12-05T13:00:00+08:00",
+   "end": "2026-12-05T17:00:00+08:00",
+   "venue": "高雄市音樂館 音樂館廣場",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "社團法人高雄市同志遊行聯盟協會",
+   "organizer_type": "民間",
+   "description": "演出單位：社團法人高雄市同志遊行聯盟協會",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40394&AP=$M102_DATE-115/12/05"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40362:20261220",
+   "title": "2026新希望樂團教師音樂會",
+   "start": "2026-12-20T14:30:00+08:00",
+   "end": "2026-12-20T16:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "新希望樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：新希望樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40362&AP=$M102_DATE-115/12/20"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40361:20261222",
+   "title": "黃楚豪師生音樂會",
+   "start": "2026-12-22T19:30:00+08:00",
+   "end": "2026-12-22T21:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "圈圈音樂藝術坊",
+   "organizer_type": "不確定",
+   "description": "演出單位：圈圈音樂藝術坊",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40361&AP=$M102_DATE-115/12/22"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40360:20261223",
+   "title": "星光住進歌聲裡",
+   "start": "2026-12-23T19:30:00+08:00",
+   "end": "2026-12-23T21:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "光禾歌手兒少合唱團",
+   "organizer_type": "民間",
+   "description": "演出單位：光禾歌手兒少合唱團X星奕女聲合唱團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40360&AP=$M102_DATE-115/12/23"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40302:20261225",
+   "title": "2026 鄭晟河x金永所 台灣巡迴演奏會",
+   "start": "2026-12-25T19:30:00+08:00",
+   "end": "2026-12-25T21:30:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "弦風音樂文化事業有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：弦風音樂文化事業有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40302&AP=$M102_DATE-115/12/25"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40364:20261226",
+   "title": "新星扎根新秀鋼琴獨奏發表會",
+   "start": "2026-12-26T19:30:00+08:00",
+   "end": "2026-12-26T21:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "南台灣室內樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：南台灣室內樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40364&AP=$M102_DATE-115/12/26"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40303:20261227",
+   "title": "「拾」品樂十週年音樂會",
+   "start": "2026-12-27T19:00:00+08:00",
+   "end": "2026-12-27T21:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "品樂室內樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：品樂室內樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40303&AP=$M102_DATE-115/12/27"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40130:20261031",
+   "title": "<午茶絲竹吧>",
+   "start": "2026-10-31T17:00:00+08:00",
+   "end": "2026-10-31T18:00:00+08:00",
+   "venue": "大東戶外舞台",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局 財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市國樂團C",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40130&AP=$M102_DATE-115/10/31"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40194:20261101",
+   "title": "讓愛•記得",
+   "start": "2026-11-01T14:30:00+08:00",
+   "end": "2026-11-01T16:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "感動之聲合唱團",
+   "organizer_type": "民間",
+   "description": "演出單位：感動之聲合唱團/曙光歌手",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40194&AP=$M102_DATE-115/11/01"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40323:20261107",
+   "title": "《絲竹下午茶》",
+   "start": "2026-11-07T17:00:00+08:00",
+   "end": "2026-11-07T18:00:00+08:00",
+   "venue": "大東戶外舞台",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市國樂團A",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40323&AP=$M102_DATE-115/11/07"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40312:20261107",
+   "title": "海之樂章！公主的奇幻旅程",
+   "start": "2026-11-07T19:30:00+08:00",
+   "end": "2026-11-07T21:30:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "圈圈音樂藝術坊",
+   "organizer_type": "不確定",
+   "description": "演出單位：圈圈音樂藝術坊",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40312&AP=$M102_DATE-115/11/07"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40313:20261108",
+   "title": "『星空下的鋼琴手』李尚軒鋼琴演奏會",
+   "start": "2026-11-08T14:30:00+08:00",
+   "end": "2026-11-08T16:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "李尚軒",
+   "organizer_type": "不確定",
+   "description": "演出單位：李尚軒",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40313&AP=$M102_DATE-115/11/08"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40314:20261112",
+   "title": "樂心共鳴 — 台韓慢飛天使音樂家國際交流音樂會",
+   "start": "2026-11-12T19:30:00+08:00",
+   "end": "2026-11-12T21:30:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "城市擊樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：國喬藝術文化工作室、J & S Quartette、喜憨兒高雄打擊樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40314&AP=$M102_DATE-115/11/12"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4332",
+   "title": "流景之間2 — 楊綵翊創作個展",
+   "start": "2026-11-13T00:00:00+08:00",
+   "end": "2026-11-24T23:59:59+08:00",
+   "venue": "大東文化藝術中心展覽館303",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "生命像是一幕幕風景交織而成的流動景色。\n而這流動的風景，是在記憶裡一段段拼接組織而成的，\n也可能是無中生有，像超現實主義般在真實與潛意識之間，\n召喚出獨屬於生命的靈魂情感。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4332"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4335",
+   "title": "感知褶景",
+   "start": "2026-11-13T00:00:00+08:00",
+   "end": "2026-11-25T23:59:59+08:00",
+   "venue": "大東文化藝術中心展覽館315",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "《摺景感知》由許春貴與王燕凰透過攝影、油畫與複合媒材，展開對城市、海洋、記憶與感知的不同觀看。\n許春貴以攝影凝視海洋、船隻、老屋、老戲院與創傷地景，在俯視、切割與影像構成之間，捕捉自然流動與人為痕跡，也凝視那些被時間留下、改變，甚至逐漸消逝的景物。王燕凰則透過城市漫遊，與貓咪緩緩同遊。貓咪成為觀看的引路者，在彼此相伴的步履之間，感知城市、觀看世界，也映照出內心的風景。\n「摺景」如同被時間反覆折疊的風景——是海洋、土地與歷史留下的痕跡，也是城市漫遊中累積的記憶與情感。兩種截然不同的觀看視角，在虛實交錯與若即若離之間，形成一幅曖昧而層疊的景象。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4335"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40324:20261114",
+   "title": "《大東享樂趣》",
+   "start": "2026-11-14T17:00:00+08:00",
+   "end": "2026-11-14T18:00:00+08:00",
+   "venue": "大東戶外舞台",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：國際愛樂國樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40324&AP=$M102_DATE-115/11/14"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40315:20261114",
+   "title": "2025和風 頌 風華演唱會",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-14T16:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄市夢幻大樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：高雄市夢幻大樂團/和風合唱團/和風舞蹈團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40315&AP=$M102_DATE-115/11/14"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40316:20261115",
+   "title": "聲‧未央",
+   "start": "2026-11-15T14:30:00+08:00",
+   "end": "2026-11-15T16:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會愛樂",
+   "organizer_type": "民間",
+   "description": "演出單位：高雄市國樂團‧國立臺南藝術大學民族管絃樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40316&AP=$M102_DATE-115/11/15"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40317:20261118",
+   "title": "《幻》",
+   "start": "2026-11-18T19:30:00+08:00",
+   "end": "2026-11-18T21:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "國立嘉義女子高級中學",
+   "organizer_type": "政府",
+   "description": "演出單位：國立嘉義女子高級中學",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40317&AP=$M102_DATE-115/11/18"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40318:20261120",
+   "title": "職男人生6-不想上班",
+   "start": "2026-11-20T19:30:00+08:00",
+   "end": "2026-11-20T21:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "面白大丈夫",
+   "organizer_type": "不確定",
+   "description": "演出單位：面白大丈夫",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40318&AP=$M102_DATE-115/11/20"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40325:20261121",
+   "title": "《當我們「童」在一起》",
+   "start": "2026-11-21T17:00:00+08:00",
+   "end": "2026-11-21T18:00:00+08:00",
+   "venue": "大東戶外舞台",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：謠旅室內樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40325&AP=$M102_DATE-115/11/21"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40318:20261121",
+   "title": "職男人生6-不想上班",
+   "start": "2026-11-21T15:00:00+08:00",
+   "end": "2026-11-21T21:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "面白大丈夫",
+   "organizer_type": "不確定",
+   "description": "演出單位：面白大丈夫",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40318&AP=$M102_DATE-115/11/21"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40318:20261122",
+   "title": "職男人生6-不想上班",
+   "start": "2026-11-22T15:00:00+08:00",
+   "end": "2026-11-22T16:30:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "面白大丈夫",
+   "organizer_type": "不確定",
+   "description": "演出單位：面白大丈夫",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40318&AP=$M102_DATE-115/11/22"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4330",
+   "title": "高雄市瀟湘書畫學會40週年紀念展",
+   "start": "2026-11-27T00:00:00+08:00",
+   "end": "2026-12-08T23:59:59+08:00",
+   "venue": "大東展覽館",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "高雄市瀟湘書畫學會成立四十週年，秉持以藝會友、推廣書畫藝術的初心，走過四十載歲月，累積豐碩的創作與交流成果。值此40週年之際，特以「藝遊瀟湘」為主題舉辦，匯聚會員山水、花鳥、人物及書法等作品，展現傳統筆墨與當代創作的多元風貌。\n「藝遊瀟湘」不僅是藝術成果的展現，更是四十年傳承與創新的見證。期盼透過此次展覽，回顧藝術足跡，展望創作新頁，讓筆墨之美持續在瀟湘薪傳流轉。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4330"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40319:20261128",
+   "title": "鬼王鍾馗",
+   "start": "2026-11-28T14:30:00+08:00",
+   "end": "2026-11-28T17:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "趨勢教育基金會",
+   "organizer_type": "民間",
+   "description": "演出單位：趨勢教育基金會",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40319&AP=$M102_DATE-115/11/28"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40319:20261129",
+   "title": "鬼王鍾馗",
+   "start": "2026-11-29T14:30:00+08:00",
+   "end": "2026-11-29T17:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "趨勢教育基金會",
+   "organizer_type": "民間",
+   "description": "演出單位：趨勢教育基金會",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40319&AP=$M102_DATE-115/11/29"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4336",
+   "title": "豐蘊十人書畫聯展",
+   "start": "2026-12-11T00:00:00+08:00",
+   "end": "2026-12-22T23:59:59+08:00",
+   "venue": "大東展覽館",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "豐蘊 ”本展匯聚十位志同道合的藝術家聯合展出個人畫作。以書法的線性美、國畫花鳥的生機靈動、山水的靜觀天地，交融油彩的濃郁層次與水干的空靈感受，共同交織出豐富多元的藝術創作。\n藝術不僅是技法的展現，更是一場透過美學所呈現的身心靈療癒之旅。在一筆一墨、一染一疊之間，觀者得以滋養日常、沉澱煩憂、靜觀自心。期盼藉著本次聯展，讓真善美的力量豐盈生命、蘊化人心。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4336"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40326:20261219",
+   "title": "《國樂讓您輕鬆聽》",
+   "start": "2026-12-19T17:00:00+08:00",
+   "end": "2026-12-19T18:00:00+08:00",
+   "venue": "大東戶外舞台",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市國樂團B",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40326&AP=$M102_DATE-115/12/19"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40327:20261226",
+   "title": "《歌聲帶路》",
+   "start": "2026-12-26T17:00:00+08:00",
+   "end": "2026-12-26T18:00:00+08:00",
+   "venue": "大東戶外舞台",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：六藝樂集",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40327&AP=$M102_DATE-115/12/26"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  }
+ ]
+}
