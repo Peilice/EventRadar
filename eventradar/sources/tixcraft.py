@@ -6,7 +6,7 @@
 已知限制：
 - 只有日期沒有時間，視為整天
 - 沒有主辦單位與票價；列在拓元上的都是售票活動，費用標「付費」
-- 列表頁若也開始擋機房 IP，Actions 上會失敗，需改在本機排程抓取
+- 列表頁也擋 GitHub Actions 機房 IP（403），改由本機 runner 抓取，每日更新以 --skip 沿用快取
 """
 
 from __future__ import annotations

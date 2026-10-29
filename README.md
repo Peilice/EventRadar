@@ -57,7 +57,7 @@ python -m venv .venv
 3. Settings → Actions → General → Workflow permissions 選 `Read and write permissions`
 4. 到 Actions 頁手動執行一次「每日更新活動」確認可以跑
 
-衛武營擋 GitHub Actions 機房的 IP；文化部 iCulture 在 CI 執行的凌晨時段常缺 OPENTIX、年代售票匯入的活動（只剩約四成）。這兩個來源由「本機抓取衛武營與文化部」workflow 在台灣的 self-hosted runner（`runs-on: [self-hosted, Windows]`，需裝好 Python 3.14 與 `py` 啟動器）每天 23:30 抓取並提交 `data/sources/weiwuying.json`、`iculture.json`，每日更新以 `--skip weiwuying iculture` 沿用；超過 2 天沒更新會標為失敗。
+衛武營擋 GitHub Actions 機房的 IP；文化部 iCulture 在 CI 執行的凌晨時段常缺 OPENTIX、年代售票匯入的活動（只剩約四成）。拓元同樣擋 Actions 機房 IP（回 403 身分驗證頁）。這三個來源由「本機抓取衛武營、文化部與拓元」workflow 在台灣的 self-hosted runner（`runs-on: [self-hosted, Windows]`，需裝好 Python 3.14 與 `py` 啟動器）每天 23:30 抓取並提交 `data/sources/weiwuying.json`、`iculture.json`、`tixcraft.json`，每日更新以 `--skip weiwuying iculture tixcraft` 沿用；超過 2 天沒更新會標為失敗。
 
 之後每天台灣時間 00:00 自動更新（GitHub 尖峰時段可能延遲）。有任何來源失敗時 workflow 會標紅並寄信給你，網頁底部的來源狀態也會標紅。
 
