@@ -19,7 +19,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@400;500;700;800;900&family=Fredoka:wght@500;600;700&display=swap">
   <!-- 改了 style.css 或 app.js 就更新 ?v=，避免瀏覽器拿到快取裡的舊檔 -->
-  <link rel="stylesheet" href="style.css?v=20261026b">
+  <link rel="stylesheet" href="style.css?v=20261029a">
 </head>
 <body>
   <!-- 圖示：同一套 24px 格線、2px 圓頭線條 -->
@@ -43,162 +43,106 @@
       <symbol id="i-chev-left" viewBox="0 0 24 24"><path d="m15 5-7 7 7 7"/></symbol>
       <symbol id="i-chev-right" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
       <symbol id="i-radar" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><path d="M12 12 18.4 5.6"/></symbol>
+      <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+      <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+      <symbol id="i-link" viewBox="0 0 24 24"><path d="M14 4h6v6"/><path d="M20 4 11 13"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></symbol>
     </defs>
   </svg>
 
-  <header class="hero">
-    <div class="hero-inner">
-      <div class="logo" aria-hidden="true">
-        <svg viewBox="0 0 100 100">
+  <!-- 頂部黏住：標誌、搜尋、月曆、篩選；下面是時段按鈕（桌機）與日期條 -->
+  <div class="top" id="top">
+    <header class="bar-head">
+      <a class="brand" href="./" aria-label="高雄活動雷達">
+        <svg class="logo" viewBox="0 0 100 100" aria-hidden="true">
           <circle class="logo-disc" cx="50" cy="50" r="46"/>
           <circle class="logo-ring" cx="50" cy="50" r="31"/>
           <circle class="logo-ring" cx="50" cy="50" r="16"/>
           <g class="logo-sweep"><path d="M50 50 L50 4 A46 46 0 0 1 89.8 27 Z"/></g>
           <circle class="logo-blip" cx="68" cy="30" r="5"/>
           <circle class="logo-blip b2" cx="30" cy="62" r="4"/>
-          <circle class="logo-blip b3" cx="62" cy="72" r="3.5"/>
           <circle class="logo-core" cx="50" cy="50" r="5"/>
         </svg>
-      </div>
-      <div class="hero-text">
-        <h1>高雄活動雷達</h1>
-        <p class="tagline">自動彙整高雄的政府與民間活動</p>
-        <p class="meta" id="meta">載入中…</p>
-      </div>
+        <h1 class="brand-name">高雄活動雷達</h1>
+      </a>
+      <label class="search">
+        <svg class="icon" aria-hidden="true"><use href="#i-search"/></svg>
+        <input type="search" id="q" placeholder="搜尋活動、場地" autocomplete="off" aria-label="搜尋活動">
+      </label>
+      <button type="button" class="view-toggle" id="view-toggle" aria-label="我的標記月曆" title="我的標記月曆">
+        <!-- 彩色月曆：橘色頂條、白紙面、海藍日期點，黃點是標記的那天 -->
+        <svg class="cal-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <rect class="ci-body" x="3" y="5" width="18" height="16" rx="3"/>
+          <path class="ci-band" d="M3 10V8a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v2z"/>
+          <path class="ci-ring" d="M8 3v4M16 3v4"/>
+          <circle class="ci-dot" cx="8" cy="14" r="1.3"/>
+          <circle class="ci-dot" cx="12" cy="14" r="1.3"/>
+          <circle class="ci-dot" cx="8" cy="17.5" r="1.3"/>
+          <circle class="ci-dot" cx="12" cy="17.5" r="1.3"/>
+          <circle class="ci-mark" cx="16" cy="15.8" r="2.4"/>
+        </svg>
+        <!-- 月曆模式改顯示列表：兩張疊起的活動卡片，與月曆同樣是橘色頂條、黃點標記 -->
+        <svg class="cal-icon list-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <rect class="ci-body" x="7" y="3" width="13.5" height="12" rx="2.5"/>
+          <rect class="ci-body" x="3.5" y="7" width="14.5" height="14" rx="2.5"/>
+          <path class="ci-band" d="M3.5 11.5V9.5A2.5 2.5 0 0 1 6 7h9.5A2.5 2.5 0 0 1 18 9.5v2z"/>
+          <path class="ci-line" d="M6.8 14.8h7.6M6.8 17.8h4.6"/>
+          <circle class="ci-mark" cx="15.2" cy="18" r="1.6"/>
+        </svg>
+      </button>
+      <button type="button" class="btn-filter" id="open-filters">
+        <svg class="icon" aria-hidden="true"><use href="#i-sliders"/></svg><span class="btn-filter-text">篩選</span><span class="badge" id="filter-count" hidden></span>
+      </button>
+    </header>
+    <nav class="ranges" id="ranges" aria-label="時段"></nav>
+    <!-- 日期條：桌機點了捲到那天；手機一次看一天，用箭頭前後切換 -->
+    <div class="strip-wrap" id="strip-wrap">
+      <button type="button" class="strip-arrow" id="day-prev" aria-label="前一天"><svg class="icon" aria-hidden="true"><use href="#i-chev-left"/></svg></button>
+      <div class="strip" id="strip" aria-label="日期"></div>
+      <button type="button" class="strip-arrow" id="day-next" aria-label="後一天"><svg class="icon" aria-hidden="true"><use href="#i-chev-right"/></svg></button>
     </div>
-    <svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
-      <path d="M0 30c120 22 240 22 360 0s240-22 360 0 240 22 360 0 240-22 360 0v30H0z"/>
-    </svg>
-  </header>
-
-  <div class="layout">
-    <aside class="sidebar">
-      <details class="filters" id="filters" open>
-        <summary>
-          <svg class="icon"><use href="#i-sliders"/></svg>
-          篩選 <span class="active-count" id="active-count"></span>
-        </summary>
-        <form id="filter-form" autocomplete="off">
-          <div class="sync">
-            <div class="form-actions">
-              <button type="button" class="reset" id="reset-filters">清除篩選</button>
-              <button type="button" class="reset" id="sync-share">分享同步連結</button>
-            </div>
-            <input type="text" class="sync-link" id="sync-link" readonly aria-label="同步連結" hidden>
-            <p class="hint sync-msg" id="sync-msg" aria-live="polite"></p>
-          </div>
-          <label class="field">
-            <span>關鍵字</span>
-            <input type="search" name="q" placeholder="活動名稱、場地、主辦單位">
-          </label>
-          <div class="field-row field-row-dates">
-            <label class="field">
-              <span>從</span>
-              <input type="date" name="from">
-            </label>
-            <label class="field">
-              <span>到</span>
-              <input type="date" name="to">
-            </label>
-          </div>
-          <fieldset class="field">
-            <legend>新活動</legend>
-            <div class="chips" id="new-chips"></div>
-            <p class="hint">只看最近一次更新才出現的活動，選取時不限日期。</p>
-          </fieldset>
-          <fieldset class="field">
-            <legend>我的標記</legend>
-            <div class="chips" id="mark-chips"></div>
-            <p class="hint">選取時不限日期。標記存在這台裝置的瀏覽器，活動結束後自動移除。</p>
-          </fieldset>
-          <fieldset class="field">
-            <legend>分類</legend>
-            <div class="chips" id="category-chips"></div>
-          </fieldset>
-          <fieldset class="field">
-            <legend>來源</legend>
-            <div class="chips" id="source-chips"></div>
-          </fieldset>
-          <div class="field-row">
-            <label class="field">
-              <span>行政區</span>
-              <select name="district"><option value="">全部</option></select>
-            </label>
-            <label class="field">
-              <span>費用</span>
-              <select name="fee">
-                <option value="">全部</option>
-                <option>免費</option>
-                <option>付費</option>
-                <option>未知</option>
-              </select>
-            </label>
-          </div>
-        </form>
-      </details>
-    </aside>
-
-    <main>
-      <div class="toolbar">
-        <p class="summary" id="summary" aria-live="polite"></p>
-        <button type="button" class="view-toggle" id="view-toggle" aria-label="月曆" title="月曆">
-          <!-- 彩色月曆：橘色頂條、白紙面、海藍日期點，黃點是標記的那天 -->
-          <svg class="cal-icon" viewBox="0 0 24 24" aria-hidden="true">
-            <rect class="ci-body" x="3" y="5" width="18" height="16" rx="3"/>
-            <path class="ci-band" d="M3 10V8a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v2z"/>
-            <path class="ci-ring" d="M8 3v4M16 3v4"/>
-            <circle class="ci-dot" cx="8" cy="14" r="1.3"/>
-            <circle class="ci-dot" cx="12" cy="14" r="1.3"/>
-            <circle class="ci-dot" cx="8" cy="17.5" r="1.3"/>
-            <circle class="ci-dot" cx="12" cy="17.5" r="1.3"/>
-            <circle class="ci-mark" cx="16" cy="15.8" r="2.4"/>
-          </svg>
-          <!-- 月曆模式改顯示列表：兩張疊起的活動卡片，與月曆同樣是橘色頂條、黃點標記 -->
-          <svg class="cal-icon list-icon" viewBox="0 0 24 24" aria-hidden="true">
-            <rect class="ci-body" x="7" y="3" width="13.5" height="12" rx="2.5"/>
-            <rect class="ci-body" x="3.5" y="7" width="14.5" height="14" rx="2.5"/>
-            <path class="ci-band" d="M3.5 11.5V9.5A2.5 2.5 0 0 1 6 7h9.5A2.5 2.5 0 0 1 18 9.5v2z"/>
-            <path class="ci-line" d="M6.8 14.8h7.6M6.8 17.8h4.6"/>
-            <circle class="ci-mark" cx="15.2" cy="18" r="1.6"/>
-          </svg>
-        </button>
-      </div>
-
-      <!-- 月曆：只顯示有標記的活動，不套用左側篩選。id 不叫 calendar，避免 #calendar 讓瀏覽器捲動到這裡 -->
-      <section class="calendar" id="cal-view" aria-label="我的標記月曆" hidden>
-        <div class="cal-head">
-          <div class="cal-nav">
-            <button type="button" class="cal-btn" id="cal-prev" aria-label="上個月"><svg class="icon" aria-hidden="true"><use href="#i-chev-left"/></svg></button>
-            <h2 class="cal-title" id="cal-title" aria-live="polite"></h2>
-            <button type="button" class="cal-btn" id="cal-next" aria-label="下個月"><svg class="icon" aria-hidden="true"><use href="#i-chev-right"/></svg></button>
-            <button type="button" class="reset cal-today" id="cal-today">今天</button>
-          </div>
-          <div class="chips" id="cal-legend" aria-label="只看"></div>
-        </div>
-        <p class="hint cal-empty" id="cal-empty" hidden>還沒有標記任何活動。在列表點活動卡片上的「想去」或「已報名」，就會出現在月曆上。</p>
-        <div class="cal-body">
-          <div class="cal-grid" id="cal-grid"></div>
-          <div class="board cal-agenda" id="cal-agenda" aria-label="選取日期的活動"></div>
-        </div>
-        <section class="cal-long" id="cal-long" hidden>
-          <h2 class="cal-long-title"><svg class="icon" aria-hidden="true"><use href="#i-hourglass"/></svg><span id="cal-long-title"></span></h2>
-          <p class="hint">展期超過 14 天的活動不畫在月曆格子上，依結束日期排序。</p>
-          <div class="board" id="cal-long-list"></div>
-        </section>
-      </section>
-
-      <section class="board" id="upcoming" aria-label="即將開始的活動"></section>
-
-      <details class="ongoing" id="ongoing-wrap" hidden>
-        <summary>
-          <svg class="icon"><use href="#i-hourglass"/></svg>
-          <span id="ongoing-summary"></span>
-        </summary>
-        <p class="hint">開始日期早於篩選範圍、但仍在進行中的活動（多為長期展覽），依結束日期排序。</p>
-        <div class="board" id="ongoing"></div>
-      </details>
-    </main>
   </div>
+
+  <main class="main">
+    <p class="meta" id="meta">載入中…</p>
+
+    <section id="list-view">
+      <div class="status-row">
+        <div class="tabs" role="tablist" aria-label="活動類型">
+          <button type="button" role="tab" data-tab="day">單日活動 <b id="n-day"></b></button>
+          <button type="button" role="tab" data-tab="long">長期展覽 <b id="n-long"></b></button>
+        </div>
+        <div class="group-toggle" id="group-toggle" role="group" aria-label="顯示方式">
+          <button type="button" data-group="day">依日期</button>
+          <button type="button" data-group="event">依活動</button>
+        </div>
+      </div>
+      <div class="active-filters" id="active-filters"></div>
+      <div class="list" id="list" aria-live="polite"></div>
+    </section>
+
+    <!-- 月曆：只顯示有標記的活動，不套用篩選。id 不叫 calendar，避免 #calendar 讓瀏覽器捲動到這裡 -->
+    <section class="calendar" id="cal-view" aria-label="我的標記月曆" hidden>
+      <div class="cal-head">
+        <div class="cal-nav">
+          <button type="button" class="cal-btn" id="cal-prev" aria-label="上個月"><svg class="icon" aria-hidden="true"><use href="#i-chev-left"/></svg></button>
+          <h2 class="cal-title" id="cal-title" aria-live="polite"></h2>
+          <button type="button" class="cal-btn" id="cal-next" aria-label="下個月"><svg class="icon" aria-hidden="true"><use href="#i-chev-right"/></svg></button>
+          <button type="button" class="reset cal-today" id="cal-today">今天</button>
+        </div>
+        <div class="chips" id="cal-legend" aria-label="只看"></div>
+      </div>
+      <p class="hint cal-empty" id="cal-empty" hidden>還沒有標記任何活動。在列表點活動右邊的愛心，或在詳情裡點「想去」「已報名」，就會出現在月曆上。</p>
+      <div class="cal-body">
+        <div class="cal-grid" id="cal-grid"></div>
+        <div class="cal-agenda" id="cal-agenda" aria-label="選取日期的活動"></div>
+      </div>
+      <section class="cal-long" id="cal-long" hidden>
+        <h2 class="cal-long-title"><svg class="icon" aria-hidden="true"><use href="#i-hourglass"/></svg><span id="cal-long-title"></span></h2>
+        <p class="hint">展期超過 14 天的活動不畫在月曆格子上，依結束日期排序。</p>
+        <div id="cal-long-list"></div>
+      </section>
+    </section>
+  </main>
 
   <footer class="site-footer">
     <svg class="wave wave-top" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
@@ -214,28 +158,61 @@
     </div>
   </footer>
 
-  <template id="event-template">
-    <article class="event">
-      <div class="event-cat">
-        <svg class="icon"><use/></svg><span></span>
-        <span class="mark-btns">
-          <button type="button" class="mark-btn" data-mark="want" aria-pressed="false"><svg class="icon" aria-hidden="true"><use href="#i-want"/></svg>想去</button>
-          <button type="button" class="mark-btn" data-mark="going" aria-pressed="false"><svg class="icon" aria-hidden="true"><use href="#i-going"/></svg>已報名</button>
-        </span>
-      </div>
-      <h3 class="event-title"><a target="_blank" rel="noopener noreferrer"></a></h3>
-      <p class="event-when"><svg class="icon"><use href="#i-clock"/></svg><span></span></p>
-      <p class="event-where"><svg class="icon"><use href="#i-pin"/></svg><span></span></p>
-      <p class="event-org"><svg class="icon"><use href="#i-org"/></svg><span></span></p>
-      <ul class="tags"></ul>
-      <details class="event-desc" hidden>
-        <summary>簡介</summary>
-        <p></p>
-      </details>
-      <p class="event-links"></p>
-    </article>
-  </template>
+  <div class="scrim" id="scrim" hidden></div>
 
-  <script src="app.js?v=20261026b"></script>
+  <!-- 活動詳情：桌機從右側滑出，手機是底部面板 -->
+  <aside class="panel drawer" id="drawer" aria-label="活動詳情" hidden>
+    <button type="button" class="panel-close" data-close aria-label="關閉"><svg class="icon" aria-hidden="true"><use href="#i-x"/></svg></button>
+    <div class="drawer-body" id="drawer-body"></div>
+  </aside>
+
+  <aside class="panel sheet" id="sheet" aria-label="篩選" hidden>
+    <div class="sheet-head">
+      <h2>篩選</h2>
+      <button type="button" class="panel-close" data-close aria-label="關閉"><svg class="icon" aria-hidden="true"><use href="#i-x"/></svg></button>
+    </div>
+    <div class="sheet-body">
+      <fieldset class="field">
+        <legend>分類</legend>
+        <div class="chips" id="f-cats"></div>
+      </fieldset>
+      <fieldset class="field">
+        <legend>費用</legend>
+        <div class="chips" id="f-fee"></div>
+      </fieldset>
+      <fieldset class="field">
+        <legend>我的標記與新增</legend>
+        <div class="chips" id="f-marks"></div>
+        <p class="hint">選取時不限日期。標記存在這台裝置的瀏覽器，活動結束後自動移除。</p>
+        <div class="sync">
+          <button type="button" class="reset" id="sync-share">分享同步連結</button>
+          <input type="text" class="sync-link" id="sync-link" readonly aria-label="同步連結" hidden>
+          <p class="hint sync-msg" id="sync-msg" aria-live="polite"></p>
+        </div>
+      </fieldset>
+      <!-- 手機用日期條選日子，不需要自訂日期 -->
+      <fieldset class="field field-dates">
+        <legend>自訂日期</legend>
+        <div class="field-row">
+          <label class="field"><span>從</span><input type="date" id="f-from"></label>
+          <label class="field"><span>到</span><input type="date" id="f-to"></label>
+        </div>
+      </fieldset>
+      <label class="field">
+        <span>行政區</span>
+        <select id="f-district"><option value="">全部行政區</option></select>
+      </label>
+      <fieldset class="field">
+        <legend>來源</legend>
+        <div class="chips" id="f-srcs"></div>
+      </fieldset>
+    </div>
+    <div class="sheet-foot">
+      <button type="button" class="reset" id="f-reset">清除全部</button>
+      <button type="button" class="btn-primary" data-close id="f-apply">顯示活動</button>
+    </div>
+  </aside>
+
+  <script src="app.js?v=20261029a"></script>
 </body>
 </html>
