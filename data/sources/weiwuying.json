@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T11:12:15.107248+08:00",
+ "fetched_at": "2026-10-29T10:31:15.502242+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -18,33 +18,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a953c1f3041610007c17381"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a60317c3623540007c01ef1",
-   "title": "《節奏與狂喜　湯妮莉X高韻堯雙鋼琴音樂會》",
-   "start": "2026-10-28T19:30:00+08:00",
-   "end": "2026-10-28T19:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "雙鋼琴的極致對話節奏與狂喜",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a60317c3623540007c01ef1"
     }
    ],
    "lat": null,
