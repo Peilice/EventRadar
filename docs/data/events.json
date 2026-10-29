@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:46:50.106405+08:00",
+ "generated_at": "2026-10-29T22:27:42.924912+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -19084,25 +19084,18 @@
      "url": "https://www.npac-weiwuying.org/programs/69c39d2f1e6a9400071a8042"
     },
     {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2051630316556447745"
-    },
-    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2051630316556447745"
     }
    ],
-   "lat": 22.62301792,
-   "lng": 120.34243411,
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
    "aliases": [
-    "opentix:2051630316556447745:20261127",
-    "opentix:2051630316556447745:20261128",
     "iculture:6a04af0426b3243414ccc812"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "opentix",
     "weiwuying"
    ]
   },
@@ -23212,24 +23205,18 @@
      "url": "https://www.npac-weiwuying.org/programs/69afb5dff1151f0007a5cdfa"
     },
     {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2043960193015562241"
-    },
-    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2043960193015562241"
     }
    ],
-   "lat": 22.62301792,
-   "lng": 120.34243411,
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
    "aliases": [
-    "opentix:2043960193015562241:20261209",
     "iculture:6a04aef826b3243414ccc7fc"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "opentix",
     "weiwuying"
    ]
   },
@@ -26690,6 +26677,10 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40208&AP=$M102_DATE-115/12/20"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2100914658144260096"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100914658144260096"
     }
@@ -26697,12 +26688,14 @@
    "lat": 22.6259044,
    "lng": 120.3171311,
    "aliases": [
+    "opentix:2100914658144260096:20261220",
     "iculture:6ac67e0326b324165c32e5ae"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc"
+    "khcc",
+    "opentix"
    ]
   },
   {
@@ -27779,7 +27772,7 @@
    ]
   },
   {
-   "id": "opentix:2102682494419701761:20261226",
+   "id": "iculture:6abe953a26b324165c32e56d",
    "title": "KCWO Brass-銅管的魅力",
    "start": "2026-12-26T15:00:00+08:00",
    "end": "2026-12-26T17:20:00+08:00",
@@ -27788,28 +27781,21 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "高雄市管樂團",
-   "organizer_type": "民間",
-   "description": "在喧鬧之外，聽見銅管的極致細膩 過去，你習慣在大型的編制中，感受樂團的磅礡聲浪 這一次，我們首度將舞台主導權交給銅管重奏 上半場，由多位銅管演奏家在連呼吸聲都能清晰聽見的衛武營表演廳中，以眼神的交流與呼吸的搭配，演繹日本金管原創曲的精密細緻。 下半場，擴大銅管重奏編制並加入打擊樂，將細膩的重奏對話，層層堆疊為如同交響樂般的立體聲響。 這場【KCWO BRASS】創團首度製作，將帶你親耳驗證「銅管的魅力」究竟能有多細緻、多深邃。 演出亮點｜ 重新定義「銅管的魅力」：3 大核心看點 1.上半場的默契對決：挑戰銅管極限聲響效果 高難度重奏考驗：精選八木澤教司與高橋宏樹的現代重奏經典，沒有節奏樂器的輔…",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
    "links": [
-    {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2102682494419701761"
-    },
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2102682494419701761"
     }
    ],
-   "lat": 22.62301792,
-   "lng": 120.34243411,
-   "aliases": [
-    "iculture:6abe953a26b324165c32e56d"
-   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
+   "aliases": [],
    "first_seen": "2026-10-19",
    "sources": [
-    "iculture",
-    "opentix"
+    "iculture"
    ]
   },
   {
