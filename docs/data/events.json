@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:15:30.784649+08:00",
+ "generated_at": "2026-10-29T21:46:50.106405+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -3975,33 +3975,6 @@
    "first_seen": "2026-10-22",
    "sources": [
     "accupass",
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ac3dafe26b324165c32e59a",
-   "title": "唱彈詩與樂 合唱音樂會",
-   "start": "2026-10-29T19:30:00+08:00",
-   "end": "2026-10-29T21:30:00+08:00",
-   "venue": "衛武營國家藝術文化中心表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2105220235260489728"
-    }
-   ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
     "iculture"
    ]
   },
@@ -26717,10 +26690,6 @@
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40208&AP=$M102_DATE-115/12/20"
     },
     {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2100914658144260096"
-    },
-    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100914658144260096"
     }
@@ -26728,14 +26697,12 @@
    "lat": 22.6259044,
    "lng": 120.3171311,
    "aliases": [
-    "opentix:2100914658144260096:20261220",
     "iculture:6ac67e0326b324165c32e5ae"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
-    "khcc",
-    "opentix"
+    "khcc"
    ]
   },
   {
@@ -31278,8 +31245,8 @@
   {
    "id": "weiwuying:6acee944869757000895feb0",
    "title": "法蘭茲與朋友們《海底歷險記》沉浸式奇幻歌舞劇",
-   "start": "2027-02-27T15:00:00+08:00",
-   "end": "2027-02-28T15:00:00+08:00",
+   "start": "2027-02-27T14:45:00+08:00",
+   "end": "2027-02-28T14:45:00+08:00",
    "venue": "衛武營 歌劇院",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -31303,19 +31270,23 @@
    ]
   },
   {
-   "id": "opentix:2107728173323550721:20270227",
+   "id": "weiwuying:6ad5db658697570008993031",
    "title": "《雙城樂章》虹韻新春音樂會",
    "start": "2027-02-27T19:30:00+08:00",
    "end": "2027-02-27T21:30:00+08:00",
-   "venue": "衛武營國家藝術文化中心音樂廳",
+   "venue": "衛武營 音樂廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "跨時代交響樂團",
    "organizer_type": "民間",
-   "description": "2027年新春之際，跨時代交響樂團首度攜手虹韻文創中心， 共譜一場跨越城市與年代的音樂盛宴。 有些旋律，陪我們走過青春；有些旋律，讓人想起遠方的風景。 從維也納的浪漫走向一首首刻在記憶裡的台灣金曲， 在《雙城樂章》中 ，與你重返流金歲月。 【演出曲目】 - 維也納之夜 小約翰．史特勞斯 Johann Strauss II： 《蝙蝠》序曲 Die Fledermaus, Op. 56: Overture 《南國玫瑰》Rosen aus dem Süden, Op. 388 《春之聲》Frühlingsstimmen, Op. 410 《藍色多瑙河》An der schönen blauen Do…",
+   "description": "從維也納到台灣，與你重返流金歲月",
    "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ad5db658697570008993031"
+    },
     {
      "source": "opentix",
      "url": "https://www.opentix.life/event/2107728173323550721"
@@ -31328,12 +31299,14 @@
    "lat": 22.62301792,
    "lng": 120.34243411,
    "aliases": [
+    "opentix:2107728173323550721:20270227",
     "iculture:6ad6504b26b3245efc7536ae"
    ],
    "first_seen": "2026-10-21",
    "sources": [
     "iculture",
-    "opentix"
+    "opentix",
+    "weiwuying"
    ]
   },
   {
