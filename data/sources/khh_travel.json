@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T04:52:08.823498+08:00",
+ "fetched_at": "2026-10-31T04:23:03.372169+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -535,6 +535,60 @@
    ],
    "lat": 22.63949,
    "lng": 120.30258,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008147",
+   "title": "2026大海開吃",
+   "start": "2026-10-24T00:00:00+08:00",
+   "end": "2026-12-12T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市827彌陀區漁會前廣場、林園中芸漁港整補場、前鎮夢時代、永安休閒公園、永安漁港、",
+   "district": "彌陀區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8147/"
+    }
+   ],
+   "lat": 22.78322,
+   "lng": 120.2455,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008148",
+   "title": "2026旗山農好・秋收豐年",
+   "start": "2026-10-31T00:00:00+08:00",
+   "end": "2026-11-01T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市842旗山區旗山體育場",
+   "district": "旗山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市旗山區農會",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8148/"
+    }
+   ],
+   "lat": 22.88765,
+   "lng": 120.48131,
    "aliases": [],
    "first_seen": "",
    "sources": [

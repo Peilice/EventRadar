@@ -1,6 +1,87 @@
 {
- "fetched_at": "2026-10-30T04:52:08.823498+08:00",
+ "fetched_at": "2026-10-31T04:23:03.372169+08:00",
  "events": [
+  {
+   "id": "ksml:16473",
+   "title": "文化中心分館台語意識培力課程「台語毋是聽有就好，會曉講上重要」11/5登場，歡迎踴躍報名。可參加台語家庭集點哦！",
+   "start": "2026-11-05T18:30:00+08:00",
+   "end": "2026-11-05T20:30:00+08:00",
+   "venue": "高雄市立圖書館高雄市文化中心分館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄市文化中心分館",
+   "organizer_type": "政府",
+   "description": "⭐本活動可參加台語家庭集點！⭐\n活動時間:11/5(四) 18:30-20:30\n講師：蘇紋巧",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16473"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16472",
+   "title": "文化中心分館台語意識培力課程-「講咱ê話 -作伙來食魚」11/13（五）晚上開辦，歡迎踴躍報名，可參加台語家庭集點哦！",
+   "start": "2026-11-13T18:30:00+08:00",
+   "end": "2026-11-13T20:30:00+08:00",
+   "venue": "文化中心分館B1兒童室",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄市文化中心分館",
+   "organizer_type": "政府",
+   "description": "⭐本活動可參加台語家庭集點！\n活動時間:11/13(五) 18:30-20:30\n講師:洪鈺櫻",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16472"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16470",
+   "title": "🌳【總館】把森林帶回人間的浪漫冒險—《有一種田野報告叫植物獵人》新書分享會- 洪信介 X 115年12月新書好書推薦講座",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-05T16:30:00+08:00",
+   "venue": "高市圖總館３樓 階梯閣樓",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館採編部",
+   "organizer_type": "政府",
+   "description": "2026 12月 Ｘ 新書好書推薦講座\n把森林帶回人間的浪漫冒險—\n《有一種田野報告叫植物獵人》新書分享會​",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16470"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16469",
    "title": "【台語家庭】11/29(日)兒童歌仔戲演出：尚和歌仔戲劇團《西遊記之通天河》",
@@ -1191,7 +1272,7 @@
   },
   {
    "id": "ksml:16402",
-   "title": "🥖【總館】年王鵬傑 X《出陣》生命可以重來—從一團亂到一團麵糰",
+   "title": "🥖【總館】王鵬傑 X《出陣》生命可以重來—從一團亂到一團麵糰",
    "start": "2026-11-08T14:00:00+08:00",
    "end": "2026-11-08T16:30:00+08:00",
    "venue": "高市圖總館7樓 際會廳",
@@ -1368,33 +1449,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16339",
-   "title": "【高雄文學館】文學電影院－10/30《阿拉斯加之死》",
-   "start": "2026-10-30T18:10:00+08:00",
-   "end": "2026-10-30T20:40:00+08:00",
-   "venue": "高雄文學館 2F 文學放映室",
-   "address": "高雄市前金區民生二路39號",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館高雄文學館",
-   "organizer_type": "政府",
-   "description": "根據真人真事，改編自強．克拉庫爾（Jon Krakauer）的同名報導文學，描述來自家庭富裕的克里斯多福，在 1990 年大學畢業後，毅然捨棄了身上所有的財產，獨自前往阿拉斯加的茫茫荒野中，充滿理想主義的他捨棄所有的物質希望體驗生命的極限。\n全片以詩意的影像、跳躍的剪接替這部生命的輓歌留下深刻的印記。\n美國電影學會和國家評論協會都將其列為 2007年十大佳片之一。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16339"
     }
    ],
    "lat": null,

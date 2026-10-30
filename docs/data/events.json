@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T04:52:08.823498+08:00",
+ "generated_at": "2026-10-31T04:23:03.372169+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -2939,33 +2939,6 @@
    ]
   },
   {
-   "id": "accupass:2609211124527299299740",
-   "title": "喜劇開港 脫口秀OPEN MIC  (十月場)",
-   "start": "2026-10-02T20:00:00+08:00",
-   "end": "2026-10-30T22:00:00+08:00",
-   "venue": "鸚鵡螺餐酒館-五福店",
-   "address": "台灣高雄市鹽埕區五福四路117號 2F",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "喜劇開港",
-   "organizer_type": "不確定",
-   "description": "高雄唯一喜劇俱樂部，舉辦各式喜劇、除了脫口秀、即興劇，漫才等等都有機會看到！帶好友來同樂吧！ 上半場為脫口秀演員數位輪番上陣! 下半場為即興喜劇,由觀眾與我們一同完成演出!",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2609211124527299299740"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
    "id": "ksml:16313",
    "title": "【李科永分館】 狗斯特的萬聖節派對",
    "start": "2026-10-03T00:00:00+08:00",
@@ -3371,33 +3344,6 @@
    ]
   },
   {
-   "id": "accupass:2609240240191484000830",
-   "title": "高雄千碩創新教育10月手作體驗課",
-   "start": "2026-10-14T14:00:00+08:00",
-   "end": "2026-10-30T17:00:00+08:00",
-   "venue": "高雄千碩小教室",
-   "address": "台灣高雄市新興區八德一路332號3樓",
-   "district": "新興區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "千碩創新教育",
-   "organizer_type": "不確定",
-   "description": "放下手機與螢幕，用雙手找回專注與創造的純粹樂趣！ 高雄千碩創新教育於 10 月份推出「科技手作」與「輕黏土美感」雙系列體驗課。結合創客動手做與生活美學設計，課程完全不限年齡！無論是小朋友課後探索、增進感情的親子共學，或是大人在悠閒午後想捏黏土解壓、大學生空堂想體驗手作魅力，都歡迎一起來玩！",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2609240240191484000830"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
    "id": "accupass:2610080851241608348725",
    "title": "臺灣米標章推廣說明會",
    "start": "2026-10-15T14:00:00+08:00",
@@ -3719,6 +3665,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008147",
+   "title": "2026大海開吃",
+   "start": "2026-10-24T00:00:00+08:00",
+   "end": "2026-12-12T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市827彌陀區漁會前廣場、林園中芸漁港整補場、前鎮夢時代、永安休閒公園、永安漁港、",
+   "district": "彌陀區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8147/"
+    }
+   ],
+   "lat": 22.78322,
+   "lng": 120.2455,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "khh_travel"
    ]
   },
   {
@@ -4195,127 +4168,6 @@
    ]
   },
   {
-   "id": "ksml:16339",
-   "title": "【高雄文學館】文學電影院－10/30《阿拉斯加之死》",
-   "start": "2026-10-30T18:10:00+08:00",
-   "end": "2026-10-30T20:40:00+08:00",
-   "venue": "高雄文學館 2F 文學放映室",
-   "address": "高雄市前金區民生二路39號",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館高雄文學館",
-   "organizer_type": "政府",
-   "description": "根據真人真事，改編自強．克拉庫爾（Jon Krakauer）的同名報導文學，描述來自家庭富裕的克里斯多福，在 1990 年大學畢業後，毅然捨棄了身上所有的財產，獨自前往阿拉斯加的茫茫荒野中，充滿理想主義的他捨棄所有的物質希望體驗生命的極限。\n全片以詩意的影像、跳躍的剪接替這部生命的輓歌留下深刻的印記。\n美國電影學會和國家評論協會都將其列為 2007年十大佳片之一。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16339"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "kpmc:15899",
-   "title": "PHANTASMAGORIA： Psychedelic Halloween Party",
-   "start": "2026-10-30T19:30:00+08:00",
-   "end": "2026-10-30T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "HOLOTROPICS、BILLY WALSHAW & THE FILTERS、MIKE-BEAT x 高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：HOLOTROPICS、BILLY WALSHAW & THE FILTERS、MIKE-BEAT\n票價：預售票500元 現場票700元",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1030/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "weiwuying:6a6af633ef008b00072bcd32",
-   "title": "《弦語・心聲》張群2026小提琴獨奏會",
-   "start": "2026-10-30T19:30:00+08:00",
-   "end": "2026-10-30T21:00:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "VIO提琴樂集",
-   "organizer_type": "不確定",
-   "description": "2026張群小提琴獨奏音樂會",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a6af633ef008b00072bcd32"
-    },
-    {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2077604197323137025"
-    },
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2077604197323137025"
-    }
-   ],
-   "lat": 22.62301792,
-   "lng": 120.34243411,
-   "aliases": [
-    "opentix:2077604197323137025:20261030",
-    "iculture:6a7a04f126b32427d0604397"
-   ],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "iculture",
-    "opentix",
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "opentix:2080134872605343745:20261030",
-   "title": "所在劇集 2026原創歷史音樂劇《無聲の海腳間仔》",
-   "start": "2026-10-30T19:30:00+08:00",
-   "end": "2026-10-30T21:30:00+08:00",
-   "venue": "高雄中山堂劇場",
-   "address": "",
-   "district": "",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "所在劇集",
-   "organizer_type": "不確定",
-   "description": "2026 讀劇發表，好評如潮 三方語言 X 原創音樂 X 在地故事 融合「臺灣台語」、「臺灣客語」、「日本語」的時代對話 「海矣，你若有聲。」 1943 年，高雄湊町 在戰爭陰影籠罩下，空襲警報劃破夜空 人群潰散、命運分岔 在混亂中 有人失去至親、有人拼命守住記憶、有人被迫沉默 而所有未能說出口的聲音 最終都流向大海 來自澎湖的女子春螺，罹患肺癆，生命所剩無多。她在胞弟海男的堅持下，離開故鄉，前往高雄，也試圖尋找人生最後的可能。在湊町，他們遇見了來自瀰濃的孤女望妹，而望妹的姊姊神秘失蹤，留下的只有一甕甕酸菜與無處安放的思念。三個失根之人，在光彩的湊町角落——「海腳間仔」相依為命，彼此填補生命的…",
-   "links": [
-    {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2080134872605343745"
-    }
-   ],
-   "lat": 22.68992611,
-   "lng": 120.29194599,
-   "aliases": [],
-   "first_seen": "2026-10-29",
-   "sources": [
-    "opentix"
-   ]
-  },
-  {
    "id": "iculture:6a64ef3626b32427d0604261",
    "title": "所在劇集 2026原創歷史音樂劇《無聲の海腳間仔》",
    "start": "2026-10-30T19:30:00+08:00",
@@ -4340,33 +4192,6 @@
    "first_seen": "2026-10-19",
    "sources": [
     "iculture"
-   ]
-  },
-  {
-   "id": "kpmc:16089",
-   "title": "新世代拉丁爵⼠聲響｜Dan Costa Quartet",
-   "start": "2026-10-30T20:00:00+08:00",
-   "end": "2026-10-30T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：Dan Costa、李世鈞、劉育嘉、Somesh Putcha\n票價：單人500元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e6%96%b0%e4%b8%96%e4%bb%a3%e6%8b%89%e4%b8%81%e7%88%b5%e2%bc%a0%e8%81%b2%e9%9f%bf%ef%bd%9cdan-costa-quartet/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "kpmc"
    ]
   },
   {
@@ -4428,6 +4253,33 @@
    "first_seen": "2026-10-21",
    "sources": [
     "ksml"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008148",
+   "title": "2026旗山農好・秋收豐年",
+   "start": "2026-10-31T00:00:00+08:00",
+   "end": "2026-11-01T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市842旗山區旗山體育場",
+   "district": "旗山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市旗山區農會",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8148/"
+    }
+   ],
+   "lat": 22.88765,
+   "lng": 120.48131,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "khh_travel"
    ]
   },
   {
@@ -6564,6 +6416,33 @@
    ]
   },
   {
+   "id": "accupass:2607301206381196500910",
+   "title": "🧡(高雄聯誼)11/1(日)14:00 【高光時刻．遇見理想愛情】 年百萬菁英 × 高穩薪男士 × 優質佳人【7年級~8初】  約會 |找對象 |排約 |單身聯誼 |交往",
+   "start": "2026-11-01T14:00:00+08:00",
+   "end": "2026-11-01T17:00:00+08:00",
+   "venue": "報名成功私訊通知",
+   "address": "台灣高雄市近捷運",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "🧡Meet U｜心遇單身派對",
+   "organizer_type": "不確定",
+   "description": "匯聚年百萬以上或高穩定薪資的優質男士，搭配氣質出眾的單身女性，在輕鬆愉悅的氛圍中交流互動。讓優秀遇見優秀，開啟一段值得期待的幸福緣分。 【高光時刻．遇見理想愛情】 年百萬菁英 × 高穩薪男士 × 優質佳人",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2607301206381196500910"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-19",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "twmarket:60687:20261101",
    "title": "海風小市 Takao Rock打狗祭:V FUTURE PARTY未來趴",
    "start": "2026-11-01T14:00:00+08:00",
@@ -7348,6 +7227,33 @@
    "lng": null,
    "aliases": [],
    "first_seen": "2026-10-24",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16473",
+   "title": "文化中心分館台語意識培力課程「台語毋是聽有就好，會曉講上重要」11/5登場，歡迎踴躍報名。可參加台語家庭集點哦！",
+   "start": "2026-11-05T18:30:00+08:00",
+   "end": "2026-11-05T20:30:00+08:00",
+   "venue": "高雄市立圖書館高雄市文化中心分館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄市文化中心分館",
+   "organizer_type": "政府",
+   "description": "⭐本活動可參加台語家庭集點！⭐\n活動時間:11/5(四) 18:30-20:30\n講師：蘇紋巧",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16473"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
    "sources": [
     "ksml"
    ]
@@ -10490,7 +10396,7 @@
   },
   {
    "id": "ksml:16402",
-   "title": "🥖【總館】年王鵬傑 X《出陣》生命可以重來—從一團亂到一團麵糰",
+   "title": "🥖【總館】王鵬傑 X《出陣》生命可以重來—從一團亂到一團麵糰",
    "start": "2026-11-08T14:00:00+08:00",
    "end": "2026-11-08T16:30:00+08:00",
    "venue": "高市圖總館7樓 際會廳",
@@ -11835,6 +11741,33 @@
    "first_seen": "2026-10-23",
    "sources": [
     "iculture"
+   ]
+  },
+  {
+   "id": "ksml:16472",
+   "title": "文化中心分館台語意識培力課程-「講咱ê話 -作伙來食魚」11/13（五）晚上開辦，歡迎踴躍報名，可參加台語家庭集點哦！",
+   "start": "2026-11-13T18:30:00+08:00",
+   "end": "2026-11-13T20:30:00+08:00",
+   "venue": "文化中心分館B1兒童室",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄市文化中心分館",
+   "organizer_type": "政府",
+   "description": "⭐本活動可參加台語家庭集點！\n活動時間:11/13(五) 18:30-20:30\n講師:洪鈺櫻",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16472"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "ksml"
    ]
   },
   {
@@ -14235,6 +14168,10 @@
     },
     {
      "source": "iculture",
+     "url": "https://www.opentix.life/program/2108147849766019073"
+    },
+    {
+     "source": "iculture",
      "url": "https://www.opentix.life/program/2047561986406621185"
     }
    ],
@@ -14243,6 +14180,7 @@
    "aliases": [
     "opentix:2047561986406621185:20261115",
     "opentix:2108147849766019073:20261115",
+    "iculture:6ae37f3326b3245efc753743",
     "iculture:6a04aef826b3243414ccc7fe"
    ],
    "first_seen": "2026-10-19",
@@ -15796,6 +15734,33 @@
    ]
   },
   {
+   "id": "accupass:2610271626511261614247",
+   "title": "【58金高千日醇x粱芯金門高粱酒 品酩會】品味金門高粱酒在時光沉澱中的經典與創新",
+   "start": "2026-11-20T19:00:00+08:00",
+   "end": "2026-11-20T20:30:00+08:00",
+   "venue": "OUR SALON 奧兒享空間",
+   "address": "台灣高雄市苓雅區中正一路306號3樓之1",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "黑松股份有限公司",
+   "organizer_type": "民間",
+   "description": "誠摯邀請您參與這場跨越歲月與創新工藝的醇香對話。由專業講師帶領，一同品鑑「喝一瓶少一瓶」的【58金高千日醇】珍稀十年老酒，同時體驗金高首創「植木入瓶」的創新佳釀【粱芯金門高粱酒】，感受金門高粱酒在時光沉澱中展現經典與創新極致魅力。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610271626511261614247"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "accupass:2610231137022142025055",
    "title": "旅行的另一種打開方式--從福島山旅到二本松提燈祭，重新發現旅行的意義",
    "start": "2026-11-20T19:00:00+08:00",
@@ -16652,6 +16617,33 @@
    "lng": null,
    "aliases": [],
    "first_seen": "2026-10-19",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610290916311562955732",
+   "title": "特斯拉出行｜產業趨勢×商業模式說明會 2026十一月-高雄場",
+   "start": "2026-11-21T13:30:00+08:00",
+   "end": "2026-11-21T17:00:00+08:00",
+   "venue": "思博客會議教室-民生館",
+   "address": "台灣高雄市新興區民生一路56號B1-1",
+   "district": "新興區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "共好行動平台",
+   "organizer_type": "不確定",
+   "description": "【特斯拉出行｜產業趨勢 × 商業模式說明會】新能源車正在改變交通產業！帶您從產業趨勢出發，認識特斯拉出行的商業模式、營運方式與資源整合，了解從車輛到服務的多元發展可能！",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610290916311562955732"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
    "sources": [
     "accupass"
    ]
@@ -21012,26 +21004,33 @@
    "id": "weiwuying:6a630c818c41390007d650be",
    "title": "《律動薩克斯風－從經典到無限》",
    "start": "2026-12-01T19:30:00+08:00",
-   "end": "2026-12-01T19:30:00+08:00",
+   "end": "2026-12-01T21:30:00+08:00",
    "venue": "衛武營 音樂廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "免費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "社團法人臺中律師公會",
+   "organizer_type": "民間",
    "description": "從法庭到舞台，律師演繹跨時空的經典旋律",
    "links": [
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a630c818c41390007d650be"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2112365012388167680"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2112365012388167680:20261201"
+   ],
    "first_seen": "2026-10-19",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -21886,6 +21885,60 @@
    ]
   },
   {
+   "id": "accupass:2610300721037450092370",
+   "title": "12/05【旅讀識界】從前，有個布拉格🚩來趟深度奧捷旅行_高雄場",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-05T16:00:00+08:00",
+   "venue": "近捷運獅甲站",
+   "address": "台灣高雄市前鎮區中山二路5號3樓",
+   "district": "前鎮區",
+   "category": "節慶／觀光",
+   "fee": "免費",
+   "organizer": "旅讀or",
+   "organizer_type": "不確定",
+   "description": "布拉格，不只是一座百塔之城 從經典地標、老城街景，到咖啡館、美食、河岸風光與城市生活 這座中歐城市，有著值得慢慢走、慢慢看的不同面貌。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610300721037450092370"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610301240021796172077",
+   "title": "迷途俱樂部＿新書巡迴講座高雄場",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-05T16:00:00+08:00",
+   "venue": "承風書店",
+   "address": "台灣高雄市前鎮區振興里林森四路189號7樓",
+   "district": "前鎮區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "陳浪 Jerry Chen",
+   "organizer_type": "不確定",
+   "description": "陳浪第柒號作品《迷途俱樂部》巡迴首站來到高雄，將分享許多創作背後的心路歷程。 有興趣的南台灣讀者朋友，千萬不要錯過。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610301240021796172077"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "accupass:2610041516195464824000",
    "title": "[高雄場] Tetsu 年末分享會",
    "start": "2026-12-05T14:00:00+08:00",
@@ -21910,6 +21963,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "ksml:16470",
+   "title": "🌳【總館】把森林帶回人間的浪漫冒險—《有一種田野報告叫植物獵人》新書分享會- 洪信介 X 115年12月新書好書推薦講座",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-05T16:30:00+08:00",
+   "venue": "高市圖總館３樓 階梯閣樓",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館採編部",
+   "organizer_type": "政府",
+   "description": "2026 12月 Ｘ 新書好書推薦講座\n把森林帶回人間的浪漫冒險—\n《有一種田野報告叫植物獵人》新書分享會​",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16470"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "ksml"
    ]
   },
   {
@@ -22725,6 +22805,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "opentix:2112024879532777472:20261206",
+   "title": "南臺灣法國號重奏團・起點",
+   "start": "2026-12-06T14:30:00+08:00",
+   "end": "2026-12-06T16:00:00+08:00",
+   "venue": "大東文化藝術中心",
+   "address": "",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "南臺灣法國號重奏團",
+   "organizer_type": "不確定",
+   "description": "本計畫以法國號重奏音樂會形式呈現，演出編制除四重奏、六重奏外，亦納入法國號大重奏之演出型態，展現法國號於多聲部、大編制下之音色厚度、和聲層次與合奏能量。透過不同編制的交錯安排，使觀眾得以完整感受法國號在室內樂領域中所具備的多元表現可能。演出曲目除經典法國號重奏作品與改編曲目外，亦將呈現屢獲國際獎項之作曲家Jacob Evarts之作品，並為其曲目之臺灣首演。該作曲家之創作風格高度重視法國號音色特質與演奏技巧，作品中包含大量展現法國號音域延展、音色轉換及合奏層次之段落，對演奏者之技術掌握與音樂詮釋均具高度挑戰性。藉由引介此類具當代代表性的國際作品，期望拓展南臺灣法國號重奏之曲目視野，並提升整體演…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2112024879532777472"
+    }
+   ],
+   "lat": 22.6247642,
+   "lng": 120.3634355,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -24777,7 +24884,7 @@
   },
   {
    "id": "khcc:-40207:20261213",
-   "title": "屁屁偵探 「南方島嶼的神秘遺跡」",
+   "title": "《屁屁偵探》南方島嶼的神秘遺跡",
    "start": "2026-12-13T14:30:00+08:00",
    "end": "2026-12-13T20:55:00+08:00",
    "venue": "高雄市文化中心 至德堂",
@@ -25318,6 +25425,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "khh_travel"
+   ]
+  },
+  {
+   "id": "accupass:2610270909481886296288",
+   "title": "2026華人設計經營高峰會｜【AI運用與供應鏈的重整 — 高雄見學場】",
+   "start": "2026-12-18T09:30:00+08:00",
+   "end": "2026-12-18T18:00:00+08:00",
+   "venue": "左營高鐵站",
+   "address": "台灣高雄市左營區高鐵路105號",
+   "district": "左營區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "i室設圈｜漂亮家居",
+   "organizer_type": "不確定",
+   "description": "2026華人設計經營高峰會｜【AI運用與供應鏈的重整 — 高雄見學場】 本場活動由《i室設圈｜漂亮家居》主辦，並由金馬賓館當代美術館擔任場地暨內容支持單位，作為 2026 年度最後一場設計經營高峰會。 本次將從 AI 運用、數位製造到藝術與空間的跨域連結，透過論壇交流與實地參訪，帶領設計師深入產業現場，探索設計、科技與供應鏈的整合可能，為未來的設計實踐與經營帶來更多啟發。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610270909481886296288"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -26194,7 +26328,7 @@
   },
   {
    "id": "khcc:-40219:20261219",
-   "title": "舞時－半世紀的繁花盛景",
+   "title": "汎美50週年年度舞展《舞時—半世紀的繁花盛景》",
    "start": "2026-12-19T19:30:00+08:00",
    "end": "2026-12-19T21:30:00+08:00",
    "venue": "高雄市文化中心 至善廳",
@@ -26204,7 +26338,7 @@
    "fee": "付費",
    "organizer": "汎美舞蹈團",
    "organizer_type": "不確定",
-   "description": "演出單位：汎美舞蹈團",
+   "description": "演出單位：汎美舞蹈團、汎美舞蹈藝術中心",
    "links": [
     {
      "source": "khcc",
@@ -26458,33 +26592,6 @@
    "lng": null,
    "aliases": [],
    "first_seen": "2026-10-29",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2607301206381196500910",
-   "title": "🧡(高雄聯誼)12/20(日)14:00 【高光時刻．遇見理想愛情】 年百萬菁英 × 高穩薪男士 × 優質佳人【7年級~8初】  約會 |找對象 |排約 |單身聯誼 |交往",
-   "start": "2026-12-20T14:00:00+08:00",
-   "end": "2026-12-20T17:00:00+08:00",
-   "venue": "報名成功私訊通知",
-   "address": "台灣高雄市近捷運",
-   "district": "",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "🧡Meet U｜心遇單身派對",
-   "organizer_type": "不確定",
-   "description": "匯聚年百萬以上或高穩定薪資的優質男士，搭配氣質出眾的單身女性，在輕鬆愉悅的氛圍中交流互動。讓優秀遇見優秀，開啟一段值得期待的幸福緣分。 【高光時刻．遇見理想愛情】 年百萬菁英 × 高穩薪男士 × 優質佳人",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2607301206381196500910"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
    "sources": [
     "accupass"
    ]
@@ -29126,6 +29233,33 @@
    ]
   },
   {
+   "id": "opentix:2110639893261393921:20270102",
+   "title": "福爾摩沙指揮選粹系列II-脈動Pulse",
+   "start": "2027-01-02T19:30:00+08:00",
+   "end": "2027-01-02T21:30:00+08:00",
+   "venue": "大東文化藝術中心",
+   "address": "",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "A-Team薩克斯風合奏團",
+   "organizer_type": "不確定",
+   "description": "恆耀管樂團即將邁入第三年啦！本次公演我們邀請到了國立臺北藝術大學 張佳韻教授，擔任客席指揮。 張佳韻教授的指揮才華受到許多音樂大師的肯定。國家交響樂團前任總監林望傑指揮指出『張佳韻經由敏銳的聽力及音樂性，在指揮台上能清晰地溝通音樂概念，是極富經驗的傑出指揮』，並且在音樂界及教育界累積與傳承了充盈的專業經歷。 期待本次公演恆耀管樂團會和張佳韻教授擦出什麼樣的火花呢，讓我們盡請期待吧！",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2110639893261393921"
+    }
+   ],
+   "lat": 22.6247642,
+   "lng": 120.3634355,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "opentix:2108010089152028673:20270102",
    "title": "蔡珂宜Chloe Chua－2027亞洲巡迴音樂會台灣首演",
    "start": "2027-01-02T19:30:00+08:00",
@@ -29382,15 +29516,21 @@
     {
      "source": "opentix",
      "url": "https://www.opentix.life/event/2114001967207419904"
+    },
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2114001967207419904"
     }
    ],
    "lat": 22.62301792,
    "lng": 120.34243411,
    "aliases": [
-    "opentix:2114001967207419904:20270107"
+    "opentix:2114001967207419904:20270107",
+    "iculture:6ae37f3326b3245efc753744"
    ],
    "first_seen": "2026-10-19",
    "sources": [
+    "iculture",
     "opentix",
     "weiwuying"
    ]
@@ -30528,6 +30668,33 @@
    ]
   },
   {
+   "id": "khcc:-39812:20270131",
+   "title": "藝術市集",
+   "start": "2027-01-31T16:00:00+08:00",
+   "end": "2027-01-31T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/31"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
    "id": "weiwuying:6aa0c4e48979e70007eaceaa",
    "title": "《2027國際大師鋼琴藝術節大師系列-帕維爾．納塞西安鋼琴獨奏會》",
    "start": "2027-01-31T19:30:00+08:00",
@@ -30537,7 +30704,7 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
+   "organizer": "大師藝術",
    "organizer_type": "不確定",
    "description": "2027國際大師鋼琴藝術節大師系列",
    "links": [
@@ -30546,18 +30713,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6aa0c4e48979e70007eaceaa"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2089674844780937217"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2089674844780937217"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2089674844780937217:20270131",
     "iculture:6a9afcb326b324165c32e35e"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -31488,8 +31661,8 @@
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國立臺灣交響樂團",
+   "organizer_type": "政府",
    "description": "指揮水藍攜手日本小提琴天后庄司紗矢香，精彩呈獻卡斯特諾沃－泰德斯科《先知》協奏曲。同場演繹羅西尼《塞維亞理髮師》序曲與霍爾斯特經典《行星組曲》。",
    "links": [
     {
@@ -31497,18 +31670,24 @@
      "url": "https://www.npac-weiwuying.org/programs/6a72d611b9145f0007d601a5"
     },
     {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2078482062961602561"
+    },
+    {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2078482062961602561"
     }
    ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
+   "lat": 22.62301792,
+   "lng": 120.34243411,
    "aliases": [
+    "opentix:2078482062961602561:20270307",
     "iculture:6a6a32d326b32427d06042e5"
    ],
    "first_seen": "2026-10-19",
    "sources": [
     "iculture",
+    "opentix",
     "weiwuying"
    ]
   },
@@ -31646,6 +31825,33 @@
    "first_seen": "2026-10-29",
    "sources": [
     "tixcraft"
+   ]
+  },
+  {
+   "id": "accupass:2610290644011649847099",
+   "title": "第157期CPPS採購供應專業認證班-116年04/24（六）~07/10（六）",
+   "start": "2027-04-24T09:00:00+08:00",
+   "end": "2027-07-10T17:00:00+08:00",
+   "venue": "世貿金星大樓",
+   "address": "台灣高雄市三民區博愛一路287號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "社團法人中華採購與供應管理協會",
+   "organizer_type": "民間",
+   "description": "『CPPS購供應專業認證』結合國內外組織運作效能，並加入許多企業最佳實務案例，將原有12堂的實體課程精實為10堂課程，更因應後疫情時代，針對採購與供應管理持續更新的趨勢或議題，增加2堂最新議題的線上課程，其內容更貼近專業實務，也更具實用與前瞻性。主要目的是協助參與課程的學員，於面對全球局勢變局與供應鏈創新整合的各種艱鉅挑戰下，學習「採購與供應管理」最新的相關專業知識與必備技能，期許其作為企業組織中增進營運績效與創造利潤的實質「價值創造」的貢獻者，進而增強組織在市場上的競爭優勢 。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610290644011649847099"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -31997,6 +32203,33 @@
    "first_seen": "2026-10-28",
    "sources": [
     "kpmc"
+   ]
+  },
+  {
+   "id": "accupass:2610280550439884291160",
+   "title": "第198期 A.P.S.採購與供應從業人員基礎採購檢定班-116年10/28（四）~12/02（四）",
+   "start": "2027-10-28T09:00:00+08:00",
+   "end": "2027-12-02T17:00:00+08:00",
+   "venue": "世貿金星大樓",
+   "address": "台灣高雄市三民區博愛一路287號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "社團法人中華採購與供應管理協會",
+   "organizer_type": "民間",
+   "description": "『基礎採購檢定 』(Accredited Purchasing Specialist, A.P.S.)是由中華採購與供應管理協會於2008年所規劃設立授與的檢定資格，是為中華民國對於採購工作的第一個專業採購檢定，於2009年開始實施。認證的主旨在確認採購從業人員，具備基本的採購與供應相關知識與作業能力。 為了方便取得基礎採購檢定的採購與供應從業人員朋友們進修，協會開發出以下的配套課程方案。您可以按照自己的需求，選擇適當的課程來進修與準備。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610280550439884291160"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-31",
+   "sources": [
+    "accupass"
    ]
   }
  ]
