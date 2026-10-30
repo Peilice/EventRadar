@@ -1,33 +1,6 @@
 {
- "fetched_at": "2026-10-29T21:27:24.372769+08:00",
+ "fetched_at": "2026-10-30T08:51:56.737678+08:00",
  "events": [
-  {
-   "id": "iculture:6ac3dafe26b324165c32e59a",
-   "title": "唱彈詩與樂 合唱音樂會",
-   "start": "2026-10-29T19:30:00+08:00",
-   "end": "2026-10-29T21:30:00+08:00",
-   "venue": "衛武營國家藝術文化中心表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2105220235260489728"
-    }
-   ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
   {
    "id": "iculture:6a7a04f126b32427d0604397",
    "title": "《弦語・心聲》張群2026小提琴獨奏會",
@@ -859,6 +832,33 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae37f3326b3245efc753743",
+   "title": "賽門．拉圖爵士與巴伐利亞廣播交響樂團開放彩排教育活動",
+   "start": "2026-11-15T11:30:00+08:00",
+   "end": "2026-11-15T12:15:00+08:00",
+   "venue": "衛武營國家藝術文化中心音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2108147849766019073"
+    }
+   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -7771,6 +7771,33 @@
    ],
    "lat": 22.6259044,
    "lng": 120.3171311,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae37f3326b3245efc753744",
+   "title": "行過山河 ‧ 遇見星空",
+   "start": "2027-01-07T19:30:00+08:00",
+   "end": "2027-01-07T21:30:00+08:00",
+   "venue": "衛武營國家藝術文化中心音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2114001967207419904"
+    }
+   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
    "aliases": [],
    "first_seen": "",
    "sources": [
