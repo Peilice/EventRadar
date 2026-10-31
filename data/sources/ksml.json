@@ -1,6 +1,87 @@
 {
- "fetched_at": "2026-10-31T04:23:03.372169+08:00",
+ "fetched_at": "2026-11-01T03:42:52.935369+08:00",
  "events": [
+  {
+   "id": "ksml:16110",
+   "title": "陽明分館於11/3起開設彩妝課程，歡迎愛美人士踴躍參加！",
+   "start": "2026-11-03T14:00:00+08:00",
+   "end": "2026-12-08T16:00:00+08:00",
+   "venue": "陽明分館多功能教室",
+   "address": "高雄市三民區陽明路300號3樓",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館陽明分館",
+   "organizer_type": "政府",
+   "description": "💄陽明分館—彩妝與保養課程 (11-12月)\n【從肌膚修護，到心靈綻放】—— 6 堂秋冬情緒療癒肌膚美學課\n秋冬季節交替，不只肌膚開始變得乾燥敏感，我們的內心也在無形中累積了一整年的疲憊，從屏障修護到情緒舒緩及自信變妝，陪你在歲末之際梳理狀態，自信邁向新的一年，迎接全新的自己。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16110"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:14412",
+   "title": "【高雄文學館】𝟏𝟏/𝟐𝟐港都文藝學會 「文學創作－生命中的光與熱」 系列講座",
+   "start": "2026-11-22T00:00:00+08:00",
+   "end": "2026-11-22T23:59:59+08:00",
+   "venue": "高雄市立圖書館高雄文學館",
+   "address": "高雄市前金區民生二路39號",
+   "district": "前金區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄文學館",
+   "organizer_type": "政府",
+   "description": "11月活動海報更新 109年始，高雄文學館啟動「文學品味線」、「跨藝實驗線」、「地方紀實線」、「社群培力線」、「典藏轉譯線」五個文學推廣路線，每個路線包含「講座」、「對談」、「工作坊」、「展覽」、「專欄」等不同類型的系列活動。每年度，邀請港都文藝學會協辦「文學品味線」講座，透過12位高雄作家分享擅長的不同文類及專業，拓展民眾的閱讀與創作的品味及寬度。\n∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵\n港都文藝學會 「文學創作－生命中的光與熱」 系列講座 ▍𝟏𝟏月場",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,14412"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:414",
+   "title": "陽明分館於11/14起舉辦\"成語讀書會\"歡迎國小學童踴躍參加!",
+   "start": "2026-11-14T00:00:00+08:00",
+   "end": "2026-12-26T23:59:59+08:00",
+   "venue": "高雄市立圖書館陽明分館",
+   "address": "高雄市三民區陽明路300號3樓",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄市立圖書館陽明分館",
+   "organizer_type": "政府",
+   "description": "成語讀書會\n課程內容：翻開歷史的扉頁，靜觀古時歷史，笑談王朝興衰，從故事了解成語來龍去脈，學習將成語使用於生活中，創造文學美感，深耕文史內涵，探究中文的精華，提升作文能力，為未來學業奠下基礎。\n師資簡介：洪玉蕊老師",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,414"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16473",
    "title": "文化中心分館台語意識培力課程「台語毋是聽有就好，會曉講上重要」11/5登場，歡迎踴躍報名。可參加台語家庭集點哦！",
@@ -245,33 +326,6 @@
    ]
   },
   {
-   "id": "ksml:414",
-   "title": "陽明分館於11/14起舉辦\"成語讀書會\"歡迎國小學童踴躍參加!",
-   "start": "2026-11-14T00:00:00+08:00",
-   "end": "2026-12-26T23:59:59+08:00",
-   "venue": "高雄市立圖書館陽明分館",
-   "address": "高雄市三民區陽明路300號3樓",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄市立圖書館陽明分館",
-   "organizer_type": "政府",
-   "description": "成語讀書會\n課程內容：翻開歷史的扉頁，靜觀古時歷史，笑談王朝興衰，從故事了解成語來龍去脈，學習將成語使用於生活中，創造文學美感，深耕文史內涵，探究中文的精華，提升作文能力，為未來學業奠下基礎。\n師資簡介：洪玉蕊老師",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,414"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16463",
    "title": "【橋頭分館】11/7 (六) 14:00 《動物園大對決》繪本學台語",
    "start": "2026-11-07T14:00:00+08:00",
@@ -461,33 +515,6 @@
    ]
   },
   {
-   "id": "ksml:16452",
-   "title": "【左新分館】🎉招生中！ 【科普繪本故事時間｜《海邊的星星巨人》】 巧克力老師】",
-   "start": "2026-10-31T10:00:00+08:00",
-   "end": "2026-10-31T11:00:00+08:00",
-   "venue": "左新分館 一樓兒童區故事屋",
-   "address": "高雄市左營區博愛三路453號",
-   "district": "左營區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館左新分館",
-   "organizer_type": "政府",
-   "description": "【科普繪本故事時間｜《海邊的星星巨人》】✨🌊\n活動內容說明：🌍💙\n本活動結合SDGs14水域生命之永續發展目標，以兒童為參與對象，由故事達人巧克力老師透過故事引導孩子一起發現問題，透過故事學習分類、推論，練習說出自己的想法，陪孩子找答案，滿足孩子好奇心！🤔📖💡",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16452"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16451",
    "title": "【楠仔坑分館】11/14（六）用繪本認捌台語～寶島台語囡仔古（意識培力）～歡迎報名",
    "start": "2026-11-14T14:00:00+08:00",
@@ -515,33 +542,6 @@
    ]
   },
   {
-   "id": "ksml:16450",
-   "title": "【翠屏分館】10/31(六) 深藍星球補給站: 好舒適的貝殼~學員名單公告",
-   "start": "2026-10-31T14:00:00+08:00",
-   "end": "2026-10-31T16:00:00+08:00",
-   "venue": "翠屏分館玄關",
-   "address": "高雄市楠梓區德惠路55號3樓",
-   "district": "楠梓區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館翠屏分館",
-   "organizer_type": "政府",
-   "description": "【錄取名單公告】\n⭐備取名單非正式錄取，請等候館方電話通知⭐\n​",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16450"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16448",
    "title": "【新興民眾閱覽室】11/8(日)上午10:00-12:00《佮阿公踅菜市仔:聽故事・耍遊戲・用台語做沙拉》",
    "start": "2026-11-08T10:00:00+08:00",
@@ -558,33 +558,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16448"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16110",
-   "title": "陽明分館於11/3起開設彩妝課程，歡迎愛美人士踴躍參加！",
-   "start": "2026-11-03T14:00:00+08:00",
-   "end": "2026-12-08T16:00:00+08:00",
-   "venue": "陽明分館多功能教室",
-   "address": "高雄市三民區陽明路300號3樓",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館陽明分館",
-   "organizer_type": "政府",
-   "description": "💄陽明分館—彩妝與保養課程 (11-12月)\n【從肌膚修護，到心靈綻放】—— 6 堂秋冬情緒療癒肌膚美學課\n秋冬季節交替，不只肌膚開始變得乾燥敏感，我們的內心也在無形中累積了一整年的疲憊，從屏障修護到情緒舒緩及自信變妝，陪你在歲末之際梳理狀態，自信邁向新的一年，迎接全新的自己。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16110"
     }
    ],
    "lat": null,
@@ -704,87 +677,6 @@
    ]
   },
   {
-   "id": "ksml:16430",
-   "title": "【橋頭分館】10/31 (六) 14:00 數位創藝趣．杯墊DIY",
-   "start": "2026-10-31T14:00:00+08:00",
-   "end": "2026-10-31T16:00:00+08:00",
-   "venue": "高雄市立圖書館橋頭分館2樓多功能室",
-   "address": "高雄市橋頭區隆豐路7號",
-   "district": "橋頭區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館橋頭分館",
-   "organizer_type": "政府",
-   "description": "數位創藝趣．杯墊DIY\n《家庭樂學計畫》\n陳晏慧老師帶大家一起用數位工具與 AI 照片生成，探索科技帶來的創作樂趣，",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16430"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16429",
-   "title": "【橋頭分館】10/31 (六) 10:00 《解鎖無齡》-迎向超高齡社會的老年智慧生活",
-   "start": "2026-10-31T10:00:00+08:00",
-   "end": "2026-10-31T12:00:00+08:00",
-   "venue": "高雄市立圖書館橋頭分館2樓多功能室",
-   "address": "高雄市橋頭區隆豐路7號",
-   "district": "橋頭區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館橋頭分館",
-   "organizer_type": "政府",
-   "description": "《解鎖無齡》-迎向超高齡社會的老年智慧生活\n《115年多元閱讀推廣計畫》\n你想過未來的自己，會過著什麼樣的生活嗎？",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16429"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16427",
-   "title": "【翠屏分館】10/31(六) 深藍星球補給站: 好舒適的貝殼~歡迎報名參加~",
-   "start": "2026-10-31T14:00:00+08:00",
-   "end": "2026-10-31T16:00:00+08:00",
-   "venue": "翠屏分館玄關",
-   "address": "高雄市楠梓區德惠路55號3樓",
-   "district": "楠梓區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館翠屏分館",
-   "organizer_type": "政府",
-   "description": "海邊的貝殼除了漂亮還藏著什麼秘密呢👀\n一起和小天使老師探索貝殼的形狀與有趣小知識！\n10/31(六) 深藍星球補給站: 好舒適的貝殼",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16427"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16426",
    "title": "【寶珠分館】「《佮阿公踅菜市仔:聽故事・耍遊戲・用台語做沙拉》」115/11/01(日)上午10:00-12:00",
    "start": "2026-11-01T10:00:00+08:00",
@@ -801,33 +693,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16426"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16425",
-   "title": "【寶珠分館】「台語意識培力講座－毋但講台語爾爾！」115/10/31(六)下午14:00-16:00",
-   "start": "2026-10-31T14:00:00+08:00",
-   "end": "2026-10-31T16:00:00+08:00",
-   "venue": "寶珠分館 藝文研習室",
-   "address": "高雄市三民區大順二路468號4樓",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館寶珠分館",
-   "organizer_type": "政府",
-   "description": "【寶珠分館】 #本場次可參加台語家庭集點\n【台語意識培力講座－毋但講台語爾爾！】\n不管你是自細漢就講台語，",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16425"
     }
    ],
    "lat": null,
@@ -893,141 +758,6 @@
    ]
   },
   {
-   "id": "ksml:16420",
-   "title": "【河堤分館】10/31(六) 𓍝生活實用法律講座𓍝 不可不知的生活法律知識",
-   "start": "2026-10-31T10:00:00+08:00",
-   "end": "2026-10-31T12:00:00+08:00",
-   "venue": "高雄市立圖書館河堤分館 3樓多功能教室",
-   "address": "高雄市三民區裕誠路1號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館河堤分館",
-   "organizer_type": "政府",
-   "description": "活動圖卡 𓍝 生活實用法律講座：不可不知的生活法律知識 𓍝\n||家庭樂學系列講座|| 懂法律、保權益，讓生活更安心！\n生活中處處都有法律大小事，從車禍事故、各種投資與消費詐騙，到遺產規劃與繼承、房屋稅及遺產稅等問題，了解基本法律知識，不僅能讓我們預防風險，更能在遇到問題時，懂得如何保障自身權益。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16420"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:14412",
-   "title": "【高雄文學館】𝟏𝟏/𝟐𝟐港都文藝學會 「文學創作－生命中的光與熱」 系列講座",
-   "start": "2026-11-22T00:00:00+08:00",
-   "end": "2026-11-22T23:59:59+08:00",
-   "venue": "高雄市立圖書館高雄文學館",
-   "address": "高雄市前金區民生二路39號",
-   "district": "前金區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館高雄文學館",
-   "organizer_type": "政府",
-   "description": "11月活動海報 109年始，高雄文學館啟動「文學品味線」、「跨藝實驗線」、「地方紀實線」、「社群培力線」、「典藏轉譯線」五個文學推廣路線，每個路線包含「講座」、「對談」、「工作坊」、「展覽」、「專欄」等不同類型的系列活動。每年度，邀請港都文藝學會協辦「文學品味線」講座，透過12位高雄作家分享擅長的不同文類及專業，拓展民眾的閱讀與創作的品味及寬度。\n∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵∴∵\n港都文藝學會 「文學創作－生命中的光與熱」 系列講座 ▍𝟏𝟏月場",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,14412"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16417",
-   "title": "【河堤分館】10/31(六)館慶活動 |《怕浪費奶奶的河川散步》親子工作坊",
-   "start": "2026-10-31T14:00:00+08:00",
-   "end": "2026-10-31T16:00:00+08:00",
-   "venue": "高雄市立圖書館河堤分館 3樓多功能教室",
-   "address": "高雄市三民區裕誠路1號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "高雄市立圖書館河堤分館",
-   "organizer_type": "政府",
-   "description": "☀️館慶系列活動 ☀️《怕浪費奶奶的河川散步》親子工作坊\n跟著怕浪費奶奶，一起來趟有趣的河川散步吧！\n喝完飲料，空罐子該丟哪裡呢？",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16417"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16383",
-   "title": "【新興分館】10/31 14-16 🎥持攝影機的人：當影像成為一種選擇 創作者的媒體素養與影像責任",
-   "start": "2026-10-31T14:00:00+08:00",
-   "end": "2026-10-31T16:00:00+08:00",
-   "venue": "新興分館視障資料室(高雄市新興區中正三路34號3樓，新興行政中心大樓)",
-   "address": "高雄市新興區中正三路34號3樓",
-   "district": "新興區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館新興分館",
-   "organizer_type": "政府",
-   "description": "活動海報 🎥\n從紀錄片、電影、社群影音到AI生成內容,\n重新思考影像如何被選擇、創造與理解。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16383"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16382",
-   "title": "【新興分館】10/31 10-12 🧚台語意識培力課-台語，咱做伙講！",
-   "start": "2026-10-31T10:00:00+08:00",
-   "end": "2026-10-31T12:00:00+08:00",
-   "venue": "新興分館視障資料室(高雄市新興區中正三路34號3樓，新興行政中心大樓)",
-   "address": "高雄市新興區中正三路34號3樓",
-   "district": "新興區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館新興分館",
-   "organizer_type": "政府",
-   "description": "新興分館 🧚\n台語毋但只是「講一種話」，伊嘛是咱熟似這塊土地、\n文化佮家己的重要方式。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16382"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16416",
    "title": "【李科永分館】狗斯特的萬聖節派對- 搗蛋歌謠派對",
    "start": "2026-10-31T17:00:00+08:00",
@@ -1071,33 +801,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16415"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16414",
-   "title": "【李科永分館】狗斯特的萬聖節派對 -(南瓜蹦蹦跳-親子律動派對)",
-   "start": "2026-10-31T14:00:00+08:00",
-   "end": "2026-11-01T15:00:00+08:00",
-   "venue": "李科永圖書館 戶外草坪",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館李科永紀念圖書館",
-   "organizer_type": "政府",
-   "description": "🎵 「狗斯特的派對，怎麼可以沒有音樂！」\n不管你是大搗蛋鬼，\n還是小搗蛋鬼，",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16414"
     }
    ],
    "lat": null,
@@ -1406,33 +1109,6 @@
    ]
   },
   {
-   "id": "ksml:16196",
-   "title": "🐱大東講堂🐱10/31(六)邀請馬尼尼為主講「創作如何改變一個人看待生命的方式」，歡迎參加！",
-   "start": "2026-10-31T00:00:00+08:00",
-   "end": "2026-10-31T23:59:59+08:00",
-   "venue": "大東文化藝術中心演講廳（鳳山區光遠路161號）捷運橘線大東站2號出口",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館大東藝術圖書館",
-   "organizer_type": "政府",
-   "description": "※本場次採線上報名，即日起至額滿為止，當天視剩餘座位開放現場候補，報名方式請詳報名網址。\n日 期：2026年10月31日( 六 )\n時 間：14:30 - 17:00 (13:30開放報到入場)",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16196"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16372",
    "title": "【李科永分館】 狗斯特的萬聖節派對 - 狗斯特搗蛋任務",
    "start": "2026-10-01T00:00:00+08:00",
@@ -1530,33 +1206,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16299"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16289",
-   "title": "📌【岡山文化中心分館】📌10/3及10/31歌仔戲繪本演故事",
-   "start": "2026-10-03T10:00:00+08:00",
-   "end": "2026-10-31T12:00:00+08:00",
-   "venue": "岡山文化中心分館2樓多元文化室(高雄市岡山區岡山南路43號)",
-   "address": "高雄市岡山區岡山南路43號",
-   "district": "岡山區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館岡山文化中心分館",
-   "organizer_type": "政府",
-   "description": "1.活動日期：2026/10/3(六)上午10:00-12:00及10/31日下午14:30-16:30\n2.活動名稱:藝術繪本說演故事\n3.活動地點：岡山文化中心分館2樓多元文化室(高雄市岡山區岡山南路43號)",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16289"
     }
    ],
    "lat": null,

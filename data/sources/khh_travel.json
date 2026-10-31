@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T04:23:03.372169+08:00",
+ "fetched_at": "2026-11-01T03:42:52.935369+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -99,33 +99,6 @@
     {
      "source": "khh_travel",
      "url": "https://khh.travel/zh-tw/event/calendardetail/7689/"
-    }
-   ],
-   "lat": 22.70312,
-   "lng": 120.29447,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
-   "id": "khh_travel:C2_397000000A_007714",
-   "title": "Fujii Kaze Prema World Tour - Kaohsiung",
-   "start": "2026-10-31T00:00:00+08:00",
-   "end": "2026-10-31T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市813左營區高雄國家體育場",
-   "district": "左營區",
-   "category": "節慶／觀光",
-   "fee": "未知",
-   "organizer": "高雄市政府",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/7714/"
     }
    ],
    "lat": 22.70312,
@@ -292,33 +265,6 @@
    ],
    "lat": 22.88656,
    "lng": 120.48229,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khh_travel"
-   ]
-  },
-  {
-   "id": "khh_travel:C2_397000000A_008062",
-   "title": "2026 Takao Rock 打狗祭",
-   "start": "2026-10-10T00:00:00+08:00",
-   "end": "2026-10-31T23:59:59+08:00",
-   "venue": "",
-   "address": "高雄市803鹽埕區高雄流行音樂中心 海音館",
-   "district": "鹽埕區",
-   "category": "節慶／觀光",
-   "fee": "未知",
-   "organizer": "高雄市政府、高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "khh_travel",
-     "url": "https://khh.travel/zh-tw/event/calendardetail/8062/"
-    }
-   ],
-   "lat": 22.61842,
-   "lng": 120.28914,
    "aliases": [],
    "first_seen": "",
    "sources": [

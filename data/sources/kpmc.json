@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T04:23:03.372169+08:00",
+ "fetched_at": "2026-11-01T03:42:52.935369+08:00",
  "events": [
   {
    "id": "kpmc:16243",
@@ -218,195 +218,6 @@
    ]
   },
   {
-   "id": "kpmc:15578",
-   "title": "2026 Takao Rock 打狗祭 ➤ V FUTURE PARTY 未來趴",
-   "start": "2026-10-31T13:30:00+08:00",
-   "end": "2026-10-31T13:30:00+08:00",
-   "venue": "高雄流行音樂中心 海音館",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：● 春魚創意Springfish Studio｜極深空計畫 Xtreme Deep Field Project、厄倫蒂兒 Earendel、涅默 Nemesis、埃穆亞 Oumua、熙歌 Cygnus ●子午計畫Meridian Project｜玥Itsuki、祈Iruni、煦Hiyori、煌Kirali、澪Rei ●箱箱The Box｜森森鈴蘭 Lily Linglan、瑪格麗特 · 諾爾絲 Margaret North\n票價：3,680 2,680",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-hih-1031/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16036",
-   "title": "2026 漢堡好港節 HARBOUR BEATS",
-   "start": "2026-10-31T15:00:00+08:00",
-   "end": "2026-10-31T15:00:00+08:00",
-   "venue": "高雄流行音樂中心",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "高雄流行音樂中心、德國經濟辦事處 German Trade Office Taipei (AHK Taiwan)、德國漢堡自由漢薩市文化與媒體部 Ministry of Culture and Media of the Free and Hanseatic City of Hamburg",
-   "organizer_type": "政府",
-   "description": "演出：BOVIY 、Sophia Kennedy、呂允 Lu Yun 、Majin、雷擎、椅子樂團 The Chairs、書是窩-黃百合老師、佳伶老師繪本花園、台灣最好睡的Podcast、Lu.Studio Eve老師\n票價：免費參加",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-harbour-beats/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16062",
-   "title": "義大利指彈天團 — 40 Fingers亞洲巡迴演出",
-   "start": "2026-10-31T19:00:00+08:00",
-   "end": "2026-10-31T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 鯨魚堤岸 03",
-   "address": "高雄市苓雅區海邊路",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "好滿意音樂",
-   "organizer_type": "不確定",
-   "description": "演出：40 Fingers\n票價：NT$3,600 / NT$2,800 / NT$2,200 / NT$1,800 / NT$1,400 / NT$1,000",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e7%be%a9%e5%a4%a7%e5%88%a9%e6%8c%87%e5%bd%88%e5%a4%a9%e5%9c%98-40-fingers%e4%ba%9e%e6%b4%b2%e5%b7%a1%e8%bf%b4%e6%bc%94%e5%87%ba/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15903",
-   "title": "Abandoned Teddy 奔等泰迪『心宿』發片巡迴-高雄場",
-   "start": "2026-10-31T19:00:00+08:00",
-   "end": "2026-10-31T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "Abandoned Teddy 奔等泰迪 x 高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：Abandoned Teddy 奔等泰迪　w/夕陽武士\n票價：預售票500元 現場票600元",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1031/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16091",
-   "title": "Jun Iida 飯田潤四重奏『Bellflower』亞洲巡演｜高雄場",
-   "start": "2026-10-31T19:30:00+08:00",
-   "end": "2026-10-31T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：Jun Iida 飯田潤、 Yasumasa Kumagai 熊谷ヤスマサ、 Shin Sakaino シンサカイノ、Kazuhiro Odagiri 小田桐和寛\n票價：單人700元 門票含100元餐飲抵用券 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/jun-iida-%e9%a3%af%e7%94%b0%e6%bd%a4%e5%9b%9b%e9%87%8d%e5%a5%8f%e3%80%8ebellflower%e3%80%8f%e4%ba%9e%e6%b4%b2%e5%b7%a1%e6%bc%94%ef%bd%9c%e9%ab%98%e9%9b%84%e5%a0%b4/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:14124",
-   "title": "夢境現實《親子互動展》",
-   "start": "2026-11-01T00:00:00+08:00",
-   "end": "2026-11-01T00:00:00+08:00",
-   "venue": "高雄流行音樂中心 鯨魚堤岸 01",
-   "address": "高雄市苓雅區海邊路",
-   "district": "苓雅區",
-   "category": "親子",
-   "fee": "未知",
-   "organizer": "夢境現實 Moondream Reality",
-   "organizer_type": "不確定",
-   "description": "演出：全球首座沉浸式劇院\n票價：KKday、Niceday、KlooK (至平台確認購票方案與價格)",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/mr2601/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15243",
-   "title": "夢境現實｜鐵達尼VR",
-   "start": "2026-11-01T00:00:00+08:00",
-   "end": "2026-11-01T00:00:00+08:00",
-   "venue": "高雄流行音樂中心 鯨魚堤岸 01",
-   "address": "高雄市苓雅區海邊路",
-   "district": "苓雅區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "夢境現實 Moondream Reality",
-   "organizer_type": "不確定",
-   "description": "演出：全球首座沉浸式劇院\n票價：KKday、Niceday、KlooK (至平台確認購票方案與價格)",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e5%a4%a2%e5%a2%83%e7%8f%be%e5%af%a6%ef%bd%9c%e9%90%b5%e9%81%94%e5%b0%bcvr/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:16054",
    "title": "《泊》郭書瑜 個展",
    "start": "2026-11-01T10:00:00+08:00",
@@ -515,33 +326,6 @@
    ]
   },
   {
-   "id": "kpmc:16257",
-   "title": "爵士揚門｜麥克雞塊人",
-   "start": "2026-11-06T20:00:00+08:00",
-   "end": "2026-11-06T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：吳允菲、黃品硯、曾暐庭、吳憫心、羅沛璿、吳翊丞\n票價：低消150元＋入場費100元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e7%88%b5%e5%a3%ab%e6%8f%9a%e9%96%80%ef%bd%9c%e9%ba%a5%e5%85%8b%e9%9b%9e%e5%a1%8a%e4%ba%ba/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:15952",
    "title": "邱淑蟬 2026《無爭》發行巡迴【高雄場】",
    "start": "2026-11-06T20:00:00+08:00",
@@ -558,6 +342,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1106/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16257",
+   "title": "爵士揚門｜麥克雞塊人",
+   "start": "2026-11-06T20:00:00+08:00",
+   "end": "2026-11-06T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：吳允菲、黃品硯、曾暐庭、吳憫心、羅沛璿、吳翊丞\n票價：低消150元＋入場費100元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e7%88%b5%e5%a3%ab%e6%8f%9a%e9%96%80%ef%bd%9c%e9%ba%a5%e5%85%8b%e9%9b%9e%e5%a1%8a%e4%ba%ba/"
     }
    ],
    "lat": null,
@@ -920,33 +731,6 @@
    ]
   },
   {
-   "id": "kpmc:16282",
-   "title": "探戈之夜｜班多鈕與人聲的交會",
-   "start": "2026-11-20T19:30:00+08:00",
-   "end": "2026-11-20T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：吳詠隆、江玉芳\n票價：單人500元 雙人900元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e6%8e%a2%e6%88%88%e4%b9%8b%e5%a4%9c%ef%bd%9c%e7%8f%ad%e5%a4%9a%e9%88%95%e8%88%87%e4%ba%ba%e8%81%b2%e7%9a%84%e4%ba%a4%e6%9c%83/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:16143",
    "title": "2026 Fire Live 壞兒來福 Vol.4",
    "start": "2026-11-20T19:30:00+08:00",
@@ -963,6 +747,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1120/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16282",
+   "title": "探戈之夜｜班多鈕與人聲的交會",
+   "start": "2026-11-20T19:30:00+08:00",
+   "end": "2026-11-20T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：吳詠隆、江玉芳\n票價：單人500元 雙人900元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e6%8e%a2%e6%88%88%e4%b9%8b%e5%a4%9c%ef%bd%9c%e7%8f%ad%e5%a4%9a%e9%88%95%e8%88%87%e4%ba%ba%e8%81%b2%e7%9a%84%e4%ba%a4%e6%9c%83/"
     }
    ],
    "lat": null,

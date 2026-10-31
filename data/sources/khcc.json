@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T04:23:03.372169+08:00",
+ "fetched_at": "2026-11-01T03:42:52.935369+08:00",
  "events": [
   {
    "id": "khcc:4324",
@@ -72,60 +72,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4315"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-39908:20261031",
-   "title": "《暗喻幻想》Metaphor：ReFantazio 交響音樂會",
-   "start": "2026-10-31T19:30:00+08:00",
-   "end": "2026-10-31T22:00:00+08:00",
-   "venue": "高雄市文化中心 至德堂",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "凡事策劃藝文整合有限公司&東穹國際音樂股份有限公司",
-   "organizer_type": "民間",
-   "description": "演出單位：凡事策劃藝文整合有限公司&東穹國際音樂股份有限公司",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39908&AP=$M102_DATE-115/10/31"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-37737:20261031",
-   "title": "藝術市集",
-   "start": "2026-10-31T16:00:00+08:00",
-   "end": "2026-10-31T21:30:00+08:00",
-   "venue": "高雄市文化中心 藝術大道",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "市集",
-   "fee": "免費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "演出單位：高雄市政府文化局",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37737&AP=$M102_DATE-115/10/31"
     }
    ],
    "lat": null,
@@ -1568,6 +1514,33 @@
    ]
   },
   {
+   "id": "khcc:4341",
+   "title": "「影之舞，從寫實到超絕」劉建良個展",
+   "start": "2027-01-01T00:00:00+08:00",
+   "end": "2027-01-19T23:59:59+08:00",
+   "venue": "高雄市文化中心 至真堂一館",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "「影之舞，從寫實到超絕」劉建良個展，將於2027年1月1日至19日在高雄市文化中心至真堂一館展出。作品涵蓋時光、快樂世界、故鄉尋夢、靜默與古遺記等系列，以人物、風景及神話意象，描繪歲月記憶與內心世界，邀請觀眾感受寫實與想像交織的藝術風景。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4341"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
    "id": "khcc:-39812:20270102",
    "title": "藝術市集",
    "start": "2027-01-02T16:00:00+08:00",
@@ -2178,33 +2151,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40303&AP=$M102_DATE-115/12/27"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40130:20261031",
-   "title": "<午茶絲竹吧>",
-   "start": "2026-10-31T17:00:00+08:00",
-   "end": "2026-10-31T18:00:00+08:00",
-   "venue": "大東戶外舞台",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "高雄市政府文化局 財團法人高雄市愛樂文化藝術基金會",
-   "organizer_type": "政府",
-   "description": "演出單位：高雄市國樂團C",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40130&AP=$M102_DATE-115/10/31"
     }
    ],
    "lat": null,
