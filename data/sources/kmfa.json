@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T08:51:56.737678+08:00",
+ "fetched_at": "2026-10-31T11:29:41.803000+08:00",
  "events": [
   {
    "id": "kmfa:90fd7d19-0c4a-4385-b5db-d1a92b0a6849",
@@ -18,33 +18,6 @@
     {
      "source": "kmfa",
      "url": "https://www.kmfa.gov.tw/OnlineApplyDetailC001200.aspx?Cond=90fd7d19-0c4a-4385-b5db-d1a92b0a6849"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kmfa"
-   ]
-  },
-  {
-   "id": "kmfa:0b0ead5c-ba04-48c6-b27d-d69197c0fca6",
-   "title": "10/31（六）10:00 特展專家導覽《麥可．克雷格-馬丁：日常・解碼》",
-   "start": "2026-10-31T10:00:00+08:00",
-   "end": "2026-10-31T10:00:00+08:00",
-   "venue": "高雄市立美術館 101-103展覽室",
-   "address": "高雄市鼓山區美術館路80號",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立美術館",
-   "organizer_type": "政府",
-   "description": "10/31 （六）10:00 特展專家導覽《麥可．克雷格-馬丁：日常・解碼》 活動時間 2026年10月31日（六）10:00-11:30 集合地點 一樓雕塑大廳（活動前30分鐘於現場集合） 講 者 黃日涵／本展策展團隊 活動費用 100元／人（含導覽講解與導覽子機），另須持特展門票入場 活動費用請於報到時繳交予現場工作人員，並憑個人有效證件領取導覽機 本展為藝術家麥可．克雷格－馬丁（Michael Craig-Martin，1941-）首次於臺灣舉辦的大型個展，由高雄市立美術館與藝術家團隊共同策劃，聚焦其逾50年的創作歷程，展出其經典作品、戶外雕塑、數位創作及2026年最新作品，帶領觀眾從日…",
-   "links": [
-    {
-     "source": "kmfa",
-     "url": "https://www.kmfa.gov.tw/OnlineApplyDetailC001200.aspx?Cond=0b0ead5c-ba04-48c6-b27d-d69197c0fca6"
     }
    ],
    "lat": null,
