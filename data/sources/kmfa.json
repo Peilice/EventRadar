@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T11:29:41.803000+08:00",
+ "fetched_at": "2026-11-01T09:38:04.424387+08:00",
  "events": [
   {
    "id": "kmfa:90fd7d19-0c4a-4385-b5db-d1a92b0a6849",
@@ -18,33 +18,6 @@
     {
      "source": "kmfa",
      "url": "https://www.kmfa.gov.tw/OnlineApplyDetailC001200.aspx?Cond=90fd7d19-0c4a-4385-b5db-d1a92b0a6849"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kmfa"
-   ]
-  },
-  {
-   "id": "kmfa:718693cf-b0b8-4426-b742-f0051c7f0e2c",
-   "title": "10/31(六)15:00英倫大廳小聚─馬世芳 | 英倫搖滾樂迷的一堂藝術史",
-   "start": "2026-10-31T15:00:00+08:00",
-   "end": "2026-10-31T15:00:00+08:00",
-   "venue": "高雄市立美術館 雕塑大廳",
-   "address": "高雄市鼓山區美術館路80號",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "高雄市立美術館",
-   "organizer_type": "政府",
-   "description": "誰說英國只有下午茶和大笨鐘？特展期間，呼應來自英國的「麥可．克雷格-馬丁：日常・解碼」，讓我們走入藝術家生活之方，週六下午三點的「英倫大廳小聚」來點不一樣的！帶你從大歷史、博物館與運動，到奇幻、推理與暗黑間諜，乃至於當代時尚與微醺的酒吧文化；看英倫精神，如何顛覆、創新世界的文化版圖。 聊什麼 你知道嗎？有許多英國搖滾樂手出身美術學院，而英國當代藝術家與搖滾樂圈的合作激盪，更可以一路追溯到1960年代。一代代音樂人把觀念藝術、當代藝術、時尚概念活用到唱片封面、服裝造型、舞台妝扮，重新定義了「潮」和「酷」的視覺印象。 我們可以從The Beatles與藝術大師Peter Blake、Richard…",
-   "links": [
-    {
-     "source": "kmfa",
-     "url": "https://www.kmfa.gov.tw/OnlineApplyDetailC001200.aspx?Cond=718693cf-b0b8-4426-b742-f0051c7f0e2c"
     }
    ],
    "lat": null,

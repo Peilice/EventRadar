@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T11:29:41.803000+08:00",
+ "fetched_at": "2026-11-01T09:38:04.424387+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -56,64 +56,10 @@
    ]
   },
   {
-   "id": "weiwuying:6a47529a287f0800087ff278",
-   "title": "《時代的軌跡－扎斯拉夫斯基獨奏》",
-   "start": "2026-10-31T14:30:00+08:00",
-   "end": "2026-10-31T14:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "以深刻詮釋，串起百年音樂對話",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a47529a287f0800087ff278"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69d5d0c92b42f60007a629db",
-   "title": "會演是英雄2《英雄所賤略同》",
-   "start": "2026-10-31T14:30:00+08:00",
+   "id": "weiwuying:6a447a28444f570008f2a4ca",
+   "title": "狂美《璀璨經典百老匯II》 交響音樂會",
+   "start": "2026-11-01T14:30:00+08:00",
    "end": "2026-11-01T14:30:00+08:00",
-   "venue": "衛武營 戲劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "全明星沈浸式教戰喜劇",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69d5d0c92b42f60007a629db"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69c37ff1125d070007604ccf",
-   "title": "《風箱間的四季》馬丁納斯・萊維茨基斯＆Mikroorkéstra室內樂團",
-   "start": "2026-10-31T19:00:00+08:00",
-   "end": "2026-10-31T19:00:00+08:00",
    "venue": "衛武營 音樂廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -121,11 +67,11 @@
    "fee": "付費",
    "organizer": "衛武營國家藝術文化中心",
    "organizer_type": "政府",
-   "description": "本場音樂會藉由手風琴的百變音色，重塑韋瓦第經典《四季》。萊維茨基斯以自創曲目穿插其間，如詩如畫，在巴洛克時期鮮明的音樂肌理中，融入當代思維的靈光，演繹萬物更迭的永恆旋律。",
+   "description": "蝶舞盛開的百老匯樂宴，狂美新作翩然登場",
    "links": [
     {
      "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69c37ff1125d070007604ccf"
+     "url": "https://www.npac-weiwuying.org/programs/6a447a28444f570008f2a4ca"
     }
    ],
    "lat": null,
@@ -164,22 +110,22 @@
    ]
   },
   {
-   "id": "weiwuying:6a447a28444f570008f2a4ca",
-   "title": "狂美《璀璨經典百老匯II》 交響音樂會",
-   "start": "2026-11-01T14:30:00+08:00",
+   "id": "weiwuying:69d5d0c92b42f60007a629db",
+   "title": "會演是英雄2《英雄所賤略同》",
+   "start": "2026-10-31T14:30:00+08:00",
    "end": "2026-11-01T14:30:00+08:00",
-   "venue": "衛武營 音樂廳",
+   "venue": "衛武營 戲劇院",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "衛武營國家藝術文化中心",
    "organizer_type": "政府",
-   "description": "蝶舞盛開的百老匯樂宴，狂美新作翩然登場",
+   "description": "全明星沈浸式教戰喜劇",
    "links": [
     {
      "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a447a28444f570008f2a4ca"
+     "url": "https://www.npac-weiwuying.org/programs/69d5d0c92b42f60007a629db"
     }
    ],
    "lat": null,
