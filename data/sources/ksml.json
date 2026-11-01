@@ -1,6 +1,33 @@
 {
- "fetched_at": "2026-11-01T03:42:52.935369+08:00",
+ "fetched_at": "2026-11-02T04:09:16.069223+08:00",
  "events": [
+  {
+   "id": "ksml:16475",
+   "title": "【高雄文學館】文學電影院－11/27《念念眷村：文學裡的眷村故事》",
+   "start": "2026-11-27T19:10:00+08:00",
+   "end": "2026-11-27T20:30:00+08:00",
+   "venue": "高雄文學館 2F 文學放映室",
+   "address": "高雄市前金區民生二路39號",
+   "district": "前金區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄文學館",
+   "organizer_type": "政府",
+   "description": "「眷村文學」既是專屬眷村人所有，也是臺灣獨特的文學資產。\n󠀠\n本片以情感充沛的文學視角，重新回顧解讀外省族群七十多年以來，寄託於眷村生活之中的顛沛流離命運。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16475"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16110",
    "title": "陽明分館於11/3起開設彩妝課程，歡迎愛美人士踴躍參加！",
@@ -569,33 +596,6 @@
    ]
   },
   {
-   "id": "ksml:16447",
-   "title": "【李科永分館】萬聖月光奇幻夜－戶外光影劇場",
-   "start": "2026-11-01T19:00:00+08:00",
-   "end": "2026-11-01T20:00:00+08:00",
-   "venue": "李科永圖書館 戶外草坪",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館李科永紀念圖書館",
-   "organizer_type": "政府",
-   "description": "狗斯特的小小魔法師好友，集合！\n小小魔法師集合完成！\n但是，狗斯特的魔法還沒有結束……",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16447"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16198",
    "title": "🏮大東講堂🏮11/21(六)邀請王立人主講「看與思的N面向」，歡迎參加！",
    "start": "2026-11-21T00:00:00+08:00",
@@ -677,33 +677,6 @@
    ]
   },
   {
-   "id": "ksml:16426",
-   "title": "【寶珠分館】「《佮阿公踅菜市仔:聽故事・耍遊戲・用台語做沙拉》」115/11/01(日)上午10:00-12:00",
-   "start": "2026-11-01T10:00:00+08:00",
-   "end": "2026-11-01T12:00:00+08:00",
-   "venue": "寶珠分館 藝文研習室",
-   "address": "高雄市三民區大順二路468號4樓",
-   "district": "三民區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館寶珠分館",
-   "organizer_type": "政府",
-   "description": "【寶珠分館】 #本場次可參加台語家庭集點\n《佮阿公踅菜市仔:聽故事・耍遊戲・用台語做沙拉》\n其實，學台語無一定愛坐佇桌仔頂讀課本，",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16426"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16424",
    "title": "【河堤分館】11月份 || 台語意識培力系列講座 ||",
    "start": "2026-11-01T14:00:00+08:00",
@@ -758,60 +731,6 @@
    ]
   },
   {
-   "id": "ksml:16416",
-   "title": "【李科永分館】狗斯特的萬聖節派對- 搗蛋歌謠派對",
-   "start": "2026-10-31T17:00:00+08:00",
-   "end": "2026-11-01T18:00:00+08:00",
-   "venue": "李科永圖書館 戶外草坪",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館李科永紀念圖書館",
-   "organizer_type": "政府",
-   "description": "🎵 「狗斯特的派對，怎麼可以沒有音樂！」\n不管你是大搗蛋鬼，\n還是小搗蛋鬼，",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16416"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16415",
-   "title": "【李科永分館】狗斯特的萬聖節派對 - 魔法變變變 - 奇幻魔術 × 氣球樂趣",
-   "start": "2026-11-01T15:30:00+08:00",
-   "end": "2026-11-01T16:30:00+08:00",
-   "venue": "李科永圖書館 戶外草坪",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館李科永紀念圖書館",
-   "organizer_type": "政府",
-   "description": "🎵 「狗斯特的派對，怎麼可以沒有音樂！」\n不管你是大搗蛋鬼，\n還是小搗蛋鬼，",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16415"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16338",
    "title": "【苓雅分館】苓雅走讀歲月時光-五塊厝公園的神祕墓園",
    "start": "2026-11-14T14:00:00+08:00",
@@ -855,33 +774,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,11329"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16412",
-   "title": "【寶珠分館】👻「繪本黏土－不完美的小幽靈，也能擁有最精彩的故事！」115/11/01(日)下午14:00-16:00",
-   "start": "2026-11-01T14:00:00+08:00",
-   "end": "2026-11-01T16:00:00+08:00",
-   "venue": "寶珠分館 藝文研習室",
-   "address": "高雄市三民區大順二路468號4樓",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "高雄市立圖書館寶珠分館",
-   "organizer_type": "政府",
-   "description": "【寶珠分館－茉莉老師繪本×黏土】 #手刀報名\n【繪本黏土－不完美的小幽靈，也能擁有最精彩的故事！】\n這次的繪本黏土創作，茉莉老師帶領大家導讀繪本《不合格的小幽靈》",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16412"
     }
    ],
    "lat": null,
@@ -1109,33 +1001,6 @@
    ]
   },
   {
-   "id": "ksml:16372",
-   "title": "【李科永分館】 狗斯特的萬聖節派對 - 狗斯特搗蛋任務",
-   "start": "2026-10-01T00:00:00+08:00",
-   "end": "2026-11-01T23:59:59+08:00",
-   "venue": "高雄市立圖書館李科永紀念圖書館",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館李科永紀念圖書館",
-   "organizer_type": "政府",
-   "description": "｜狗斯特搗蛋任務 🎁\n狗斯特已經出沒！\n這次，狗斯特偷偷準備了一個小任務，",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:15995",
    "title": "🌱CONTIN with you🌱創業課程計畫系列講座",
    "start": "2026-08-09T14:00:00+08:00",
@@ -1152,60 +1017,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,15995"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16313",
-   "title": "【李科永分館】 狗斯特的萬聖節派對",
-   "start": "2026-10-03T00:00:00+08:00",
-   "end": "2026-11-01T23:59:59+08:00",
-   "venue": "高雄市立圖書館李科永紀念圖書館",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館李科永紀念圖書館",
-   "organizer_type": "政府",
-   "description": "👻 噓——狗斯特正在偷偷準備一場派對！\n這個萬聖節，\n狗斯特要把歡樂通通裝進派對裡，",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16313"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16299",
-   "title": "【高雄文學館】金鼎50串聯活動──10/31、11/1「書寫工作坊暨表演活動」",
-   "start": "2026-10-31T18:30:00+08:00",
-   "end": "2026-11-01T20:30:00+08:00",
-   "venue": "高雄市立圖書館高雄文學館 二樓放映室",
-   "address": "高雄市前金區民生二路39號",
-   "district": "前金區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館高雄文學館",
-   "organizer_type": "政府",
-   "description": "在金鼎 50 的各類文學書籍當中，充滿了各式各樣的聲音描摹。有些聲音的描摹可能隱晦而私密，而有些聲音則躍然紙上，彷彿能直接聽見。\n在本場工作坊中，講師將通過聲音藝術的引導方式，讓學員為自己心儀的書籍，寫下各式各樣的狀聲詞與擬態詞。讓紙本媒介中的文字，通過學員的參與而轉化為圍繞在讀者周圍的聲音群。\n本工作坊中寫下的狀聲詞與擬態詞群，將會運用於隔日「狀聲詞的家屋」參與式演出中。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16299"
     }
    ],
    "lat": null,

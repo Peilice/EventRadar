@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T03:42:52.935369+08:00",
+ "fetched_at": "2026-11-02T04:09:16.069223+08:00",
  "events": [
   {
    "id": "khcc:4324",
@@ -72,87 +72,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4315"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40200:20261101",
-   "title": "UNDERTALE：The Determination Symphony",
-   "start": "2026-11-01T15:00:00+08:00",
-   "end": "2026-11-01T22:00:00+08:00",
-   "venue": "高雄市文化中心 至德堂",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "凡事策劃藝文整合有限公司",
-   "organizer_type": "民間",
-   "description": "演出單位：凡事策劃藝文整合有限公司",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40200&AP=$M102_DATE-115/11/01"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-39997:20261101",
-   "title": "歡顏 II 高雄吉他室內樂團音樂會",
-   "start": "2026-11-01T14:30:00+08:00",
-   "end": "2026-11-01T17:00:00+08:00",
-   "venue": "高雄市文化中心 至善廳",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "莊嘉良吉他合奏團",
-   "organizer_type": "不確定",
-   "description": "演出單位：高雄吉他室內樂團",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39997&AP=$M102_DATE-115/11/01"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-37738:20261101",
-   "title": "藝術市集",
-   "start": "2026-11-01T16:00:00+08:00",
-   "end": "2026-11-01T21:30:00+08:00",
-   "venue": "高雄市文化中心 藝術大道",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "市集",
-   "fee": "免費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "演出單位：高雄市政府文化局",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/01"
     }
    ],
    "lat": null,
@@ -2151,33 +2070,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40303&AP=$M102_DATE-115/12/27"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40194:20261101",
-   "title": "讓愛•記得",
-   "start": "2026-11-01T14:30:00+08:00",
-   "end": "2026-11-01T16:00:00+08:00",
-   "venue": "大東演藝廳",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "感動之聲合唱團",
-   "organizer_type": "民間",
-   "description": "演出單位：感動之聲合唱團/曙光歌手",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40194&AP=$M102_DATE-115/11/01"
     }
    ],
    "lat": null,
