@@ -1,6 +1,60 @@
 {
- "fetched_at": "2026-11-02T04:09:16.069223+08:00",
+ "fetched_at": "2026-11-03T07:18:46.544148+08:00",
  "events": [
+  {
+   "id": "ksml:16478",
+   "title": "【總館】11/7 跟著「AR繪本故事實驗室」解鎖屬於你的繪本新旅程",
+   "start": "2026-11-07T00:00:00+08:00",
+   "end": "2026-11-07T23:59:59+08:00",
+   "venue": "高雄市立圖書館總館B1 國際繪本中心-愛心池",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館繪本部",
+   "organizer_type": "政府",
+   "description": "活動詳情\n🎒今天要去哪裡玩 ？\n跟著「AR繪本故事實驗室」解鎖你的新旅程",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16478"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16477",
+   "title": "【總館】美國棒球文化及我的美國職棒經驗－AITK 特別場",
+   "start": "2026-11-29T14:00:00+08:00",
+   "end": "2026-11-29T16:00:00+08:00",
+   "venue": "高雄市立圖書館總館 高市圖7F際會廳",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "運動",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館多元文化部",
+   "organizer_type": "政府",
+   "description": "美國棒球文化及我的美國職棒經驗\n講師｜蘇柏豪（美國職棒波士頓紅襪隊小聯盟教練）\n日期｜2026年11月29日",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16477"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16475",
    "title": "【高雄文學館】文學電影院－11/27《念念眷村：文學裡的眷村故事》",
