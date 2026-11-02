@@ -1,114 +1,6 @@
 {
- "fetched_at": "2026-11-01T09:38:04.424387+08:00",
+ "fetched_at": "2026-11-02T10:46:09.558205+08:00",
  "events": [
-  {
-   "id": "iculture:6ad8f32926b3245efc7536f8",
-   "title": "115高熊音樂成果發表會",
-   "start": "2026-11-01T09:30:00+08:00",
-   "end": "2026-11-01T16:25:00+08:00",
-   "venue": "衛武營排練室B313",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2108145268293541889"
-    }
-   ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a64ef3626b32427d0604261",
-   "title": "所在劇集 2026原創歷史音樂劇《無聲の海腳間仔》",
-   "start": "2026-11-01T14:30:00+08:00",
-   "end": "2026-11-01T16:30:00+08:00",
-   "venue": "高雄中山堂劇場",
-   "address": "高雄市左營區實踐路71號",
-   "district": "左營區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2080134872605343745"
-    }
-   ],
-   "lat": 22.68992611536493,
-   "lng": 120.29194599106509,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a7b837d26b32427d06043b9",
-   "title": "歡顏 II高雄吉他室內樂團音樂會",
-   "start": "2026-11-01T14:30:00+08:00",
-   "end": "2026-11-01T16:30:00+08:00",
-   "venue": "高雄市文化中心至善廳",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E8JW4Q"
-    }
-   ],
-   "lat": 22.6257981,
-   "lng": 120.31814,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a7f4afa26b32427d06043d5",
-   "title": "2026唐佳迎鋼琴獨奏會",
-   "start": "2026-11-01T19:30:00+08:00",
-   "end": "2026-11-01T21:00:00+08:00",
-   "venue": "衛武營國家藝術文化中心表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2085249028283408385"
-    }
-   ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
   {
    "id": "iculture:69f33e4e26b3243414ccc475",
    "title": "《電影聽賞》瑪格麗特戀習題",
@@ -292,33 +184,6 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a396ac926b3243414ccd4c1",
-   "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
-   "start": "2026-11-01T14:30:00+08:00",
-   "end": "2026-11-01T16:20:00+08:00",
-   "venue": "衛武營國家藝術文化中心歌劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2064989613489934337"
-    }
-   ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -778,33 +643,6 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a3eb0f726b3247a14361d75",
-   "title": "狂美《璀璨經典百老匯II》交響音樂會-2026新作翩然登場",
-   "start": "2026-11-01T14:30:00+08:00",
-   "end": "2026-11-01T16:50:00+08:00",
-   "venue": "衛武營國家藝術文化中心音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.opentix.life/program/2062049163975860225"
-    }
-   ],
-   "lat": 22.6230179238508,
-   "lng": 120.342434118507,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -2216,6 +2054,33 @@
    ]
   },
   {
+   "id": "iculture:6ae772ec26b3245efc753763",
+   "title": "2026年海洋國際舞蹈藝術節－潮之身",
+   "start": "2026-11-29T14:00:00+08:00",
+   "end": "2026-11-29T16:50:00+08:00",
+   "venue": "高雄市文化中心至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2113465243252502529"
+    }
+   ],
+   "lat": 22.6259044,
+   "lng": 120.3171311,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:6a28644c26b3243414ccd094",
    "title": "高雄獎30年：藝術的未竟與再啟 (第一展區)",
    "start": "2026-06-13T09:30:00+08:00",
@@ -2749,6 +2614,33 @@
    ],
    "lat": 22.624172,
    "lng": 120.3422105,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae772ec26b3245efc753760",
+   "title": "舞岫",
+   "start": "2026-12-02T19:30:00+08:00",
+   "end": "2026-12-02T21:31:00+08:00",
+   "venue": "高雄市文化中心至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2102969168257191937"
+    }
+   ],
+   "lat": 22.6259044,
+   "lng": 120.3171311,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3802,6 +3694,33 @@
    ],
    "lat": 22.6230179238508,
    "lng": 120.342434118507,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae772ec26b3245efc753761",
+   "title": "汎美舞蹈團2026舞蹈展演計畫《舞時–半世紀的繁花盛景》",
+   "start": "2026-12-19T19:30:00+08:00",
+   "end": "2026-12-19T21:30:00+08:00",
+   "venue": "高雄市文化中心至善廳",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2110686818072465408"
+    }
+   ],
+   "lat": 22.6259044,
+   "lng": 120.3171311,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -4889,6 +4808,222 @@
    ]
   },
   {
+   "id": "iculture:696aa78026b3243b1ca0c042",
+   "title": "生命鬥士藍約翰-陶藝創作特展",
+   "start": "2026-01-02T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立圖書館鼓山分館",
+   "address": "高雄市鼓山區4鄰鼓山三路19-3號",
+   "district": "鼓山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館總館",
+   "organizer_type": "政府",
+   "description": "生命鬥士藍約翰-陶藝創作特展。 你相信一個雙目失明、多重殘障的人能夠捏陶嗎？ 鼓山圖書館為提增多元悅讀推廣辦理社教藝文活動服務，鼓勵更多的身心障礙者勇於追夢、勇於追求理想。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa78026b3243b1ca0c042"
+    }
+   ],
+   "lat": 22.6544722,
+   "lng": 120.275386,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7ad26b3243b1ca0c051",
+   "title": "鳳山歷史教室",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "大東文化藝術中心",
+   "address": "高雄市鳳山區017鄰光遠路161號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "鳳山是高雄早期的開發地之一，清領時期，相對於左營舊城，稱為鳳山新城，推廣行銷大高雄鳳山城市人文風情，進而帶動當地觀光產業契機，特於大東文化藝術中心行政管理棟一樓開闢「鳳山歷史教室」，展示鳳山新城歷史文化、廟宇、古蹟遺址、鳳儀書院、美食及特色街區等，展覽內容有雙城古道意象、鳳山新城文化景點圖示、曹公圳文化、打鐵器具、出版品及美食模型等，介紹鳳山歷史及好吃好玩的各項資訊。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7ad26b3243b1ca0c051"
+    }
+   ],
+   "lat": 22.625059,
+   "lng": 120.363422,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c065",
+   "title": "鳳鼻頭考古遺址常態展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "林園區（高雄市）=",
+   "address": "高雄市林園區",
+   "district": "林園區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "高雄林園鳳鼻頭遺址為全台十一處國定遺址之一，豐厚的多文化層堆積完整展現南部史前文化的演變歷程；2021年文化部委託高市府設置「鳳鼻頭考古教育館」擔負鳳鼻頭遺址教育的推廣基地，歷經近一年多的籌劃建置，112年2月24日起開放民眾參觀。展場空間結合遺址影音資訊說明及出土文物展示，藉以深入了解史前人類使用的器具及生活智慧。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c065"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c066",
+   "title": "原頂林仔邊警察官吏派出所常設展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "原頂林仔邊警察官吏派出所",
+   "address": "高雄市林園區002鄰福興街97號",
+   "district": "林園區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "原頂林仔邊警察官吏派出所展示林園歷史、產業及生活等樣貌，呈現林園文化內涵及特色，讓參訪民眾瞭解林園的各個面貌，達文化教育效益。展示內容說明如下： A區：本歷史建築發展歷程：包含老屋故事、日治時期警察制度及老照片展示。 B區：林園區導覽：以林園區大地圖介紹文化景點、重要信仰中心、產業、生態休閒及文教機構等，並展示代表林園歷史最悠久的國定遺址鳳鼻頭遺址文化內涵介紹，並有林園老街意象、林園各社區之文創商品及服務台多媒體設施。 C區：林園傳奇：此區以林園文史及居住生活特色為主，展覽內容包容林半仙傳奇故事、林園地區堂號、大陳義胞村、歷史建築林園港埔黃家古厝及軍事設施-清水巖原日軍戰備坑道等。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c066"
+    }
+   ],
+   "lat": 22.5047336,
+   "lng": 120.3948189,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c067",
+   "title": "「黃埔新村展示館」歷史文物展",
+   "start": "2026-01-01T12:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "鳳山區（高雄市）=",
+   "address": "高雄市鳳山區",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "黃埔新村為台灣第一代眷村，因其建築特色及重要歷史背景，自2003年由高雄市政府登錄為文化景觀，全村完整保留。 「眷村」概指20世紀中葉，從大陸遷徙來臺的軍眷們居住以及後續發展的聚落，眷村文化更是紀敘臺灣移民史及多元族群象徵的重要成分。 因此「黃埔新村展示館」將臺灣眷村的文史脈絡，傳承眷戶們的生命記事，展示珍貴歷史文物與影像，邀請市民朋友一同參與開拓保存眷村文化新的里程碑，體驗臺灣的多元文化傳承。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c067"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c069",
+   "title": "歷史建築逍遙園常設展",
+   "start": "2026-01-01T11:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "新興區（高雄市）=",
+   "address": "高雄市新興區",
+   "district": "新興區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "逍遙園建於昭和14年(1939)，為日本真宗西本願寺第22代法主大谷光瑞在台灣之別館。逍遙園具有日治時期建築美學之特色，空間複雜且兼具日式及西式建築風格與元素，除具建築史上之意義，有再利用之價值及潛力外，且見證時代與人文意涵，富含歷史文化價值。 大谷光瑞為著名日本宗教家與探險家，與大正天皇為連襟兄弟（皇后為大谷光瑞夫人之妹），曾於1940-1945年間擔任台灣總督府內閣參議，參與國家重大的經濟決策。 昭和15年(1940)高雄新邸逍遙園落成啟用，設立目的為： 1、作為大谷光瑞在台灣發展農業與門徒教育的訓練基地。 2、作為大谷光瑞擔任政府要職來台短期居所與寫作的避暑別莊。 3、作為日治時期南台灣…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c069"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c070",
+   "title": "劍道文化推廣-居合道課程",
+   "start": "2026-01-01T14:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "社團法人高雄市劍道文化促進會",
+   "organizer_type": "民間",
+   "description": "歷年來文化局結合高雄市劍道文化促進會，藉由再造、重現武德殿原始風華，成功吸引劍道同好於此切磋劍技交流。 制定居合招式有分坐姿、立姿兩大類。即為現代不分流派的統一的標準形（全日本劍道聯盟－制訂居合12式）。劍道與居合是一體的兩面，許多的技法與禮法其實是緊密相連的；而制定的居合則是由全日本劍道連盟發展出固定的十二個招式供修行者精鍊，適用於初學者或已習有劍道的人進入居合入門，作為學習其他眾多流派之前的一個入門範式；居與合，意味者我與對手，姿勢主要構成有正座與立居合技法，其特色是由拔刀術與斬技變化出刀法，並結合許多內心意象的排演，達到磨練技法與心性的目的。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c070"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69714c9b26b3243b1ca0c16b",
+   "title": "樂齡幸福編織藝術讀書會與花語風車拼布手作讀書會作品展",
+   "start": "2026-01-02T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立圖書館鹽埕分館",
+   "address": "高雄市鹽埕區1鄰大仁路179號5樓、6樓",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館總館",
+   "organizer_type": "政府",
+   "description": "樂齡幸福編織藝術讀書會和花語風車拼布手作讀書會上課學員作品成果展，利用館藏，共讀編織手作書籍，進行作品設計等。歡迎市民大小朋友一起來欣賞學員們的作品。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69714c9b26b3243b1ca0c16b"
+    }
+   ],
+   "lat": 22.626715,
+   "lng": 120.281874,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:690293fb26b324253c0da978",
    "title": "生活藏寶圖",
    "start": "2026-01-01T09:30:00+08:00",
@@ -5051,33 +5186,6 @@
    ]
   },
   {
-   "id": "iculture:696aa78026b3243b1ca0c042",
-   "title": "生命鬥士藍約翰-陶藝創作特展",
-   "start": "2026-01-02T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立圖書館鼓山分館",
-   "address": "高雄市鼓山區4鄰鼓山三路19-3號",
-   "district": "鼓山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館總館",
-   "organizer_type": "政府",
-   "description": "生命鬥士藍約翰-陶藝創作特展。 你相信一個雙目失明、多重殘障的人能夠捏陶嗎？ 鼓山圖書館為提增多元悅讀推廣辦理社教藝文活動服務，鼓勵更多的身心障礙者勇於追夢、勇於追求理想。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa78026b3243b1ca0c042"
-    }
-   ],
-   "lat": 22.6544722,
-   "lng": 120.275386,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:696aa79226b3243b1ca0c046",
    "title": "柴燒生活陶藝作品展",
    "start": "2026-01-02T09:00:00+08:00",
@@ -5098,33 +5206,6 @@
    ],
    "lat": 22.6586226,
    "lng": 120.4192897,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7ad26b3243b1ca0c051",
-   "title": "鳳山歷史教室",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "大東文化藝術中心",
-   "address": "高雄市鳳山區017鄰光遠路161號",
-   "district": "鳳山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "鳳山是高雄早期的開發地之一，清領時期，相對於左營舊城，稱為鳳山新城，推廣行銷大高雄鳳山城市人文風情，進而帶動當地觀光產業契機，特於大東文化藝術中心行政管理棟一樓開闢「鳳山歷史教室」，展示鳳山新城歷史文化、廟宇、古蹟遺址、鳳儀書院、美食及特色街區等，展覽內容有雙城古道意象、鳳山新城文化景點圖示、曹公圳文化、打鐵器具、出版品及美食模型等，介紹鳳山歷史及好吃好玩的各項資訊。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7ad26b3243b1ca0c051"
-    }
-   ],
-   "lat": 22.625059,
-   "lng": 120.363422,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -5294,87 +5375,6 @@
    ]
   },
   {
-   "id": "iculture:696aa7bb26b3243b1ca0c065",
-   "title": "鳳鼻頭考古遺址常態展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "林園區（高雄市）=",
-   "address": "高雄市林園區",
-   "district": "林園區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "高雄林園鳳鼻頭遺址為全台十一處國定遺址之一，豐厚的多文化層堆積完整展現南部史前文化的演變歷程；2021年文化部委託高市府設置「鳳鼻頭考古教育館」擔負鳳鼻頭遺址教育的推廣基地，歷經近一年多的籌劃建置，112年2月24日起開放民眾參觀。展場空間結合遺址影音資訊說明及出土文物展示，藉以深入了解史前人類使用的器具及生活智慧。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c065"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c066",
-   "title": "原頂林仔邊警察官吏派出所常設展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "原頂林仔邊警察官吏派出所",
-   "address": "高雄市林園區002鄰福興街97號",
-   "district": "林園區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "原頂林仔邊警察官吏派出所展示林園歷史、產業及生活等樣貌，呈現林園文化內涵及特色，讓參訪民眾瞭解林園的各個面貌，達文化教育效益。展示內容說明如下： A區：本歷史建築發展歷程：包含老屋故事、日治時期警察制度及老照片展示。 B區：林園區導覽：以林園區大地圖介紹文化景點、重要信仰中心、產業、生態休閒及文教機構等，並展示代表林園歷史最悠久的國定遺址鳳鼻頭遺址文化內涵介紹，並有林園老街意象、林園各社區之文創商品及服務台多媒體設施。 C區：林園傳奇：此區以林園文史及居住生活特色為主，展覽內容包容林半仙傳奇故事、林園地區堂號、大陳義胞村、歷史建築林園港埔黃家古厝及軍事設施-清水巖原日軍戰備坑道等。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c066"
-    }
-   ],
-   "lat": 22.5047336,
-   "lng": 120.3948189,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c067",
-   "title": "「黃埔新村展示館」歷史文物展",
-   "start": "2026-01-01T12:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "鳳山區（高雄市）=",
-   "address": "高雄市鳳山區",
-   "district": "鳳山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "黃埔新村為台灣第一代眷村，因其建築特色及重要歷史背景，自2003年由高雄市政府登錄為文化景觀，全村完整保留。 「眷村」概指20世紀中葉，從大陸遷徙來臺的軍眷們居住以及後續發展的聚落，眷村文化更是紀敘臺灣移民史及多元族群象徵的重要成分。 因此「黃埔新村展示館」將臺灣眷村的文史脈絡，傳承眷戶們的生命記事，展示珍貴歷史文物與影像，邀請市民朋友一同參與開拓保存眷村文化新的里程碑，體驗臺灣的多元文化傳承。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c067"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:696aa7bb26b3243b1ca0c068",
    "title": "歷史建築九曲堂泰芳商會鳳梨罐詰工場 (臺灣鳳梨工場)常設展",
    "start": "2026-01-01T12:00:00+08:00",
@@ -5391,33 +5391,6 @@
     {
      "source": "iculture",
      "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c068"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c069",
-   "title": "歷史建築逍遙園常設展",
-   "start": "2026-01-01T11:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "新興區（高雄市）=",
-   "address": "高雄市新興區",
-   "district": "新興區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "逍遙園建於昭和14年(1939)，為日本真宗西本願寺第22代法主大谷光瑞在台灣之別館。逍遙園具有日治時期建築美學之特色，空間複雜且兼具日式及西式建築風格與元素，除具建築史上之意義，有再利用之價值及潛力外，且見證時代與人文意涵，富含歷史文化價值。 大谷光瑞為著名日本宗教家與探險家，與大正天皇為連襟兄弟（皇后為大谷光瑞夫人之妹），曾於1940-1945年間擔任台灣總督府內閣參議，參與國家重大的經濟決策。 昭和15年(1940)高雄新邸逍遙園落成啟用，設立目的為： 1、作為大谷光瑞在台灣發展農業與門徒教育的訓練基地。 2、作為大谷光瑞擔任政府要職來台短期居所與寫作的避暑別莊。 3、作為日治時期南台灣…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c069"
     }
    ],
    "lat": null,
@@ -5510,33 +5483,6 @@
    ]
   },
   {
-   "id": "iculture:696aa7bb26b3243b1ca0c070",
-   "title": "劍道文化推廣-居合道課程",
-   "start": "2026-01-01T14:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "社團法人高雄市劍道文化促進會",
-   "organizer_type": "民間",
-   "description": "歷年來文化局結合高雄市劍道文化促進會，藉由再造、重現武德殿原始風華，成功吸引劍道同好於此切磋劍技交流。 制定居合招式有分坐姿、立姿兩大類。即為現代不分流派的統一的標準形（全日本劍道聯盟－制訂居合12式）。劍道與居合是一體的兩面，許多的技法與禮法其實是緊密相連的；而制定的居合則是由全日本劍道連盟發展出固定的十二個招式供修行者精鍊，適用於初學者或已習有劍道的人進入居合入門，作為學習其他眾多流派之前的一個入門範式；居與合，意味者我與對手，姿勢主要構成有正座與立居合技法，其特色是由拔刀術與斬技變化出刀法，並結合許多內心意象的排演，達到磨練技法與心性的目的。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c070"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:696aa7c526b3243b1ca0c071",
    "title": "POP! POP! POP!流行音樂互動展",
    "start": "2026-01-01T10:00:00+08:00",
@@ -5611,33 +5557,6 @@
    ],
    "lat": null,
    "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69714c9b26b3243b1ca0c16b",
-   "title": "樂齡幸福編織藝術讀書會與花語風車拼布手作讀書會作品展",
-   "start": "2026-01-02T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立圖書館鹽埕分館",
-   "address": "高雄市鹽埕區1鄰大仁路179號5樓、6樓",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館總館",
-   "organizer_type": "政府",
-   "description": "樂齡幸福編織藝術讀書會和花語風車拼布手作讀書會上課學員作品成果展，利用館藏，共讀編織手作書籍，進行作品設計等。歡迎市民大小朋友一起來欣賞學員們的作品。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69714c9b26b3243b1ca0c16b"
-    }
-   ],
-   "lat": 22.626715,
-   "lng": 120.281874,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -7717,6 +7636,87 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae772ea26b3245efc753756",
+   "title": "<靈感 城市 探戈> 鋼琴三重奏",
+   "start": "2027-01-30T15:00:00+08:00",
+   "end": "2027-01-30T16:45:00+08:00",
+   "venue": "衛武營國家藝術文化中心表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2087515566622605313"
+    }
+   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae772ea26b3245efc753759",
+   "title": "2027鑼鼓齊鳴慶豐收音樂會",
+   "start": "2027-02-14T14:30:00+08:00",
+   "end": "2027-02-14T16:30:00+08:00",
+   "venue": "衛武營國家藝術文化中心音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2110924648752168960"
+    }
+   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae772ea26b3245efc75375a",
+   "title": "媽咪住的地方UKE音樂會",
+   "start": "2027-01-25T19:00:00+08:00",
+   "end": "2027-01-25T21:00:00+08:00",
+   "venue": "衛武營國家藝術文化中心表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2112377334473117696"
+    }
+   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
    "aliases": [],
    "first_seen": "",
    "sources": [
