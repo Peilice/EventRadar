@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T10:46:09.558205+08:00",
+ "fetched_at": "2026-11-03T10:41:06.819037+08:00",
  "events": [
   {
    "id": "iculture:69f33e4e26b3243414ccc475",
@@ -2448,6 +2448,33 @@
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2067130607362113536"
+    }
+   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae8c3f926b3245efc753777",
+   "title": "2026 新舞季《跨》 Crossing",
+   "start": "2026-12-01T19:30:00+08:00",
+   "end": "2026-12-01T21:10:00+08:00",
+   "venue": "衛武營國家藝術文化中心戲劇院",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2115725749120221185"
     }
    ],
    "lat": 22.6230179238508,
@@ -7713,6 +7740,60 @@
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2112377334473117696"
+    }
+   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae8c3f626b3245efc75376c",
+   "title": "【十載弦音】巫采蓉胡琴獨奏會",
+   "start": "2027-01-09T14:30:00+08:00",
+   "end": "2027-01-09T16:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2114896588664922112"
+    }
+   ],
+   "lat": 22.6276246,
+   "lng": 120.2868631,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ae8c3f626b3245efc75376d",
+   "title": "林佳田男高音獻聲衛武營",
+   "start": "2027-02-03T19:00:00+08:00",
+   "end": "2027-02-03T20:40:00+08:00",
+   "venue": "衛武營國家藝術文化中心表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2115665451293696001"
     }
    ],
    "lat": 22.6230179238508,
