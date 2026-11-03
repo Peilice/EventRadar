@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T07:18:46.544148+08:00",
+ "fetched_at": "2026-11-04T05:28:58.284726+08:00",
  "events": [
   {
    "id": "kpmc:16243",
@@ -758,33 +758,6 @@
    ]
   },
   {
-   "id": "kpmc:16284",
-   "title": "迷幻電風琴之夜！第六彈！",
-   "start": "2026-11-21T20:00:00+08:00",
-   "end": "2026-11-21T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：宋易修、許子薇、涂宸華、李祈均\n票價：單人500元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:15945",
    "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
    "start": "2026-11-21T20:00:00+08:00",
@@ -801,6 +774,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1121/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16284",
+   "title": "迷幻電風琴之夜！第六彈！",
+   "start": "2026-11-21T20:00:00+08:00",
+   "end": "2026-11-21T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：宋易修、許子薇、涂宸華、李祈均\n票價：單人500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
     }
    ],
    "lat": null,
@@ -1298,6 +1298,33 @@
    ]
   },
   {
+   "id": "kpmc:16321",
+   "title": "May’n All Requests Live Tour 2026「平假名 夯果醬」",
+   "start": "2026-12-12T15:00:00+08:00",
+   "end": "2026-12-12T15:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "好玩專賣店 / HORIPROINTERNATIONAL Inc.",
+   "organizer_type": "不確定",
+   "description": "演出：May’n\n票價：VIP 3,200 一般 2,600",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1212-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "kpmc:16239",
    "title": "高流系：歌唱訓練營「唱出你的自由」",
    "start": "2026-12-13T10:00:00+08:00",
@@ -1325,6 +1352,33 @@
    ]
   },
   {
+   "id": "kpmc:16323",
+   "title": "《射後不理＃ 爽就好了》Live Podcast 【Six and the Cities】 高雄場",
+   "start": "2026-12-19T14:30:00+08:00",
+   "end": "2026-12-19T14:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "射後不理# 爽就好了 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：射後不理# 爽就好了\r\n嘉賓：美樂妮（午）\n票價：預售票666元 現場票777元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1219-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "kpmc:16033",
    "title": "人生如電——林生祥30週年演唱會 – 高雄場",
    "start": "2026-12-19T19:00:00+08:00",
@@ -1341,6 +1395,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1219/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16326",
+   "title": "《射後不理＃ 爽就好了》Live Podcast 【Six and the Cities】 高雄場",
+   "start": "2026-12-19T19:30:00+08:00",
+   "end": "2026-12-19T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "射後不理# 爽就好了 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：射後不理＃ 爽就好了\r\n嘉賓：摩摩 @amamataru\n票價：預售票666元 現場票777元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1219-3/"
     }
    ],
    "lat": null,
