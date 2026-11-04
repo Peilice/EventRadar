@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T05:28:58.284726+08:00",
+ "fetched_at": "2026-11-05T05:42:40.294367+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -481,6 +481,60 @@
    ],
    "lat": 22.75495,
    "lng": 120.44739,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008157",
+   "title": "2026臺灣舞蹈平台",
+   "start": "2026-11-27T00:00:00+08:00",
+   "end": "2026-11-29T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市830鳳山區衛武營國家藝術文化中心",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8157/"
+    }
+   ],
+   "lat": 22.623,
+   "lng": 120.34244,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008158",
+   "title": "2026台灣國際遊艇展",
+   "start": "2026-11-13T00:00:00+08:00",
+   "end": "2026-11-15T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市803鹽埕區亞灣、嘉信、亞果、第三船渠遊艇碼頭",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "經濟部國際貿易署、高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8158/"
+    }
+   ],
+   "lat": 22.61752,
+   "lng": 120.28408,
    "aliases": [],
    "first_seen": "",
    "sources": [

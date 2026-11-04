@@ -1,6 +1,87 @@
 {
- "fetched_at": "2026-11-04T05:28:58.284726+08:00",
+ "fetched_at": "2026-11-05T05:42:40.294367+08:00",
  "events": [
+  {
+   "id": "ksml:16485",
+   "title": "【前鎮分館】辦理【原路閱讀:馬卡道的故事】活動報名",
+   "start": "2026-11-14T15:00:00+08:00",
+   "end": "2026-11-14T17:00:00+08:00",
+   "venue": "高雄市立圖書館前鎮分館",
+   "address": "高雄市前鎮區保泰路303號",
+   "district": "前鎮區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館前鎮分館",
+   "organizer_type": "政府",
+   "description": "一起跟著陳宏任老師走訪，帶領參與者認識馬卡道地名的由來及平埔族群文化脈絡，了解地方歷史、自然生態與城市發展的演變，體驗多元文化的城市樣貌。\n路線：輕軌美術館站→龍貓隧道→馬卡道路→內惟藝術中心→高雄市立兒童美術館→內惟埤文化園區→內惟埤紀念池→高雄市立美術館→輕軌美術館站\n活動名稱:原路閱讀 馬卡道的故事",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16485"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16484",
+   "title": "【橋頭分館】11/14 (六) 14:00 用手機，拍出創意生活照",
+   "start": "2026-11-14T14:00:00+08:00",
+   "end": "2026-11-14T16:00:00+08:00",
+   "venue": "高雄市立圖書館橋頭分館2樓多功能室",
+   "address": "高雄市橋頭區隆豐路7號",
+   "district": "橋頭區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館橋頭分館",
+   "organizer_type": "政府",
+   "description": "用手機，拍出創意生活照\n每天都在看的風景，換個角度，就有不一樣的驚喜！\n拿起手機，跟著陳邦恩老師一起探索攝影的樂趣，從色彩運用、拍攝角度到黑白影像，透過觀察與實際練習，發現生活中的光影、細節與美感。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16484"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16483",
+   "title": "【新興民眾閱覽室】11/21(六)下午14:00-16:00節慶閱讀",
+   "start": "2026-11-21T14:00:00+08:00",
+   "end": "2026-11-21T16:00:00+08:00",
+   "venue": "新興民眾閱覽室",
+   "address": "高雄市新興區民生一路271號",
+   "district": "新興區",
+   "category": "其他",
+   "fee": "付費",
+   "organizer": "高雄市立圖書館新興民眾閱覽室",
+   "organizer_type": "政府",
+   "description": "🎄 溫馨耶誕・綠意手作 🎄\n【聖誕木框植栽 DIY 親子手作工作坊】\n聖誕節即將到來，想不想和孩子一起親手打造一份充滿節慶氛圍又帶有綠意的獨特裝飾呢？",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16483"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16481",
    "title": "【新興分館】11/29 🎃 從日常ê「食」 喚醒台語意識",

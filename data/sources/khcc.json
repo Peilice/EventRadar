@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T05:28:58.284726+08:00",
+ "fetched_at": "2026-11-05T05:42:40.294367+08:00",
  "events": [
   {
    "id": "khcc:4326",
@@ -1865,6 +1865,33 @@
    ]
   },
   {
+   "id": "khcc:-40452:20261206",
+   "title": "大提琴家秦立巍高雄音樂會",
+   "start": "2026-12-06T19:30:00+08:00",
+   "end": "2026-12-06T21:00:00+08:00",
+   "venue": "高雄市音樂館",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "好滿意音樂有限公司",
+   "organizer_type": "民間",
+   "description": "演出單位：好滿意音樂有限公司",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40452&AP=$M102_DATE-115/12/06"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
    "id": "khcc:-40362:20261220",
    "title": "2026新希望樂團教師音樂會",
    "start": "2026-12-20T14:30:00+08:00",
@@ -2513,6 +2540,87 @@
    ]
   },
   {
+   "id": "khcc:-40449:20261205",
+   "title": "魔笛家族2026音樂會 聽見我們在幸福唱歌",
+   "start": "2026-12-05T19:30:00+08:00",
+   "end": "2026-12-05T21:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "高雄市魔笛合奏樂團",
+   "organizer_type": "民間",
+   "description": "演出單位：高雄市魔笛合奏樂團/魔音歌手合唱團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40449&AP=$M102_DATE-115/12/05"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40450:20261206",
+   "title": "南臺灣法國號重奏團《起點》",
+   "start": "2026-12-06T14:30:00+08:00",
+   "end": "2026-12-06T16:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "南臺灣法國號重奏團",
+   "organizer_type": "不確定",
+   "description": "演出單位：南臺灣法國號重奏團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40450&AP=$M102_DATE-115/12/06"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40451:20261209",
+   "title": "趁落日未沉",
+   "start": "2026-12-09T19:30:00+08:00",
+   "end": "2026-12-09T21:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "臺北市立大學舞蹈學系",
+   "organizer_type": "政府",
+   "description": "演出單位：臺北市立大學舞蹈學系112級師生聯合創作",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40451&AP=$M102_DATE-115/12/09"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
    "id": "khcc:4336",
    "title": "豐蘊十人書畫聯展",
    "start": "2026-12-11T00:00:00+08:00",
@@ -2540,6 +2648,141 @@
    ]
   },
   {
+   "id": "khcc:-40453:20261211",
+   "title": "左營高中舞蹈班115年舞展",
+   "start": "2026-12-11T19:30:00+08:00",
+   "end": "2026-12-11T21:30:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市立左營高中舞蹈班",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市立左營高中舞蹈班",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40453&AP=$M102_DATE-115/12/11"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40453:20261212",
+   "title": "左營高中舞蹈班115年舞展",
+   "start": "2026-12-12T19:30:00+08:00",
+   "end": "2026-12-12T21:30:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市立左營高中舞蹈班",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市立左營高中舞蹈班",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40453&AP=$M102_DATE-115/12/12"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40453:20261213",
+   "title": "左營高中舞蹈班115年舞展",
+   "start": "2026-12-13T14:30:00+08:00",
+   "end": "2026-12-13T16:30:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市立左營高中舞蹈班",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市立左營高中舞蹈班",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40453&AP=$M102_DATE-115/12/13"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40454:20261214",
+   "title": "2026國立鳳新高中慶祝創校三十四周年音樂會",
+   "start": "2026-12-14T19:00:00+08:00",
+   "end": "2026-12-14T21:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "國立鳳新高級中學音樂班",
+   "organizer_type": "政府",
+   "description": "演出單位：國立鳳新高級中學音樂班",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40454&AP=$M102_DATE-115/12/14"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40456:20261216",
+   "title": "《此岸：弓弦熾舞》梁喬信與高市交小樂集",
+   "start": "2026-12-16T19:30:00+08:00",
+   "end": "2026-12-16T21:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
+   "description": "演出單位：高雄市交響樂團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40456&AP=$M102_DATE-115/12/16"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
    "id": "khcc:-40326:20261219",
    "title": "《國樂讓您輕鬆聽》",
    "start": "2026-12-19T17:00:00+08:00",
@@ -2556,6 +2799,60 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40326&AP=$M102_DATE-115/12/19"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40457:20261219",
+   "title": "2026臺北相聲大會",
+   "start": "2026-12-19T14:30:00+08:00",
+   "end": "2026-12-19T16:30:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "台北曲藝團",
+   "organizer_type": "不確定",
+   "description": "演出單位：台北曲藝團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40457&AP=$M102_DATE-115/12/19"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40458:20261220",
+   "title": "《醫聲‧白袍金嗓》施宗賢醫師廣音域跨界演唱會",
+   "start": "2026-12-20T19:30:00+08:00",
+   "end": "2026-12-20T21:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "社團法人台灣福田社會福利發展協會",
+   "organizer_type": "民間",
+   "description": "演出單位：施宗賢/詹喆君/沈福盈/章孝賢",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40458&AP=$M102_DATE-115/12/20"
     }
    ],
    "lat": null,
@@ -2610,6 +2907,33 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40327&AP=$M102_DATE-115/12/26"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40459:20261226",
+   "title": "Sounds Great Vol.3",
+   "start": "2026-12-26T14:30:00+08:00",
+   "end": "2026-12-26T20:00:00+08:00",
+   "venue": "大東演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "發露碧舞團",
+   "organizer_type": "民間",
+   "description": "演出單位：發露碧舞團",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40459&AP=$M102_DATE-115/12/26"
     }
    ],
    "lat": null,
