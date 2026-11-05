@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T09:40:22.296585+08:00",
+ "fetched_at": "2026-11-05T10:47:42.897151+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -18,33 +18,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a953c1f3041610007c17381"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a0e68bff2bf2c0008d546f0",
-   "title": "2026【武營來跳舞】7-12月",
-   "start": "2026-07-01T19:00:00+08:00",
-   "end": "2026-12-02T19:00:00+08:00",
-   "venue": "衛武營榕樹廣場西側",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "大眾參與，與眾不同的舞蹈初體驗",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a0e68bff2bf2c0008d546f0"
     }
    ],
    "lat": null,
@@ -1919,6 +1892,33 @@
    ]
   },
   {
+   "id": "weiwuying:6a0e68bff2bf2c0008d546f0",
+   "title": "2026【武營來跳舞】7-12月",
+   "start": "2026-07-01T19:00:00+08:00",
+   "end": "2026-12-02T19:00:00+08:00",
+   "venue": "衛武營榕樹廣場西側",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "大眾參與，與眾不同的舞蹈初體驗",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6a0e68bff2bf2c0008d546f0"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6aa0be9d86975700087e77de",
    "title": "《2026蕾蒂合唱團年度音樂會》",
    "start": "2026-12-02T19:30:00+08:00",
@@ -3647,6 +3647,33 @@
    ]
   },
   {
+   "id": "weiwuying:6ae3f1827af9a80007664ea7",
+   "title": "《激情義大利－與李斯特同遊～黃瑋德＆黃瑟德聯合音樂會》",
+   "start": "2027-01-08T19:30:00+08:00",
+   "end": "2027-01-08T19:30:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "李斯特作品的義大利風情 鋼琴與男中音的對話",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ae3f1827af9a80007664ea7"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6a72d3cfb9145f0007d60128",
    "title": "《NTSO榮光與信念—水藍，蔣啟真與國臺交》",
    "start": "2027-01-08T19:30:00+08:00",
@@ -3728,6 +3755,33 @@
    ]
   },
   {
+   "id": "weiwuying:6ae3f774555c1b000868e221",
+   "title": "2027許凱閔室內樂音樂會之『音樂旅行』",
+   "start": "2027-01-10T14:30:00+08:00",
+   "end": "2027-01-10T14:30:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "2027許凱閔室內樂音樂會之『音樂旅行』",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ae3f774555c1b000868e221"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6aa0c8f886975700087e797d",
    "title": "《2027國際大師鋼琴藝術節大師系列-莊雅斐鋼琴獨奏會》",
    "start": "2027-01-25T19:30:00+08:00",
@@ -3798,6 +3852,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ac4b7947a63f600077248d9"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ae3fddc555c1b000868e34e",
+   "title": "《靈感　城市　探戈》",
+   "start": "2027-01-30T15:00:00+08:00",
+   "end": "2027-01-30T15:00:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "在理性的詩意中流轉，於探戈的熾熱裡甦醒",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ae3fddc555c1b000868e34e"
     }
    ],
    "lat": null,

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T09:40:22.296585+08:00",
+ "fetched_at": "2026-11-05T10:47:42.897151+08:00",
  "events": [
   {
    "id": "iculture:69f33e4e26b3243414ccc475",
@@ -2675,6 +2675,33 @@
    ]
   },
   {
+   "id": "iculture:6aeb988a26b3245efc753790",
+   "title": "2026高醫聲樂社冬季音樂會",
+   "start": "2026-12-03T19:30:00+08:00",
+   "end": "2026-12-03T21:30:00+08:00",
+   "venue": "衛武營國家藝術文化中心音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I4GC7W"
+    }
+   ],
+   "lat": 22.624172,
+   "lng": 120.3422105,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:6a99ab5326b32434f43580c7",
    "title": "《溯音‧續章》許常惠逝世二十五週年紀念音樂會",
    "start": "2026-12-05T14:30:00+08:00",
@@ -3555,6 +3582,33 @@
     {
      "source": "iculture",
      "url": "https://www.opentix.life/program/2100491251944562689"
+    }
+   ],
+   "lat": 22.6230179238508,
+   "lng": 120.342434118507,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6aeb66f526b3245efc753787",
+   "title": "日暮胭脂——KIM Bomi與高雄室內合唱團",
+   "start": "2026-12-17T19:30:00+08:00",
+   "end": "2026-12-17T21:30:00+08:00",
+   "venue": "衛武營國家藝術文化中心音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2113570407894147073"
     }
    ],
    "lat": 22.6230179238508,
@@ -7771,6 +7825,60 @@
    ],
    "lat": 22.6230179238508,
    "lng": 120.342434118507,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6aeb66f926b3245efc75378d",
+   "title": "福狸男孩《劉向跟你》高雄場",
+   "start": "2027-01-16T14:30:00+08:00",
+   "end": "2027-01-16T21:00:00+08:00",
+   "venue": "Loi了咖啡",
+   "address": "高雄市新興區民主路26號",
+   "district": "新興區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2116075068406972417"
+    }
+   ],
+   "lat": 22.6332115,
+   "lng": 120.2999282,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6aeb66f926b3245efc75378e",
+   "title": "臺灣豫劇團2027兒少戲曲《聽說，年獸來了！》",
+   "start": "2027-01-21T14:30:00+08:00",
+   "end": "2027-01-23T15:50:00+08:00",
+   "venue": "臺灣豫劇團大排練場",
+   "address": "高雄市左營區實踐路102號",
+   "district": "左營區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.opentix.life/program/2109942929061113857"
+    }
+   ],
+   "lat": 22.6914486,
+   "lng": 120.2904458,
    "aliases": [],
    "first_seen": "",
    "sources": [
