@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T05:42:40.294367+08:00",
+ "fetched_at": "2026-11-06T05:45:55.963736+08:00",
  "events": [
   {
    "id": "khcc:4326",
@@ -1071,6 +1071,33 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4338"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40461:20261219",
+   "title": "鯨嶼紀─一座島嶼的藍色奇遇",
+   "start": "2026-12-19T14:30:00+08:00",
+   "end": "2026-12-19T17:00:00+08:00",
+   "venue": "高雄市文化中心 至德堂",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "國立臺灣藝術大學",
+   "organizer_type": "政府",
+   "description": "演出單位：國立臺灣藝術大學",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40461&AP=$M102_DATE-115/12/19"
     }
    ],
    "lat": null,
