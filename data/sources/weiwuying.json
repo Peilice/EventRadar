@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T08:54:39.043543+08:00",
+ "fetched_at": "2026-11-07T08:34:08.399707+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -45,33 +45,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a572b8818fbb10007264a77",
-   "title": "【會員限定】移動劇場，出發──藍皮解憂號 × 江賢二藝術園區一日美學",
-   "start": "2026-11-07T08:00:00+08:00",
-   "end": "2026-11-07T08:00:00+08:00",
-   "venue": "衛武營 江賢二園區",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "從榕樹下到南迴線：藝術不應僅侷限於劇院的穹頂之下。這一次，我們將衛武營「眾人的藝術中心」之精神延展至南迴的自然山海間。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a572b8818fbb10007264a77"
     }
    ],
    "lat": null,
@@ -1811,6 +1784,33 @@
    ]
   },
   {
+   "id": "weiwuying:6aed326291fe510007c89e14",
+   "title": "新舞季-【跨】",
+   "start": "2026-12-01T19:30:00+08:00",
+   "end": "2026-12-01T19:30:00+08:00",
+   "venue": "衛武營 戲劇院",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "一場跨越身體與想像的演出",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6aed326291fe510007c89e14"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6abc62b58979e70007fafa39",
    "title": "《璀璨62》台南應用科技大學音樂系教師校慶音樂會",
    "start": "2026-12-01T19:30:00+08:00",
@@ -1846,7 +1846,7 @@
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
-   "fee": "免費",
+   "fee": "付費",
    "organizer": "",
    "organizer_type": "不確定",
    "description": "從法庭到舞台，律師演繹跨時空的經典旋律",
@@ -2737,7 +2737,7 @@
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
-   "fee": "免費",
+   "fee": "付費",
    "organizer": "",
    "organizer_type": "不確定",
    "description": "《日暮胭脂》邀請韓國指揮KIM Bomi攜手高雄室內合唱團，聚焦韓國及當代合唱，選唱女性作曲家作品，展現東亞女性文化視角、當代聲音與跨國對話。",
@@ -3701,6 +3701,33 @@
    ]
   },
   {
+   "id": "weiwuying:6ae40523555c1b000868e489",
+   "title": "《跟著琴鍵去旅行－顏竹君&顏齊慧雙鋼琴音樂會》",
+   "start": "2027-01-09T19:30:00+08:00",
+   "end": "2027-01-09T19:30:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "在琴聲與光影之間，聽見音樂，也看見世界",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ae40523555c1b000868e489"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6a992064a243ae0007eb5b9e",
    "title": "《星耀百老匯》",
    "start": "2027-01-09T19:30:00+08:00",
@@ -3771,6 +3798,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ae3f774555c1b000868e221"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ae3fb72555c1b000868e2d7",
+   "title": "《媽咪住的地方UKE音樂會》",
+   "start": "2027-01-25T19:00:00+08:00",
+   "end": "2027-01-25T19:00:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "烏克麗麗跳動音符在海風中重拾最初的溫暖",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ae3fb72555c1b000868e2d7"
     }
    ],
    "lat": null,
@@ -3906,6 +3960,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6aa0c4e48979e70007eaceaa"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6aed40b3555c1b00086d3722",
+   "title": "《林佳田男高音獻聲衛武營》",
+   "start": "2027-02-03T19:00:00+08:00",
+   "end": "2027-02-03T19:00:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "黑夜與黎明的浪漫男聲、聲樂詩篇",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6aed40b3555c1b00086d3722"
     }
    ],
    "lat": null,
@@ -4160,6 +4241,33 @@
    ]
   },
   {
+   "id": "weiwuying:6aceff587a63f60007772ee6",
+   "title": "《高雄市青少年交響樂團國中團／高雄市立新興高中音樂班 2027年度音樂會》",
+   "start": "2027-02-22T19:00:00+08:00",
+   "end": "2027-02-22T19:00:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "樂音承載青春，弦歌寄託夢想。高雄市青少年交響樂團國中團，2027年初將於衛武營奏響青春樂章，以純粹而真摯的音符，展現音樂教育的深厚成果與少年樂手的熱情風采。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6aceff587a63f60007772ee6"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6ad5df157a63f600077b4107",
    "title": "《高雄市英明國中管弦樂班年度音樂會》",
    "start": "2027-02-25T19:30:00+08:00",
@@ -4257,6 +4365,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ad5db658697570008993031"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6aed3d9b91fe510007c8a07d",
+   "title": "《職男人生3-達成激笑》",
+   "start": "2027-03-06T15:00:00+08:00",
+   "end": "2027-03-07T15:00:00+08:00",
+   "venue": "衛武營 歌劇院",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "日式漫才、搞笑短劇",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6aed3d9b91fe510007c8a07d"
     }
    ],
    "lat": null,
