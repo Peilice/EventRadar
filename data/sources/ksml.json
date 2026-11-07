@@ -1,6 +1,60 @@
 {
- "fetched_at": "2026-11-07T05:15:38.801050+08:00",
+ "fetched_at": "2026-11-07T23:34:44.416782+08:00",
  "events": [
+  {
+   "id": "ksml:16494",
+   "title": "【橋頭分館】11/18 (三) 14:00 天馬茶房-電影賞析",
+   "start": "2026-11-18T14:00:00+08:00",
+   "end": "2026-11-18T16:00:00+08:00",
+   "venue": "高雄市立圖書館橋頭分館2樓多功能室",
+   "address": "高雄市橋頭區隆豐路7號",
+   "district": "橋頭區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館橋頭分館",
+   "organizer_type": "政府",
+   "description": "天馬茶房-電影賞析\n電影《天馬茶房》\n1947年的大稻埕，天馬茶房裡流淌著音樂、夢想與愛。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16494"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16491",
+   "title": "【大東藝術圖書館】11/14 (六) 繪本說故事🥚本土台語光陰的故事—《十粒卵》🥚",
+   "start": "2026-11-14T15:00:00+08:00",
+   "end": "2026-11-14T16:00:00+08:00",
+   "venue": "大東藝術圖書館 1F兒童室 愛讀屋",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館大東藝術圖書館",
+   "organizer_type": "政府",
+   "description": "活動老師：艾莉老師（劉純邑）\n活動主題：繪本說故事🥚本土台語光陰的故事—《十粒卵》🥚\n日期時間：11/14（六）15:00~16:00",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16491"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16490",
    "title": "【大東藝術圖書館】12/5(六) 👨‍👧Ai世代的心距離：親子數位生活與情感對話👩‍👦",
@@ -261,33 +315,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16480"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16479",
-   "title": "【文化中心分館】瑪格麗特戀習題-電影聽賞會11/7(六)登場，邀請專業口述電影老師黃英雄現場為明盲朋友導賞影片哦，歡迎踴躍報名參加。",
-   "start": "2026-11-03T14:00:00+08:00",
-   "end": "2026-11-07T17:00:00+08:00",
-   "venue": "文化中心分館 4F團體欣賞室",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館高雄市文化中心分館",
-   "organizer_type": "政府",
-   "description": "活動日期/時間: 11/7(六) 14:00-17:00\n播放影片：瑪格麗特戀習題 (保護級) 片長113分(黃英雄老師口述導賞)\n地點: 文化中心分館 4F團體欣賞室",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16479"
     }
    ],
    "lat": null,
@@ -677,87 +704,6 @@
    ]
   },
   {
-   "id": "ksml:16463",
-   "title": "【橋頭分館】11/7 (六) 14:00 《動物園大對決》繪本學台語",
-   "start": "2026-11-07T14:00:00+08:00",
-   "end": "2026-11-07T15:00:00+08:00",
-   "venue": "高雄市立圖書館橋頭分館1樓兒童室",
-   "address": "高雄市橋頭區隆豐路7號",
-   "district": "橋頭區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館橋頭分館",
-   "organizer_type": "政府",
-   "description": "《動物園大對決》繪本學台語\n跟著胡淑屏老師一起走進《動物園大對決》台語兒童繪本的世界，認識各種動物的台語名稱，透過有趣的繪本故事，讓孩子邊看、邊聽、邊學台語！\n經由繪本閱讀與生活經驗的連結，引導民眾理解台語傳承與保存的重要性，建立正確的台語意識。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16463"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16462",
-   "title": "【大東藝術圖書館】11/7(六)繪本說故事🦕本土台語光陰的故事—《摃槌仔龍chhōe媽媽》🦕",
-   "start": "2026-11-07T15:00:00+08:00",
-   "end": "2026-11-07T16:00:00+08:00",
-   "venue": "大東藝術圖書館 1F兒童室 愛讀屋",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館大東藝術圖書館",
-   "organizer_type": "政府",
-   "description": "活動老師：艾莉老師（劉純邑）\n活動主題：繪本說故事🦕本土台語光陰的故事—《摃槌仔龍chhōe媽媽》🦕\n日期時間：11/07（六）15:00~16:00",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16462"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16461",
-   "title": "【橋頭分館】11/7 (六) 10:00 咱來耍台語（動物）",
-   "start": "2026-11-07T10:00:00+08:00",
-   "end": "2026-11-07T12:00:00+08:00",
-   "venue": "高雄市立圖書館橋頭分館2樓多功能室",
-   "address": "高雄市橋頭區隆豐路7號",
-   "district": "橋頭區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館橋頭分館",
-   "organizer_type": "政府",
-   "description": "咱來耍台語（動物）\n囡仔若聽無台語，咱欲按怎引𤆬伊開喙？😀\n蘇紋巧老師透過繪本、動物聲音模仿佮肢體遊戲，予親子佇聽講、觀察佮遊戲中自然接觸台語，建立親子共學的信心，將台語佇家庭生活中繼續傳落去。🥰",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16461"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16458",
    "title": "[鼓山分館] 115年鼓山成人讀書會11/14（六）早上10起「性別主流」共讀《愛織毛線的男孩》歡迎您的參與!",
    "start": "2026-11-14T10:00:00+08:00",
@@ -1082,33 +1028,6 @@
    ]
   },
   {
-   "id": "ksml:16410",
-   "title": "【前鎮分館】辦理【行入內惟庄——舊聚落台語文化走讀】活動報名",
-   "start": "2026-11-07T15:00:00+08:00",
-   "end": "2026-11-07T17:00:00+08:00",
-   "venue": "高雄市立圖書館前鎮分館",
-   "address": "高雄市前鎮區保泰路303號",
-   "district": "前鎮區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館前鎮分館",
-   "organizer_type": "政府",
-   "description": "活動海報 一起跟著陳宏任老師走訪內惟庄，透過台語導覽與在地詞彙介紹，\n帶領參與者從眷村、古厝、百年水井、地方信仰及傳統市場中，\n認識內惟舊聚落的歷史脈絡與庶民生活，感受台語、土地與地方記憶之間的緊密連結。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16410"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:12687",
    "title": "🏠大東建築師諮詢🏠115年11月份「與建築師有約」專業諮詢活動，第二週跟第四週的週日與您相約在大東，歡迎踴躍參加!!",
    "start": "2026-11-08T00:00:00+08:00",
@@ -1179,33 +1098,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16197"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16400",
-   "title": "📌【岡山文化中心分館】📌11/7🌸 走讀橋頭・花現糖廠｜散步集花，探索歷史！ 🚂",
-   "start": "2026-11-07T09:30:00+08:00",
-   "end": "2026-11-07T12:00:00+08:00",
-   "venue": "橋頭台糖館冰店（請自行前往）",
-   "address": "",
-   "district": "",
-   "category": "其他",
-   "fee": "付費",
-   "organizer": "高雄市立圖書館岡山文化中心分館",
-   "organizer_type": "政府",
-   "description": "用雙腳探索歷史，用故事認識家鄉，讓每一步都開出文化的花~\n跟著陳志鵬老師走進橋頭糖廠，探索老煙囪、五分車與百年製糖文化，沿途尋找花朵、發現歷史彩蛋，讓平常的散步變成一場充滿驚喜的在地文化探險！\n一.走過糖廠老建築、認識五分車與製糖故事、觀察老樹與歷史痕跡，讓每一步都成為發現地方文化的驚喜。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16400"
     }
    ],
    "lat": null,

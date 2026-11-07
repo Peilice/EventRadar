@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T05:15:38.801050+08:00",
+ "fetched_at": "2026-11-07T23:34:44.416782+08:00",
  "events": [
   {
    "id": "khcc:4326",
@@ -72,87 +72,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4325"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40201:20261107",
-   "title": "FOCASA馬戲團《幾米男孩的100次勇敢》",
-   "start": "2026-11-07T14:30:00+08:00",
-   "end": "2026-11-07T22:00:00+08:00",
-   "venue": "高雄市文化中心 至德堂",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "FOCASA馬戲團",
-   "organizer_type": "不確定",
-   "description": "演出單位：FOCASA馬戲團",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40201&AP=$M102_DATE-115/11/07"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-39998:20261107",
-   "title": "《2026舞囝仔的夢》",
-   "start": "2026-11-07T19:30:00+08:00",
-   "end": "2026-11-07T22:00:00+08:00",
-   "venue": "高雄市文化中心 至善廳",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "高雄囝仔舞團",
-   "organizer_type": "民間",
-   "description": "演出單位：高雄囝仔舞團",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39998&AP=$M102_DATE-115/11/07"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-37738:20261107",
-   "title": "藝術市集",
-   "start": "2026-11-07T16:00:00+08:00",
-   "end": "2026-11-07T21:30:00+08:00",
-   "venue": "高雄市文化中心 藝術大道",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "市集",
-   "fee": "免費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "演出單位：高雄市政府文化局",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-37738&AP=$M102_DATE-115/11/07"
     }
    ],
    "lat": null,
@@ -2151,60 +2070,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40433&AP=$M102_DATE-115/12/30"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40323:20261107",
-   "title": "《絲竹下午茶》",
-   "start": "2026-11-07T17:00:00+08:00",
-   "end": "2026-11-07T18:00:00+08:00",
-   "venue": "大東戶外舞台",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "演出單位：高雄市國樂團A",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40323&AP=$M102_DATE-115/11/07"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40312:20261107",
-   "title": "海之樂章！公主的奇幻旅程",
-   "start": "2026-11-07T19:30:00+08:00",
-   "end": "2026-11-07T21:30:00+08:00",
-   "venue": "大東演藝廳",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "圈圈音樂藝術坊",
-   "organizer_type": "不確定",
-   "description": "演出單位：圈圈音樂藝術坊",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40312&AP=$M102_DATE-115/11/07"
     }
    ],
    "lat": null,

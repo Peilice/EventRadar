@@ -1,6 +1,195 @@
 {
- "fetched_at": "2026-11-07T05:15:38.801050+08:00",
+ "fetched_at": "2026-11-07T23:34:44.416782+08:00",
  "events": [
+  {
+   "id": "twmarket:61857:20261108",
+   "title": "森日動物派對",
+   "start": "2026-11-08T09:00:00+08:00",
+   "end": "2026-11-08T17:00:00+08:00",
+   "venue": "壽山動物園",
+   "address": "高雄市鼓山區萬壽路350號",
+   "district": "鼓山區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-0711-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61857:20261114",
+   "title": "森日動物派對",
+   "start": "2026-11-14T09:00:00+08:00",
+   "end": "2026-11-14T17:00:00+08:00",
+   "venue": "壽山動物園",
+   "address": "高雄市鼓山區萬壽路350號",
+   "district": "鼓山區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-0711-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61857:20261115",
+   "title": "森日動物派對",
+   "start": "2026-11-15T09:00:00+08:00",
+   "end": "2026-11-15T17:00:00+08:00",
+   "venue": "壽山動物園",
+   "address": "高雄市鼓山區萬壽路350號",
+   "district": "鼓山區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-0711-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61857:20261121",
+   "title": "森日動物派對",
+   "start": "2026-11-21T09:00:00+08:00",
+   "end": "2026-11-21T17:00:00+08:00",
+   "venue": "壽山動物園",
+   "address": "高雄市鼓山區萬壽路350號",
+   "district": "鼓山區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-0711-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61857:20261122",
+   "title": "森日動物派對",
+   "start": "2026-11-22T09:00:00+08:00",
+   "end": "2026-11-22T17:00:00+08:00",
+   "venue": "壽山動物園",
+   "address": "高雄市鼓山區萬壽路350號",
+   "district": "鼓山區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-0711-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61857:20261128",
+   "title": "森日動物派對",
+   "start": "2026-11-28T09:00:00+08:00",
+   "end": "2026-11-28T17:00:00+08:00",
+   "venue": "壽山動物園",
+   "address": "高雄市鼓山區萬壽路350號",
+   "district": "鼓山區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-0711-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:61857:20261129",
+   "title": "森日動物派對",
+   "start": "2026-11-29T09:00:00+08:00",
+   "end": "2026-11-29T17:00:00+08:00",
+   "venue": "壽山動物園",
+   "address": "高雄市鼓山區萬壽路350號",
+   "district": "鼓山區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-0711-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:61827:20261121",
    "title": "毛孩市集秋季散策日",
@@ -855,33 +1044,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-11-0712-27-%e9%ab%98%e9%9b%84-%e5%8f%b0%e9%90%b5%e9%ab%98%e9%9b%84%e6%a9%9f%e5%bb%a0-%e9%ab%98%e9%9b%84%e8%a6%aa%e5%ad%90%e9%81%8a%e6%a8%82%e5%9c%92%e5%8d%80/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61679:20261107",
-   "title": "漫光星光微型演唱會市集",
-   "start": "2026-11-07T13:00:00+08:00",
-   "end": "2026-11-07T19:30:00+08:00",
-   "venue": "大立百貨與新光三越三多店",
-   "address": "",
-   "district": "前金區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：11/7（六）、11/8（日）、11/21（六）、11/22（日）、12/19（六）、12/20（日）、12/25（五）、12/26（六）、1/1（五）、1/2（六）、1/9（六）、1/10（日）、1/23（六）、1/24（日）、2/6（六）、2/7（日）、2/8（一）\n時間：13:00–19:30\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-11-072027-02-08-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e7%ab%8b%e7%99%be%e8%b2%a8%e8%88%87%e6%96%b0%e5%85%89%e4%b8%89%e8%b6%8a%e4%b8%89%e5%a4%9a%e5%ba%97-%e6%bc%ab%e5%85%89%e6%98%9f%e5%85%89/"
     }
    ],
    "lat": null,
@@ -1946,222 +2108,6 @@
    ]
   },
   {
-   "id": "twmarket:61285:20261107",
-   "title": "森日動物派對",
-   "start": "2026-11-07T09:00:00+08:00",
-   "end": "2026-11-07T17:00:00+08:00",
-   "venue": "壽山動物園親水廣場",
-   "address": "高雄市鼓山區萬壽路350號",
-   "district": "鼓山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/31（六）、11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-3111-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92%e8%a6%aa%e6%b0%b4%e5%bb%a3%e5%a0%b4-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61285:20261108",
-   "title": "森日動物派對",
-   "start": "2026-11-08T09:00:00+08:00",
-   "end": "2026-11-08T17:00:00+08:00",
-   "venue": "壽山動物園親水廣場",
-   "address": "高雄市鼓山區萬壽路350號",
-   "district": "鼓山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/31（六）、11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-3111-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92%e8%a6%aa%e6%b0%b4%e5%bb%a3%e5%a0%b4-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61285:20261114",
-   "title": "森日動物派對",
-   "start": "2026-11-14T09:00:00+08:00",
-   "end": "2026-11-14T17:00:00+08:00",
-   "venue": "壽山動物園親水廣場",
-   "address": "高雄市鼓山區萬壽路350號",
-   "district": "鼓山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/31（六）、11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-3111-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92%e8%a6%aa%e6%b0%b4%e5%bb%a3%e5%a0%b4-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61285:20261115",
-   "title": "森日動物派對",
-   "start": "2026-11-15T09:00:00+08:00",
-   "end": "2026-11-15T17:00:00+08:00",
-   "venue": "壽山動物園親水廣場",
-   "address": "高雄市鼓山區萬壽路350號",
-   "district": "鼓山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/31（六）、11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-3111-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92%e8%a6%aa%e6%b0%b4%e5%bb%a3%e5%a0%b4-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61285:20261121",
-   "title": "森日動物派對",
-   "start": "2026-11-21T09:00:00+08:00",
-   "end": "2026-11-21T17:00:00+08:00",
-   "venue": "壽山動物園親水廣場",
-   "address": "高雄市鼓山區萬壽路350號",
-   "district": "鼓山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/31（六）、11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-3111-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92%e8%a6%aa%e6%b0%b4%e5%bb%a3%e5%a0%b4-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61285:20261122",
-   "title": "森日動物派對",
-   "start": "2026-11-22T09:00:00+08:00",
-   "end": "2026-11-22T17:00:00+08:00",
-   "venue": "壽山動物園親水廣場",
-   "address": "高雄市鼓山區萬壽路350號",
-   "district": "鼓山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/31（六）、11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-3111-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92%e8%a6%aa%e6%b0%b4%e5%bb%a3%e5%a0%b4-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61285:20261128",
-   "title": "森日動物派對",
-   "start": "2026-11-28T09:00:00+08:00",
-   "end": "2026-11-28T17:00:00+08:00",
-   "venue": "壽山動物園親水廣場",
-   "address": "高雄市鼓山區萬壽路350號",
-   "district": "鼓山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/31（六）、11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-3111-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92%e8%a6%aa%e6%b0%b4%e5%bb%a3%e5%a0%b4-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61285:20261129",
-   "title": "森日動物派對",
-   "start": "2026-11-29T09:00:00+08:00",
-   "end": "2026-11-29T17:00:00+08:00",
-   "venue": "壽山動物園親水廣場",
-   "address": "高雄市鼓山區萬壽路350號",
-   "district": "鼓山區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/31（六）、11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：09:00–17:00\n地址：高雄市鼓山區萬壽路350號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-3111-29-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a3%bd%e5%b1%b1%e5%8b%95%e7%89%a9%e5%9c%92%e8%a6%aa%e6%b0%b4%e5%bb%a3%e5%a0%b4-%e6%a3%ae%e6%97%a5%e5%8b%95%e7%89%a9%e6%b4%be%e5%b0%8d/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "twmarket:61265:20261219",
    "title": "昆仲好市",
    "start": "2026-12-19T15:00:00+08:00",
@@ -2205,33 +2151,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-10-1712-20-%e9%ab%98%e9%9b%84-%e5%8f%b0%e5%a1%91%e7%8e%8b%e6%b0%8f%e6%98%86%e4%bb%b2%e5%85%ac%e5%9c%92-%e6%98%86%e4%bb%b2%e5%a5%bd%e5%b8%82/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61202:20261107",
-   "title": "橋糖一巷微市集",
-   "start": "2026-11-07T10:00:00+08:00",
-   "end": "2026-11-07T18:00:00+08:00",
-   "venue": "橋頭糖廠",
-   "address": "",
-   "district": "橋頭區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：11/1（日）、11/7（六）、11/8（日）、11/14（六）、11/15（日）、11/21（六）、11/22（日）、11/28（六）、11/29（日）\n時間：10:00–18:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-11-0111-30-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a9%8b%e9%a0%ad%e7%b3%96%e5%bb%a0-%e6%a9%8b%e7%b3%96%e4%b8%80%e5%b7%b7%e5%be%ae%e5%b8%82%e9%9b%86/"
     }
    ],
    "lat": null,
@@ -2421,33 +2340,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-11-0111-30-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a9%8b%e9%a0%ad%e7%b3%96%e5%bb%a0-%e6%a9%8b%e7%b3%96%e4%b8%80%e5%b7%b7%e5%be%ae%e5%b8%82%e9%9b%86/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61125:20261107",
-   "title": "斑斑永安心市集",
-   "start": "2026-11-07T12:00:00+08:00",
-   "end": "2026-11-07T16:30:00+08:00",
-   "venue": "永安區漁會",
-   "address": "高雄市永安區新興路27-2號",
-   "district": "永安區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：11/7（六）、11/8（日）\n時間：11/7（六） 12:00–16:30、11/8（日） 09:00–15:30\n地址：高雄市永安區新興路27-2號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-11-0711-08-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%b0%b8%e5%ae%89%e5%8d%80%e6%bc%81%e6%9c%83-%e6%96%91%e6%96%91%e6%b0%b8%e5%ae%89%e5%bf%83%e5%b8%82%e9%9b%86/"
     }
    ],
    "lat": null,
@@ -2826,33 +2718,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-12-05-%e9%ab%98%e9%9b%84%e5%b8%82-%e8%82%b2%e8%8b%b1%e9%86%ab%e8%ad%b7%e7%ae%a1%e7%90%86%e5%b0%88%e7%a7%91%e5%ad%b8%e6%a0%a1-%e8%82%b2%e8%8b%b1%e9%86%ab%e5%b0%8863%e9%80%b1%e5%b9%b4%e6%a0%a1/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:60827:20261107",
-   "title": "荏苒市集海境三聖祭",
-   "start": "2026-11-07T16:00:00+08:00",
-   "end": "2026-11-07T21:00:00+08:00",
-   "venue": "金鑾宮",
-   "address": "高雄市茄萣區保定里港東街111號",
-   "district": "茄萣區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：11/6（五）、11/7（六）\n時間：16:00–21:00\n地址：高雄市茄萣區保定里港東街111號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-11-0611-07-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%87%91%e9%91%be%e5%ae%ae-%e8%8d%8f%e8%8b%92%e5%b8%82%e9%9b%86%e6%b5%b7%e5%a2%83%e4%b8%89%e8%81%96%e7%a5%ad/"
     }
    ],
    "lat": null,
@@ -3458,33 +3323,6 @@
    ]
   },
   {
-   "id": "twmarket:59858:20261107",
-   "title": "星光市集",
-   "start": "2026-11-07T13:30:00+08:00",
-   "end": "2026-11-07T20:00:00+08:00",
-   "venue": "新光三越百貨",
-   "address": "",
-   "district": "",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/17（六）、10/18（日）、11/7（六）、11/8（日）、11/21（六）、11/22（日）\n時間：13:30–20:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-1711-22-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%96%b0%e5%85%89%e4%b8%89%e8%b6%8a%e7%99%be%e8%b2%a8-%e6%98%9f%e5%85%89%e5%b8%82%e9%9b%86/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "twmarket:59858:20261108",
    "title": "星光市集",
    "start": "2026-11-08T13:30:00+08:00",
@@ -3809,33 +3647,6 @@
    ]
   },
   {
-   "id": "twmarket:59646:20261107",
-   "title": "FUN市集餓靈騎士大冒險市集",
-   "start": "2026-11-07T14:00:00+08:00",
-   "end": "2026-11-07T21:00:00+08:00",
-   "venue": "岡山樂GO與高雄大遠百",
-   "address": "",
-   "district": "苓雅區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：10/17（六）、10/18（日）、11/7（六）、11/8（日）\n時間：14:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-10-1711-08-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e6%a8%82go%e8%88%87%e9%ab%98%e9%9b%84%e5%a4%a7%e9%81%a0%e7%99%be-fun%e5%b8%82%e9%9b%86%e9%a4%93%e9%9d%88%e9%a8%8e%e5%a3%ab%e5%a4%a7/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
    "id": "twmarket:59646:20261108",
    "title": "FUN市集餓靈騎士大冒險市集",
    "start": "2026-11-08T14:00:00+08:00",
@@ -3906,33 +3717,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-11-1411-15-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a2%a8%e5%87%a1%e9%ab%98%e9%9b%84%e9%a7%85%e4%b8%80%e7%95%aa%e8%a1%97-%e6%a8%82%e5%b1%85%e5%b8%82%e9%9b%86/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:59452:20261107",
-   "title": "FUN市集",
-   "start": "2026-11-07T14:00:00+08:00",
-   "end": "2026-11-07T21:00:00+08:00",
-   "venue": "高雄大遠百",
-   "address": "高雄市苓雅區三多四路21號",
-   "district": "苓雅區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：11/7（六）、11/8（日）\n時間：14:00–21:00\n地址：高雄市苓雅區三多四路21號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-11-0711-08-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a7%e9%81%a0%e7%99%be-fun%e5%b8%82%e9%9b%86/"
     }
    ],
    "lat": null,

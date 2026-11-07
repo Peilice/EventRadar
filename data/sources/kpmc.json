@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T05:45:55.963736+08:00",
+ "fetched_at": "2026-11-07T23:34:44.416782+08:00",
  "events": [
   {
    "id": "kpmc:16243",
@@ -207,168 +207,6 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-hih-0725/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16253",
-   "title": "KEEP ROLLING. KEEP THE ROLL! 電影海報典藏販售展",
-   "start": "2026-11-06T14:00:00+08:00",
-   "end": "2026-11-06T14:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "免費",
-   "organizer": "聲日裏物",
-   "organizer_type": "不確定",
-   "description": "票價：免費參觀 線上及現場同步販售",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/keep-rolling-keep-the-roll-%e9%9b%bb%e5%bd%b1%e6%b5%b7%e5%a0%b1%e5%85%b8%e8%97%8f%e8%b2%a9%e5%94%ae%e5%b1%95/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16257",
-   "title": "爵士揚門｜麥克雞塊人",
-   "start": "2026-11-06T20:00:00+08:00",
-   "end": "2026-11-06T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：吳允菲、黃品硯、曾暐庭、吳憫心、羅沛璿、吳翊丞\n票價：低消150元＋入場費100元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e7%88%b5%e5%a3%ab%e6%8f%9a%e9%96%80%ef%bd%9c%e9%ba%a5%e5%85%8b%e9%9b%9e%e5%a1%8a%e4%ba%ba/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15952",
-   "title": "邱淑蟬 2026《無爭》發行巡迴【高雄場】",
-   "start": "2026-11-06T20:00:00+08:00",
-   "end": "2026-11-06T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "邱淑蟬 x 高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：邱淑蟬\n票價：雙人套票 1200 單人預售 700 現場票 800",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1106/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16039",
-   "title": "高流系：Pro Tools專攻班",
-   "start": "2026-11-07T10:00:00+08:00",
-   "end": "2026-11-07T10:00:00+08:00",
-   "venue": "高雄流行音樂中心",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：黃昭智講師\n票價：6800 (恕不接受單日報名)",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-wrs-1107/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15906",
-   "title": "❮ D.N.Δ ❯ SPIN-UP：HEARTBEAT_THEΔRAREz 1st ALBUM WORLD TOUR",
-   "start": "2026-11-07T13:30:00+08:00",
-   "end": "2026-11-07T13:30:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "THEΔRAREz x 高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：THEΔRAREz    \r\nGUEST：Ruka Banana、存在証明NO FACE NO REaLiTY\n票價：預售票600元 現場票700元",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1107/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16272",
-   "title": "Yellow Sky With Blue Moon｜A Tempo 四重奏",
-   "start": "2026-11-07T20:00:00+08:00",
-   "end": "2026-11-07T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：YanNi、林以軒、陳書緯、Emile、王劭威\n票價：單人500元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/yellow-sky-with-blue-moon%ef%bd%9ca-tempo-%e5%9b%9b%e9%87%8d%e5%a5%8f/"
     }
    ],
    "lat": null,
@@ -758,33 +596,6 @@
    ]
   },
   {
-   "id": "kpmc:16284",
-   "title": "迷幻電風琴之夜！第六彈！",
-   "start": "2026-11-21T20:00:00+08:00",
-   "end": "2026-11-21T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：宋易修、許子薇、涂宸華、李祈均\n票價：單人500元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:15945",
    "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
    "start": "2026-11-21T20:00:00+08:00",
@@ -801,6 +612,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1121/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16284",
+   "title": "迷幻電風琴之夜！第六彈！",
+   "start": "2026-11-21T20:00:00+08:00",
+   "end": "2026-11-21T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：宋易修、許子薇、涂宸華、李祈均\n票價：單人500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
     }
    ],
    "lat": null,

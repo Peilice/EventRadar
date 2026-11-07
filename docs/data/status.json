@@ -1,101 +1,100 @@
 {
- "generated_at": "2026-11-07T05:15:38.801050+08:00",
+ "generated_at": "2026-11-07T23:34:44.416782+08:00",
  "sources": {
   "weiwuying": {
    "label": "衛武營",
-   "last_attempt": "2026-11-06T08:54:39.043543+08:00",
-   "last_success": "2026-11-06T08:54:39.043543+08:00",
+   "last_attempt": "2026-11-07T08:34:08.399707+08:00",
+   "last_success": "2026-11-07T08:34:08.399707+08:00",
    "ok": true,
-   "count": 164,
+   "count": 166,
    "error": ""
   },
   "kpmc": {
    "label": "高雄流行音樂中心",
-   "last_attempt": "2026-11-07T05:15:38.801050+08:00",
-   "ok": false,
-   "count": 0,
-   "cached_count": 56,
-   "error": "Timeout: Failed to perform, curl: (28) Connection timed out after 60003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-   "last_success": "2026-11-06T05:45:55.963736+08:00"
+   "last_attempt": "2026-11-07T23:34:44.416782+08:00",
+   "ok": true,
+   "count": 53,
+   "last_success": "2026-11-07T23:34:44.416782+08:00",
+   "error": ""
   },
   "ksml": {
    "label": "高雄市立圖書館",
-   "last_attempt": "2026-11-07T05:15:38.801050+08:00",
+   "last_attempt": "2026-11-07T23:34:44.416782+08:00",
    "ok": true,
-   "count": 48,
-   "last_success": "2026-11-07T05:15:38.801050+08:00",
+   "count": 44,
+   "last_success": "2026-11-07T23:34:44.416782+08:00",
    "error": ""
   },
   "khcc": {
    "label": "文化局展演（文化中心）",
-   "last_attempt": "2026-11-07T05:15:38.801050+08:00",
+   "last_attempt": "2026-11-07T23:34:44.416782+08:00",
    "ok": true,
-   "count": 112,
-   "last_success": "2026-11-07T05:15:38.801050+08:00",
+   "count": 107,
+   "last_success": "2026-11-07T23:34:44.416782+08:00",
    "error": ""
   },
   "kmfa": {
    "label": "高雄市立美術館",
-   "last_attempt": "2026-11-06T08:54:39.043543+08:00",
-   "last_success": "2026-11-06T08:54:39.043543+08:00",
+   "last_attempt": "2026-11-07T08:34:08.399707+08:00",
+   "last_success": "2026-11-07T08:34:08.399707+08:00",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": ""
   },
   "khm": {
    "label": "高雄市立歷史博物館",
-   "last_attempt": "2026-11-07T05:15:38.801050+08:00",
+   "last_attempt": "2026-11-07T23:34:44.416782+08:00",
    "ok": true,
-   "count": 6,
-   "last_success": "2026-11-07T05:15:38.801050+08:00",
+   "count": 5,
+   "last_success": "2026-11-07T23:34:44.416782+08:00",
    "error": ""
   },
   "opentix": {
    "label": "OPENTIX",
-   "last_attempt": "2026-11-07T05:15:38.801050+08:00",
+   "last_attempt": "2026-11-07T23:34:44.416782+08:00",
    "ok": true,
-   "count": 210,
-   "last_success": "2026-11-07T05:15:38.801050+08:00",
+   "count": 205,
+   "last_success": "2026-11-07T23:34:44.416782+08:00",
    "error": ""
   },
   "iculture": {
    "label": "文化部藝文活動",
-   "last_attempt": "2026-11-06T08:54:39.043543+08:00",
-   "last_success": "2026-11-06T08:54:39.043543+08:00",
+   "last_attempt": "2026-11-07T08:34:08.399707+08:00",
+   "last_success": "2026-11-07T08:34:08.399707+08:00",
    "ok": true,
-   "count": 294,
+   "count": 129,
    "error": ""
   },
   "khh_travel": {
    "label": "高雄旅遊網",
-   "last_attempt": "2026-11-07T05:15:38.801050+08:00",
+   "last_attempt": "2026-11-07T23:34:44.416782+08:00",
    "ok": true,
    "count": 21,
-   "last_success": "2026-11-07T05:15:38.801050+08:00",
+   "last_success": "2026-11-07T23:34:44.416782+08:00",
    "error": ""
   },
   "accupass": {
    "label": "Accupass 活動通",
-   "last_attempt": "2026-11-07T05:15:38.801050+08:00",
+   "last_attempt": "2026-11-07T23:34:44.416782+08:00",
    "ok": true,
-   "count": 358,
-   "last_success": "2026-11-07T05:15:38.801050+08:00",
+   "count": 342,
+   "last_success": "2026-11-07T23:34:44.416782+08:00",
    "error": ""
   },
   "tixcraft": {
    "label": "拓元售票",
-   "last_attempt": "2026-11-06T08:54:39.043543+08:00",
-   "last_success": "2026-11-06T08:54:39.043543+08:00",
+   "last_attempt": "2026-11-07T08:34:08.399707+08:00",
+   "last_success": "2026-11-07T08:34:08.399707+08:00",
    "ok": true,
    "count": 10,
    "error": ""
   },
   "twmarket": {
    "label": "台灣市集整合資訊網",
-   "last_attempt": "2026-11-07T05:15:38.801050+08:00",
+   "last_attempt": "2026-11-07T23:34:44.416782+08:00",
    "ok": true,
-   "count": 152,
-   "last_success": "2026-11-07T05:15:38.801050+08:00",
+   "count": 144,
+   "last_success": "2026-11-07T23:34:44.416782+08:00",
    "error": ""
   }
  }
