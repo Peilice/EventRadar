@@ -1,5 +1,6 @@
 {
- "fetched_at": "2026-11-08T03:51:40.166685+08:00",
+ "fetched_at": "2026-11-09T04:11:16.866378+08:00",
+ "warning": "",
  "events": [
   {
    "id": "kpmc:16243",
@@ -207,87 +208,6 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-hih-0725/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16041",
-   "title": "高流系：Pro Tools專攻班",
-   "start": "2026-11-08T10:00:00+08:00",
-   "end": "2026-11-08T10:00:00+08:00",
-   "venue": "高雄流行音樂中心",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：黃昭智講師\n票價：6800 (恕不接受單日報名)",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-wrs-1108/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16274",
-   "title": "Dafu”OJS48”Project feat. Shun Kikuta菊田俊介",
-   "start": "2026-11-08T19:00:00+08:00",
-   "end": "2026-11-08T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 2F",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：根石大輔、菊田俊介、山田洋平\n票價：單人700元 門票含100元餐飲抵用券 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/dafuojs48project-feat-shun-kikuta%e8%8f%8a%e7%94%b0%e4%bf%8a%e4%bb%8b/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15928",
-   "title": "青虫aoi 2026 冬季小巡迴《Before Sunrise》高雄場",
-   "start": "2026-11-08T19:30:00+08:00",
-   "end": "2026-11-08T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "青虫aoi x 高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：青虫aoi\n票價：預售票800元 現場票1,000元",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1108/"
     }
    ],
    "lat": null,
