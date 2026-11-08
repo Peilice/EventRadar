@@ -77,6 +77,36 @@ def test_sudden_drop_treated_as_failure(tmp_path, monkeypatch, now):
     assert pipeline.build(now=now + timedelta(hours=2))["sources"]["a"]["ok"] is True
 
 
+def test_large_drop_warns_but_keeps_data(tmp_path, monkeypatch, now):
+    monkeypatch.setattr(pipeline, "CACHE_DIR", tmp_path / "cache")
+    monkeypatch.setattr(pipeline, "OUTPUT_DIR", tmp_path / "out")
+
+    def make_events(n):
+        return [Event(id=f"b:{i}", title=f"活動{i}", start=now, end=now + timedelta(days=30), district="鳳山區",
+                      links=[Link("b", f"https://b.example/{i}")]) for i in range(n)]
+
+    monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", []), make_source("b", make_events(100))])
+    assert pipeline.build(now=now)["sources"]["b"]["warning"] == ""
+
+    # 本機 runner 只抓 b：100 筆掉到 40 筆，資料照用但標警告，警告也寫進快取
+    monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", []), make_source("b", make_events(40))])
+    b = pipeline.build(now=now + timedelta(hours=1), only=["b"])["sources"]["b"]
+    assert b["ok"] is True and b["count"] == 40 and "一半" in b["warning"]
+
+    # 每日更新以 --skip 沿用快取時，警告要帶得過去
+    b = pipeline.build(now=now + timedelta(hours=2), skip=["b"])["sources"]["b"]
+    assert b["ok"] is True and "一半" in b["warning"]
+
+    # 隔天仍只有 40 筆：要跟下滑前的 100 筆比，警告不能消失
+    b = pipeline.build(now=now + timedelta(days=1), only=["b"])["sources"]["b"]
+    assert "100" in b["warning"]
+
+    # 筆數回升：警告清掉，參考值也不再保留
+    monkeypatch.setattr(pipeline, "SOURCES", [make_source("a", []), make_source("b", make_events(90))])
+    assert pipeline.build(now=now + timedelta(days=2), only=["b"])["sources"]["b"]["warning"] == ""
+    assert "ref_ends" not in json.loads((tmp_path / "cache" / "b.json").read_text(encoding="utf-8"))
+
+
 def test_first_seen_marks_new_events(tmp_path, monkeypatch, now):
     monkeypatch.setattr(pipeline, "CACHE_DIR", tmp_path / "cache")
     monkeypatch.setattr(pipeline, "OUTPUT_DIR", tmp_path / "out")

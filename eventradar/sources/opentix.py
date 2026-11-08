@@ -16,8 +16,6 @@ import json
 import re
 from datetime import datetime
 
-from curl_cffi import requests
-
 from .. import http
 from ..classify import category_by_keywords, organizer_type_of
 from ..geo import district_of
@@ -42,16 +40,7 @@ def _search(offset: int) -> dict:
     body = {"language": "zh-CHT", "cityFilter": [CITY]}
     if offset:
         body["offset"] = offset
-    last_error: Exception | None = None
-    for _ in range(3):
-        try:
-            resp = requests.post(SEARCH_URL, json=body, timeout=60, impersonate=http.IMPERSONATE, headers=_HEADERS)
-            resp.raise_for_status()
-            return resp.json()["result"]
-        except Exception as e:
-            last_error = e
-    assert last_error is not None
-    raise last_error
+    return http.post_json(SEARCH_URL, body, headers=_HEADERS)["result"]
 
 
 def _slim(source: dict) -> dict:

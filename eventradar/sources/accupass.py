@@ -121,13 +121,14 @@ def fetch(previous: list[Event] | None = None) -> bytes:
     known = {e.id.split(":", 1)[1]: e for e in previous or [] if e.address or e.venue}
     details: dict[str, dict | None] = {}
     fetched = 0
+    budget = http.Deadline(NAME)
     for item in (i for items in lists.values() for i in items):
         event_id = item["eventIdNumber"]
         if event_id in details:
             continue
         if event_id in known:
             details[event_id] = _detail_from_event(known[event_id])
-        elif fetched < MAX_NEW_DETAILS:
+        elif fetched < MAX_NEW_DETAILS and not budget.expired():
             try:
                 details[event_id] = _fetch_detail(event_id)
             except Exception:

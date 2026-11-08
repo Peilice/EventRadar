@@ -28,7 +28,8 @@ KKTIX 曾經納入，但它的 Cloudflare 會擋 GitHub Actions 機房的 IP（�
 ## 流程
 
 1. `python -m eventradar` 逐一抓各來源 → 篩出高雄、尚未結束的活動 → 分類 → 跨來源去重
-2. 各來源解析結果存在 `data/sources/<來源>.json`；某來源失敗時沿用上次成功的資料。筆數比上次仍有效的少了九成以上（上次至少 20 筆時）也視同失敗，避免網站回傳不完整時把資料洗掉
+2. 各來源解析結果存在 `data/sources/<來源>.json`；某來源失敗時沿用上次成功的資料。筆數比上次仍有效的少了九成以上（上次至少 20 筆時）也視同失敗，避免網站回傳不完整時把資料洗掉；少了五成以上則照用新資料，但在網頁來源狀態標黃、在 GitHub Actions 加警告
+   - 逐頁抓詳情的來源每個最多花 5 分鐘（`eventradar/http.py` 的 `DETAIL_BUDGET`），超過就只用列表資料、下次再補；HTTP 只重試逾時、連線錯誤與 408／429／5xx，403、404 不重試
 3. 輸出 `docs/data/events.json` 與 `docs/data/status.json`，由 `docs/index.html` 讀取顯示
 
 規則重點：
@@ -57,9 +58,9 @@ python -m venv .venv
 3. Settings → Actions → General → Workflow permissions 選 `Read and write permissions`
 4. 到 Actions 頁手動執行一次「每日更新活動」確認可以跑
 
-衛武營擋 GitHub Actions 機房的 IP；文化部 iCulture 在 CI 執行的凌晨時段常缺 OPENTIX、年代售票匯入的活動（只剩約四成）。拓元同樣擋 Actions 機房 IP（回 403 身分驗證頁）；美術館網域走 cbricdns 的 CDN，Actions 上 DNS 解析時好時壞。這四個來源由「本機抓取衛武營、文化部、拓元與美術館」workflow 在台灣的 self-hosted runner（`runs-on: [self-hosted, Windows]`，需裝好 Python 3.14 與 `py` 啟動器）每天 23:30 抓取並提交 `data/sources/weiwuying.json`、`iculture.json`、`tixcraft.json`、`kmfa.json`，每日更新以 `--skip weiwuying iculture tixcraft kmfa` 沿用；超過 2 天沒更新會標為失敗。
+衛武營擋 GitHub Actions 機房的 IP；文化部 iCulture 在 CI 執行的凌晨時段常缺 OPENTIX、年代售票匯入的活動（只剩約四成）。拓元同樣擋 Actions 機房 IP（回 403 身分驗證頁）；美術館網域走 cbricdns 的 CDN，Actions 上 DNS 解析時好時壞。這四個來源由「本機抓取衛武營、文化部、拓元與美術館」workflow 在台灣的 self-hosted runner（`runs-on: [self-hosted, Windows]`，需裝好 Python 3.14 與 `py` 啟動器）每天 23:30 抓取並提交 `data/sources/weiwuying.json`、`iculture.json`、`tixcraft.json`、`kmfa.json`，每日更新以 `--skip weiwuying iculture tixcraft kmfa` 沿用；超過 2 天沒更新會標為失敗。電腦沒開機時，排程工作會排隊到開機才跑（實際多在早上）；本機 workflow 成功跑完會自動觸發一次每日更新，網站不必等到隔天半夜。
 
-之後每天台灣時間 00:00 自動更新（GitHub 尖峰時段可能延遲）。有任何來源失敗時 workflow 會標紅並寄信給你，網頁底部的來源狀態也會標紅。
+之後每天台灣時間 00:00 自動更新（GitHub 尖峰時段常延遲到清晨）。有任何來源失敗時 workflow 會標紅並寄信給你，網頁底部的來源狀態也會標紅。
 
 ## 已知限制
 

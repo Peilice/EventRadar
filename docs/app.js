@@ -1138,10 +1138,11 @@ function renderStatus(status) {
   body.replaceChildren();
   for (const [name, s] of Object.entries(status.sources || {})) {
     state.sourceLabels[name] = s.label || name;
-    const tr = el("tr", !s.ok || !s.count ? "bad" : "");
+    const tr = el("tr", !s.ok || !s.count ? "bad" : s.warning ? "warn" : "");
     const tdName = el("td", "", s.label || name);
     if (s.error) tdName.append(el("span", "err", `本次失敗：${s.error}`));
     else if (!s.count) tdName.append(el("span", "err", "本次抓到 0 筆，可能網站改版"));
+    else if (s.warning) tdName.append(el("span", "err", `注意：${s.warning}，可能抓到的資料不完整`));
     const tdTime = el("td", "", s.last_success ? fmtDateTime(s.last_success) : "從未成功");
     const tdCount = el("td", "", s.ok ? s.count : `${s.cached_count ?? 0}（舊資料）`);
     tr.append(tdName, tdTime, tdCount);

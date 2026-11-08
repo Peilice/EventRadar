@@ -1041,6 +1041,7 @@ input[type="date"]::-webkit-calendar-picker-indicator { cursor: pointer; opacity
 /* 時間與筆數不換行，讓錯誤訊息去第一欄折行 */
 .status td:nth-child(n+2), .status th:nth-child(n+2) { white-space: nowrap; }
 .status tr.bad td { color: #ffb4b4; background: rgba(255, 99, 99, 0.14); }
+.status tr.warn td { color: #ffe08a; background: rgba(255, 201, 60, 0.12); }
 .status .err { display: block; font-size: 0.78rem; word-break: break-all; }
 
 /* ---------- 手機：一次看一天，用日期條與箭頭切換 ---------- */

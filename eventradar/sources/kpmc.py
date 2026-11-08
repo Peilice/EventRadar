@@ -74,14 +74,17 @@ def fetch(previous=None) -> bytes:
         for e in previous or []
         if e.links
     }
+    # 主辦與票價都是空的，多半是上次抓詳情頁失敗：不沿用，這次重抓
+    known = {link: d for link, d in known.items() if any(d.values())}
     details, fetched = {}, 0
+    budget = http.Deadline(NAME)
     for item in items:
         link = item.get("link", "")
         if link in details:
             continue
         if link in known:
             details[link] = known[link]
-        elif fetched < MAX_NEW_DETAILS:
+        elif fetched < MAX_NEW_DETAILS and not budget.expired():
             try:
                 details[link] = parse_detail(http.get(link).text)
             except Exception:

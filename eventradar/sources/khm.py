@@ -79,7 +79,10 @@ def fetch(previous=None) -> bytes:
         seen.update(i["id"] for i in new)
         items.extend(new)
     details = {}
+    budget = http.Deadline(NAME)
     for item in items:
+        if budget.expired():
+            break  # 沒抓到詳情的活動只用列表資料
         try:
             details[item["id"]] = parse_detail(http.get(item["url"]).text)
         except Exception:

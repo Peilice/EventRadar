@@ -136,15 +136,19 @@ def fetch(previous=None) -> bytes:
         if e.links:
             # 演出的簡介是由演出單位組成，不是詳情頁內容
             desc = "" if e.description.startswith(_PERFORMER_PREFIX) else e.description
-            known[e.links[0].url] = {"organizer": e.organizer, "admission": _FEE_ADMISSION.get(e.fee, ""), "description": desc}
+            detail = {"organizer": e.organizer, "admission": _FEE_ADMISSION.get(e.fee, ""), "description": desc}
+            # 詳情頁的內容全是空的，多半是上次抓失敗：不沿用，這次重抓
+            if any(detail.values()):
+                known[e.links[0].url] = detail
     details, fetched = {}, 0
+    budget = http.Deadline(NAME)
     for item in items:
         url = item["url"]
         if url in details:
             continue
         if url in known:
             details[url] = known[url]
-        elif fetched < MAX_NEW_DETAILS:
+        elif fetched < MAX_NEW_DETAILS and not budget.expired():
             try:
                 details[url] = parse_detail(http.get(url).text)
             except Exception:

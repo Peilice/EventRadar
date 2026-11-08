@@ -2,6 +2,7 @@
 
 import json
 from datetime import datetime
+from types import SimpleNamespace
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, TAIPEI, Event, Link
 from eventradar.sources import accupass, iculture, khcc, khh_travel, khm, kmfa, kpmc, ksml, opentix, tixcraft, twmarket, weiwuying
@@ -96,6 +97,53 @@ class TestAccupass:
                      organizer="某單位", links=[Link("accupass", "https://www.accupass.com/event/42")])
         raw = json.loads(accupass.fetch(previous=[prev]))
         assert raw["details"]["42"]["location"]["address"] == "高雄市鹽埕區大勇路1號"
+
+
+def _fake_get(monkeypatch, module):
+    """讓 http.get 直接回傳網址當內文，並把詳情頁間隔設為 0。"""
+    monkeypatch.setattr(module.http, "get", lambda url, **kw: SimpleNamespace(text=url))
+    monkeypatch.setattr(module, "DETAIL_DELAY", 0)
+
+
+def _prev(source, url, **fields):
+    return Event(id=f"{source}:{url}", title="舊活動", start=NOW, end=NOW, links=[Link(source, url)], **fields)
+
+
+def test_khcc_refetches_details_that_failed_last_time(monkeypatch):
+    _fake_get(monkeypatch, khcc)
+    monkeypatch.setattr(khcc, "HALLS", {"x": "某館"})
+    monkeypatch.setattr(khcc, "_last_page", lambda text: 1)
+    monkeypatch.setattr(khcc, "parse_list", lambda text, org: [{"url": "https://k/1"}, {"url": "https://k/2"}])
+    fetched = []
+    monkeypatch.setattr(khcc, "parse_detail", lambda text: fetched.append(text) or {"organizer": "新抓的"})
+    previous = [
+        _prev("khcc", "https://k/1", organizer="文化局", fee="免費"),  # 上次有詳情內容：沿用
+        _prev("khcc", "https://k/2"),  # 詳情內容全空，多半是上次抓失敗：重抓
+    ]
+    raw = json.loads(khcc.fetch(previous=previous))
+    assert fetched == ["https://k/2"]
+    assert raw["details"]["https://k/1"]["organizer"] == "文化局"
+    assert raw["details"]["https://k/2"]["organizer"] == "新抓的"
+
+
+def test_kpmc_refetches_details_that_failed_last_time(monkeypatch):
+    _fake_get(monkeypatch, kpmc)
+    monkeypatch.setattr(kpmc, "_list_items", lambda text: [{"link": "https://p/1", "desc": "a"}, {"link": "https://p/2", "desc": "b"}])
+    fetched = []
+    monkeypatch.setattr(kpmc, "parse_detail", lambda text: fetched.append(text) or {"organizer": "新抓的", "price": ""})
+    previous = [_prev("kpmc", "https://p/1", organizer="高流"), _prev("kpmc", "https://p/2")]
+    kpmc.fetch(previous=previous)
+    assert fetched == ["https://p/2"]
+
+
+def test_detail_budget_stops_new_fetches(monkeypatch):
+    _fake_get(monkeypatch, khm)
+    monkeypatch.setattr(khm, "parse_list", lambda text: [{"id": "1", "url": "https://h/1"}] if text.endswith("1") else [])
+    monkeypatch.setattr(khm, "LIST_URL", "https://h/list?page={page}")
+    monkeypatch.setattr(khm.http, "DETAIL_BUDGET", 0)
+    monkeypatch.setattr(khm, "parse_detail", lambda text: (_ for _ in ()).throw(AssertionError("超過上限不應再抓")))
+    raw = json.loads(khm.fetch())
+    assert raw["details"] == {} and len(raw["items"]) == 1
 
 
 class TestWeiwuying:

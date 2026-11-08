@@ -3,6 +3,11 @@ name: 每日更新活動
 on:
   schedule:
     - cron: "0 16 * * *" # UTC 16:00 = 台灣時間 00:00
+  # 本機 runner 的電腦沒開機時，排程工作會排隊到開機才跑（實際多在早上），
+  # 晚於每日更新，網站上那四個來源會晚將近一天；所以它跑完就再更新一次網站
+  workflow_run:
+    workflows: ["本機抓取衛武營、文化部、拓元與美術館"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -15,7 +20,11 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    # 本機 workflow 失敗或沒有新資料時不必重跑（每次都會重抓雲端的八個來源）
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    # 五個逐頁抓詳情的來源各有 5 分鐘上限（eventradar/http.py 的 DETAIL_BUDGET），
+    # 上限只在每頁之間檢查，逾時的請求還會重試，每個來源可能再超出約 3 分鐘，最壞約 40 分鐘
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 

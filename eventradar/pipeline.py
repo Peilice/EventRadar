@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import traceback
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -27,6 +28,8 @@ FIRST_SEEN_KEEP_DAYS = 60
 # 筆數比上次（仍未結束的）少了九成以上，多半是網站回傳不完整，視同失敗
 MIN_RATIO = 0.1
 MIN_BASELINE = 20  # 上次筆數太少時不檢查，避免小來源正常波動被誤判
+# 少了五成以上不擋資料，但標黃提醒（例如 iCulture 在部分時段缺售票系統匯入的活動）
+WARN_RATIO = 0.5
 # --skip 的來源由別處（本機 runner）更新快取，超過這麼久沒更新視同失敗
 SKIP_MAX_AGE = timedelta(days=2)
 
@@ -60,8 +63,21 @@ def run_source(source, now: datetime, save_raw: Path | None = None) -> tuple[lis
         baseline = sum(1 for ev in previous if ev.end >= now)
         if baseline >= MIN_BASELINE and len(events) < baseline * MIN_RATIO:
             raise ValueError(f"筆數異常：只有 {len(events)} 筆，上次仍有效的有 {baseline} 筆")
-        _write_json(cache_path, {"fetched_at": now.isoformat(), "events": [e.to_dict() for e in events]})
-        status.update(ok=True, count=len(events), last_success=now.isoformat(), error="")
+        # 下滑後快取就只剩較少的筆數，隔天拿它比會以為正常；所以下滑時記下下滑前仍有效活動的結束時間，
+        # 之後一直拿它比（活動陸續結束時自然遞減），直到筆數回升才清掉
+        ref_ends = [e for e in cached.get("ref_ends", []) if datetime.fromisoformat(e) >= now]
+        if len(ref_ends) < baseline:
+            ref_ends = [ev.end.isoformat() for ev in previous if ev.end >= now]
+        warning = ""
+        if len(ref_ends) >= MIN_BASELINE and len(events) < len(ref_ends) * WARN_RATIO:
+            warning = f"筆數少了一半以上：{len(events)} 筆，下滑前仍有效的有 {len(ref_ends)} 筆"
+            log.warning("%s %s", source.NAME, warning)
+        # 警告也寫進快取：本機 runner 的 status.json 不提交，每日更新要從快取讀回
+        cache = {"fetched_at": now.isoformat(), "warning": warning, "events": [e.to_dict() for e in events]}
+        if warning:
+            cache["ref_ends"] = ref_ends
+        _write_json(cache_path, cache)
+        status.update(ok=True, count=len(events), last_success=now.isoformat(), error="", warning=warning)
         log.info("%s：%d 筆", source.NAME, len(events))
         return events, status
     except Exception as e:  # 單一來源失敗不影響其他來源
@@ -82,7 +98,7 @@ def use_cache(source, now: datetime) -> tuple[list[Event], dict]:
     fetched_at = cached.get("fetched_at")
     status = {"label": source.LABEL, "last_attempt": fetched_at, "last_success": fetched_at}
     if fetched_at and now - datetime.fromisoformat(fetched_at) <= SKIP_MAX_AGE:
-        status.update(ok=True, count=len(events), error="")
+        status.update(ok=True, count=len(events), error="", warning=cached.get("warning", ""))
     else:
         days = SKIP_MAX_AGE.days
         status.update(ok=False, count=0, cached_count=len(events), error=f"超過 {days} 天沒有更新（由本機 runner 抓取）")
@@ -144,6 +160,18 @@ def build(
     return status_doc
 
 
+class _GitHubAnnotations(logging.Handler):
+    """在 GitHub Actions 上把警告與錯誤另外輸出成 annotation，執行摘要頁就看得到，不必翻紀錄。"""
+
+    def __init__(self):
+        super().__init__(level=logging.WARNING)
+
+    def emit(self, record: logging.LogRecord) -> None:
+        kind = "error" if record.levelno >= logging.ERROR else "warning"
+        msg = record.getMessage().replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+        print(f"::{kind}::{msg}", flush=True)
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="eventradar", description="蒐集高雄活動資訊")
     parser.add_argument("--only", nargs="+", help="只重新抓指定來源，其他沿用快取")
@@ -152,6 +180,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO, format="%(message)s")
+    if os.environ.get("GITHUB_ACTIONS"):
+        logging.getLogger().addHandler(_GitHubAnnotations())
 
     status = build(only=args.only, save_raw=args.save_raw, skip=args.skip)
     sources = status["sources"]
