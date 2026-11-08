@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T08:34:08.399707+08:00",
+ "fetched_at": "2026-11-08T14:35:56.492711+08:00",
  "events": [
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
@@ -45,87 +45,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6ac4be6086975700088f6d65",
-   "title": "【專題講座】《心繫本土 胸懷亞太》—從影像與手稿看許常惠的音樂人生與作曲理念",
-   "start": "2026-11-07T14:00:00+08:00",
-   "end": "2026-11-07T14:00:00+08:00",
-   "venue": "衛武營 演講廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "許常惠（1929-2001）逝世至今倏忽已25年。作為東亞「戰後傑出世代」的作曲家，許常惠還是長年從事田調採集、研究與著述的音樂學者，更是一位桃李滿天下的教育家與手腕靈活的活動家。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6ac4be6086975700088f6d65"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6abb1fab8979e70007f9d9e2",
-   "title": "《暮光之城2：新月》電影交響音樂會",
-   "start": "2026-11-07T16:00:00+08:00",
-   "end": "2026-11-07T16:00:00+08:00",
-   "venue": "衛武營 歌劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "《暮光之城2：新月》由奧斯卡得主亞歷山大・戴斯培譜寫動人配樂。全片大銀幕×Live Band現場演奏×燭光氛圍，重返愛、失去與等待的青春記憶，願浪漫永不滅。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6abb1fab8979e70007f9d9e2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a4cc260ffced3000797be0a",
-   "title": "《我只在乎你 - 鄧麗君名曲交響音樂會》",
-   "start": "2026-11-07T19:30:00+08:00",
-   "end": "2026-11-07T19:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "鄧麗君經典旋律，夢響管弦交響交織。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a4cc260ffced3000797be0a"
     }
    ],
    "lat": null,

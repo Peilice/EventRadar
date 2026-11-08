@@ -1,60 +1,6 @@
 {
- "fetched_at": "2026-11-07T08:34:08.399707+08:00",
+ "fetched_at": "2026-11-08T14:35:56.492711+08:00",
  "events": [
-  {
-   "id": "iculture:69f33e4e26b3243414ccc475",
-   "title": "《電影聽賞》瑪格麗特戀習題",
-   "start": "2026-11-07T14:00:00+08:00",
-   "end": "2026-11-07T17:00:00+08:00",
-   "venue": "高雄市立圖書館李科永紀念圖書館",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館總館、高雄市立圖書館新興分館、高雄市立圖書館高雄市文化中心分館",
-   "organizer_type": "政府",
-   "description": "邀請資深影評人黃英雄老師，為大家呈現一場極具感官魅力的電影體驗。活動中，將播放《瑪格麗特戀習題》這部電影。黃老師於電影播放的同時，同步口述電影中的情節、人物角色以及對白，讓視障朋友們在黃老師生動的描述和獨特的評論下，深入了解電影中角色的心路歷程和電影情節。此活動目的，讓視障者透過口述影像的描述，也能用心看電影，享受看電影的樂趣。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69f33e4e26b3243414ccc475"
-    }
-   ],
-   "lat": 25.0421407,
-   "lng": 121.5198716,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad87e6c647ad3bb538f977b",
-   "title": "《…代謝中…》 林昱達個展",
-   "start": "2026-10-29T12:00:00+08:00",
-   "end": "2026-11-07T19:00:00+08:00",
-   "venue": "《…代謝中…》 林昱達個展",
-   "address": "鹽埕區大勇路64號2F",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6ad87e6c647ad3bb538f977b"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
   {
    "id": "iculture:6a7f726b26b32427d06043db",
    "title": "星空下的鋼琴手—李尚軒鋼琴演奏會",
@@ -211,33 +157,6 @@
    ],
    "lat": 22.628388,
    "lng": 120.264737,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6aa06cb626b324165c32e390",
-   "title": "南台灣太鼓第12週年聯合展演",
-   "start": "2026-11-07T14:00:00+08:00",
-   "end": "2026-11-07T23:59:00+08:00",
-   "venue": "高雄市立社會教育館演藝廳",
-   "address": "高雄市小港區學府路115號",
-   "district": "小港區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FFL95J"
-    }
-   ],
-   "lat": 22.5652855,
-   "lng": 120.3592853,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -436,9 +355,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ee",
    "title": "11月高雄市電影館｜沙央",
-   "start": "2026-11-07T11:30:00+08:00",
+   "start": "2026-11-10T14:30:00+08:00",
    "end": "2026-11-25T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -490,7 +409,7 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f4",
    "title": "11月高雄市電影館｜與達賴喇嘛談心：尋找幸福的智慧",
-   "start": "2026-11-07T13:30:00+08:00",
+   "start": "2026-11-10T14:50:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -733,7 +652,7 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f3",
    "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
-   "start": "2026-11-07T18:00:00+08:00",
+   "start": "2026-11-08T11:30:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -949,7 +868,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f0",
    "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-07T15:40:00+08:00",
+   "start": "2026-11-08T19:10:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -2054,6 +1973,276 @@
    ]
   },
   {
+   "id": "iculture:69b06ece26b3242a48a9d9d9",
+   "title": "南國故鄉：柯旗化故居常設展",
+   "start": "2026-01-01T13:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "新興區（高雄市）=",
+   "address": "高雄市新興區",
+   "district": "新興區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "為紀念已故柯旗化先生的貢獻，以其故居轉化為展示空間，部分家具陳設保留當時生活場景，搭配書信、照片等相關文物展示；並以柯旗化先生經歷為切入點，以情境互動裝置設計，帶出白色恐怖與高雄人權運動的時代背景，期望呈現台灣民主進程，並紀念這位及英文文法家、作家與政治受難者等多重身分於一身的先行者。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b06ece26b3242a48a9d9d9"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11e26b3242a48a9da81",
+   "title": "鳳邑雙城記線上展",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立歷史博物館",
+   "address": "高雄市鹽埕區019鄰中正四路272號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "清治臺灣鳳山縣，曾經有過兩個縣治，一新一舊。這在臺灣歷史上絕無僅有，而且對後來高雄的歷史發展也影響深遠。 鳳山縣舊城和新城之形成除了地方上民變動亂，也跟統治者與人民對縣城應該側重何種功能有關。究竟應該落腳於有利於海防的左營舊城，還是要選擇經濟重心的下埤頭，兩種看法相持百餘年。最終鳳山縣城轉移到下埤頭，離開原來以防守目的為主的興隆莊。 20世紀後，交通、建設與技術的進步，新城發展成為經濟和文化發達之地。進入21世紀，舊城因為高鐵通車，鐵路地下化以及市府推動再現舊城的見城計畫，再度受到人們的注目。展望未來，期待雙城煥發新猷，再次引領大高雄風華。為了解高雄城市的歷史脈絡，且讓我們一起探索「鳳邑雙城記…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da81"
+    }
+   ],
+   "lat": 22.6267591,
+   "lng": 120.2868723,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11e26b3242a48a9da82",
+   "title": "匯流的形狀-愛河記憶線上展",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立歷史博物館",
+   "address": "高雄市鹽埕區019鄰中正四路272號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "高雄的城市之河─愛河，貫穿了城市發展的起源與歷程。 潮汐孕育愛河豐富的生態資源，史前時代起即是先民賴以維生的漁獲地。鄭氏時期與清代，漁鹽和港渡呈現鳳山八景「丹渡晴帆」的風情；曹公圳闢成後，愛河成為圳道尾閭，圳水上善，高雄平原聚落得以安身立命。日治時期，高雄實施築港工程，河道與港灣被梳理成今日樣貌，河與港一體成為運輸通道，河的下游成為政經中心、繁華鬧區。1930-80年代，各式工業在港灣及河畔快速成長，帶來就業、也帶來汙染，愛河逐漸失色甚至惡臭。歷時40餘年的整治，重生後的愛河，功能逐漸轉向防洪、觀光休憩，更成為凝聚城市認同的重要景觀。 對高雄市民而言，愛河是跨世代的，也是日常的。多數高雄人的生…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da82"
+    }
+   ],
+   "lat": 22.6267591,
+   "lng": 120.2868723,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11e26b3242a48a9da83",
+   "title": "「誰把高雄變大了?」──高雄設市百年線上展",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立歷史博物館",
+   "address": "高雄市鹽埕區019鄰中正四路272號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "1924年12月25日高雄市役所正式成立，宣告了高雄做為地方自治組織、具備獨立財政的新時代來臨。百年來，高雄市從臨港市街發展為工業大城，如今更是南臺灣重要都會區。若問是誰把高雄變大了？不同階段的「產業」有效提振經濟、創造就業、捲動內需，即為關鍵。首先是海港物流奠定城市底蘊，而後，化工業、石化工業、加工出口區、重工業，乃至近年的高科技產業等，先後注入動能，牽引各種日常和非常的生活產業。 本特展盤點19項產業與職人，並將概分二大主題：一是對於出口做出貢獻者，二是對於城市內需提供助力者。我們簡述產業、勾勒職人，藉由影像、物件傳達歷史幾許，對無數從業者的付出獻上敬意。 產業與其背後的職人塑造了城市的個…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da83"
+    }
+   ],
+   "lat": 22.6267591,
+   "lng": 120.2868723,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11e26b3242a48a9da84",
+   "title": "大高雄歷史常設展",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立歷史博物館",
+   "address": "高雄市鹽埕區019鄰中正四路272號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "作為高雄重要歷史地標的高雄市立歷史博物館，將化身為民眾認識高雄的重要入口站，透過常態性展示，為在地高雄居民提供重新認識故鄉的契機，同時帶領外縣市觀光客、海外的國際友人，看見百年來高雄人的勞動身影以及城市、鄉村地景的變遷，並以河、港、鐵路網絡為子題勾勒出高雄從漁村到國際商港的百年城市脈動。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da84"
+    }
+   ],
+   "lat": 22.6267591,
+   "lng": 120.2868723,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11e26b3242a48a9da85",
+   "title": "二二八‧0306",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立歷史博物館",
+   "address": "高雄市鹽埕區019鄰中正四路272號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "本館原為日治時期高雄市役所，戰後改為高雄市政府，乃是二二八事件在高雄的重要歷史現場之一。1947年3月6日伴隨著飄落的細雨，政府軍隊武力鎮壓的第一聲槍響便是在此響起，也開始了高雄二二八事件中一連串的犧牲。本展製作國內首見二二八事件中於舊高雄市政府武力鎮壓事件模型場景，再現當時的歷史情境，並搭配相關文物展示，使參觀民眾不僅能夠身歷其境，更能藉由二二八事件的歷史再現，使這段歷史成為重要教材。透過本展，期許參觀民眾能夠由認識、理解，進而思索二二八事件在高雄的特殊性、爭議性及歷史意義。展示二二八，或許也是讓不同觀點的人們共同參與對話及反省的契機。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da85"
+    }
+   ],
+   "lat": 22.6267591,
+   "lng": 120.2868723,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11e26b3242a48a9da86",
+   "title": "高小雄冒險記",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立歷史博物館",
+   "address": "高雄市鹽埕區019鄰中正四路272號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "本館為5歲以上的小朋友打造一個適合親子同樂的體驗空間，以擬人化的比喻手法，將「高雄」化身為一位名叫「高小雄」的男孩，搭配妹妹「高小美」及魔法師「高史伯」的角色，拉近與兒童觀眾的距離，並透過多元的展示媒介與互動參與方式來引導學習，希望小朋友玩得很開心，也可以學到關於高雄的知識。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da86"
+    }
+   ],
+   "lat": 22.6267591,
+   "lng": 120.2868723,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11f26b3242a48a9da87",
+   "title": "高雄文獻研究中心史料文獻展",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市立歷史博物館",
+   "address": "高雄市鹽埕區019鄰中正四路272號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "文獻中心廣泛蒐集各類型與高雄暨臺灣歷史發展軌跡相關之資料，館藏包含史料、圖書、期刊、地圖及資料庫等，期能發揮高雄暨臺灣歷史文化之蒐藏、研究、教育及交流之功能。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11f26b3242a48a9da87"
+    }
+   ],
+   "lat": 22.6267591,
+   "lng": 120.2868723,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11f26b3242a48a9da88",
+   "title": "高雄市左營孔子廟常設展",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市左營孔子廟",
+   "address": "高雄市左營區蓮潭路400號",
+   "district": "左營區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "為提昇參觀民眾對孔子及孔廟相關主題之認識，策劃辦理孔廟常設展覽，期藉由豐富多元的展示內容讓民眾對在地孔廟的歷史發展有更加深入的瞭解。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11f26b3242a48a9da88"
+    }
+   ],
+   "lat": 22.6892386,
+   "lng": 120.2990417,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c11f26b3242a48a9da89",
+   "title": "高雄市皮影戲館常設展",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T17:00:00+08:00",
+   "venue": "高雄市政府文化局﹝岡山文化中心﹞",
+   "address": "高雄市岡山區009鄰岡山南路42號",
+   "district": "岡山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立歷史博物館",
+   "organizer_type": "政府",
+   "description": "館內常設展覽亦重新規劃，不僅展示皮影戲偶、樂器、燈光、影窗等文物，更強調互動體驗與視覺效果的變化，像是設計早期皮影戲演出的暗室，搭設原始牛車戲台，享受最真實的古早味光、影演出實境。創新的親子劇場則設計可移動式舞台及親子座位，除讓偶戲演出有無限的可能，更拉近民眾之間的距離。難到來到皮影戲館的民眾，還可以在影藏1號店選購皮影戲館獨家設計的文創商品作為紀念。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11f26b3242a48a9da89"
+    }
+   ],
+   "lat": 22.7832758,
+   "lng": 120.2982709,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:690293fb26b324253c0da978",
    "title": "生活藏寶圖",
    "start": "2026-01-01T09:30:00+08:00",
@@ -2756,33 +2945,6 @@
    ]
   },
   {
-   "id": "iculture:69b06ece26b3242a48a9d9d9",
-   "title": "南國故鄉：柯旗化故居常設展",
-   "start": "2026-01-01T13:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "新興區（高雄市）=",
-   "address": "高雄市新興區",
-   "district": "新興區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "為紀念已故柯旗化先生的貢獻，以其故居轉化為展示空間，部分家具陳設保留當時生活場景，搭配書信、照片等相關文物展示；並以柯旗化先生經歷為切入點，以情境互動裝置設計，帶出白色恐怖與高雄人權運動的時代背景，期望呈現台灣民主進程，並紀念這位及英文文法家、作家與政治受難者等多重身分於一身的先行者。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b06ece26b3242a48a9d9d9"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:69b1c0fb26b3242a48a9da13",
    "title": "哈瑪星台灣鐵道館-跨越百年、縱貫臺灣",
    "start": "2026-01-01T10:00:00+08:00",
@@ -2857,249 +3019,6 @@
    ],
    "lat": 22.6199666,
    "lng": 120.2816536,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11e26b3242a48a9da81",
-   "title": "鳳邑雙城記線上展",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立歷史博物館",
-   "address": "高雄市鹽埕區019鄰中正四路272號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "清治臺灣鳳山縣，曾經有過兩個縣治，一新一舊。這在臺灣歷史上絕無僅有，而且對後來高雄的歷史發展也影響深遠。 鳳山縣舊城和新城之形成除了地方上民變動亂，也跟統治者與人民對縣城應該側重何種功能有關。究竟應該落腳於有利於海防的左營舊城，還是要選擇經濟重心的下埤頭，兩種看法相持百餘年。最終鳳山縣城轉移到下埤頭，離開原來以防守目的為主的興隆莊。 20世紀後，交通、建設與技術的進步，新城發展成為經濟和文化發達之地。進入21世紀，舊城因為高鐵通車，鐵路地下化以及市府推動再現舊城的見城計畫，再度受到人們的注目。展望未來，期待雙城煥發新猷，再次引領大高雄風華。為了解高雄城市的歷史脈絡，且讓我們一起探索「鳳邑雙城記…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da81"
-    }
-   ],
-   "lat": 22.6267591,
-   "lng": 120.2868723,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11e26b3242a48a9da82",
-   "title": "匯流的形狀-愛河記憶線上展",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立歷史博物館",
-   "address": "高雄市鹽埕區019鄰中正四路272號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "高雄的城市之河─愛河，貫穿了城市發展的起源與歷程。 潮汐孕育愛河豐富的生態資源，史前時代起即是先民賴以維生的漁獲地。鄭氏時期與清代，漁鹽和港渡呈現鳳山八景「丹渡晴帆」的風情；曹公圳闢成後，愛河成為圳道尾閭，圳水上善，高雄平原聚落得以安身立命。日治時期，高雄實施築港工程，河道與港灣被梳理成今日樣貌，河與港一體成為運輸通道，河的下游成為政經中心、繁華鬧區。1930-80年代，各式工業在港灣及河畔快速成長，帶來就業、也帶來汙染，愛河逐漸失色甚至惡臭。歷時40餘年的整治，重生後的愛河，功能逐漸轉向防洪、觀光休憩，更成為凝聚城市認同的重要景觀。 對高雄市民而言，愛河是跨世代的，也是日常的。多數高雄人的生…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da82"
-    }
-   ],
-   "lat": 22.6267591,
-   "lng": 120.2868723,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11e26b3242a48a9da83",
-   "title": "「誰把高雄變大了?」──高雄設市百年線上展",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立歷史博物館",
-   "address": "高雄市鹽埕區019鄰中正四路272號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "1924年12月25日高雄市役所正式成立，宣告了高雄做為地方自治組織、具備獨立財政的新時代來臨。百年來，高雄市從臨港市街發展為工業大城，如今更是南臺灣重要都會區。若問是誰把高雄變大了？不同階段的「產業」有效提振經濟、創造就業、捲動內需，即為關鍵。首先是海港物流奠定城市底蘊，而後，化工業、石化工業、加工出口區、重工業，乃至近年的高科技產業等，先後注入動能，牽引各種日常和非常的生活產業。 本特展盤點19項產業與職人，並將概分二大主題：一是對於出口做出貢獻者，二是對於城市內需提供助力者。我們簡述產業、勾勒職人，藉由影像、物件傳達歷史幾許，對無數從業者的付出獻上敬意。 產業與其背後的職人塑造了城市的個…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da83"
-    }
-   ],
-   "lat": 22.6267591,
-   "lng": 120.2868723,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11e26b3242a48a9da84",
-   "title": "大高雄歷史常設展",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立歷史博物館",
-   "address": "高雄市鹽埕區019鄰中正四路272號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "作為高雄重要歷史地標的高雄市立歷史博物館，將化身為民眾認識高雄的重要入口站，透過常態性展示，為在地高雄居民提供重新認識故鄉的契機，同時帶領外縣市觀光客、海外的國際友人，看見百年來高雄人的勞動身影以及城市、鄉村地景的變遷，並以河、港、鐵路網絡為子題勾勒出高雄從漁村到國際商港的百年城市脈動。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da84"
-    }
-   ],
-   "lat": 22.6267591,
-   "lng": 120.2868723,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11e26b3242a48a9da85",
-   "title": "二二八‧0306",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立歷史博物館",
-   "address": "高雄市鹽埕區019鄰中正四路272號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "本館原為日治時期高雄市役所，戰後改為高雄市政府，乃是二二八事件在高雄的重要歷史現場之一。1947年3月6日伴隨著飄落的細雨，政府軍隊武力鎮壓的第一聲槍響便是在此響起，也開始了高雄二二八事件中一連串的犧牲。本展製作國內首見二二八事件中於舊高雄市政府武力鎮壓事件模型場景，再現當時的歷史情境，並搭配相關文物展示，使參觀民眾不僅能夠身歷其境，更能藉由二二八事件的歷史再現，使這段歷史成為重要教材。透過本展，期許參觀民眾能夠由認識、理解，進而思索二二八事件在高雄的特殊性、爭議性及歷史意義。展示二二八，或許也是讓不同觀點的人們共同參與對話及反省的契機。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da85"
-    }
-   ],
-   "lat": 22.6267591,
-   "lng": 120.2868723,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11e26b3242a48a9da86",
-   "title": "高小雄冒險記",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立歷史博物館",
-   "address": "高雄市鹽埕區019鄰中正四路272號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "本館為5歲以上的小朋友打造一個適合親子同樂的體驗空間，以擬人化的比喻手法，將「高雄」化身為一位名叫「高小雄」的男孩，搭配妹妹「高小美」及魔法師「高史伯」的角色，拉近與兒童觀眾的距離，並透過多元的展示媒介與互動參與方式來引導學習，希望小朋友玩得很開心，也可以學到關於高雄的知識。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11e26b3242a48a9da86"
-    }
-   ],
-   "lat": 22.6267591,
-   "lng": 120.2868723,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11f26b3242a48a9da87",
-   "title": "高雄文獻研究中心史料文獻展",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市立歷史博物館",
-   "address": "高雄市鹽埕區019鄰中正四路272號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "文獻中心廣泛蒐集各類型與高雄暨臺灣歷史發展軌跡相關之資料，館藏包含史料、圖書、期刊、地圖及資料庫等，期能發揮高雄暨臺灣歷史文化之蒐藏、研究、教育及交流之功能。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11f26b3242a48a9da87"
-    }
-   ],
-   "lat": 22.6267591,
-   "lng": 120.2868723,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11f26b3242a48a9da88",
-   "title": "高雄市左營孔子廟常設展",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市左營孔子廟",
-   "address": "高雄市左營區蓮潭路400號",
-   "district": "左營區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "為提昇參觀民眾對孔子及孔廟相關主題之認識，策劃辦理孔廟常設展覽，期藉由豐富多元的展示內容讓民眾對在地孔廟的歷史發展有更加深入的瞭解。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11f26b3242a48a9da88"
-    }
-   ],
-   "lat": 22.6892386,
-   "lng": 120.2990417,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c11f26b3242a48a9da89",
-   "title": "高雄市皮影戲館常設展",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T17:00:00+08:00",
-   "venue": "高雄市政府文化局﹝岡山文化中心﹞",
-   "address": "高雄市岡山區009鄰岡山南路42號",
-   "district": "岡山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立歷史博物館",
-   "organizer_type": "政府",
-   "description": "館內常設展覽亦重新規劃，不僅展示皮影戲偶、樂器、燈光、影窗等文物，更強調互動體驗與視覺效果的變化，像是設計早期皮影戲演出的暗室，搭設原始牛車戲台，享受最真實的古早味光、影演出實境。創新的親子劇場則設計可移動式舞台及親子座位，除讓偶戲演出有無限的可能，更拉近民眾之間的距離。難到來到皮影戲館的民眾，還可以在影藏1號店選購皮影戲館獨家設計的文創商品作為紀念。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c11f26b3242a48a9da89"
-    }
-   ],
-   "lat": 22.7832758,
-   "lng": 120.2982709,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3532,6 +3451,87 @@
    ],
    "lat": 22.624172,
    "lng": 120.3422105,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6aeeeff126b3245efc7537a6",
+   "title": "希望盛典・新・英雄再現",
+   "start": "2027-01-04T19:30:00+08:00",
+   "end": "2027-01-04T21:10:00+08:00",
+   "venue": "衛武營國家藝術文化中心音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I73209"
+    }
+   ],
+   "lat": 22.624172,
+   "lng": 120.3422105,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6aeeeff126b3245efc7537a7",
+   "title": "《世紀首登：聖母峰1953》自選套票",
+   "start": "2026-11-21T12:00:00+08:00",
+   "end": "2027-02-14T20:00:00+08:00",
+   "venue": "內惟藝術中心",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I7E1FE"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6aeeeff126b3245efc7537a8",
+   "title": "《世紀首登：聖母峰1953》VR沉浸大展",
+   "start": "2026-11-21T12:00:00+08:00",
+   "end": "2027-02-14T21:00:00+08:00",
+   "venue": "內惟藝術中心",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I7E1FQ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
    "aliases": [],
    "first_seen": "",
    "sources": [
