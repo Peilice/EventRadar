@@ -5,7 +5,7 @@ from datetime import datetime
 from types import SimpleNamespace
 
 from eventradar.model import CATEGORIES, FEES, ORGANIZER_TYPES, TAIPEI, Event, Link
-from eventradar.sources import accupass, iculture, khcc, khh_travel, khm, kmfa, kpmc, ksml, opentix, tixcraft, twmarket, weiwuying
+from eventradar.sources import accupass, iculture, khcc, khh_travel, khm, kmfa, kpmc, ksml, nstm, opentix, tixcraft, twmarket, weiwuying
 
 from .conftest import NOW
 
@@ -506,3 +506,48 @@ class TestKhm:
             "sessions": [{"time": "2026.11.07 15:00 ~ 2026.11.07 17:00", "place": "高雄市立歷史博物館203多功能室", "fee": "0"}],
             "info": "◆講座簡介：\n國姓爺鄭成功",
         }
+
+
+class TestNstm:
+    def test_parses(self, fixture_bytes, now):
+        events = nstm.parse(fixture_bytes("nstm.json"), now)
+        _check_common(events, now)
+        assert all(e.organizer_type == "政府" for e in events)
+        assert sum(1 for e in events if e.district == "三民區") >= len(events) * 0.9
+
+    def test_sessions_same_day_merged(self, fixture_bytes, now):
+        events = nstm.parse(fixture_bytes("nstm.json"), now)
+        game = [e for e in events if e.title == "原民科學大富翁-平日場"]
+        assert len(game) == 4  # 16 梯分在 11/10～11/13 四天
+        e = next(e for e in game if e.start.date().isoformat() == "2026-11-10")
+        assert (e.start.isoformat(), e.end.isoformat()) == ("2026-11-10T10:00:00+08:00", "2026-11-10T16:30:00+08:00")
+        assert e.id == "nstm:0000015468-17"  # 當天第一梯
+        assert e.links[0].url == "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=17"
+        assert (e.fee, e.category) == ("免費", "親子")
+
+    def test_title_and_fields(self, fixture_bytes, now):
+        events = {e.id: e for e in nstm.parse(fixture_bytes("nstm.json"), now)}
+        talk = events["nstm:0000015385-4"]
+        assert talk.title.startswith("週日閱讀科學大師系列講座：16之4從無人機")
+        assert (talk.start.isoformat(), talk.fee) == ("2026-11-22T10:00:00+08:00", "免費")
+        course = events["nstm:0000015387-1"]  # 「36-」期別代碼與「(招生中)」拿掉
+        assert course.title == "空靈鼓研習-週二(4班):15:00-17:00"
+        assert (course.venue, course.address) == ("國立科學工藝博物館南館 S206或S207研習教室", "高雄市三民區九如一路797號")
+        assert course.fee == "付費"
+        assert events["nstm:0000015472-7"].title == "「樂活節能屋」闖關及 手搖發電機DIY 活動"  # 「(第5梯)--5梯」
+
+    def test_offsite_place(self, fixture_bytes, now):
+        events = {e.id: e for e in nstm.parse(fixture_bytes("nstm.json"), now)}
+        e = events["nstm:0000015408-1"]
+        assert (e.venue, e.district) == ("80441高雄市鼓山區哨船頭里哨船街75-21號", "鼓山區")
+
+    def test_skips_running_courses_and_permanent_exhibitions(self, fixture_bytes, now):
+        events = nstm.parse(fixture_bytes("nstm.json"), now)
+        titles = {e.title for e in events}
+        assert not any("二胡研習" in t for t in titles)  # 全部「(課程中)」
+        assert "臺灣農業的故事展示廳" not in titles  # 常設展
+        assert "4D太空飛行" not in titles  # 不定期結束
+        exhibit = next(e for e in events if e.title == "儀相萬千：量測儀器特展")
+        assert (exhibit.start.isoformat(), exhibit.end.isoformat()) == ("2026-06-30T00:00:00+08:00", "2026-11-15T23:59:59+08:00")
+        assert (exhibit.category, exhibit.fee) == ("展覽", "未知")
+        assert exhibit.links[0].url == "https://www.nstm.gov.tw/Exhibition.aspx?KeyID=618640c1-6a8b-431b-8ce5-19b30aa01608"
