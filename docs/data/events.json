@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T04:11:16.866378+08:00",
+ "generated_at": "2026-11-09T10:22:24.845902+08:00",
  "events": [
   {
    "id": "khh_travel:C2_397000000A_007490",
@@ -4053,114 +4053,6 @@
    ]
   },
   {
-   "id": "iculture:6ad7bb6026b3245efc7536f3",
-   "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
-   "start": "2026-11-08T11:30:00+08:00",
-   "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OE"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb5f26b3245efc7536f2",
-   "title": "11月高雄市電影館｜與畢諾許共舞",
-   "start": "2026-11-08T14:10:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O7"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb5f26b3245efc7536ef",
-   "title": "11月高雄市電影館｜世紀初戀 楊麗花",
-   "start": "2026-11-08T16:50:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb5f26b3245efc7536f0",
-   "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-08T19:10:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q9"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "accupass:2609240641431188147412",
    "title": "THE FACT MUSIC AWARDS EXHIBITION - VISION FESTA (高雄場) 【11/9~11/12 場次 】",
    "start": "2026-11-09T11:30:00+08:00",
@@ -4404,6 +4296,87 @@
    ]
   },
   {
+   "id": "iculture:6ad7bb5f26b3245efc7536ef",
+   "title": "11月高雄市電影館｜世紀初戀 楊麗花",
+   "start": "2026-11-10T16:40:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q2"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb5f26b3245efc7536f2",
+   "title": "11月高雄市電影館｜與畢諾許共舞",
+   "start": "2026-11-10T17:00:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O7"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb6026b3245efc7536f3",
+   "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
+   "start": "2026-11-10T18:50:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OE"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "weiwuying:6a4cc5091af6f70008cf6893",
    "title": "《阿格麗希音樂節在台灣-高雄場》",
    "start": "2026-11-10T19:30:00+08:00",
@@ -4462,6 +4435,33 @@
    "first_seen": "2026-11-03",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb5f26b3245efc7536f0",
+   "title": "11月高雄市電影館｜屍控片場性愛死",
+   "start": "2026-11-10T19:30:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q9"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -19415,6 +19415,33 @@
    ]
   },
   {
+   "id": "accupass:2610201306041535010300",
+   "title": "【小小音樂大師課】長笛＋大提琴 × 胡桃鉗｜高雄",
+   "start": "2026-12-12T11:00:00+08:00",
+   "end": "2026-12-12T18:00:00+08:00",
+   "venue": "衛武營國家藝術文化中心：東側（國泰路側）演職員入口進場",
+   "address": "台灣高雄市鳳山區三多一路一號",
+   "district": "鳳山區",
+   "category": "親子",
+   "fee": "付費",
+   "organizer": "賦格兒童音樂文化事業",
+   "organizer_type": "不確定",
+   "description": "靈動長笛與溫潤大提琴在《胡桃鉗》中交織出繽紛的耶誕魔法；細膩明亮的小提琴奏起聖桑《天鵝》，陪醜小鴨迎向優雅蛻變；雙簧管與低音管，藉著一個《驚愕》的插曲打開兩個截然不同的世界；低音提琴化身葛利格〈山魔王的大廳〉愈來愈逼近的巨人腳步；洪亮的長號則吹響《威廉泰爾》，為龜兔賽跑熱鬧加油打氣！ 這個冬天，和孩子一起聽見柴可夫斯基的華麗夢幻、海頓的優雅幽默、葛利格描繪的奇幻風景，感受古典樂的千變萬化。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610201306041535010300"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-09",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "twmarket:60718",
    "title": "駅聚會不小心掉出來的玩意",
    "start": "2026-12-12T12:00:00+08:00",
@@ -26925,33 +26952,26 @@
    "id": "weiwuying:6ae3fb72555c1b000868e2d7",
    "title": "《媽咪住的地方UKE音樂會》",
    "start": "2027-01-25T19:00:00+08:00",
-   "end": "2027-01-25T21:00:00+08:00",
+   "end": "2027-01-25T19:00:00+08:00",
    "venue": "衛武營 表演廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "付費",
-   "organizer": "台灣烏克麗麗樂團",
-   "organizer_type": "民間",
+   "organizer": "",
+   "organizer_type": "不確定",
    "description": "烏克麗麗跳動音符在海風中重拾最初的溫暖",
    "links": [
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ae3fb72555c1b000868e2d7"
-    },
-    {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2112377334473117696"
     }
    ],
-   "lat": 22.62301792,
-   "lng": 120.34243411,
-   "aliases": [
-    "opentix:2112377334473117696:20270125"
-   ],
-   "first_seen": "2026-11-02",
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-07",
    "sources": [
-    "opentix",
     "weiwuying"
    ]
   },
@@ -27102,6 +27122,33 @@
    "first_seen": "2026-11-06",
    "sources": [
     "opentix"
+   ]
+  },
+  {
+   "id": "accupass:2610220621073358317730",
+   "title": "【小小音樂大師課】 低音管 × 乞丐王子｜高雄",
+   "start": "2027-01-30T11:00:00+08:00",
+   "end": "2027-01-30T18:00:00+08:00",
+   "venue": "衛武營國家藝術文化中心：東側（國泰路側）演職員入口進場",
+   "address": "台灣高雄市鳳山區三多一路一號",
+   "district": "鳳山區",
+   "category": "親子",
+   "fee": "付費",
+   "organizer": "賦格兒童音樂文化事業",
+   "organizer_type": "不確定",
+   "description": "靈動長笛與溫潤大提琴在《胡桃鉗》中交織出繽紛的耶誕魔法；細膩明亮的小提琴奏起聖桑《天鵝》，陪醜小鴨迎向優雅蛻變；雙簧管與低音管，藉著一個《驚愕》的插曲打開兩個截然不同的世界；低音提琴化身葛利格〈山魔王的大廳〉愈來愈逼近的巨人腳步；洪亮的長號則吹響《威廉泰爾》，為龜兔賽跑熱鬧加油打氣！ 這個冬天，和孩子一起聽見柴可夫斯基的華麗夢幻、海頓的優雅幽默、葛利格描繪的奇幻風景，感受古典樂的千變萬化。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610220621073358317730"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-09",
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -27798,6 +27845,33 @@
    "first_seen": "2026-11-06",
    "sources": [
     "opentix"
+   ]
+  },
+  {
+   "id": "accupass:2610220639112648573610",
+   "title": "【小小音樂大師課】長號 × 龜兔賽跑｜高雄",
+   "start": "2027-02-13T11:00:00+08:00",
+   "end": "2027-02-13T18:00:00+08:00",
+   "venue": "衛武營國家藝術文化中心：東側（國泰路側）演職員入口進場",
+   "address": "台灣高雄市鳳山區三多一路一號",
+   "district": "鳳山區",
+   "category": "親子",
+   "fee": "付費",
+   "organizer": "賦格兒童音樂文化事業",
+   "organizer_type": "不確定",
+   "description": "靈動長笛與溫潤大提琴在《胡桃鉗》中交織出繽紛的耶誕魔法；細膩明亮的小提琴奏起聖桑《天鵝》，陪醜小鴨迎向優雅蛻變；雙簧管與低音管，藉著一個《驚愕》的插曲打開兩個截然不同的世界；低音提琴化身葛利格〈山魔王的大廳〉愈來愈逼近的巨人腳步；洪亮的長號則吹響《威廉泰爾》，為龜兔賽跑熱鬧加油打氣！ 這個冬天，和孩子一起聽見柴可夫斯基的華麗夢幻、海頓的優雅幽默、葛利格描繪的奇幻風景，感受古典樂的千變萬化。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610220639112648573610"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-09",
+   "sources": [
+    "accupass"
    ]
   },
   {
