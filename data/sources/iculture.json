@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T10:21:24.214462+08:00",
+ "fetched_at": "2026-11-10T10:13:51.452001+08:00",
  "warning": "",
  "events": [
   {
@@ -208,6 +208,33 @@
     {
      "source": "iculture",
      "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6ad87d18eb43549b707fe242"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6af04b39647ad3bb538f9796",
+   "title": "數位擱淺",
+   "start": "2026-11-14T12:00:00+08:00",
+   "end": "2026-11-22T19:00:00+08:00",
+   "venue": "數位擱淺",
+   "address": "鹽埕區大仁路146號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "國科會人社中心、國立臺灣大學、國立中興大學",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6af04b39647ad3bb538f9796"
     }
    ],
    "lat": null,
