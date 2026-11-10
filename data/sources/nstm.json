@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T10:15:13.058963+08:00",
+ "fetched_at": "2026-11-11T05:38:53.682761+08:00",
  "warning": "",
  "events": [
   {
@@ -19,33 +19,6 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015387&act_seq=1"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015468-17",
-   "title": "原民科學大富翁-平日場",
-   "start": "2026-11-10T10:00:00+08:00",
-   "end": "2026-11-10T16:30:00+08:00",
-   "venue": "國立科學工藝博物館 六樓廊道",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：九歲以上之親子(2-3人一組)；領域：科學教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=17"
     }
    ],
    "lat": null,
@@ -1384,7 +1357,7 @@
    "title": "動手玩創藝－星球鈕扣壓克力彩繪",
    "start": "2026-11-28T10:00:00+08:00",
    "end": "2026-11-28T12:00:00+08:00",
-   "venue": "國立科學工藝博物館 5樓科學教室",
+   "venue": "國立科學工藝博物館",
    "address": "高雄市三民區九如一路720號",
    "district": "三民區",
    "category": "講座／課程",
@@ -1411,7 +1384,7 @@
    "title": "動手玩創藝－編織手機掛繩DIY",
    "start": "2026-11-28T14:00:00+08:00",
    "end": "2026-11-28T16:00:00+08:00",
-   "venue": "國立科學工藝博物館 5樓科學教室",
+   "venue": "國立科學工藝博物館",
    "address": "高雄市三民區九如一路720號",
    "district": "三民區",
    "category": "講座／課程",
@@ -2973,33 +2946,6 @@
    ]
   },
   {
-   "id": "nstm:0000015429-2",
-   "title": "職探系列-小小醫學人文營",
-   "start": "2027-01-28T09:00:00+08:00",
-   "end": "2027-01-29T16:00:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：小三至國一；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015429&act_seq=2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
    "id": "nstm:0000015438-1",
    "title": "「數感魔法」冬令營",
    "start": "2027-01-28T09:00:00+08:00",
@@ -3016,6 +2962,33 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015438&act_seq=1"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
+   "id": "nstm:0000015429-2",
+   "title": "職探系列-小小醫學人文營",
+   "start": "2027-01-28T09:00:00+08:00",
+   "end": "2027-01-29T16:00:00+08:00",
+   "venue": "國立科學工藝博物館",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：小三至國一；領域：科技教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015429&act_seq=2"
     }
    ],
    "lat": null,
