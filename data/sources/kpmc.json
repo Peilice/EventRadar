@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T10:28:12.556763+08:00",
+ "fetched_at": "2026-11-12T06:28:02.929383+08:00",
  "warning": "",
  "events": [
   {
@@ -100,6 +100,87 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-lwh-0109/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16352",
+   "title": "我夢見長頸鹿對我說《Far Motor Luminescence》專輯巡演(高雄場)",
+   "start": "2027-01-10T19:30:00+08:00",
+   "end": "2027-01-10T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "我夢見長頸鹿對我說 (The Giraffe Told Me In My Dream) x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：我夢見長頸鹿對我說 (The Giraffe Told Me In My Dream)  w/Holotropics\n票價：預售單人票600元 預售雙人套票1,000元 現場票800元",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0110/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16350",
+   "title": "魚條《變形》——高雄場",
+   "start": "2027-01-16T20:00:00+08:00",
+   "end": "2027-01-16T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "演出：魚條 Fish Stick",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0116/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16354",
+   "title": "yureruwayurei (揺れるは幽霊) w/ Spit lulu’s 2027年台灣初次巡迴",
+   "start": "2027-01-17T19:30:00+08:00",
+   "end": "2027-01-17T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "Superfurry x Oaiko",
+   "organizer_type": "不確定",
+   "description": "演出：揺れるは幽霊\n票價：預售票 NTD 1,200元 雙人套票 NTD 2,200元 現場票 NTD 1,400元 身障票 NTD 600元（線上購票）",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2027-lwh-0117/"
     }
    ],
    "lat": null,
@@ -516,33 +597,6 @@
    ]
   },
   {
-   "id": "kpmc:15945",
-   "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
-   "start": "2026-11-21T20:00:00+08:00",
-   "end": "2026-11-21T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "明天的歌",
-   "organizer_type": "不確定",
-   "description": "演出：椅子樂團\n票價：一般票NT$1500 雙人套票NT$1350(人) 雙人套票NT$1350(人) 現場票NT$1700",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1121/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:16284",
    "title": "迷幻電風琴之夜！第六彈！",
    "start": "2026-11-21T20:00:00+08:00",
@@ -559,6 +613,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:15945",
+   "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
+   "start": "2026-11-21T20:00:00+08:00",
+   "end": "2026-11-21T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "明天的歌",
+   "organizer_type": "不確定",
+   "description": "演出：椅子樂團\n票價：一般票NT$1500 雙人套票NT$1350(人) 雙人套票NT$1350(人) 現場票NT$1700",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1121/"
     }
    ],
    "lat": null,
@@ -1164,6 +1245,33 @@
    ]
   },
   {
+   "id": "kpmc:16357",
+   "title": "2026－2027 DOH KYUNG SOO CONCERT TOUR ［DAY OFF］ IN KAOHSIUNG",
+   "start": "2026-12-19T18:00:00+08:00",
+   "end": "2026-12-19T18:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "D-SHOW TAIWAN",
+   "organizer_type": "不確定",
+   "description": "演出：DOH KYUNG SOO\n票價：NT$6,480 NT$5,880 NT$4,880 NT$3,880 身心席$2,940（全區座席）",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1219/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "kpmc:16033",
    "title": "人生如電——林生祥30週年演唱會 – 高雄場",
    "start": "2026-12-19T19:00:00+08:00",
@@ -1234,6 +1342,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1220/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16371",
+   "title": "2026－2027 DOH KYUNG SOO CONCERT TOUR ［DAY OFF］ IN KAOHSIUNG",
+   "start": "2026-12-20T17:00:00+08:00",
+   "end": "2026-12-20T17:00:00+08:00",
+   "venue": "高雄流行音樂中心 海音館",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "演出：DOH KYUNG SOO",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-hih-1220/"
     }
    ],
    "lat": null,

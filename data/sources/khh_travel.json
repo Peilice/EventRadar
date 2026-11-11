@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T10:28:12.556763+08:00",
+ "fetched_at": "2026-11-12T06:28:02.929383+08:00",
  "warning": "",
  "events": [
   {
@@ -509,6 +509,33 @@
    ],
    "lat": 22.6172,
    "lng": 120.28819,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008188",
+   "title": "2026高流聖誕趴",
+   "start": "2026-11-14T00:00:00+08:00",
+   "end": "2027-01-03T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市803鹽埕區高雄流行音樂中心 珊瑚礁群、鯨魚堤岸",
+   "district": "鹽埕區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8188/"
+    }
+   ],
+   "lat": 22.61597,
+   "lng": 120.29208,
    "aliases": [],
    "first_seen": "",
    "sources": [

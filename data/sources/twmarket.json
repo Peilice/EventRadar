@@ -1,7 +1,115 @@
 {
- "fetched_at": "2026-11-11T10:28:12.556763+08:00",
+ "fetched_at": "2026-11-12T06:28:02.929383+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "twmarket:62139",
+   "title": "聖誕音樂糖親子探索派對",
+   "start": "2026-12-12T00:00:00+08:00",
+   "end": "2026-12-13T23:59:59+08:00",
+   "venue": "SOGO百貨高雄店",
+   "address": "",
+   "district": "",
+   "category": "親子",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-1212-13-%e9%ab%98%e9%9b%84%e5%b8%82-sogo%e7%99%be%e8%b2%a8%e9%ab%98%e9%9b%84%e5%ba%97-%e8%81%96%e8%aa%95%e9%9f%b3%e6%a8%82%e7%b3%96%e8%a6%aa%e5%ad%90%e6%8e%a2%e7%b4%a2%e6%b4%be%e5%b0%8d/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62126:20261218",
+   "title": "卡卡村卡牌展",
+   "start": "2026-12-18T00:00:00+08:00",
+   "end": "2026-12-18T23:59:59+08:00",
+   "venue": "駁二自行車倉庫",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/18（五）、12/19（六）、12/20（日）\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-1812-20-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%87%aa%e8%a1%8c%e8%bb%8a%e5%80%89%e5%ba%ab-%e5%8d%a1%e5%8d%a1%e6%9d%91%e5%8d%a1%e7%89%8c%e5%b1%95/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62126:20261219",
+   "title": "卡卡村卡牌展",
+   "start": "2026-12-19T00:00:00+08:00",
+   "end": "2026-12-19T23:59:59+08:00",
+   "venue": "駁二自行車倉庫",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/18（五）、12/19（六）、12/20（日）\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-1812-20-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%87%aa%e8%a1%8c%e8%bb%8a%e5%80%89%e5%ba%ab-%e5%8d%a1%e5%8d%a1%e6%9d%91%e5%8d%a1%e7%89%8c%e5%b1%95/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62126:20261220",
+   "title": "卡卡村卡牌展",
+   "start": "2026-12-20T00:00:00+08:00",
+   "end": "2026-12-20T23:59:59+08:00",
+   "venue": "駁二自行車倉庫",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/18（五）、12/19（六）、12/20（日）\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-1812-20-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%87%aa%e8%a1%8c%e8%bb%8a%e5%80%89%e5%ba%ab-%e5%8d%a1%e5%8d%a1%e6%9d%91%e5%8d%a1%e7%89%8c%e5%b1%95/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:62025:20261119",
    "title": "演唱會應援市集",
@@ -3637,33 +3745,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-09-192027-01-24-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e7%ab%8b%e7%99%be%e8%b2%a8%e8%88%87%e6%96%b0%e5%85%89%e4%b8%89%e8%b6%8a%e4%b8%89%e5%a4%9a%e5%ba%97-%e6%bc%ab%e5%85%89%e8%88%87%e6%98%9f/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:60416:20261111",
-   "title": "多元文化系列市集",
-   "start": "2026-11-11T11:00:00+08:00",
-   "end": "2026-11-11T18:00:00+08:00",
-   "venue": "樹德科技大學",
-   "address": "高雄市燕巢區橫山里橫山路59號",
-   "district": "燕巢區",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：11/10（二）、11/11（三）、11/12（四）、11/25（三）、11/26（四）、11/27（五）、12/8（二）、12/9（三）、12/10（四）、12/22（二）、12/23（三）、12/24（四）\n時間：11:00–18:00\n地址：高雄市燕巢區橫山里橫山路59號\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-11-1012-24-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a8%b9%e5%be%b7%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8-%e5%a4%9a%e5%85%83%e6%96%87%e5%8c%96%e7%b3%bb%e5%88%97%e5%b8%82%e9%9b%86/"
     }
    ],
    "lat": null,
