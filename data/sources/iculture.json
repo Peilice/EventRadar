@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T10:13:51.452001+08:00",
+ "fetched_at": "2026-11-11T10:27:08.040708+08:00",
  "warning": "",
  "events": [
   {
@@ -219,7 +219,7 @@
    ]
   },
   {
-   "id": "iculture:6af04b39647ad3bb538f9796",
+   "id": "iculture:6af2b304eb43549b707fe24f",
    "title": "數位擱淺",
    "start": "2026-11-14T12:00:00+08:00",
    "end": "2026-11-22T19:00:00+08:00",
@@ -228,13 +228,13 @@
    "district": "鹽埕區",
    "category": "展覽",
    "fee": "未知",
-   "organizer": "國科會人社中心、國立臺灣大學、國立中興大學",
+   "organizer": "國科會人文社會科學研究中心、國立臺灣大學、國立中興大學",
    "organizer_type": "政府",
    "description": "",
    "links": [
     {
      "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6af04b39647ad3bb538f9796"
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6af2b304eb43549b707fe24f"
     }
    ],
    "lat": null,
@@ -356,7 +356,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ee",
    "title": "11月高雄市電影館｜沙央",
-   "start": "2026-11-10T14:30:00+08:00",
+   "start": "2026-11-12T14:50:00+08:00",
    "end": "2026-11-25T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -410,7 +410,7 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f4",
    "title": "11月高雄市電影館｜與達賴喇嘛談心：尋找幸福的智慧",
-   "start": "2026-11-10T14:50:00+08:00",
+   "start": "2026-11-11T17:50:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -653,9 +653,9 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f3",
    "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
-   "start": "2026-11-10T18:50:00+08:00",
+   "start": "2026-11-11T14:50:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -842,7 +842,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ef",
    "title": "11月高雄市電影館｜世紀初戀 楊麗花",
-   "start": "2026-11-10T16:40:00+08:00",
+   "start": "2026-11-11T17:30:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -869,9 +869,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f0",
    "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-10T19:30:00+08:00",
+   "start": "2026-11-11T19:40:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -923,9 +923,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f2",
    "title": "11月高雄市電影館｜與畢諾許共舞",
-   "start": "2026-11-10T17:00:00+08:00",
+   "start": "2026-11-11T14:30:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -3487,7 +3487,7 @@
   },
   {
    "id": "iculture:6aeeeff126b3245efc7537a7",
-   "title": "《世紀首登：聖母峰1953》自選套票",
+   "title": "《世紀首登：聖母峰1953》VR自選套票",
    "start": "2026-11-21T12:00:00+08:00",
    "end": "2027-02-14T20:00:00+08:00",
    "venue": "內惟藝術中心",
