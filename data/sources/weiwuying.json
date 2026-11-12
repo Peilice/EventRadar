@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T10:27:08.040708+08:00",
+ "fetched_at": "2026-11-12T10:30:55.530743+08:00",
  "warning": "",
  "events": [
   {
@@ -46,60 +46,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a475892287f0800087ff394",
-   "title": "《雅聲櫻舞・韻染東瀛》雅韻合唱團與日本音樂家之夜",
-   "start": "2026-11-11T19:30:00+08:00",
-   "end": "2026-11-11T19:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "雅韻隨歌聲流轉，共譜臺日交流的美好樂章",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a475892287f0800087ff394"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69dc88ac0d5d250007a494b8",
-   "title": "小島大歌《One Ocean》",
-   "start": "2026-11-11T19:30:00+08:00",
-   "end": "2026-11-11T19:30:00+08:00",
-   "venue": "衛武營 戲劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "臺澳荷共製，小島大歌11週年新作",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69dc88ac0d5d250007a494b8"
     }
    ],
    "lat": null,
@@ -1874,7 +1820,7 @@
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
-   "fee": "免費",
+   "fee": "付費",
    "organizer": "",
    "organizer_type": "不確定",
    "description": "本次音樂會高醫聲樂社將攜手海軍官校海韻合唱團，以純粹的人聲合唱，在寒冬中傳遞出最真摯的溫暖與希望，點亮彼此心中的光芒，與您共享一場洗滌心靈的音樂饗宴。",
@@ -3880,6 +3826,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6aed40b3555c1b00086d3722"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ac4a57b7a63f600077244ab",
+   "title": "《紐約之聲 New York Voices 謝幕巡演》",
+   "start": "2027-02-09T16:00:00+08:00",
+   "end": "2027-02-09T16:00:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "葛萊美獎加持 當代爵士人聲傳奇",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ac4a57b7a63f600077244ab"
     }
    ],
    "lat": null,
