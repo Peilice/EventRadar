@@ -1,7 +1,61 @@
 {
- "fetched_at": "2026-11-11T10:28:12.556763+08:00",
+ "fetched_at": "2026-11-12T10:31:58.568300+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "ksml:16503",
+   "title": "【大東藝術圖書館】11/29(日) ｜跨越字裡遠方｜🐻 野獸來啦!一個 撕標籤的挑戰 🐻",
+   "start": "2026-11-11T10:30:00+08:00",
+   "end": "2026-11-29T11:30:00+08:00",
+   "venue": "大東藝術圖書館2F多功能教室",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館大東藝術圖書館",
+   "organizer_type": "政府",
+   "description": "活動老師：看戲劇團\n活動主題： ｜跨越字裡遠方｜🐻 野獸來啦!一個 撕標籤的挑戰 🐻\n日期時間：11/29 (日) 10:30~11:30",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16503"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16502",
+   "title": "【左新分館】🎉活動宣傳【紙芝居 稅務故事列車】聽故事📖學知識🎀",
+   "start": "2026-11-14T10:00:00+08:00",
+   "end": "2026-11-14T11:00:00+08:00",
+   "venue": "左新分館 一樓兒童區故事屋",
+   "address": "高雄市左營區博愛三路453號",
+   "district": "左營區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館左新分館",
+   "organizer_type": "政府",
+   "description": "#活動招生\n#紙芝居說故事\n收到美人魚的神秘邀請！一起潛入海底王國找寶藏",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16502"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16499",
    "title": "【寶珠分館】💊「藥」你知道，用藥安全須知 11/18(三)10:00-12:00",
@@ -883,33 +937,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16454"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16451",
-   "title": "【楠仔坑分館】11/14（六）用繪本認捌台語～寶島台語囡仔古（意識培力）～歡迎報名",
-   "start": "2026-11-14T14:00:00+08:00",
-   "end": "2026-11-14T15:30:00+08:00",
-   "venue": "楠仔坑分館2樓書香教室",
-   "address": "高雄市楠梓區楠梓路262號",
-   "district": "楠梓區",
-   "category": "親子",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館楠仔坑分館",
-   "organizer_type": "政府",
-   "description": "1151114寶島台語囡仔古jpg ▶️本活動提供台語家庭會員集點1.5點◀️\n【楠仔坑分館】用繪本認捌台語～寶島台語囡仔古（意識培力）\n💟活動主題｜台語意識宣講Ｘ台語故事：紅尻川賊仔事件！Ｘ親子手作",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16451"
     }
    ],
    "lat": null,

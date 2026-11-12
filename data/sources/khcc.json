@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T06:28:02.929383+08:00",
+ "fetched_at": "2026-11-12T10:31:58.568300+08:00",
  "warning": "",
  "events": [
   {
@@ -1639,6 +1639,33 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/31"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4347",
+   "title": "她，在觀看與連結之間",
+   "start": "2027-02-06T00:00:00+08:00",
+   "end": "2027-02-16T23:59:59+08:00",
+   "venue": "高雄市文化中心 至上館(原第二文物館)",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "生命從何而來，又如何在陪伴中延續？諸怡靜以細胞與花朵為意象，描繪生命萌芽、親子陪伴與內在療癒；王靖鋒以女性身體與母體形象，探索身體經驗、母性與生命孕育。兩位創作者透過繪畫，交織生命從孕育到成長的歷程，呈現愛、陪伴與生命延續的細膩連結。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4347"
     }
    ],
    "lat": null,

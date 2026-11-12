@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T06:28:02.929383+08:00",
+ "fetched_at": "2026-11-12T10:31:58.568300+08:00",
  "warning": "",
  "events": [
   {
@@ -146,10 +146,10 @@
    "address": "高雄市鹽埕區真愛路1號",
    "district": "鹽埕區",
    "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "演出：魚條 Fish Stick",
+   "fee": "付費",
+   "organizer": "魚條 Fish Stick x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：魚條 Fish Stick\n票價：預售700元 現場800元",
    "links": [
     {
      "source": "kpmc",
@@ -1361,10 +1361,10 @@
    "address": "高雄市鹽埕區真愛路1號",
    "district": "鹽埕區",
    "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "",
+   "fee": "付費",
+   "organizer": "D-SHOW TAIWAN",
    "organizer_type": "不確定",
-   "description": "演出：DOH KYUNG SOO",
+   "description": "演出：DOH KYUNG SOO\n票價：NT$6,480 NT$5,880 NT$4,880 NT$3,880 身心席$2,940（全區座席）",
    "links": [
     {
      "source": "kpmc",
