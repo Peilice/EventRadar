@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T10:31:58.568300+08:00",
+ "fetched_at": "2026-11-13T06:02:27.976375+08:00",
  "warning": "",
  "events": [
   {
@@ -536,6 +536,33 @@
    ],
    "lat": 22.61597,
    "lng": 120.29208,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008198",
+   "title": "2026年高雄市國際身心障礙者日系列活動",
+   "start": "2026-11-21T00:00:00+08:00",
+   "end": "2026-11-21T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市830鳳山區武慶二路221號(高雄親子遊樂園區-南側大門)",
+   "district": "鳳山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府社會局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8198/"
+    }
+   ],
+   "lat": 22.61634,
+   "lng": 120.32918,
    "aliases": [],
    "first_seen": "",
    "sources": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T10:31:58.568300+08:00",
+ "fetched_at": "2026-11-13T06:02:27.976375+08:00",
  "warning": "",
  "events": [
   {
@@ -1327,7 +1327,7 @@
   },
   {
    "id": "khcc:4340",
-   "title": "藝躍50・星閃青溪 - 大高雄青溪會員聯展",
+   "title": "《藝躍50・星閃青溪》 大高雄青溪會員聯展",
    "start": "2027-01-08T00:00:00+08:00",
    "end": "2027-01-19T23:59:59+08:00",
    "venue": "高雄市文化中心 至美軒",
@@ -1450,6 +1450,33 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39812&AP=$M102_DATE-116/01/17"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:4348",
+   "title": "高雄市甲骨文學會會員暨名家邀請展",
+   "start": "2027-01-22T00:00:00+08:00",
+   "end": "2027-01-31T23:59:59+08:00",
+   "venue": "高雄市文化中心 至美軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "高雄市甲骨文學會成立於民國82年，由已故創會理事長劉百鈞先生與一群熱愛書法、文字學與傳統文化的同好共同發起。\n學會透過定期研習、專題講座、名家指導、書法交流及作品觀摩等多元活動，增進會員對甲骨文字形、結構與書寫技法的認識，並培養獨特的藝術表現力。\n本次展覽匯集會員近三年研習成果，並邀請書藝名家共襄盛舉，呈現甲骨文在傳統與現代之間的多元風貌。作品融合古文字的象形意趣、線條韻律與當代美學，展現古老文字嶄新的生命力，期盼讓更多民眾親近甲骨文之美，共同推廣書藝文化，延續漢字藝術的傳承與創新。(展覽至116年1月31日下午5點)",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4348"
     }
    ],
    "lat": null,
@@ -1650,6 +1677,33 @@
    ]
   },
   {
+   "id": "khcc:4349",
+   "title": "高雄市鳳邑棉紙藝術學會會員聯展",
+   "start": "2027-02-06T00:00:00+08:00",
+   "end": "2027-02-16T23:59:59+08:00",
+   "venue": "高雄市文化中心 至美軒",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "農曆春節，誠摯邀請您走進紙藝的詩意世界。本展由劉瓊芬老師帶領會員們攜手帶來豐富繽紛的撕畫創作，拋開傳統筆墨，透過手造紙「撕、拉、堆疊」的細緻工藝，展現紙張纖維自然交錯的獨特質感。\n展覽除呈現經典的《星野牧歌》系列作品——以溫潤紋理勾勒靜謐星空與浩瀚草原外，更涵蓋各式生動絢麗的花卉與壯麗風景創作。纖細柔美的花朵與氣象萬千的山水在紙上綻放，層次豐富且充滿生命力。\n適逢春節走春佳期，邀請您與家人一同前來沉澱身心，在手造紙的溫暖質感中尋得平靜，感受撕畫藝術萬物交融的獨特魅力。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4349"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
    "id": "khcc:4347",
    "title": "她，在觀看與連結之間",
    "start": "2027-02-06T00:00:00+08:00",
@@ -1666,6 +1720,33 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4347"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39813:20270213",
+   "title": "藝術市集",
+   "start": "2027-02-13T16:00:00+08:00",
+   "end": "2027-02-13T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39813&AP=$M102_DATE-116/02/13"
     }
    ],
    "lat": null,
@@ -2044,33 +2125,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40433&AP=$M102_DATE-115/12/30"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40314:20261112",
-   "title": "樂心共鳴 — 台韓慢飛天使音樂家國際交流音樂會",
-   "start": "2026-11-12T19:30:00+08:00",
-   "end": "2026-11-12T21:30:00+08:00",
-   "venue": "大東演藝廳",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "城市擊樂團",
-   "organizer_type": "民間",
-   "description": "演出單位：國喬藝術文化工作室、J & S Quartette、喜憨兒高雄打擊樂團",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40314&AP=$M102_DATE-115/11/12"
     }
    ],
    "lat": null,
