@@ -1,7 +1,61 @@
 {
- "fetched_at": "2026-11-13T10:27:36.626161+08:00",
+ "fetched_at": "2026-11-14T05:47:54.495572+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "ksml:16509",
+   "title": "【三民分館】高醫健康講座《如何安全購買維他命》12/5(六)10-12時，歡迎參加聆聽~",
+   "start": "2026-12-05T10:00:00+08:00",
+   "end": "2026-12-05T12:00:00+08:00",
+   "venue": "三民分館 2樓多功能教室",
+   "address": "高雄市三民區十全一路220號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館三民分館",
+   "organizer_type": "政府",
+   "description": "海報 #健康交響閱\n#高醫健康講座\n《如何安全購買維他命》",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16509"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16508",
+   "title": "【三民分館】12月12日《人魚王國彩繪之旅》紙芝居.稅務故事列車, 歡迎搭乘一起探索海底學校！",
+   "start": "2026-12-12T10:00:00+08:00",
+   "end": "2026-12-12T11:00:00+08:00",
+   "venue": "三民分館 1樓兒童閱覽區",
+   "address": "高雄市三民區十全一路220號",
+   "district": "三民區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館三民分館",
+   "organizer_type": "政府",
+   "description": "【活動內容】\n小朋友參加美術成果展時，遇見來自海底王國的美人魚公主，受邀前往海底王國幫忙彩繪 ，過程中一起認識稅收如何興建公共設施、改善居民生活 ，同時學習索取發票、使用雲端發票及財政部統一發票兌獎APP的好處！\n時間：115年12月12日 (六) 10:00~11:00",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16508"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16503",
    "title": "【大東藝術圖書館】11/29(日) ｜跨越字裡遠方｜🐻 野獸來啦!一個 撕標籤的挑戰 🐻",
@@ -624,33 +678,6 @@
    ]
   },
   {
-   "id": "ksml:16472",
-   "title": "文化中心分館台語意識培力課程-「講咱ê話 -作伙來食魚」11/13（五）晚上開辦，歡迎踴躍報名，可參加台語家庭集點哦！",
-   "start": "2026-11-13T18:30:00+08:00",
-   "end": "2026-11-13T20:30:00+08:00",
-   "venue": "文化中心分館B1兒童室",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館高雄市文化中心分館",
-   "organizer_type": "政府",
-   "description": "⭐本活動可參加台語家庭集點！\n活動時間:11/13(五) 18:30-20:30\n講師:洪鈺櫻",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16472"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:16470",
    "title": "🌳【總館】把森林帶回人間的浪漫冒險—《有一種田野報告叫植物獵人》新書分享會- 洪信介 X 115年12月新書好書推薦講座",
    "start": "2026-12-05T14:00:00+08:00",
@@ -991,33 +1018,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16431"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16424",
-   "title": "【河堤分館】11月份 || 台語意識培力系列講座 ||",
-   "start": "2026-11-01T14:00:00+08:00",
-   "end": "2026-11-13T16:00:00+08:00",
-   "venue": "河堤分館 3F 多功能教室",
-   "address": "高雄市三民區裕誠路1號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館河堤分館",
-   "organizer_type": "政府",
-   "description": "|| 台語意識培力系列講座 || 本系列列入台語家庭集點\n📅 場次資訊\n【第一場】毋但講台語爾爾！",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16424"
     }
    ],
    "lat": null,

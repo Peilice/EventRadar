@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T10:27:36.626161+08:00",
+ "fetched_at": "2026-11-14T05:47:54.495572+08:00",
  "warning": "",
  "events": [
   {
@@ -1747,6 +1747,33 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39813&AP=$M102_DATE-116/02/13"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39813:20270214",
+   "title": "藝術市集",
+   "start": "2027-02-14T16:00:00+08:00",
+   "end": "2027-02-14T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39813&AP=$M102_DATE-116/02/14"
     }
    ],
    "lat": null,

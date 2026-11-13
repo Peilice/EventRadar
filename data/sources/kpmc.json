@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T10:27:36.626161+08:00",
+ "fetched_at": "2026-11-14T05:47:54.495572+08:00",
  "warning": "",
  "events": [
   {
@@ -300,33 +300,6 @@
    ]
   },
   {
-   "id": "kpmc:16276",
-   "title": "Give me a moment｜宋楚琳＆周意紋",
-   "start": "2026-11-13T20:00:00+08:00",
-   "end": "2026-11-13T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：宋楚琳Apu hlauracana、周意紋\n票價：單人500元 雙人900元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/give-me-a-moment%ef%bd%9c%e5%ae%8b%e6%a5%9a%e7%90%b3%ef%bc%86%e5%91%a8%e6%84%8f%e7%b4%8b/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:16042",
    "title": "高流系：Pro Tools專攻班",
    "start": "2026-11-14T09:00:00+08:00",
@@ -370,6 +343,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-hih-1114-3/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16373",
+   "title": "2026 高流聖誕趴 KMC XMAS",
+   "start": "2026-11-14T17:30:00+08:00",
+   "end": "2026-11-14T17:30:00+08:00",
+   "venue": "高雄流行音樂中心 鯨魚堤岸 好望角",
+   "address": "高雄市苓雅區海邊路",
+   "district": "苓雅區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄市政府 x 高雄市政府文化局 x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "票價：免費入場",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-kmc-xmas/"
     }
    ],
    "lat": null,
