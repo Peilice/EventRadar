@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T10:30:55.530743+08:00",
+ "fetched_at": "2026-11-13T10:26:32.356747+08:00",
  "warning": "",
  "events": [
   {
@@ -46,33 +46,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a7d213093fe0c00074524f5",
-   "title": "《共下，唱一擺 - 高雄市客家社團聯合展演》",
-   "start": "2026-11-12T19:30:00+08:00",
-   "end": "2026-11-12T19:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "集結高雄20餘個高雄客家藝文團隊、近500位演出者，以六大主題串聯兒童合唱、山歌、歌舞與混聲合唱，展現客家文化世代傳承、創新發展與藝術風采。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a7d213093fe0c00074524f5"
     }
    ],
    "lat": null,
@@ -154,6 +127,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a3ca6825d4f570008715908"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6af57b1180a8ccc21bb984ed",
+   "title": "農糧署115年臺灣農糧產業行銷計畫－原鄉產品推廣",
+   "start": "2026-11-14T00:00:00+08:00",
+   "end": "2026-11-15T23:59:59+08:00",
+   "venue": "衛武營 榕樹廣場",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "為推廣國產農糧產品、拓展原鄉特色農產行銷通路",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6af57b1180a8ccc21bb984ed"
     }
    ],
    "lat": null,
@@ -3548,7 +3548,7 @@
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
-   "fee": "免費",
+   "fee": "付費",
    "organizer": "",
    "organizer_type": "不確定",
    "description": "在琴聲與光影之間，聽見音樂，也看見世界",
@@ -3629,7 +3629,7 @@
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
-   "fee": "免費",
+   "fee": "付費",
    "organizer": "",
    "organizer_type": "不確定",
    "description": "2027許凱閔室內樂音樂會之『音樂旅行』",

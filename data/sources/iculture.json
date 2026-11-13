@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T10:30:55.530743+08:00",
+ "fetched_at": "2026-11-13T10:26:32.356747+08:00",
  "warning": "",
  "events": [
   {
@@ -356,11 +356,11 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ee",
    "title": "11月高雄市電影館｜沙央",
-   "start": "2026-11-12T14:50:00+08:00",
+   "start": "2026-11-15T19:00:00+08:00",
    "end": "2026-11-25T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -372,8 +372,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0PV"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -653,7 +653,7 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f3",
    "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
-   "start": "2026-11-12T19:00:00+08:00",
+   "start": "2026-11-13T14:50:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -842,11 +842,11 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ef",
    "title": "11月高雄市電影館｜世紀初戀 楊麗花",
-   "start": "2026-11-12T19:40:00+08:00",
+   "start": "2026-11-14T14:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -858,8 +858,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q2"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -869,7 +869,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f0",
    "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-12T14:30:00+08:00",
+   "start": "2026-11-14T20:30:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -896,11 +896,11 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f1",
    "title": "11月高雄市電影館｜廚師發辦",
-   "start": "2026-11-12T16:50:00+08:00",
+   "start": "2026-11-14T16:30:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -912,8 +912,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O0"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -923,9 +923,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f2",
    "title": "11月高雄市電影館｜與畢諾許共舞",
-   "start": "2026-11-12T17:10:00+08:00",
+   "start": "2026-11-17T16:50:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -1481,6 +1481,33 @@
    ],
    "lat": 22.6247642,
    "lng": 120.3634355,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6af57ff726b3245efc7537c4",
+   "title": "新星扎根新秀鋼琴獨奏發表會",
+   "start": "2026-12-26T19:30:00+08:00",
+   "end": "2026-12-26T21:00:00+08:00",
+   "venue": "高雄市音樂館演奏廳",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IEDPQ0"
+    }
+   ],
+   "lat": 22.6276246,
+   "lng": 120.2868631,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -2460,33 +2487,6 @@
    ]
   },
   {
-   "id": "iculture:696aa7c526b3243b1ca0c073",
-   "title": "藍寶石大歌廳《秀場傳奇》故事展",
-   "start": "2026-01-01T10:30:00+08:00",
-   "end": "2026-12-31T17:50:00+08:00",
-   "venue": "高雄流行音樂中心",
-   "address": "高雄市鹽埕區17鄰真愛路1號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "— ❋ 藍寶石大歌廳《秀場傳奇》故事展 ❋ — —— 𝘿𝘼𝙉𝘾𝙀 𝙁𝙊𝙍 𝙔𝙊𝙐 𝄪 𝙎𝙄𝙉𝙂 𝙁𝙊𝙍 𝙔𝙊𝙐 —— ⊹ 展覽亮點 ⊹ 2 大展區：回到一個群星匯聚，五光十色的藍寶石大歌廳。 8 組深度訪談：從台前藝人、幕後工作者，再到文史工作者，一窺歌舞廳風華。 11 套經典秀服：全新視角一睹當年秀服的繁華奪目盛況。 超過 100 件珍貴展品：共同見證臺灣音樂與娛樂產業重要符號。 ⊹ 展覽介紹 ⊹ 一個群星匯聚，五光十色的華麗舞台 「藍寶石大歌廳」是人們真情流露的盛大演出。這裡「演」的是人民的生活，「唱」的是心底的情懷。一演一唱，道盡了一代人青春年華的記憶。 梳理珍貴史料、保存時代感物件、復…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c073"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:695ecb3626b3243dd4e6ac19",
    "title": "科學發展史/海報主題展",
    "start": "2026-01-01T09:00:00+08:00",
@@ -2935,6 +2935,33 @@
     {
      "source": "iculture",
      "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c072"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7c526b3243b1ca0c073",
+   "title": "藍寶石大歌廳《秀場傳奇》故事展",
+   "start": "2026-01-01T10:30:00+08:00",
+   "end": "2026-12-31T17:50:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區17鄰真愛路1號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "— ❋ 藍寶石大歌廳《秀場傳奇》故事展 ❋ — —— 𝘿𝘼𝙉𝘾𝙀 𝙁𝙊𝙍 𝙔𝙊𝙐 𝄪 𝙎𝙄𝙉𝙂 𝙁𝙊𝙍 𝙔𝙊𝙐 —— ⊹ 展覽亮點 ⊹ 2 大展區：回到一個群星匯聚，五光十色的藍寶石大歌廳。 8 組深度訪談：從台前藝人、幕後工作者，再到文史工作者，一窺歌舞廳風華。 11 套經典秀服：全新視角一睹當年秀服的繁華奪目盛況。 超過 100 件珍貴展品：共同見證臺灣音樂與娛樂產業重要符號。 ⊹ 展覽介紹 ⊹ 一個群星匯聚，五光十色的華麗舞台 「藍寶石大歌廳」是人們真情流露的盛大演出。這裡「演」的是人民的生活，「唱」的是心底的情懷。一演一唱，道盡了一代人青春年華的記憶。 梳理珍貴史料、保存時代感物件、復…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c073"
     }
    ],
    "lat": null,
