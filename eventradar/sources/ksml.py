@@ -31,6 +31,9 @@ BASE = "https://www.ksml.edu.tw/LibNews/"
 LIST_URL = BASE + "List.aspx?Parser=9,4,33,,,,,,,,{page},1"  # 最後的 1 = 只取「活動」類
 DETAIL_URL = BASE + "Details.aspx?Parser=9,4,33,,,,{id}"
 MAX_PAGES = 20
+# 從 GitHub Actions 連線偶爾很慢，預設 60 秒會逾時；列表頁失敗整個來源就失敗，所以多等一點。
+# 詳情頁維持預設：單頁失敗只少內文，拉長反而吃掉詳情頁的時間上限
+LIST_TIMEOUT = 120
 DETAIL_DELAY = 0.5
 LIBRARY = "高雄市立圖書館"
 # 內文的日期離開始日太遠，多半是筆誤（例如 115 寫成 117）
@@ -156,7 +159,7 @@ def _list_items(page: str) -> list[dict]:
 def fetch(previous=None) -> bytes:
     items, seen, last_ids = [], set(), None
     for page in range(MAX_PAGES):
-        page_items = _list_items(http.get(LIST_URL.format(page=page)).text)
+        page_items = _list_items(http.get(LIST_URL.format(page=page), timeout=LIST_TIMEOUT).text)
         ids = [i["id"] for i in page_items]
         # 超過最後一頁時網站會一直回傳最後一頁
         if not page_items or ids == last_ids:
