@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T10:26:32.356747+08:00",
+ "fetched_at": "2026-11-14T11:37:08.499703+08:00",
  "warning": "",
  "events": [
   {
@@ -410,7 +410,7 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f4",
    "title": "11月高雄市電影館｜與達賴喇嘛談心：尋找幸福的智慧",
-   "start": "2026-11-13T17:30:00+08:00",
+   "start": "2026-11-14T18:20:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -437,9 +437,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc7536ff",
    "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
-   "start": "2026-11-13T19:50:00+08:00",
+   "start": "2026-11-14T11:30:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -464,9 +464,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753702",
    "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-13T14:30:00+08:00",
+   "start": "2026-11-14T11:50:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -491,7 +491,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753700",
    "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-13T19:20:00+08:00",
+   "start": "2026-11-14T20:10:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -518,7 +518,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753701",
    "title": "11月高雄市電影館｜有用的人",
-   "start": "2026-11-13T16:40:00+08:00",
+   "start": "2026-11-14T14:20:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -653,9 +653,9 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f3",
    "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
-   "start": "2026-11-13T14:50:00+08:00",
+   "start": "2026-11-15T19:00:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -2487,6 +2487,141 @@
    ]
   },
   {
+   "id": "iculture:696aa7c526b3243b1ca0c073",
+   "title": "藍寶石大歌廳《秀場傳奇》故事展",
+   "start": "2026-01-01T10:30:00+08:00",
+   "end": "2026-12-31T17:50:00+08:00",
+   "venue": "高雄流行音樂中心",
+   "address": "高雄市鹽埕區17鄰真愛路1號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "— ❋ 藍寶石大歌廳《秀場傳奇》故事展 ❋ — —— 𝘿𝘼𝙉𝘾𝙀 𝙁𝙊𝙍 𝙔𝙊𝙐 𝄪 𝙎𝙄𝙉𝙂 𝙁𝙊𝙍 𝙔𝙊𝙐 —— ⊹ 展覽亮點 ⊹ 2 大展區：回到一個群星匯聚，五光十色的藍寶石大歌廳。 8 組深度訪談：從台前藝人、幕後工作者，再到文史工作者，一窺歌舞廳風華。 11 套經典秀服：全新視角一睹當年秀服的繁華奪目盛況。 超過 100 件珍貴展品：共同見證臺灣音樂與娛樂產業重要符號。 ⊹ 展覽介紹 ⊹ 一個群星匯聚，五光十色的華麗舞台 「藍寶石大歌廳」是人們真情流露的盛大演出。這裡「演」的是人民的生活，「唱」的是心底的情懷。一演一唱，道盡了一代人青春年華的記憶。 梳理珍貴史料、保存時代感物件、復…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c073"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c060",
+   "title": "「解密哨船頭」歴史展覽",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T18:00:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "2018年高雄市政府透過「再造歷史現場–興濱計畫」，搬遷阻隔英國領事館與港灣長達33年的安檢所，使得水岸周邊歷史場域能延伸至港邊，融入市民生活，並且策畫「解密哨船頭」歴史展覽，藉由歷史描述、老照片、模型、影片等展示，讓民眾親臨歷史場景，一窺數百年來哨船頭的蛻變，具有絕佳景觀視野的哨船頭水岸歷史空間，也重現於世人眼前。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c060"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c061",
+   "title": "雄鎮北門常設展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T18:00:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "雄鎮北門自1876年完工以來，歷經軍事、鐵道部職工休閒場所、高雄港務單位工作及信號塔台等用途，古蹟輪廓隱沒於私人占用建物與廢棄宿舍間，甚為可惜。高雄市政府自2004年起努力溝通協調，陸續拆除古蹟周邊與景觀不相融之建物。迄2016年獲文化部經費支持進行興濱計畫，終於等到古蹟修復工程啟動的契機，並於2021年底重新對外開放。 由於高雄市政府文化局在整個修復過程，特別嚴謹考據礮臺風貌，致力復原「南北兵房密勒樑」及「三合土頂版構造」，因此修復後民眾進入此空間，可直接感受到雄鎮北門清代兵房的空間氛圍。 雄鎮北門的獨特地理位置，不但是觀賞大船入港及西子灣夕陽的最佳地點，南北兵房獨特的歷史空間也規劃歷史主題…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c061"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c062",
+   "title": "解鎖！北號誌樓常設展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T18:00:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "高雄港站北號誌樓是目前全國唯一完整保存號誌樓建築及聯鎖裝置、聯動鐵管、轉轍器等設施的號誌樓。睽違14年的北號誌樓，111年修復完工啟用，以經典設計重現的型態展示百年前的鐵道聯鎖技術。 北號誌樓的核心號誌樓最核心、也最複雜的機能就是達成「號誌與號誌」、「號誌與道岔」、「道岔與道岔」之間的聯鎖。藉由聯鎖盤確保閘柄之間的運作協調一致，閘柄再以電器和機械的方式「遙控」遠方的道岔、號誌，以使這些裝置間也協調一致。在沒有無線電的年代，號誌樓員工亦可透過高聲電話，控制並監視整個高雄港站的車輛調度。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c062"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c064",
+   "title": "旗山生活文化園區常設展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T18:00:00+08:00",
+   "venue": "高雄市旗山生活文化園區(原舊鼓山國小)",
+   "address": "高雄市旗山區022鄰文中路7號",
+   "district": "旗山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "市定古蹟「舊鼓山國小」前身為日治時期蕃薯藔尋常高等小學校，戰後改制為鼓山國民小學。民國90年鼓山國小遷移至新校區，舊校區日治建物禮堂、辦公廳及北棟教室指定為古蹟。105年園區因地震閉園修復，109年分階段開放園區，園區設有「一日小學生．時光蕉囊」主題展，透過Q版小學生公仔及巨大擬真的文具模型，營造「小學生視角」，同時以老照片、大地圖、蕉城小故事，結合QA闖關解碼遊戲、佈告欄創意競賽、人像寫真館等跨世代的校園記憶，串連起不同時代旗山學童上、下課的時光記憶「悅讀教室」、「復刻教室」及「歷史教室」主題展示，怡人的景緻與優雅的古蹟氛圍，適合大手牽小手來場親子共讀，回味小學生活及認識旗山歷史及文化資產。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c064"
+    }
+   ],
+   "lat": 22.8903798,
+   "lng": 120.4811207,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:695ecb3626b3243dd4e6ac19",
    "title": "科學發展史/海報主題展",
    "start": "2026-01-01T09:00:00+08:00",
@@ -2676,87 +2811,6 @@
    ]
   },
   {
-   "id": "iculture:696aa7bb26b3243b1ca0c060",
-   "title": "「解密哨船頭」歴史展覽",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T18:00:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "2018年高雄市政府透過「再造歷史現場–興濱計畫」，搬遷阻隔英國領事館與港灣長達33年的安檢所，使得水岸周邊歷史場域能延伸至港邊，融入市民生活，並且策畫「解密哨船頭」歴史展覽，藉由歷史描述、老照片、模型、影片等展示，讓民眾親臨歷史場景，一窺數百年來哨船頭的蛻變，具有絕佳景觀視野的哨船頭水岸歷史空間，也重現於世人眼前。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c060"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c061",
-   "title": "雄鎮北門常設展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T18:00:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "雄鎮北門自1876年完工以來，歷經軍事、鐵道部職工休閒場所、高雄港務單位工作及信號塔台等用途，古蹟輪廓隱沒於私人占用建物與廢棄宿舍間，甚為可惜。高雄市政府自2004年起努力溝通協調，陸續拆除古蹟周邊與景觀不相融之建物。迄2016年獲文化部經費支持進行興濱計畫，終於等到古蹟修復工程啟動的契機，並於2021年底重新對外開放。 由於高雄市政府文化局在整個修復過程，特別嚴謹考據礮臺風貌，致力復原「南北兵房密勒樑」及「三合土頂版構造」，因此修復後民眾進入此空間，可直接感受到雄鎮北門清代兵房的空間氛圍。 雄鎮北門的獨特地理位置，不但是觀賞大船入港及西子灣夕陽的最佳地點，南北兵房獨特的歷史空間也規劃歷史主題…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c061"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c062",
-   "title": "解鎖！北號誌樓常設展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T18:00:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "高雄港站北號誌樓是目前全國唯一完整保存號誌樓建築及聯鎖裝置、聯動鐵管、轉轍器等設施的號誌樓。睽違14年的北號誌樓，111年修復完工啟用，以經典設計重現的型態展示百年前的鐵道聯鎖技術。 北號誌樓的核心號誌樓最核心、也最複雜的機能就是達成「號誌與號誌」、「號誌與道岔」、「道岔與道岔」之間的聯鎖。藉由聯鎖盤確保閘柄之間的運作協調一致，閘柄再以電器和機械的方式「遙控」遠方的道岔、號誌，以使這些裝置間也協調一致。在沒有無線電的年代，號誌樓員工亦可透過高聲電話，控制並監視整個高雄港站的車輛調度。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c062"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:696aa7bb26b3243b1ca0c063",
    "title": "打狗英國領事館文化園區常設展",
    "start": "2026-01-01T10:00:00+08:00",
@@ -2777,33 +2831,6 @@
    ],
    "lat": 22.618911,
    "lng": 120.26685,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c064",
-   "title": "旗山生活文化園區常設展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T18:00:00+08:00",
-   "venue": "高雄市旗山生活文化園區(原舊鼓山國小)",
-   "address": "高雄市旗山區022鄰文中路7號",
-   "district": "旗山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "市定古蹟「舊鼓山國小」前身為日治時期蕃薯藔尋常高等小學校，戰後改制為鼓山國民小學。民國90年鼓山國小遷移至新校區，舊校區日治建物禮堂、辦公廳及北棟教室指定為古蹟。105年園區因地震閉園修復，109年分階段開放園區，園區設有「一日小學生．時光蕉囊」主題展，透過Q版小學生公仔及巨大擬真的文具模型，營造「小學生視角」，同時以老照片、大地圖、蕉城小故事，結合QA闖關解碼遊戲、佈告欄創意競賽、人像寫真館等跨世代的校園記憶，串連起不同時代旗山學童上、下課的時光記憶「悅讀教室」、「復刻教室」及「歷史教室」主題展示，怡人的景緻與優雅的古蹟氛圍，適合大手牽小手來場親子共讀，回味小學生活及認識旗山歷史及文化資產。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c064"
-    }
-   ],
-   "lat": 22.8903798,
-   "lng": 120.4811207,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -2935,33 +2962,6 @@
     {
      "source": "iculture",
      "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c072"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7c526b3243b1ca0c073",
-   "title": "藍寶石大歌廳《秀場傳奇》故事展",
-   "start": "2026-01-01T10:30:00+08:00",
-   "end": "2026-12-31T17:50:00+08:00",
-   "venue": "高雄流行音樂中心",
-   "address": "高雄市鹽埕區17鄰真愛路1號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "— ❋ 藍寶石大歌廳《秀場傳奇》故事展 ❋ — —— 𝘿𝘼𝙉𝘾𝙀 𝙁𝙊𝙍 𝙔𝙊𝙐 𝄪 𝙎𝙄𝙉𝙂 𝙁𝙊𝙍 𝙔𝙊𝙐 —— ⊹ 展覽亮點 ⊹ 2 大展區：回到一個群星匯聚，五光十色的藍寶石大歌廳。 8 組深度訪談：從台前藝人、幕後工作者，再到文史工作者，一窺歌舞廳風華。 11 套經典秀服：全新視角一睹當年秀服的繁華奪目盛況。 超過 100 件珍貴展品：共同見證臺灣音樂與娛樂產業重要符號。 ⊹ 展覽介紹 ⊹ 一個群星匯聚，五光十色的華麗舞台 「藍寶石大歌廳」是人們真情流露的盛大演出。這裡「演」的是人民的生活，「唱」的是心底的情懷。一演一唱，道盡了一代人青春年華的記憶。 梳理珍貴史料、保存時代感物件、復…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c073"
     }
    ],
    "lat": null,
