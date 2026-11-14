@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T05:47:54.495572+08:00",
+ "fetched_at": "2026-11-14T11:38:15.068963+08:00",
  "warning": "",
  "events": [
   {
@@ -73,33 +73,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16503"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16502",
-   "title": "【左新分館】🎉活動宣傳【紙芝居 稅務故事列車】聽故事📖學知識🎀",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T11:00:00+08:00",
-   "venue": "左新分館 一樓兒童區故事屋",
-   "address": "高雄市左營區博愛三路453號",
-   "district": "左營區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館左新分館",
-   "organizer_type": "政府",
-   "description": "#活動招生\n#紙芝居說故事\n收到美人魚的神秘邀請！一起潛入海底王國找寶藏",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16502"
     }
    ],
    "lat": null,

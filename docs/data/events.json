@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T05:47:54.495572+08:00",
+ "generated_at": "2026-11-14T11:38:15.068963+08:00",
  "events": [
   {
    "id": "nstm:482a5d16-72b3-435a-843b-905f75e9de2c",
@@ -4593,60 +4593,6 @@
    ]
   },
   {
-   "id": "iculture:6ad91d1d26b3245efc753702",
-   "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-13T14:30:00+08:00",
-   "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PD"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb6026b3245efc7536f3",
-   "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
-   "start": "2026-11-13T14:50:00+08:00",
-   "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OE"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "accupass:2611020218519050640170",
    "title": "白光艙WhiteRoom－內視旅程",
    "start": "2026-11-13T15:00:00+08:00",
@@ -4671,87 +4617,6 @@
    "first_seen": "2026-11-07",
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753701",
-   "title": "11月高雄市電影館｜有用的人",
-   "start": "2026-11-13T16:40:00+08:00",
-   "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb6026b3245efc7536f4",
-   "title": "11月高雄市電影館｜與達賴喇嘛談心：尋找幸福的智慧",
-   "start": "2026-11-13T17:30:00+08:00",
-   "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OL"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753700",
-   "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-13T19:20:00+08:00",
-   "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
    ]
   },
   {
@@ -4787,33 +4652,6 @@
    "sources": [
     "opentix",
     "weiwuying"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc7536ff",
-   "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
-   "start": "2026-11-13T19:50:00+08:00",
-   "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OS"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
    ]
   },
   {
@@ -5121,60 +4959,6 @@
    ]
   },
   {
-   "id": "nstm:0000015510-1",
-   "title": "宏南宿舍生態走讀",
-   "start": "2026-11-14T08:30:00+08:00",
-   "end": "2026-11-14T10:30:00+08:00",
-   "venue": "國立科學工藝博物館 宏南宿舍市定古蹟",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：一般民眾；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015510&act_seq=1"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-11-09",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "kpmc:16042",
-   "title": "高流系：Pro Tools專攻班",
-   "start": "2026-11-14T09:00:00+08:00",
-   "end": "2026-11-14T09:00:00+08:00",
-   "venue": "高雄流行音樂中心",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：黃昭智講師\n票價：6800 (恕不接受單日報名)",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-wrs-1114/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "accupass:2609242241268879624180",
    "title": "「從盜俠朱伯公到『小貓內戰』的英雄公，再到下淡水溪的武舉人義勇公」",
    "start": "2026-11-14T09:00:00+08:00",
@@ -5299,87 +5083,6 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=5"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-11-09",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "ksml:16502",
-   "title": "【左新分館】🎉活動宣傳【紙芝居 稅務故事列車】聽故事📖學知識🎀",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T11:00:00+08:00",
-   "venue": "左新分館 一樓兒童區故事屋",
-   "address": "高雄市左營區博愛三路453號",
-   "district": "左營區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "高雄市立圖書館左新分館",
-   "organizer_type": "政府",
-   "description": "#活動招生\n#紙芝居說故事\n收到美人魚的神秘邀請！一起潛入海底王國找寶藏",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16502"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-11-12",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "nstm:0000015463-1",
-   "title": "[性別教育]我們的第一個家：生命教育繪本分享與親子手繪(勵馨基金會高雄場)",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T11:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：親子(中班至大班)；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015463&act_seq=1"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-11-12",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015451-2",
-   "title": "[魔科]火山爆發及轉轉魔棒(科學節限定優惠)",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T11:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：中、大班；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015451&act_seq=2"
     }
    ],
    "lat": null,
@@ -5955,6 +5658,60 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc7536ff",
+   "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
+   "start": "2026-11-14T11:30:00+08:00",
+   "end": "2026-11-26T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OS"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753702",
+   "title": "11月高雄市電影館｜黑潮",
+   "start": "2026-11-14T11:50:00+08:00",
+   "end": "2026-11-26T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PD"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -6674,114 +6431,6 @@
    ]
   },
   {
-   "id": "accupass:2610040834182532393180",
-   "title": "【高雄公益】社交升級研究所 ‧ 兩性心理學系列【台政大專家識人實驗計畫｜1對1社交實境體驗 × 情感成長】",
-   "start": "2026-11-14T14:00:00+08:00",
-   "end": "2026-11-15T16:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運五塊厝附近",
-   "district": "苓雅區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "社交升級研究所（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "✨【高雄公益】社交升級研究所｜台政大專家識人實驗計畫✨ 結合兩性心理學與台政大專家指導，透過 1 對 1 實境互動，帶妳拆解盲點、看懂男人心！完成研究體驗累計最高領 $30,000 津貼，升級識人眼光，遇見 Mr. Right！ 📍質感空間 💰限額免費（採預約審核制）",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610040834182532393180"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610020834101328902245",
-   "title": "🎮【高雄沉浸式社交】10 場展覽漫步試煉：解鎖「鑑定紳士」審判官 | 心理測驗・MBTI",
-   "start": "2026-11-14T14:00:00+08:00",
-   "end": "2026-11-15T16:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運汽機車便捷直達之質感藝文場域/展覽空間（周邊附設完善停車機能）",
-   "district": "",
-   "category": "展覽",
-   "fee": "免費",
-   "organizer": "戀愛試煉實驗室（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "這是一場殘酷又浪漫的**「紳士鑑定」**！ 🌟 女生（審判官）： 限時免費看展。妳的匿名裁決決定他的去留，給低分他即刻淘汰，且再也見不到妳！ 🌟 男生（挑戰賽）： 挑戰 $2,000 獎金！需在 10 場漫步中維持 70 分以上高標。 🕐 時間： 2 小時/場（預約制）。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610020834101328902245"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610020833193084535650",
-   "title": "💰【高雄戀愛賞金】評分領 $4,000 獎學金：女生專屬戀愛賞金挑戰 | 質感社交・限額免費",
-   "start": "2026-11-14T14:00:00+08:00",
-   "end": "2026-11-15T16:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運五塊厝附近",
-   "district": "苓雅區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "戀愛試煉實驗室（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "這是一場專為追求效率與質感的單身者設計的挑戰！透過精準的一對一約會與雙方互評機制，確保每場互動的高品質。 實質獎勵：每累積 20 場無心動對象，即領 $4,000 賞金；推廣好友再拿獎金。 專業助攻：評分未達標者提供免費諮詢，助你精準修正戀愛信號。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610020833193084535650"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
-   "id": "accupass:2610040806126395726000",
-   "title": "【高雄手作】Maji戀愛解命所 ‧ 自我探索三部曲【星盤 × 生命靈數 × 香氛療癒DIY｜打造專屬香氛 × 遇見命中相合的異性】",
-   "start": "2026-11-14T14:00:00+08:00",
-   "end": "2026-11-15T17:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市捷運五塊厝附近",
-   "district": "苓雅區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "Maji戀愛解命所（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "✨【高雄手作】Maji戀愛解命所｜自我探索三部曲✨ 結合星盤與生命靈數，親手調配專屬氣場香氛！精緻 2 男 2 女互動，帶著香氛成果破冰交流，無壓力探索性格與情感契合度，遇見命中相合的 TA。 📍質感空間 💰限額免費（採預約審核制）",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610040806126395726000"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
    "id": "iculture:6ad7bb5f26b3245efc7536ef",
    "title": "11月高雄市電影館｜世紀初戀 楊麗花",
    "start": "2026-11-14T14:00:00+08:00",
@@ -6860,6 +6509,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753701",
+   "title": "11月高雄市電影館｜有用的人",
+   "start": "2026-11-14T14:20:00+08:00",
+   "end": "2026-11-27T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -7113,33 +6789,6 @@
    ]
   },
   {
-   "id": "accupass:2610020810081680234920",
-   "title": "✨【高雄漫旅】書店漫步任務：挑戰解鎖 12 星座的知性頻率 | 西方占星",
-   "start": "2026-11-14T15:00:00+08:00",
-   "end": "2026-11-15T18:00:00+08:00",
-   "venue": "",
-   "address": "台灣高雄市精選大型高質感書店",
-   "district": "",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "玩任務（桃竹苗/中南部）",
-   "organizer_type": "不確定",
-   "description": "結合書店漫遊、城市散步與星座配對的情感探索活動。10 場書店步行任務，認識 10 種星座異性，邊走邊聊找默契。週末舉辦，每場約 2 小時。18 歲以上單身可報名，需完成回饋並參與系列任務。",
-   "links": [
-    {
-     "source": "accupass",
-     "url": "https://www.accupass.com/event/2610020810081680234920"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "accupass"
-   ]
-  },
-  {
    "id": "accupass:2611050931301149780787",
    "title": "可麗露小精靈 粘土創作 名片夾 法式甜點 聖誕節 交換禮物",
    "start": "2026-11-14T15:00:00+08:00",
@@ -7353,6 +7002,33 @@
    "first_seen": "2026-11-14",
    "sources": [
     "kpmc"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb6026b3245efc7536f4",
+   "title": "11月高雄市電影館｜與達賴喇嘛談心：尋找幸福的智慧",
+   "start": "2026-11-14T18:20:00+08:00",
+   "end": "2026-11-26T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OL"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -7610,6 +7286,33 @@
    "first_seen": "2026-10-28",
    "sources": [
     "kpmc"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753700",
+   "title": "11月高雄市電影館｜告別的年代",
+   "start": "2026-11-14T20:10:00+08:00",
+   "end": "2026-11-27T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -9279,6 +8982,33 @@
    ],
    "lat": 22.62268,
    "lng": 120.2891198,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb6026b3245efc7536f3",
+   "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
+   "start": "2026-11-15T19:00:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OE"
+    }
+   ],
+   "lat": null,
+   "lng": null,
    "aliases": [],
    "first_seen": "2026-10-21",
    "sources": [
@@ -14166,6 +13896,33 @@
    "first_seen": "2026-11-13",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "kmfa:5b53a3a4-9b18-48c5-b22d-d109a849555d",
+   "title": "腦力無邊—腦力多元視覺資料庫工作坊｜高美館多元感知共創場",
+   "start": "2026-11-24T00:00:00+08:00",
+   "end": "2026-11-24T23:59:59+08:00",
+   "venue": "高雄市立美術館 三樓高雄獎展場",
+   "address": "高雄市鼓山區美術館路80號",
+   "district": "鼓山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "高雄市立美術館",
+   "organizer_type": "政府",
+   "description": "活動日期｜11/24（二）10:00-12:00 活動地點｜本館3樓展覽室、美術資源教室 參與方式｜線上報名，活動免費 本活動報名人數已額滿 報到地點｜本館1樓服務台前 贊助單位｜台灣應用材料股份有限公司 **本活動以心智障礙、自閉症等腦力多元人士為主要參加對象。請於備註欄註明您的報名身分（參加對象／1位陪同者），以利活動安排。 【活動介紹】 只有一種正確的、單向的，觀看藝術品的方式嗎？觀看牽涉層面的廣度超乎想像，不只關乎視網膜。我們總在美術館，建立一套我們習以為常的觀看方式：看作品、聽導覽、閱讀文字，理解藝術家的創作。當腦力多元的人進入美術館，不該只能單向接收導覽、教導觀看，他們應是美術館裡…",
+   "links": [
+    {
+     "source": "kmfa",
+     "url": "https://www.kmfa.gov.tw/OnlineApplyDetailC001200.aspx?Cond=5b53a3a4-9b18-48c5-b22d-d109a849555d"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-14",
+   "sources": [
+    "kmfa"
    ]
   },
   {
@@ -19486,6 +19243,114 @@
    "first_seen": "2026-10-20",
    "sources": [
     "twmarket"
+   ]
+  },
+  {
+   "id": "accupass:2610040834182532393180",
+   "title": "【高雄公益】社交升級研究所 ‧ 兩性心理學系列【台政大專家識人實驗計畫｜1對1社交實境體驗 × 情感成長】",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-06T16:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運五塊厝附近",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "社交升級研究所（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "✨【高雄公益】社交升級研究所｜台政大專家識人實驗計畫✨ 結合兩性心理學與台政大專家指導，透過 1 對 1 實境互動，帶妳拆解盲點、看懂男人心！完成研究體驗累計最高領 $30,000 津貼，升級識人眼光，遇見 Mr. Right！ 📍質感空間 💰限額免費（採預約審核制）",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610040834182532393180"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-19",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610020834101328902245",
+   "title": "🎮【高雄沉浸式社交】10 場展覽漫步試煉：解鎖「鑑定紳士」審判官 | 心理測驗・MBTI",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-06T16:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運汽機車便捷直達之質感藝文場域/展覽空間（周邊附設完善停車機能）",
+   "district": "",
+   "category": "展覽",
+   "fee": "免費",
+   "organizer": "戀愛試煉實驗室（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "這是一場殘酷又浪漫的**「紳士鑑定」**！ 🌟 女生（審判官）： 限時免費看展。妳的匿名裁決決定他的去留，給低分他即刻淘汰，且再也見不到妳！ 🌟 男生（挑戰賽）： 挑戰 $2,000 獎金！需在 10 場漫步中維持 70 分以上高標。 🕐 時間： 2 小時/場（預約制）。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610020834101328902245"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-19",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610020833193084535650",
+   "title": "💰【高雄戀愛賞金】評分領 $4,000 獎學金：女生專屬戀愛賞金挑戰 | 質感社交・限額免費",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-06T16:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運五塊厝附近",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "戀愛試煉實驗室（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "這是一場專為追求效率與質感的單身者設計的挑戰！透過精準的一對一約會與雙方互評機制，確保每場互動的高品質。 實質獎勵：每累積 20 場無心動對象，即領 $4,000 賞金；推廣好友再拿獎金。 專業助攻：評分未達標者提供免費諮詢，助你精準修正戀愛信號。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610020833193084535650"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-19",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
+   "id": "accupass:2610040806126395726000",
+   "title": "【高雄手作】Maji戀愛解命所 ‧ 自我探索三部曲【星盤 × 生命靈數 × 香氛療癒DIY｜打造專屬香氛 × 遇見命中相合的異性】",
+   "start": "2026-12-05T14:00:00+08:00",
+   "end": "2026-12-06T17:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市捷運五塊厝附近",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "Maji戀愛解命所（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "✨【高雄手作】Maji戀愛解命所｜自我探索三部曲✨ 結合星盤與生命靈數，親手調配專屬氣場香氛！精緻 2 男 2 女互動，帶著香氛成果破冰交流，無壓力探索性格與情感契合度，遇見命中相合的 TA。 📍質感空間 💰限額免費（採預約審核制）",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610040806126395726000"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-19",
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -24970,6 +24835,33 @@
    ]
   },
   {
+   "id": "accupass:2610020810081680234920",
+   "title": "✨【高雄漫旅】書店漫步任務：挑戰解鎖 12 星座的知性頻率 | 西方占星",
+   "start": "2026-12-19T15:00:00+08:00",
+   "end": "2026-12-20T18:00:00+08:00",
+   "venue": "",
+   "address": "台灣高雄市精選大型高質感書店",
+   "district": "",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "玩任務（桃竹苗/中南部）",
+   "organizer_type": "不確定",
+   "description": "結合書店漫遊、城市散步與星座配對的情感探索活動。10 場書店步行任務，認識 10 種星座異性，邊走邊聊找默契。週末舉辦，每場約 2 小時。18 歲以上單身可報名，需完成回饋並參與系列任務。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2610020810081680234920"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-19",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "khcc:-37739:20261219",
    "title": "藝術市集",
    "start": "2026-12-19T16:00:00+08:00",
@@ -26616,6 +26508,33 @@
    "first_seen": "2026-11-10",
    "sources": [
     "twmarket"
+   ]
+  },
+  {
+   "id": "weiwuying:6af5755a80a8cc7831b983b9",
+   "title": "《琴房實驗室：舞台之前》",
+   "start": "2026-12-25T13:30:00+08:00",
+   "end": "2026-12-25T13:30:00+08:00",
+   "venue": "衛武營 排練室",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "其他",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "孩子第一次把音樂分享給別人，會是什麼模樣？",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6af5755a80a8cc7831b983b9"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-14",
+   "sources": [
+    "weiwuying"
    ]
   },
   {
@@ -34765,7 +34684,7 @@
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
-   "fee": "免費",
+   "fee": "付費",
    "organizer": "面白大丈夫有限公司",
    "organizer_type": "民間",
    "description": "日式漫才、搞笑短劇",
@@ -34876,6 +34795,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "opentix",
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ad8703f7af9a8000761343a",
+   "title": "2027【衛武營藝企學】上半年登場！",
+   "start": "2027-03-09T10:00:00+08:00",
+   "end": "2027-05-18T14:00:00+08:00",
+   "venue": "衛武營",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "衛武營國家藝術文化中心為南臺灣藝術發展重要基地，擁有全亞洲最大的管風琴、全臺唯一葡萄園式座席設計音樂廳與全臺唯一凸出式可升降延伸舞台的戲劇院。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ad8703f7af9a8000761343a"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-14",
+   "sources": [
     "weiwuying"
    ]
   },

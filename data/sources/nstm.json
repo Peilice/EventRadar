@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T05:47:54.495572+08:00",
+ "fetched_at": "2026-11-14T11:38:15.068963+08:00",
  "warning": "",
  "events": [
   {
@@ -19,33 +19,6 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015387&act_seq=1"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015510-1",
-   "title": "宏南宿舍生態走讀",
-   "start": "2026-11-14T08:30:00+08:00",
-   "end": "2026-11-14T10:30:00+08:00",
-   "venue": "國立科學工藝博物館 宏南宿舍市定古蹟",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：一般民眾；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015510&act_seq=1"
     }
    ],
    "lat": null,
@@ -127,33 +100,6 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015472&act_seq=7"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015451-2",
-   "title": "[魔科]火山爆發及轉轉魔棒(科學節限定優惠)",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T11:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：中、大班；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015451&act_seq=2"
     }
    ],
    "lat": null,
@@ -478,33 +424,6 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015452&act_seq=2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015463-1",
-   "title": "[性別教育]我們的第一個家：生命教育繪本分享與親子手繪(勵馨基金會高雄場)",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T11:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：親子(中班至大班)；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015463&act_seq=1"
     }
    ],
    "lat": null,

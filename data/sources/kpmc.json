@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T05:47:54.495572+08:00",
+ "fetched_at": "2026-11-14T11:38:15.068963+08:00",
  "warning": "",
  "events": [
   {
@@ -300,33 +300,6 @@
    ]
   },
   {
-   "id": "kpmc:16042",
-   "title": "高流系：Pro Tools專攻班",
-   "start": "2026-11-14T09:00:00+08:00",
-   "end": "2026-11-14T09:00:00+08:00",
-   "venue": "高雄流行音樂中心",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：黃昭智講師\n票價：6800 (恕不接受單日報名)",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-wrs-1114/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:15916",
    "title": "【加場】山下智久 2026 巡迴演唱會 DREAMING 高雄場",
    "start": "2026-11-14T14:00:00+08:00",
@@ -489,33 +462,6 @@
    ]
   },
   {
-   "id": "kpmc:16282",
-   "title": "探戈之夜｜班多鈕與人聲的交會",
-   "start": "2026-11-20T19:30:00+08:00",
-   "end": "2026-11-20T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：吳詠隆、江玉芳\n票價：單人500元 雙人900元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e6%8e%a2%e6%88%88%e4%b9%8b%e5%a4%9c%ef%bd%9c%e7%8f%ad%e5%a4%9a%e9%88%95%e8%88%87%e4%ba%ba%e8%81%b2%e7%9a%84%e4%ba%a4%e6%9c%83/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:16143",
    "title": "2026 Fire Live 壞兒來福 Vol.4",
    "start": "2026-11-20T19:30:00+08:00",
@@ -532,6 +478,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1120/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16282",
+   "title": "探戈之夜｜班多鈕與人聲的交會",
+   "start": "2026-11-20T19:30:00+08:00",
+   "end": "2026-11-20T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：吳詠隆、江玉芳\n票價：單人500元 雙人900元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e6%8e%a2%e6%88%88%e4%b9%8b%e5%a4%9c%ef%bd%9c%e7%8f%ad%e5%a4%9a%e9%88%95%e8%88%87%e4%ba%ba%e8%81%b2%e7%9a%84%e4%ba%a4%e6%9c%83/"
     }
    ],
    "lat": null,
@@ -597,33 +570,6 @@
    ]
   },
   {
-   "id": "kpmc:16284",
-   "title": "迷幻電風琴之夜！第六彈！",
-   "start": "2026-11-21T20:00:00+08:00",
-   "end": "2026-11-21T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：宋易修、許子薇、涂宸華、李祈均\n票價：單人500元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
    "id": "kpmc:15945",
    "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
    "start": "2026-11-21T20:00:00+08:00",
@@ -640,6 +586,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1121/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16284",
+   "title": "迷幻電風琴之夜！第六彈！",
+   "start": "2026-11-21T20:00:00+08:00",
+   "end": "2026-11-21T20:00:00+08:00",
+   "venue": "高雄流行音樂中心 音浪塔 高音塔",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "爵式 WiJazz Records",
+   "organizer_type": "民間",
+   "description": "演出：宋易修、許子薇、涂宸華、李祈均\n票價：單人500元 現場收費",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
     }
    ],
    "lat": null,
