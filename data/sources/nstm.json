@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T11:38:15.068963+08:00",
+ "fetched_at": "2026-11-15T04:25:08.202406+08:00",
  "warning": "",
  "events": [
   {
@@ -19,411 +19,6 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015387&act_seq=1"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015467-5",
-   "title": "食農教育工作坊-牛汶水繽紛樂",
-   "start": "2026-11-14T14:00:00+08:00",
-   "end": "2026-11-14T16:00:00+08:00",
-   "venue": "國立科學工藝博物館 2F(家庭廚房(機器人主廚旁)",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：4歲以上；領域：其他",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015467&act_seq=5"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015467-6",
-   "title": "食農教育工作坊-金蕉時蔬雞肉粥",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T12:00:00+08:00",
-   "venue": "國立科學工藝博物館 2F(家庭廚房(機器人主廚旁)",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：4歲以上；領域：其他",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015467&act_seq=6"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015472-7",
-   "title": "「樂活節能屋」闖關及 手搖發電機DIY 活動",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T16:00:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：小四至國中；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015472&act_seq=7"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015381-7",
-   "title": "山海五行｜原民工藝與自然創作系列：原住民圖騰交叉髮帶-11/14上午場",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T12:30:00+08:00",
-   "venue": "國立科學工藝博物館 B1趣自造-中教室",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：【限 在學國小三年級以上】；領域：工藝",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015381&act_seq=7"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015381-8",
-   "title": "山海五行｜原民工藝與自然創作系列：阿美族情人袋-11/14下午場",
-   "start": "2026-11-14T13:30:00+08:00",
-   "end": "2026-11-14T16:00:00+08:00",
-   "venue": "國立科學工藝博物館 B1趣自造-中教室",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：【限 在學國小三年級以上】；領域：工藝",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015381&act_seq=8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015468-9",
-   "title": "原民科學大富翁-假日場",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T16:30:00+08:00",
-   "venue": "國立科學工藝博物館 六樓廊道",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：九歲以上之親子(2-3人一組)；領域：科學教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=9"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015468-41",
-   "title": "智慧製造投擲區-投出你的科學好球帶",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T15:50:00+08:00",
-   "venue": "國立科學工藝博物館 東側 產業機器人專區",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：6歲以上親子；領域：科學教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=41"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015449-5",
-   "title": "一日「市」長工作坊-臺灣做陣走",
-   "start": "2026-11-14T09:30:00+08:00",
-   "end": "2026-11-14T16:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：6-12歲親子家庭（1大人1小孩為1組）；領域：其他",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=5"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015453-2",
-   "title": "[魔科]驚心洞破(科學節限定優惠)",
-   "start": "2026-11-14T15:00:00+08:00",
-   "end": "2026-11-14T16:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國小一至四年級；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015453&act_seq=2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015460-2",
-   "title": "[Steam]看得見的聲音(科學節限定優惠)",
-   "start": "2026-11-14T10:30:00+08:00",
-   "end": "2026-11-14T12:00:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國小四至六年級；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015460&act_seq=2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015462-2",
-   "title": "[Steam]馬達遙控對抗賽(科學節限定優惠)",
-   "start": "2026-11-14T15:00:00+08:00",
-   "end": "2026-11-14T16:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國小四至六年級；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015462&act_seq=2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015461-2",
-   "title": "[Steam]從零開始玩STEAM(科學節限定優惠)",
-   "start": "2026-11-14T13:00:00+08:00",
-   "end": "2026-11-14T14:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：5歲以上親子；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015461&act_seq=2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015436-5",
-   "title": "大人的五行系列手作： (土) 藏香｜擴香石創作-11/14 上午",
-   "start": "2026-11-14T10:00:00+08:00",
-   "end": "2026-11-14T12:30:00+08:00",
-   "venue": "國立科學工藝博物館 B1趣自造-大教室",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國一以上至成人；領域：工藝",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015436&act_seq=5"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015436-6",
-   "title": "大人的五行系列手作： (流) 流墨｜酒精墨水畫創作-11/14 下午",
-   "start": "2026-11-14T13:30:00+08:00",
-   "end": "2026-11-14T16:00:00+08:00",
-   "venue": "國立科學工藝博物館 B1趣自造-大教室",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國一以上至成人；領域：工藝",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015436&act_seq=6"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015452-2",
-   "title": "[魔科]水杯幻影(科學節限定優惠)",
-   "start": "2026-11-14T13:00:00+08:00",
-   "end": "2026-11-14T14:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國小一至四年級；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015452&act_seq=2"
     }
    ],
    "lat": null,
@@ -543,60 +138,6 @@
    ]
   },
   {
-   "id": "nstm:0000015468-45",
-   "title": "智慧製造投擲區-投出你的科學好球帶",
-   "start": "2026-11-15T10:00:00+08:00",
-   "end": "2026-11-15T15:50:00+08:00",
-   "venue": "國立科學工藝博物館 東側 產業機器人專區",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：6歲以上親子；領域：科學教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=45"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015468-13",
-   "title": "原民科學大富翁-假日場",
-   "start": "2026-11-15T10:00:00+08:00",
-   "end": "2026-11-15T16:30:00+08:00",
-   "venue": "國立科學工藝博物館 六樓廊道",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "免費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：九歲以上之親子(2-3人一組)；領域：科學教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=13"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
    "id": "nstm:0000015381-5",
    "title": "山海五行｜原民工藝與自然創作系列： 傘繩災防手環-11/15上午場",
    "start": "2026-11-15T10:00:00+08:00",
@@ -678,6 +219,60 @@
    ]
   },
   {
+   "id": "nstm:0000015468-13",
+   "title": "原民科學大富翁-假日場",
+   "start": "2026-11-15T10:00:00+08:00",
+   "end": "2026-11-15T16:30:00+08:00",
+   "venue": "國立科學工藝博物館 六樓廊道",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：九歲以上之親子(2-3人一組)；領域：科學教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=13"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
+   "id": "nstm:0000015468-45",
+   "title": "智慧製造投擲區-投出你的科學好球帶",
+   "start": "2026-11-15T10:00:00+08:00",
+   "end": "2026-11-15T15:50:00+08:00",
+   "venue": "國立科學工藝博物館 東側 產業機器人專區",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：6歲以上親子；領域：科學教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015468&act_seq=45"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
    "id": "nstm:0000015449-7",
    "title": "一日「市」長工作坊-臺灣做陣走",
    "start": "2026-11-15T09:30:00+08:00",
@@ -694,6 +289,87 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015449&act_seq=7"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
+   "id": "nstm:0000015436-8",
+   "title": "大人的五行系列手作： (合) 觀心｜覺察此刻 X 塔羅解密-11/15 下午",
+   "start": "2026-11-15T13:30:00+08:00",
+   "end": "2026-11-15T16:00:00+08:00",
+   "venue": "國立科學工藝博物館 B1趣自造-大教室",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：國一以上至成人；領域：工藝",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015436&act_seq=8"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
+   "id": "nstm:0000015454-2",
+   "title": "[魔科]隔山打牛及硬幣疊羅漢(科學節限定優惠)",
+   "start": "2026-11-15T10:00:00+08:00",
+   "end": "2026-11-15T11:30:00+08:00",
+   "venue": "國立科學工藝博物館",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：中、大班；領域：科技教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015454&act_seq=2"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
+   "id": "nstm:0000015455-2",
+   "title": "[魔科]水瓶精靈(科學節限定優惠)",
+   "start": "2026-11-15T13:00:00+08:00",
+   "end": "2026-11-15T14:30:00+08:00",
+   "venue": "國立科學工藝博物館",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：國小一至四年級；領域：科技教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015455&act_seq=2"
     }
    ],
    "lat": null,
@@ -802,87 +478,6 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015459&act_seq=2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015454-2",
-   "title": "[魔科]隔山打牛及硬幣疊羅漢(科學節限定優惠)",
-   "start": "2026-11-15T10:00:00+08:00",
-   "end": "2026-11-15T11:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：中、大班；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015454&act_seq=2"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015436-8",
-   "title": "大人的五行系列手作： (合) 觀心｜覺察此刻 X 塔羅解密-11/15 下午",
-   "start": "2026-11-15T13:30:00+08:00",
-   "end": "2026-11-15T16:00:00+08:00",
-   "venue": "國立科學工藝博物館 B1趣自造-大教室",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國一以上至成人；領域：工藝",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015436&act_seq=8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015455-2",
-   "title": "[魔科]水瓶精靈(科學節限定優惠)",
-   "start": "2026-11-15T13:00:00+08:00",
-   "end": "2026-11-15T14:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國小一至四年級；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015455&act_seq=2"
     }
    ],
    "lat": null,
