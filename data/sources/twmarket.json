@@ -1,7 +1,34 @@
 {
- "fetched_at": "2026-11-15T04:25:08.202406+08:00",
+ "fetched_at": "2026-11-15T15:20:57.939541+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "twmarket:62221:20261213",
+   "title": "MORI森藏聖誕嘉年華",
+   "start": "2026-12-13T12:00:00+08:00",
+   "end": "2026-12-13T19:00:00+08:00",
+   "venue": "FK教會場地",
+   "address": "",
+   "district": "",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：12/13（日）\n時間：12:00–19:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-13-%e9%ab%98%e9%9b%84-fk%e6%95%99%e6%9c%83%e5%a0%b4%e5%9c%b0-mori%e6%a3%ae%e8%97%8f%e8%81%96%e8%aa%95%e5%98%89%e5%b9%b4%e8%8f%af/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:62139",
    "title": "聖誕音樂糖親子探索派對",

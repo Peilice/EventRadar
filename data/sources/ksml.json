@@ -1,7 +1,34 @@
 {
- "fetched_at": "2026-11-15T04:25:08.202406+08:00",
+ "fetched_at": "2026-11-15T15:20:57.939541+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "ksml:16512",
+   "title": "【寶珠分館】「數位性別暴力防治講座｜螢幕裡我的人生，並不是你的色情片!」115/11/22(日)14:00-16:00講師:林奕萱 醫師",
+   "start": "2026-11-22T14:00:00+08:00",
+   "end": "2026-11-22T16:00:00+08:00",
+   "venue": "寶珠分館 藝文研習室（高雄市三民區大順二路468號4樓）",
+   "address": "高雄市三民區大順二路468號4樓",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館寶珠分館",
+   "organizer_type": "政府",
+   "description": "你以為那只是螢幕上的一張照片，對某個人而言，卻可能是一輩子無法抹去的傷痕。\n在看不見的網路暗處，有些人的人生，\n正被偷拍、被窺視、被交易，甚至被當成滿足慾望的商品。",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16512"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16200",
    "title": "📷大東講堂📷12/12(六)邀請黃景南主講「從社區營造到地景建築的夥伴與修行」，歡迎參加！",
@@ -451,33 +478,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16481"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16480",
-   "title": "【河堤分館】樂齡不設限系列公益講座~開放報名中~",
-   "start": "2026-11-15T10:00:00+08:00",
-   "end": "2026-11-15T12:00:00+08:00",
-   "venue": "河堤分館3F多功能教室",
-   "address": "高雄市三民區裕誠路1號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館河堤分館",
-   "organizer_type": "政府",
-   "description": "【樂齡不設限】系列公益講座\n開啟樂齡新生活，讓人生每一刻都精彩！\n退休是人生新階段的開始，如何適應生活轉變、維持良好腦力及照顧身心健康，是迎向樂齡生活的重要課題。",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16480"
     }
    ],
    "lat": null,
