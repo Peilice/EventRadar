@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T15:20:57.939541+08:00",
+ "fetched_at": "2026-11-16T04:48:41.799509+08:00",
  "warning": "",
  "events": [
   {
@@ -289,33 +289,6 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-hih-0725/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16280",
-   "title": "歲月微醺：愛與時光的呢喃｜爵式人聲樂團",
-   "start": "2026-11-15T16:00:00+08:00",
-   "end": "2026-11-15T16:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：爵式人聲樂團\n票價：單人450元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e6%ad%b2%e6%9c%88%e5%be%ae%e9%86%ba%ef%bc%9a%e6%84%9b%e8%88%87%e6%99%82%e5%85%89%e7%9a%84%e5%91%a2%e5%96%83%ef%bd%9c%e7%88%b5%e5%bc%8f%e4%ba%ba%e8%81%b2%e6%a8%82%e5%9c%98/"
     }
    ],
    "lat": null,
