@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T11:37:08.499703+08:00",
+ "fetched_at": "2026-11-15T15:19:54.424823+08:00",
  "warning": "",
  "events": [
   {
@@ -19,33 +19,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6af57b1180a8ccc21bb984ed"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6aa105478979e70007eadc0e",
-   "title": "2026 賦格【小小音樂大師課】高雄場",
-   "start": "2026-09-12T11:00:00+08:00",
-   "end": "2026-11-21T16:30:00+08:00",
-   "venue": "衛武營排練室",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "其他",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "小號明快嘹亮，和小紅帽勇敢走進森林",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6aa105478979e70007eadc0e"
     }
    ],
    "lat": null,
@@ -100,168 +73,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a4480497040b10008792144",
-   "title": "奇美音樂節【燦爛的深邃：布拉姆斯與他的時代】山光水色，雨暴風狂：布拉姆斯與德弗札克的名曲盛宴",
-   "start": "2026-11-14T14:30:00+08:00",
-   "end": "2026-11-14T14:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "布拉姆斯與德弗札克的名曲盛宴",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a4480497040b10008792144"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a3ca6825d4f570008715908",
-   "title": "吳念真國民戲劇《人間條件三》台北上午零時",
-   "start": "2026-11-13T19:30:00+08:00",
-   "end": "2026-11-15T14:30:00+08:00",
-   "venue": "衛武營 歌劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "當我把最大部份的愛放在你這裡之後，我能給其他人的，也只是零碎的。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a3ca6825d4f570008715908"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a6af906ef008b00072bcdda",
-   "title": "《拾光－2026天狼星口琴樂團音樂會》",
-   "start": "2026-11-14T19:30:00+08:00",
-   "end": "2026-11-14T19:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "口琴小巧，卻蘊藏無限可能。《拾光》邀您在歲末相聚，聽見天狼星一路累積的光影，也迎向即將展開的音樂旅程。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a6af906ef008b00072bcdda"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a7296d0c43d9300077d3feb",
-   "title": "【創意學習工作坊】跳進《胡桃鉗》的芭蕾舞會",
-   "start": "2026-11-15T10:00:00+08:00",
-   "end": "2026-11-15T14:00:00+08:00",
-   "venue": "衛武營排練室",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "# 帶著最愛的娃娃一起來場親子夢幻舞會",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a7296d0c43d9300077d3feb"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a603d6acdcdfe0008f6045c",
-   "title": "《時光之旅(四)~迎光－黃瓊儀鋼琴獨奏會》",
-   "start": "2026-11-15T14:30:00+08:00",
-   "end": "2026-11-15T14:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "小調的幽暗走向大調的光明 如幽谷迎向希望",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a603d6acdcdfe0008f6045c"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a4f05774f8b8c0007fb64e5",
-   "title": "表演工作坊《彈琴說愛》",
-   "start": "2026-11-15T14:30:00+08:00",
-   "end": "2026-11-15T14:30:00+08:00",
-   "venue": "衛武營 戲劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "最溫暖的音樂舞台劇",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a4f05774f8b8c0007fb64e5"
     }
    ],
    "lat": null,
@@ -559,6 +370,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69fae7b52404090007fc3925"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6aa105478979e70007eadc0e",
+   "title": "2026 賦格【小小音樂大師課】高雄場",
+   "start": "2026-09-12T11:00:00+08:00",
+   "end": "2026-11-21T16:30:00+08:00",
+   "venue": "衛武營排練室",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "其他",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "小號明快嘹亮，和小紅帽勇敢走進森林",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6aa105478979e70007eadc0e"
     }
    ],
    "lat": null,
@@ -3610,6 +3448,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ae3f774555c1b000868e221"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6af56f674a72cb270a86562c",
+   "title": "2027「臺灣舞蹈記憶地圖」階段成果發表座談會",
+   "start": "2027-01-23T10:00:00+08:00",
+   "end": "2027-01-24T10:00:00+08:00",
+   "venue": "衛武營 演講廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "召喚記憶，描繪臺灣舞蹈歷史的片刻風景。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6af56f674a72cb270a86562c"
     }
    ],
    "lat": null,

@@ -1,115 +1,7 @@
 {
- "fetched_at": "2026-11-14T11:37:08.499703+08:00",
+ "fetched_at": "2026-11-15T15:19:54.424823+08:00",
  "warning": "",
  "events": [
-  {
-   "id": "iculture:6a6d176426b32427d060431b",
-   "title": "2026和風  頌  風華演唱會",
-   "start": "2026-11-14T14:00:00+08:00",
-   "end": "2026-11-14T17:00:00+08:00",
-   "venue": "大東文化藝術中心演藝廳",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DQZ6W2"
-    }
-   ],
-   "lat": 22.6247642,
-   "lng": 120.3634355,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad30bb0647ab5fb78a2d1c6",
-   "title": "《雜音》舞踏公演 × 工作坊",
-   "start": "2026-11-14T11:00:00+08:00",
-   "end": "2026-11-14T18:00:00+08:00",
-   "venue": "大唐生活美學館",
-   "address": "三民區九如一路588號",
-   "district": "三民區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "大唐生活美學館",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://forms.gle/7L6GGq2BgX8iHiDd6"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad30bb0647ab5fb78a2d1c6",
-   "title": "《雜音》舞踏公演 × 工作坊",
-   "start": "2026-11-14T11:00:00+08:00",
-   "end": "2026-11-14T18:00:00+08:00",
-   "venue": "大唐生活美學館",
-   "address": "三民區九如一路588號",
-   "district": "三民區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "大唐生活美學館",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://forms.gle/7L6GGq2BgX8iHiDd6"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753703",
-   "title": "11月高雄市電影館｜坂本龍一・永恆的迴響",
-   "start": "2026-11-14T17:10:00+08:00",
-   "end": "2026-11-14T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PK"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
   {
    "id": "iculture:6a988e4126b32434f43580c2",
    "title": "2026 功學社「賞心樂目」年度音樂會（高雄場）",
@@ -410,9 +302,9 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f4",
    "title": "11月高雄市電影館｜與達賴喇嘛談心：尋找幸福的智慧",
-   "start": "2026-11-14T18:20:00+08:00",
+   "start": "2026-11-19T17:00:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -437,9 +329,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc7536ff",
    "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
-   "start": "2026-11-14T11:30:00+08:00",
+   "start": "2026-11-15T16:30:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -464,7 +356,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753702",
    "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-14T11:50:00+08:00",
+   "start": "2026-11-15T14:20:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -491,9 +383,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753700",
    "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-14T20:10:00+08:00",
+   "start": "2026-11-15T18:40:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -518,7 +410,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753701",
    "title": "11月高雄市電影館｜有用的人",
-   "start": "2026-11-14T14:20:00+08:00",
+   "start": "2026-11-15T15:50:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -815,7 +707,7 @@
   {
    "id": "iculture:6ad658f626b3245efc7536b9",
    "title": "11月高雄市電影館｜雙面薇若妮卡",
-   "start": "2026-11-14T19:00:00+08:00",
+   "start": "2026-11-18T19:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "高雄市電影館3樓",
    "address": "高雄市鹽埕區河西路10號",
@@ -842,7 +734,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ef",
    "title": "11月高雄市電影館｜世紀初戀 楊麗花",
-   "start": "2026-11-14T14:00:00+08:00",
+   "start": "2026-11-17T19:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "高雄市電影館3樓",
    "address": "高雄市鹽埕區河西路10號",
@@ -869,9 +761,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f0",
    "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-14T20:30:00+08:00",
+   "start": "2026-11-15T11:30:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -896,11 +788,11 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f1",
    "title": "11月高雄市電影館｜廚師發辦",
-   "start": "2026-11-14T16:30:00+08:00",
+   "start": "2026-11-15T11:50:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鹽埕區河西路10號",
-   "district": "鹽埕區",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -912,8 +804,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O0"
     }
    ],
-   "lat": 22.62268,
-   "lng": 120.2891198,
+   "lat": null,
+   "lng": null,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -2622,303 +2514,6 @@
    ]
   },
   {
-   "id": "iculture:695ecb3626b3243dd4e6ac19",
-   "title": "科學發展史/海報主題展",
-   "start": "2026-01-01T09:00:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "高雄市立圖書館左新分館",
-   "address": "高雄市左營區博愛三路453號",
-   "district": "左營區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館總館",
-   "organizer_type": "政府",
-   "description": "海報展介紹科學發展史：物質、能(力.熱.光.電)、應用、生物與醫學..等。讓民眾到館藉由展覽了解阿基米德、牛頓、赫茲、孟德爾科學發展史的知識與由來。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb3626b3243dd4e6ac19"
-    }
-   ],
-   "lat": 22.6783295,
-   "lng": 120.3046289,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:695ecb3726b3243dd4e6ac1a",
-   "title": "LEARPRINT 內惟聲響實驗 65聲道的交響體驗",
-   "start": "2026-01-01T11:00:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "內惟藝術中心",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "未知",
-   "organizer": "高雄市立美術館、財團法人高雄市愛樂文化藝術基金會",
-   "organizer_type": "政府",
-   "description": "《LEARPRINT 內惟聲響實驗-65聲道的交響體驗》是法國音場設計與聲學創作人—阿蘭•馮榭（ALAIN FRANÇAIS）所作，乍看下為一顆顆純白簡樸的音箱組成，似乎不足為奇。但當你走進音箱之間，將感知到每種樂器無比清晰的聲音。每個音箱猶如一件件樂器真實地在耳邊演奏。與一般聆聽數位音樂不同，更多了立體及空間環繞之感，翻轉大家以往的聽覺體驗與享受。 高雄為台灣少數同時擁有中、西兩個樂團的城市，2016年阿蘭•馮榭至高雄為高雄市交響樂團與高雄國樂團錄製了近15首樂團曲目。國樂與西樂在編製與樂器音量表現上大有不同，這項差異激發了他產生許多創意與挑戰，將音箱技術翻轉成為藝術展演。讓觀眾跟隨自己的好…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.nwac.org.tw/tw/news-content/0378575Ae540"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:695ecb3726b3243dd4e6ac1b",
-   "title": "內惟藝術中心首展｜解惟．解圍 Once within Borders",
-   "start": "2026-01-01T11:00:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "內惟藝術中心",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "內惟藝術中心",
-   "organizer_type": "政府",
-   "description": "「內惟藝術中心」，一座由內惟向城市開放的新型態藝術中心。透過與多元藝術體驗之互動，啟動「生活藝術‧藝術生活」城市文化新樣態。在這個場域中，透過社區導向的對話式藝術、當代影像與經典電影、藝術修復與診療等機能，開展出一個親子互動共學的公共生活與生活美學空間。以跨域、跨世代、跨族群「跨、輕、新」之三大精神，融合各種可能性，實現沒有邊界與藩籬的藝術體驗，開啟新型態藝術生活的想像與實踐。 開幕首展以《解惟‧解圍》為題，「解開圍籬、迎向內惟」透過歷史和當下的對話，從文化空間的敞開、公共場域的再形塑，以及在地社區歷史紋理的重新閱讀，內惟藝術中心將成為「社區縫合」之關鍵角色，形成新都市地貌與文化地景，迎向開放…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb3726b3243dd4e6ac1b"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:695ecb4526b3243dd4e6ac23",
-   "title": "乘浪上港特展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T20:00:00+08:00",
-   "venue": "紅毛港文化園區",
-   "address": "高雄市小港區006鄰南星路2808號",
-   "district": "小港區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "展示館透過充滿創意的展示手法與體驗設計，讓來到紅毛港園區參訪的鄉親和遊客能夠在此緬懷先民胼手胝足的開創精神，並穿梭時空體會從純樸年代發展到現今的海洋生活各類風貌。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb4526b3243dd4e6ac23"
-    }
-   ],
-   "lat": 22.5553185,
-   "lng": 120.3608455,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:695ecb4526b3243dd4e6ac24",
-   "title": "紅毛港舊物件展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T20:00:00+08:00",
-   "venue": "紅毛港文化園區",
-   "address": "高雄市小港區006鄰南星路2808號",
-   "district": "小港區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "紅毛港舊物件展收集紅毛港居民未遷村前息息相關生活用品，藉由展示這些老舊物件追尋紅毛港前人的生活點滴。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb4526b3243dd4e6ac24"
-    }
-   ],
-   "lat": 22.5553185,
-   "lng": 120.3608455,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa79226b3243b1ca0c046",
-   "title": "柴燒生活陶藝作品展",
-   "start": "2026-01-02T09:00:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "高雄市立圖書館大樹二館",
-   "address": "高雄市大樹區25鄰久堂路97-1號",
-   "district": "大樹區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館總館",
-   "organizer_type": "政府",
-   "description": "林昭地大師對於陶作種類涉獵之廣，經歷之豐富，是當代傳統陶藝界罕見的，透過本次柴燒生活陶藝品的展出，不僅回顧傳統社會生活面向，更可體會林大師對製陶的堅持，勉勵珍惜當下生活資源。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa79226b3243b1ca0c046"
-    }
-   ],
-   "lat": 22.6586226,
-   "lng": 120.4192897,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c05f",
-   "title": "歷史建築旗山車站–糖鐵故事館常設展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T19:00:00+08:00",
-   "venue": "旗山車站(原旗山驛)",
-   "address": "高雄市旗山區007鄰中山路1號",
-   "district": "旗山區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "「旗山車站-糖鐵故事館」漫步在旗山老街，一座青藍色的八角式屋頂的童話屋矗立在街道的底部。旗山車站，糖業鐵路-旗尾線最重要的站點，高雄內山九區的門戶，日治時代擔負起糖、甘蔗、香蕉等產業的運輸重任，支撐起屬於旗山最黃金的風華年代，2005年登錄為歷史建築，2016年以糖鐵故事館的面貌從新開幕。 2021年重新整理內部空間使糖鐵故事館成為以糖、香蕉與火車的主題文創展示館與商店，旗尾線的旗字353號比利時小火車車頭及VR虛擬實境裝置等展示，還有獨家開發的文創商品，讓大家透過火車頭與虛擬科技重回旗尾線的懷舊時光，也可帶回滿滿觀光的紀念小物。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c05f"
-    }
-   ],
-   "lat": 22.8846224,
-   "lng": 120.4819792,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c063",
-   "title": "打狗英國領事館文化園區常設展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T19:00:00+08:00",
-   "venue": "打狗英國領事館文化園區",
-   "address": "高雄市鼓山區蓮海路20號",
-   "district": "鼓山區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "英國領事館與登山古道，是全台唯一完整保存官邸及辦公室之領事館園區，引領民眾認識打狗開港及其在世界海洋經貿歷史發展的特殊文化意義。打狗英國領事館有得天獨厚遠眺西子灣海景夕照的迷人景致，歷年在博物館與地方文化館計畫補助下，完成修復及活化再利用，已成為全台最熱門的古蹟文化館之一，園區內有栩栩如生的時空場景模擬，重現英國領事館及過往時代風貌的主題展示，並提供專業導覽解說、精緻文創藝品展售、優質餐飲服務，是值得您細細品味的文化之旅。 • 打狗英國領事館文化園區 展覽B廳 • 打狗英國領事館文化園區 展覽A廳 • 打狗英國領事館文化園區 領事官邸展區 • 打狗英國領事館文化園區 領事館辦公室展區",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c063"
-    }
-   ],
-   "lat": 22.618911,
-   "lng": 120.26685,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c06c",
-   "title": "《微醺大飯店》沉浸式劇場",
-   "start": "2026-01-01T17:50:00+08:00",
-   "end": "2026-12-31T20:50:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "臺灣產學策進會",
-   "organizer_type": "不確定",
-   "description": "《微醺大飯店 The Great Tipsy》是一場90分鐘結合互動表演、調酒、AI科技的「沉浸式體驗」，觀眾將會被帶入神祕大廳，並將故事的發展方向的選擇權交給觀眾決定，過程中包含5場演出、3杯調酒，打破以往對看秀、品酒的既定印象。 以劇場表演結合聲光、數位技術與餐飲感官刺激，打造全新敘事型互動科技娛樂。https://www.surpriselab.com.tw/thegreattipsy/",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://www.surpriselab.com.tw/thegreattipsy/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c06d",
-   "title": "劍道文化推廣-劍道初級課程",
-   "start": "2026-01-01T18:30:00+08:00",
-   "end": "2026-12-31T19:30:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "社團法人高雄市劍道文化促進會",
-   "organizer_type": "民間",
-   "description": "高雄市劍道文化促進會於武德殿辦理劍道初級課程，時間為每週二三五六 18:30~19:30；每週六日 08:30~09:30。劍道的課程理念強調身心的一致和道德的培養，即透過身體的訓練來培養心智的平靜和集中力。劍道的技術和動作需要精確的身體協調和控制，培養學習者對自己身體的掌控和把握。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c06d"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7bb26b3243b1ca0c06f",
-   "title": "劍道文化推廣-劍道中級課程",
-   "start": "2026-01-01T19:30:00+08:00",
-   "end": "2026-12-31T20:30:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "社團法人高雄市劍道文化促進會",
-   "organizer_type": "民間",
-   "description": "高雄市劍道文化促進會於武德殿辦理劍道中級課程，時間為每週二三五六 19:30~20:30；每週六日 09:30~10:30。劍道的課程理念強調身心的一致和道德的培養，即透過身體的訓練來培養心智的平靜和集中力。劍道的技術和動作需要精確的身體協調和控制,培養學習者對自己身體的掌控和把握。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c06f"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:696aa7c526b3243b1ca0c071",
    "title": "POP! POP! POP!流行音樂互動展",
    "start": "2026-01-01T10:00:00+08:00",
@@ -2935,33 +2530,6 @@
     {
      "source": "iculture",
      "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c071"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:696aa7c526b3243b1ca0c072",
-   "title": "「夢境現實─MR沉浸式劇院」-沉浸式投影及MR互動",
-   "start": "2026-01-01T13:30:00+08:00",
-   "end": "2026-12-31T19:00:00+08:00",
-   "venue": "苓雅區（高雄市）=",
-   "address": "高雄市苓雅區",
-   "district": "苓雅區",
-   "category": "其他",
-   "fee": "付費",
-   "organizer": "夢境現實股份有限公司",
-   "organizer_type": "民間",
-   "description": "結合混合實境與沈浸式投影，以科技推進藝術的界線，打造新型態的藝術場域。讓參與者在欣賞藝術的同時更全⾯、整體的投入，成為藝術的⼀部分。 由台灣動畫公司夢想動畫成立，2021 年是夢境現實的起點。前所未⾒的感官體驗、夢境中才能實現的夢幻場景，都在這裡成為現實。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c072"
     }
    ],
    "lat": null,
@@ -2993,87 +2561,6 @@
    ],
    "lat": null,
    "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69824f0c26b32454e437c6db",
-   "title": "市定古蹟鳳儀書院常設展",
-   "start": "2026-01-01T10:30:00+08:00",
-   "end": "2026-12-31T18:30:00+08:00",
-   "venue": "鳳儀書院",
-   "address": "高雄市鳳山區013鄰鳳明街62號",
-   "district": "鳳山區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "鳳儀書院是台灣現存書院中年代最早，且規模完整與最大之書院，創建年代於清嘉慶19年(1814)。日治時期，台灣總督府大力推廣新式教育體制，書院因而日漸沒落，屋舍逐年殘破。戰後，屋舍相繼被租佔戶所用，書院格局嚴重受破壞。 文化局於民國96年發包整修，於102年10月修復完成，著手進行展示規劃，於103年11月1日正式開園營運。館內配合書院氛圍，策畫鳳山、鳳儀書院及科舉歷史等展示，並呈現文昌祠祭祀空間，本場域為古蹟活化案例，非常值得您細細品味它的建築之美與文化歷史。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69824f0c26b32454e437c6db"
-    }
-   ],
-   "lat": 22.6271266,
-   "lng": 120.3589718,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:699f5a5926b32454e437cb40",
-   "title": "高雄市電影館親子教育展-光影魔幻樂園",
-   "start": "2026-01-01T13:30:00+08:00",
-   "end": "2026-12-31T21:30:00+08:00",
-   "venue": "高雄市電影館",
-   "address": "高雄市鹽埕區4鄰河西路10號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市電影館",
-   "organizer_type": "政府",
-   "description": "「光影魔幻樂園」展覽在高雄市電影館夢幻開展！ 從現在開始，爸爸媽媽可以牽起孩子的手，來到電影館一樓，包覆在電影館專為孩子創造的友善空間，我們邀請大家徜徉在魔幻動物園，體會如森林萬花筒繽紛視覺的展場，探索一個又一個以「視覺暫留」產出的驚奇玩具，運用各種藝術形式啟發孩子對電影的興趣與感知。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=699f5a5926b32454e437cb40"
-    }
-   ],
-   "lat": 22.622671,
-   "lng": 120.289122,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:699f5a5926b32454e437cb41",
-   "title": "《畫雄影：港都扛棒仔》特展",
-   "start": "2026-01-01T13:30:00+08:00",
-   "end": "2026-12-31T21:30:00+08:00",
-   "venue": "高雄市電影館",
-   "address": "高雄市鹽埕區4鄰河西路10號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市電影館",
-   "organizer_type": "政府",
-   "description": "在數位娛樂尚未普及的年代，電影曾是大眾最重要的娛樂形式。戲院林立，百家爭鳴，觀眾絡繹不絕。為了吸引群眾進場，片商與戲院特別聘請專業畫師創作各式各樣的海報與手繪看板。這些作品色彩鮮明、構圖誇張，往往在觀眾尚未踏入戲院之前，就已經引發對電影劇情的無限想像。 當時街頭的廣告看板不只是宣傳工具，更是城市景觀的一部分。哪一部電影最受歡迎？哪位明星最新登場？人們透過看板交換消息、討論話題，戲院外牆便成為大眾日常生活的一面「文化布告欄」。手繪看板讓黑漆漆的戲院宛如萬花筒般，在街頭反射出一個又一個絢爛奪目的故事。 與今日影城內部統一張貼的印刷海報相比，過去的手繪看板更具有鮮明個性。每一位畫師都有獨特的筆觸與風…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=699f5a5926b32454e437cb41"
-    }
-   ],
-   "lat": 22.622671,
-   "lng": 120.289122,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3151,33 +2638,6 @@
     {
      "source": "iculture",
      "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c0fb26b3242a48a9da13"
-    }
-   ],
-   "lat": 22.6199666,
-   "lng": 120.2816536,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69b1c0fb26b3242a48a9da14",
-   "title": "濱線啟程 再現港都鐵道百年風華哈瑪星-鐵道園區火車動靜態展示",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T20:00:00+08:00",
-   "venue": "高雄市駁二藝術特區",
-   "address": "高雄市鹽埕區8鄰大勇路1號",
-   "district": "鹽埕區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "1900年是高雄的鐵道元年，打狗驛設置於現今五福四路、檢修車棚、號誌樓一帶，再往南即是潟湖與潮間灘地。鐵道的載運頻繁，越顯腹地不足，便於車站南方進行填海造陸，1905年，一條五百多公尺長的鐵道，向南延伸至這片海埔新生地，稱為濱線。「濱線」的日語發音HA-MA-SEN，久而久之成為在地居民口中的「哈瑪星」。1908年更將車站往南擴張到現今的舊打狗驛。 現存的哈瑪星鐵道園區即為日治時期的打狗驛，作為高雄第一座火車站，成為砂糖與各種物資進出台灣的中繼站，是高雄市百年城市發展的重要起點。1941年客運站搬遷之後，繼續以高雄港驛之名服務貨物運輸，直至2008年因配合市區鐵路地下化計畫而停用。 2024年…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c0fb26b3242a48a9da14"
     }
    ],
    "lat": 22.6199666,
@@ -3324,6 +2784,465 @@
    ]
   },
   {
+   "id": "iculture:6a28644d26b3243414ccd09c",
+   "title": "還是先躺一下再說？",
+   "start": "2026-06-12T10:00:00+08:00",
+   "end": "2026-12-31T18:00:00+08:00",
+   "venue": "高雄市駁二藝術特區",
+   "address": "高雄市鹽埕區8鄰大勇路1號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "在不斷奔跑前進的時代，「站著」代表了勞動、警覺與效率。 我們習慣了垂直於地面的姿態，卻忘了最放鬆、最能自我修復的時刻，其實是與地面平行。 當你與地面平行，那些平日壓在肩上的重力會悄然散開，曾經以為撞上的牆，從另一個角度看去，是通往星空的窗，那些巨大的恐懼也會縮小成天花板上的一粒塵埃。 「還是先躺一下再說？」展覽邀請觀眾重整視線與感知，在不同作品之間慢慢鬆開身體與思緒，重新感受身體、環境與日常生活的關係。 如果生活讓你覺得累了，先躺一下再說吧，準備好再起身出發。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a28644d26b3243414ccd09c"
+    }
+   ],
+   "lat": 22.6199666,
+   "lng": 120.2816536,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69824f0c26b32454e437c6db",
+   "title": "市定古蹟鳳儀書院常設展",
+   "start": "2026-01-01T10:30:00+08:00",
+   "end": "2026-12-31T18:30:00+08:00",
+   "venue": "鳳儀書院",
+   "address": "高雄市鳳山區013鄰鳳明街62號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "鳳儀書院是台灣現存書院中年代最早，且規模完整與最大之書院，創建年代於清嘉慶19年(1814)。日治時期，台灣總督府大力推廣新式教育體制，書院因而日漸沒落，屋舍逐年殘破。戰後，屋舍相繼被租佔戶所用，書院格局嚴重受破壞。 文化局於民國96年發包整修，於102年10月修復完成，著手進行展示規劃，於103年11月1日正式開園營運。館內配合書院氛圍，策畫鳳山、鳳儀書院及科舉歷史等展示，並呈現文昌祠祭祀空間，本場域為古蹟活化案例，非常值得您細細品味它的建築之美與文化歷史。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69824f0c26b32454e437c6db"
+    }
+   ],
+   "lat": 22.6271266,
+   "lng": 120.3589718,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c05f",
+   "title": "歷史建築旗山車站–糖鐵故事館常設展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T19:00:00+08:00",
+   "venue": "旗山車站(原旗山驛)",
+   "address": "高雄市旗山區007鄰中山路1號",
+   "district": "旗山區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "「旗山車站-糖鐵故事館」漫步在旗山老街，一座青藍色的八角式屋頂的童話屋矗立在街道的底部。旗山車站，糖業鐵路-旗尾線最重要的站點，高雄內山九區的門戶，日治時代擔負起糖、甘蔗、香蕉等產業的運輸重任，支撐起屬於旗山最黃金的風華年代，2005年登錄為歷史建築，2016年以糖鐵故事館的面貌從新開幕。 2021年重新整理內部空間使糖鐵故事館成為以糖、香蕉與火車的主題文創展示館與商店，旗尾線的旗字353號比利時小火車車頭及VR虛擬實境裝置等展示，還有獨家開發的文創商品，讓大家透過火車頭與虛擬科技重回旗尾線的懷舊時光，也可帶回滿滿觀光的紀念小物。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c05f"
+    }
+   ],
+   "lat": 22.8846224,
+   "lng": 120.4819792,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c063",
+   "title": "打狗英國領事館文化園區常設展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T19:00:00+08:00",
+   "venue": "打狗英國領事館文化園區",
+   "address": "高雄市鼓山區蓮海路20號",
+   "district": "鼓山區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "英國領事館與登山古道，是全台唯一完整保存官邸及辦公室之領事館園區，引領民眾認識打狗開港及其在世界海洋經貿歷史發展的特殊文化意義。打狗英國領事館有得天獨厚遠眺西子灣海景夕照的迷人景致，歷年在博物館與地方文化館計畫補助下，完成修復及活化再利用，已成為全台最熱門的古蹟文化館之一，園區內有栩栩如生的時空場景模擬，重現英國領事館及過往時代風貌的主題展示，並提供專業導覽解說、精緻文創藝品展售、優質餐飲服務，是值得您細細品味的文化之旅。 • 打狗英國領事館文化園區 展覽B廳 • 打狗英國領事館文化園區 展覽A廳 • 打狗英國領事館文化園區 領事官邸展區 • 打狗英國領事館文化園區 領事館辦公室展區",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c063"
+    }
+   ],
+   "lat": 22.618911,
+   "lng": 120.26685,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7c526b3243b1ca0c072",
+   "title": "「夢境現實─MR沉浸式劇院」-沉浸式投影及MR互動",
+   "start": "2026-01-01T13:30:00+08:00",
+   "end": "2026-12-31T19:00:00+08:00",
+   "venue": "苓雅區（高雄市）=",
+   "address": "高雄市苓雅區",
+   "district": "苓雅區",
+   "category": "其他",
+   "fee": "付費",
+   "organizer": "夢境現實股份有限公司",
+   "organizer_type": "民間",
+   "description": "結合混合實境與沈浸式投影，以科技推進藝術的界線，打造新型態的藝術場域。讓參與者在欣賞藝術的同時更全⾯、整體的投入，成為藝術的⼀部分。 由台灣動畫公司夢想動畫成立，2021 年是夢境現實的起點。前所未⾒的感官體驗、夢境中才能實現的夢幻場景，都在這裡成為現實。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7c526b3243b1ca0c072"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c06d",
+   "title": "劍道文化推廣-劍道初級課程",
+   "start": "2026-01-01T18:30:00+08:00",
+   "end": "2026-12-31T19:30:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "社團法人高雄市劍道文化促進會",
+   "organizer_type": "民間",
+   "description": "高雄市劍道文化促進會於武德殿辦理劍道初級課程，時間為每週二三五六 18:30~19:30；每週六日 08:30~09:30。劍道的課程理念強調身心的一致和道德的培養，即透過身體的訓練來培養心智的平靜和集中力。劍道的技術和動作需要精確的身體協調和控制，培養學習者對自己身體的掌控和把握。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c06d"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:695ecb4526b3243dd4e6ac23",
+   "title": "乘浪上港特展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T20:00:00+08:00",
+   "venue": "紅毛港文化園區",
+   "address": "高雄市小港區006鄰南星路2808號",
+   "district": "小港區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "展示館透過充滿創意的展示手法與體驗設計，讓來到紅毛港園區參訪的鄉親和遊客能夠在此緬懷先民胼手胝足的開創精神，並穿梭時空體會從純樸年代發展到現今的海洋生活各類風貌。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb4526b3243dd4e6ac23"
+    }
+   ],
+   "lat": 22.5553185,
+   "lng": 120.3608455,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:695ecb3626b3243dd4e6ac19",
+   "title": "科學發展史/海報主題展",
+   "start": "2026-01-01T09:00:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "高雄市立圖書館左新分館",
+   "address": "高雄市左營區博愛三路453號",
+   "district": "左營區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館總館",
+   "organizer_type": "政府",
+   "description": "海報展介紹科學發展史：物質、能(力.熱.光.電)、應用、生物與醫學..等。讓民眾到館藉由展覽了解阿基米德、牛頓、赫茲、孟德爾科學發展史的知識與由來。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb3626b3243dd4e6ac19"
+    }
+   ],
+   "lat": 22.6783295,
+   "lng": 120.3046289,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:695ecb3726b3243dd4e6ac1a",
+   "title": "LEARPRINT 內惟聲響實驗 65聲道的交響體驗",
+   "start": "2026-01-01T11:00:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "內惟藝術中心",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市立美術館、財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "政府",
+   "description": "《LEARPRINT 內惟聲響實驗-65聲道的交響體驗》是法國音場設計與聲學創作人—阿蘭•馮榭（ALAIN FRANÇAIS）所作，乍看下為一顆顆純白簡樸的音箱組成，似乎不足為奇。但當你走進音箱之間，將感知到每種樂器無比清晰的聲音。每個音箱猶如一件件樂器真實地在耳邊演奏。與一般聆聽數位音樂不同，更多了立體及空間環繞之感，翻轉大家以往的聽覺體驗與享受。 高雄為台灣少數同時擁有中、西兩個樂團的城市，2016年阿蘭•馮榭至高雄為高雄市交響樂團與高雄國樂團錄製了近15首樂團曲目。國樂與西樂在編製與樂器音量表現上大有不同，這項差異激發了他產生許多創意與挑戰，將音箱技術翻轉成為藝術展演。讓觀眾跟隨自己的好…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.nwac.org.tw/tw/news-content/0378575Ae540"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:695ecb3726b3243dd4e6ac1b",
+   "title": "內惟藝術中心首展｜解惟．解圍 Once within Borders",
+   "start": "2026-01-01T11:00:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "內惟藝術中心",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "內惟藝術中心",
+   "organizer_type": "政府",
+   "description": "「內惟藝術中心」，一座由內惟向城市開放的新型態藝術中心。透過與多元藝術體驗之互動，啟動「生活藝術‧藝術生活」城市文化新樣態。在這個場域中，透過社區導向的對話式藝術、當代影像與經典電影、藝術修復與診療等機能，開展出一個親子互動共學的公共生活與生活美學空間。以跨域、跨世代、跨族群「跨、輕、新」之三大精神，融合各種可能性，實現沒有邊界與藩籬的藝術體驗，開啟新型態藝術生活的想像與實踐。 開幕首展以《解惟‧解圍》為題，「解開圍籬、迎向內惟」透過歷史和當下的對話，從文化空間的敞開、公共場域的再形塑，以及在地社區歷史紋理的重新閱讀，內惟藝術中心將成為「社區縫合」之關鍵角色，形成新都市地貌與文化地景，迎向開放…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb3726b3243dd4e6ac1b"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:695ecb4526b3243dd4e6ac24",
+   "title": "紅毛港舊物件展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T20:00:00+08:00",
+   "venue": "紅毛港文化園區",
+   "address": "高雄市小港區006鄰南星路2808號",
+   "district": "小港區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "紅毛港舊物件展收集紅毛港居民未遷村前息息相關生活用品，藉由展示這些老舊物件追尋紅毛港前人的生活點滴。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb4526b3243dd4e6ac24"
+    }
+   ],
+   "lat": 22.5553185,
+   "lng": 120.3608455,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa79226b3243b1ca0c046",
+   "title": "柴燒生活陶藝作品展",
+   "start": "2026-01-02T09:00:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "高雄市立圖書館大樹二館",
+   "address": "高雄市大樹區25鄰久堂路97-1號",
+   "district": "大樹區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館總館",
+   "organizer_type": "政府",
+   "description": "林昭地大師對於陶作種類涉獵之廣，經歷之豐富，是當代傳統陶藝界罕見的，透過本次柴燒生活陶藝品的展出，不僅回顧傳統社會生活面向，更可體會林大師對製陶的堅持，勉勵珍惜當下生活資源。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa79226b3243b1ca0c046"
+    }
+   ],
+   "lat": 22.6586226,
+   "lng": 120.4192897,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c06c",
+   "title": "《微醺大飯店》沉浸式劇場",
+   "start": "2026-01-01T17:50:00+08:00",
+   "end": "2026-12-31T20:50:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "臺灣產學策進會",
+   "organizer_type": "不確定",
+   "description": "《微醺大飯店 The Great Tipsy》是一場90分鐘結合互動表演、調酒、AI科技的「沉浸式體驗」，觀眾將會被帶入神祕大廳，並將故事的發展方向的選擇權交給觀眾決定，過程中包含5場演出、3杯調酒，打破以往對看秀、品酒的既定印象。 以劇場表演結合聲光、數位技術與餐飲感官刺激，打造全新敘事型互動科技娛樂。https://www.surpriselab.com.tw/thegreattipsy/",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.surpriselab.com.tw/thegreattipsy/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c06f",
+   "title": "劍道文化推廣-劍道中級課程",
+   "start": "2026-01-01T19:30:00+08:00",
+   "end": "2026-12-31T20:30:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "社團法人高雄市劍道文化促進會",
+   "organizer_type": "民間",
+   "description": "高雄市劍道文化促進會於武德殿辦理劍道中級課程，時間為每週二三五六 19:30~20:30；每週六日 09:30~10:30。劍道的課程理念強調身心的一致和道德的培養，即透過身體的訓練來培養心智的平靜和集中力。劍道的技術和動作需要精確的身體協調和控制,培養學習者對自己身體的掌控和把握。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c06f"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:699f5a5926b32454e437cb40",
+   "title": "高雄市電影館親子教育展-光影魔幻樂園",
+   "start": "2026-01-01T13:30:00+08:00",
+   "end": "2026-12-31T21:30:00+08:00",
+   "venue": "高雄市電影館",
+   "address": "高雄市鹽埕區4鄰河西路10號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市電影館",
+   "organizer_type": "政府",
+   "description": "「光影魔幻樂園」展覽在高雄市電影館夢幻開展！ 從現在開始，爸爸媽媽可以牽起孩子的手，來到電影館一樓，包覆在電影館專為孩子創造的友善空間，我們邀請大家徜徉在魔幻動物園，體會如森林萬花筒繽紛視覺的展場，探索一個又一個以「視覺暫留」產出的驚奇玩具，運用各種藝術形式啟發孩子對電影的興趣與感知。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=699f5a5926b32454e437cb40"
+    }
+   ],
+   "lat": 22.622671,
+   "lng": 120.289122,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:699f5a5926b32454e437cb41",
+   "title": "《畫雄影：港都扛棒仔》特展",
+   "start": "2026-01-01T13:30:00+08:00",
+   "end": "2026-12-31T21:30:00+08:00",
+   "venue": "高雄市電影館",
+   "address": "高雄市鹽埕區4鄰河西路10號",
+   "district": "鹽埕區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市電影館",
+   "organizer_type": "政府",
+   "description": "在數位娛樂尚未普及的年代，電影曾是大眾最重要的娛樂形式。戲院林立，百家爭鳴，觀眾絡繹不絕。為了吸引群眾進場，片商與戲院特別聘請專業畫師創作各式各樣的海報與手繪看板。這些作品色彩鮮明、構圖誇張，往往在觀眾尚未踏入戲院之前，就已經引發對電影劇情的無限想像。 當時街頭的廣告看板不只是宣傳工具，更是城市景觀的一部分。哪一部電影最受歡迎？哪位明星最新登場？人們透過看板交換消息、討論話題，戲院外牆便成為大眾日常生活的一面「文化布告欄」。手繪看板讓黑漆漆的戲院宛如萬花筒般，在街頭反射出一個又一個絢爛奪目的故事。 與今日影城內部統一張貼的印刷海報相比，過去的手繪看板更具有鮮明個性。每一位畫師都有獨特的筆觸與風…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=699f5a5926b32454e437cb41"
+    }
+   ],
+   "lat": 22.622671,
+   "lng": 120.289122,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c0fb26b3242a48a9da14",
+   "title": "濱線啟程 再現港都鐵道百年風華哈瑪星-鐵道園區火車動靜態展示",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T20:00:00+08:00",
+   "venue": "高雄市駁二藝術特區",
+   "address": "高雄市鹽埕區8鄰大勇路1號",
+   "district": "鹽埕區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "1900年是高雄的鐵道元年，打狗驛設置於現今五福四路、檢修車棚、號誌樓一帶，再往南即是潟湖與潮間灘地。鐵道的載運頻繁，越顯腹地不足，便於車站南方進行填海造陸，1905年，一條五百多公尺長的鐵道，向南延伸至這片海埔新生地，稱為濱線。「濱線」的日語發音HA-MA-SEN，久而久之成為在地居民口中的「哈瑪星」。1908年更將車站往南擴張到現今的舊打狗驛。 現存的哈瑪星鐵道園區即為日治時期的打狗驛，作為高雄第一座火車站，成為砂糖與各種物資進出台灣的中繼站，是高雄市百年城市發展的重要起點。1941年客運站搬遷之後，繼續以高雄港驛之名服務貨物運輸，直至2008年因配合市區鐵路地下化計畫而停用。 2024年…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c0fb26b3242a48a9da14"
+    }
+   ],
+   "lat": 22.6199666,
+   "lng": 120.2816536,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:69fa47ba26b3243414ccc5f7",
    "title": "郵玩數世界",
    "start": "2027-01-01T09:00:00+08:00",
@@ -3371,33 +3290,6 @@
    ],
    "lat": 22.6294735,
    "lng": 120.2815569,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a28644d26b3243414ccd09c",
-   "title": "還是先躺一下再說？",
-   "start": "2026-06-12T10:00:00+08:00",
-   "end": "2026-12-31T18:00:00+08:00",
-   "venue": "高雄市駁二藝術特區",
-   "address": "高雄市鹽埕區8鄰大勇路1號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "在不斷奔跑前進的時代，「站著」代表了勞動、警覺與效率。 我們習慣了垂直於地面的姿態，卻忘了最放鬆、最能自我修復的時刻，其實是與地面平行。 當你與地面平行，那些平日壓在肩上的重力會悄然散開，曾經以為撞上的牆，從另一個角度看去，是通往星空的窗，那些巨大的恐懼也會縮小成天花板上的一粒塵埃。 「還是先躺一下再說？」展覽邀請觀眾重整視線與感知，在不同作品之間慢慢鬆開身體與思緒，重新感受身體、環境與日常生活的關係。 如果生活讓你覺得累了，先躺一下再說吧，準備好再起身出發。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a28644d26b3243414ccd09c"
-    }
-   ],
-   "lat": 22.6199666,
-   "lng": 120.2816536,
    "aliases": [],
    "first_seen": "",
    "sources": [
