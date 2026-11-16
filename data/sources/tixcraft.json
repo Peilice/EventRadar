@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T15:19:54.424823+08:00",
+ "fetched_at": "2026-11-16T10:46:39.335241+08:00",
  "warning": "",
  "events": [
   {
@@ -262,33 +262,6 @@
     {
      "source": "tixcraft",
      "url": "https://tixcraft.com/activity/detail/26_btskns"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "tixcraft"
-   ]
-  },
-  {
-   "id": "tixcraft:26_ksmasters",
-   "title": "2026高雄羽球大師賽",
-   "start": "2026-11-11T00:00:00+08:00",
-   "end": "2026-11-15T23:59:59+08:00",
-   "venue": "高雄巨蛋",
-   "address": "",
-   "district": "左營區",
-   "category": "運動",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "tixcraft",
-     "url": "https://tixcraft.com/activity/detail/26_ksmasters"
     }
    ],
    "lat": null,

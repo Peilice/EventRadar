@@ -1,34 +1,7 @@
 {
- "fetched_at": "2026-11-15T15:19:54.424823+08:00",
+ "fetched_at": "2026-11-16T10:46:39.335241+08:00",
  "warning": "",
  "events": [
-  {
-   "id": "weiwuying:6af57b1180a8ccc21bb984ed",
-   "title": "農糧署115年臺灣農糧產業行銷計畫－原鄉產品推廣",
-   "start": "2026-11-14T00:00:00+08:00",
-   "end": "2026-11-15T23:59:59+08:00",
-   "venue": "衛武營 榕樹廣場",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "為推廣國產農糧產品、拓展原鄉特色農產行銷通路",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6af57b1180a8ccc21bb984ed"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
    "title": "跳出來的地圖：那些身體走過的臺灣路",
@@ -73,33 +46,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69c3902a7d6fea00076ee43b",
-   "title": "賽門．拉圖爵士與巴伐利亞廣播交響樂團",
-   "start": "2026-11-15T19:00:00+08:00",
-   "end": "2026-11-15T19:00:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "拉圖爵士率領巴伐利亞廣播交響樂團及台北愛樂合唱團，全臺獨家演繹馬勒交響鉅作《復活》，以音樂叩問生命，見證大師半世紀淬鍊之聲。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69c3902a7d6fea00076ee43b"
     }
    ],
    "lat": null,

@@ -1,34 +1,7 @@
 {
- "fetched_at": "2026-11-15T15:19:54.424823+08:00",
+ "fetched_at": "2026-11-16T10:46:39.335241+08:00",
  "warning": "",
  "events": [
-  {
-   "id": "iculture:6a988e4126b32434f43580c2",
-   "title": "2026 功學社「賞心樂目」年度音樂會（高雄場）",
-   "start": "2026-11-15T16:00:00+08:00",
-   "end": "2026-11-15T17:30:00+08:00",
-   "venue": "國立中山大學逸仙館",
-   "address": "高雄市鼓山區蓮海路70號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5TXVJ"
-    }
-   ],
-   "lat": 22.628388,
-   "lng": 120.264737,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
   {
    "id": "iculture:69616b5126b3243dd4e6acd7",
    "title": "岡山圖書館合唱團班",
@@ -248,7 +221,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ee",
    "title": "11月高雄市電影館｜沙央",
-   "start": "2026-11-15T19:00:00+08:00",
+   "start": "2026-11-17T14:00:00+08:00",
    "end": "2026-11-25T23:59:00+08:00",
    "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鹽埕區河西路10號",
@@ -329,9 +302,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc7536ff",
    "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
-   "start": "2026-11-15T16:30:00+08:00",
+   "start": "2026-11-17T14:50:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -356,11 +329,11 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753702",
    "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-15T14:20:00+08:00",
+   "start": "2026-11-17T16:30:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -372,8 +345,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PD"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -383,9 +356,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753700",
    "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-15T18:40:00+08:00",
+   "start": "2026-11-17T19:20:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -410,9 +383,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753701",
    "title": "11月高雄市電影館｜有用的人",
-   "start": "2026-11-15T15:50:00+08:00",
+   "start": "2026-11-17T19:40:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -437,9 +410,9 @@
   {
    "id": "iculture:6ac7d85426b324165c32e5c8",
    "title": "11月高雄市電影館｜長短腳電影院－蹦蹦奇遇森友會",
-   "start": "2026-11-15T14:00:00+08:00",
+   "start": "2026-11-28T14:00:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "venue": "內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -464,7 +437,7 @@
   {
    "id": "iculture:6ad658f626b3245efc7536ba",
    "title": "11月高雄市電影館｜紅色情深",
-   "start": "2026-11-15T14:00:00+08:00",
+   "start": "2026-11-25T19:20:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
    "venue": "高雄市電影館3樓",
    "address": "高雄市鹽埕區河西路10號",
@@ -545,9 +518,9 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f3",
    "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
-   "start": "2026-11-15T19:00:00+08:00",
+   "start": "2026-11-18T14:50:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "venue": "內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -572,11 +545,11 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753704",
    "title": "11月高雄市電影館｜放送禁止：一夫三妻",
-   "start": "2026-11-15T16:30:00+08:00",
+   "start": "2026-11-18T17:50:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
-   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鹽埕區河西路10號",
-   "district": "鹽埕區",
+   "venue": "內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -588,8 +561,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PR"
     }
    ],
-   "lat": 22.62268,
-   "lng": 120.2891198,
+   "lat": null,
+   "lng": null,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -761,9 +734,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f0",
    "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-15T11:30:00+08:00",
+   "start": "2026-11-17T14:20:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -788,9 +761,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f1",
    "title": "11月高雄市電影館｜廚師發辦",
-   "start": "2026-11-15T11:50:00+08:00",
+   "start": "2026-11-17T17:10:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -2973,6 +2946,114 @@
    ]
   },
   {
+   "id": "iculture:695ecb4526b3243dd4e6ac24",
+   "title": "紅毛港舊物件展",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T20:00:00+08:00",
+   "venue": "紅毛港文化園區",
+   "address": "高雄市小港區006鄰南星路2808號",
+   "district": "小港區",
+   "category": "展覽",
+   "fee": "付費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "紅毛港舊物件展收集紅毛港居民未遷村前息息相關生活用品，藉由展示這些老舊物件追尋紅毛港前人的生活點滴。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb4526b3243dd4e6ac24"
+    }
+   ],
+   "lat": 22.5553185,
+   "lng": 120.3608455,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:69b1c0fb26b3242a48a9da14",
+   "title": "濱線啟程 再現港都鐵道百年風華哈瑪星-鐵道園區火車動靜態展示",
+   "start": "2026-01-01T10:00:00+08:00",
+   "end": "2026-12-31T20:00:00+08:00",
+   "venue": "高雄市駁二藝術特區",
+   "address": "高雄市鹽埕區8鄰大勇路1號",
+   "district": "鹽埕區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "1900年是高雄的鐵道元年，打狗驛設置於現今五福四路、檢修車棚、號誌樓一帶，再往南即是潟湖與潮間灘地。鐵道的載運頻繁，越顯腹地不足，便於車站南方進行填海造陸，1905年，一條五百多公尺長的鐵道，向南延伸至這片海埔新生地，稱為濱線。「濱線」的日語發音HA-MA-SEN，久而久之成為在地居民口中的「哈瑪星」。1908年更將車站往南擴張到現今的舊打狗驛。 現存的哈瑪星鐵道園區即為日治時期的打狗驛，作為高雄第一座火車站，成為砂糖與各種物資進出台灣的中繼站，是高雄市百年城市發展的重要起點。1941年客運站搬遷之後，繼續以高雄港驛之名服務貨物運輸，直至2008年因配合市區鐵路地下化計畫而停用。 2024年…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c0fb26b3242a48a9da14"
+    }
+   ],
+   "lat": 22.6199666,
+   "lng": 120.2816536,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c06f",
+   "title": "劍道文化推廣-劍道中級課程",
+   "start": "2026-01-01T19:30:00+08:00",
+   "end": "2026-12-31T20:30:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "社團法人高雄市劍道文化促進會",
+   "organizer_type": "民間",
+   "description": "高雄市劍道文化促進會於武德殿辦理劍道中級課程，時間為每週二三五六 19:30~20:30；每週六日 09:30~10:30。劍道的課程理念強調身心的一致和道德的培養，即透過身體的訓練來培養心智的平靜和集中力。劍道的技術和動作需要精確的身體協調和控制,培養學習者對自己身體的掌控和把握。",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c06f"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:696aa7bb26b3243b1ca0c06c",
+   "title": "《微醺大飯店》沉浸式劇場",
+   "start": "2026-01-01T17:50:00+08:00",
+   "end": "2026-12-31T20:50:00+08:00",
+   "venue": "鼓山區（高雄市）=",
+   "address": "高雄市鼓山區",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "臺灣產學策進會",
+   "organizer_type": "不確定",
+   "description": "《微醺大飯店 The Great Tipsy》是一場90分鐘結合互動表演、調酒、AI科技的「沉浸式體驗」，觀眾將會被帶入神祕大廳，並將故事的發展方向的選擇權交給觀眾決定，過程中包含5場演出、3杯調酒，打破以往對看秀、品酒的既定印象。 以劇場表演結合聲光、數位技術與餐飲感官刺激，打造全新敘事型互動科技娛樂。https://www.surpriselab.com.tw/thegreattipsy/",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://www.surpriselab.com.tw/thegreattipsy/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:695ecb3626b3243dd4e6ac19",
    "title": "科學發展史/海報主題展",
    "start": "2026-01-01T09:00:00+08:00",
@@ -3054,33 +3135,6 @@
    ]
   },
   {
-   "id": "iculture:695ecb4526b3243dd4e6ac24",
-   "title": "紅毛港舊物件展",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T20:00:00+08:00",
-   "venue": "紅毛港文化園區",
-   "address": "高雄市小港區006鄰南星路2808號",
-   "district": "小港區",
-   "category": "展覽",
-   "fee": "付費",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "紅毛港舊物件展收集紅毛港居民未遷村前息息相關生活用品，藉由展示這些老舊物件追尋紅毛港前人的生活點滴。",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=695ecb4526b3243dd4e6ac24"
-    }
-   ],
-   "lat": 22.5553185,
-   "lng": 120.3608455,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:696aa79226b3243b1ca0c046",
    "title": "柴燒生活陶藝作品展",
    "start": "2026-01-02T09:00:00+08:00",
@@ -3108,26 +3162,26 @@
    ]
   },
   {
-   "id": "iculture:696aa7bb26b3243b1ca0c06c",
-   "title": "《微醺大飯店》沉浸式劇場",
-   "start": "2026-01-01T17:50:00+08:00",
-   "end": "2026-12-31T20:50:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "臺灣產學策進會",
+   "id": "iculture:6a04ccf326b3243414ccc882",
+   "title": "鹽埕埔文武聖殿聖諭宣講 (高雄市無形文化資產)",
+   "start": "2026-03-20T19:30:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "財團法人高雄市文武聖殿",
+   "address": "高雄市鹽埕區富野路170號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "財團法人高雄市文武聖殿",
    "organizer_type": "不確定",
-   "description": "《微醺大飯店 The Great Tipsy》是一場90分鐘結合互動表演、調酒、AI科技的「沉浸式體驗」，觀眾將會被帶入神祕大廳，並將故事的發展方向的選擇權交給觀眾決定，過程中包含5場演出、3杯調酒，打破以往對看秀、品酒的既定印象。 以劇場表演結合聲光、數位技術與餐飲感官刺激，打造全新敘事型互動科技娛樂。https://www.surpriselab.com.tw/thegreattipsy/",
+   "description": "《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。宣講是明清時期以來的一套教化制度，是透過地方官員或仕紳文人宣頌政令，以達到社會安定的目的。其內容分別涉及了社會關係、教育、生計和安寧及秩序等，是穩定社會的重要機制。 文武聖殿聖諭宣講緣起，據《臺灣日日新報》報導，始於大正15年（1926年）；但若依據民國50年建立的「興建文武…",
    "links": [
     {
      "source": "iculture",
-     "url": "https://www.surpriselab.com.tw/thegreattipsy/"
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a04ccf326b3243414ccc882"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.6294735,
+   "lng": 120.2815569,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3135,26 +3189,26 @@
    ]
   },
   {
-   "id": "iculture:696aa7bb26b3243b1ca0c06f",
-   "title": "劍道文化推廣-劍道中級課程",
-   "start": "2026-01-01T19:30:00+08:00",
-   "end": "2026-12-31T20:30:00+08:00",
-   "venue": "鼓山區（高雄市）=",
-   "address": "高雄市鼓山區",
-   "district": "鼓山區",
-   "category": "講座／課程",
+   "id": "iculture:6a39871026b3243414ccd4fe",
+   "title": "喜閱網專區書展",
+   "start": "2026-01-02T09:00:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "高雄市立圖書館李科永紀念圖書館",
+   "address": "高雄市前金區民生二路37號",
+   "district": "前金區",
+   "category": "展覽",
    "fee": "未知",
-   "organizer": "社團法人高雄市劍道文化促進會",
-   "organizer_type": "民間",
-   "description": "高雄市劍道文化促進會於武德殿辦理劍道中級課程，時間為每週二三五六 19:30~20:30；每週六日 09:30~10:30。劍道的課程理念強調身心的一致和道德的培養，即透過身體的訓練來培養心智的平靜和集中力。劍道的技術和動作需要精確的身體協調和控制,培養學習者對自己身體的掌控和把握。",
+   "organizer": "高雄市立圖書館總館",
+   "organizer_type": "政府",
+   "description": "本館特別規劃「喜閱網專區書展」，各類優良讀物，包含童話故事、科學知識、歷史文化、冒險小說及生活教育等豐富內容，讓大家在閱讀中發現樂趣、增廣見聞。 歡迎大家挑選自己喜愛的書籍閱讀，透過喜閱網閱讀認證活動，完成認證測驗後，不僅能檢視自己的閱讀成果，更能累積知識與提升閱讀理解能力喔!",
    "links": [
     {
      "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=696aa7bb26b3243b1ca0c06f"
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a39871026b3243414ccd4fe"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 25.0421407,
+   "lng": 121.5198716,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3216,33 +3270,6 @@
    ]
   },
   {
-   "id": "iculture:69b1c0fb26b3242a48a9da14",
-   "title": "濱線啟程 再現港都鐵道百年風華哈瑪星-鐵道園區火車動靜態展示",
-   "start": "2026-01-01T10:00:00+08:00",
-   "end": "2026-12-31T20:00:00+08:00",
-   "venue": "高雄市駁二藝術特區",
-   "address": "高雄市鹽埕區8鄰大勇路1號",
-   "district": "鹽埕區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "高雄市政府文化局",
-   "organizer_type": "政府",
-   "description": "1900年是高雄的鐵道元年，打狗驛設置於現今五福四路、檢修車棚、號誌樓一帶，再往南即是潟湖與潮間灘地。鐵道的載運頻繁，越顯腹地不足，便於車站南方進行填海造陸，1905年，一條五百多公尺長的鐵道，向南延伸至這片海埔新生地，稱為濱線。「濱線」的日語發音HA-MA-SEN，久而久之成為在地居民口中的「哈瑪星」。1908年更將車站往南擴張到現今的舊打狗驛。 現存的哈瑪星鐵道園區即為日治時期的打狗驛，作為高雄第一座火車站，成為砂糖與各種物資進出台灣的中繼站，是高雄市百年城市發展的重要起點。1941年客運站搬遷之後，繼續以高雄港驛之名服務貨物運輸，直至2008年因配合市區鐵路地下化計畫而停用。 2024年…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=69b1c0fb26b3242a48a9da14"
-    }
-   ],
-   "lat": 22.6199666,
-   "lng": 120.2816536,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:69fa47ba26b3243414ccc5f7",
    "title": "郵玩數世界",
    "start": "2027-01-01T09:00:00+08:00",
@@ -3263,60 +3290,6 @@
    ],
    "lat": null,
    "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a04ccf326b3243414ccc882",
-   "title": "鹽埕埔文武聖殿聖諭宣講 (高雄市無形文化資產)",
-   "start": "2026-03-20T19:30:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "財團法人高雄市文武聖殿",
-   "address": "高雄市鹽埕區富野路170號",
-   "district": "鹽埕區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "財團法人高雄市文武聖殿",
-   "organizer_type": "不確定",
-   "description": "《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。宣講是明清時期以來的一套教化制度，是透過地方官員或仕紳文人宣頌政令，以達到社會安定的目的。其內容分別涉及了社會關係、教育、生計和安寧及秩序等，是穩定社會的重要機制。 文武聖殿聖諭宣講緣起，據《臺灣日日新報》報導，始於大正15年（1926年）；但若依據民國50年建立的「興建文武…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a04ccf326b3243414ccc882"
-    }
-   ],
-   "lat": 22.6294735,
-   "lng": 120.2815569,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a39871026b3243414ccd4fe",
-   "title": "喜閱網專區書展",
-   "start": "2026-01-02T09:00:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "高雄市立圖書館李科永紀念圖書館",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館總館",
-   "organizer_type": "政府",
-   "description": "本館特別規劃「喜閱網專區書展」，各類優良讀物，包含童話故事、科學知識、歷史文化、冒險小說及生活教育等豐富內容，讓大家在閱讀中發現樂趣、增廣見聞。 歡迎大家挑選自己喜愛的書籍閱讀，透過喜閱網閱讀認證活動，完成認證測驗後，不僅能檢視自己的閱讀成果，更能累積知識與提升閱讀理解能力喔!",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a39871026b3243414ccd4fe"
-    }
-   ],
-   "lat": 25.0421407,
-   "lng": 121.5198716,
    "aliases": [],
    "first_seen": "",
    "sources": [
