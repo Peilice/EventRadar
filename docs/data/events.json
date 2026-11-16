@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T04:48:41.799509+08:00",
+ "generated_at": "2026-11-16T10:47:44.179581+08:00",
  "events": [
   {
    "id": "nstm:482a5d16-72b3-435a-843b-905f75e9de2c",
@@ -4465,60 +4465,6 @@
    ]
   },
   {
-   "id": "iculture:6ad7bb5f26b3245efc7536f0",
-   "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-15T11:30:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q9"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb5f26b3245efc7536f1",
-   "title": "11月高雄市電影館｜廚師發辦",
-   "start": "2026-11-15T11:50:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O0"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "accupass:2608050848131302334573",
    "title": "兒童專注力焦點訓練(2~6年級親子)-202611期(高雄班)",
    "start": "2026-11-15T13:30:00+08:00",
@@ -4543,249 +4489,6 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "iculture:6ad658f626b3245efc7536ba",
-   "title": "11月高雄市電影館｜紅色情深",
-   "start": "2026-11-15T14:00:00+08:00",
-   "end": "2026-11-28T23:59:00+08:00",
-   "venue": "高雄市電影館3樓",
-   "address": "高雄市鹽埕區河西路10號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HF16BD"
-    }
-   ],
-   "lat": 22.62268,
-   "lng": 120.2891198,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ac7d85426b324165c32e5c8",
-   "title": "11月高雄市電影館｜長短腳電影院－蹦蹦奇遇森友會",
-   "start": "2026-11-15T14:00:00+08:00",
-   "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I41"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753702",
-   "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-15T14:20:00+08:00",
-   "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PD"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753701",
-   "title": "11月高雄市電影館｜有用的人",
-   "start": "2026-11-15T15:50:00+08:00",
-   "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc7536ff",
-   "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
-   "start": "2026-11-15T16:30:00+08:00",
-   "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OS"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753704",
-   "title": "11月高雄市電影館｜放送禁止：一夫三妻",
-   "start": "2026-11-15T16:30:00+08:00",
-   "end": "2026-11-28T23:59:00+08:00",
-   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鹽埕區河西路10號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PR"
-    }
-   ],
-   "lat": 22.62268,
-   "lng": 120.2891198,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753700",
-   "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-15T18:40:00+08:00",
-   "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb5f26b3245efc7536ee",
-   "title": "11月高雄市電影館｜沙央",
-   "start": "2026-11-15T19:00:00+08:00",
-   "end": "2026-11-25T23:59:00+08:00",
-   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鹽埕區河西路10號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0PV"
-    }
-   ],
-   "lat": 22.62268,
-   "lng": 120.2891198,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb6026b3245efc7536f3",
-   "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
-   "start": "2026-11-15T19:00:00+08:00",
-   "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OE"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
    ]
   },
   {
@@ -5039,6 +4742,114 @@
    ]
   },
   {
+   "id": "iculture:6ad7bb5f26b3245efc7536ee",
+   "title": "11月高雄市電影館｜沙央",
+   "start": "2026-11-17T14:00:00+08:00",
+   "end": "2026-11-25T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0PV"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb5f26b3245efc7536f0",
+   "title": "11月高雄市電影館｜屍控片場性愛死",
+   "start": "2026-11-17T14:20:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q9"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc7536ff",
+   "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
+   "start": "2026-11-17T14:50:00+08:00",
+   "end": "2026-11-26T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OS"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753702",
+   "title": "11月高雄市電影館｜黑潮",
+   "start": "2026-11-17T16:30:00+08:00",
+   "end": "2026-11-26T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PD"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:6ad7bb5f26b3245efc7536f2",
    "title": "11月高雄市電影館｜與畢諾許共舞",
    "start": "2026-11-17T16:50:00+08:00",
@@ -5055,6 +4866,33 @@
     {
      "source": "iculture",
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O7"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb5f26b3245efc7536f1",
+   "title": "11月高雄市電影館｜廚師發辦",
+   "start": "2026-11-17T17:10:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O0"
     }
    ],
    "lat": null,
@@ -5115,6 +4953,33 @@
    "lng": 120.2891198,
    "aliases": [],
    "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753700",
+   "title": "11月高雄市電影館｜告別的年代",
+   "start": "2026-11-17T19:20:00+08:00",
+   "end": "2026-11-27T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
    "sources": [
     "iculture"
    ]
@@ -5208,6 +5073,33 @@
    ]
   },
   {
+   "id": "iculture:6ad91d1d26b3245efc753701",
+   "title": "11月高雄市電影館｜有用的人",
+   "start": "2026-11-17T19:40:00+08:00",
+   "end": "2026-11-27T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "ksml:16466",
    "title": "[鼓山分館]115年11/18(三)台語意識培力-毋免驚講無好，咱做伙講台語 歡迎您的參與!",
    "start": "2026-11-18T00:00:00+08:00",
@@ -5232,6 +5124,33 @@
    "first_seen": "2026-10-29",
    "sources": [
     "ksml"
+   ]
+  },
+  {
+   "id": "nstm:dc6c067e-1642-4500-990d-94f6b5f899c4",
+   "title": "哈囉！我有問題：微生物與抗藥性的大小事",
+   "start": "2026-11-18T00:00:00+08:00",
+   "end": "2026-12-31T23:59:59+08:00",
+   "venue": "國立科學工藝博物館",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "哈囉！我有問題：微生物與抗藥性的大小事 展期｜2026年11月18日至12月31日 地點｜國立科學工藝博物館6樓中央走道 病毒一定比細菌小嗎？細菌都是壞人嗎？抗生素為什麼會失去效力？ 原來，看不見的微觀世界，藏著這麼多有趣的故事！ 跟著可愛的微生物角色，一起認識巨型病毒、噬菌體、阿米巴蟲與各種微生物，探索抗生素的發現與抗藥性的祕密。 你是否也曾經忘記吃藥、擔心抗生素傷身，或有問題卻不知道該怎麼問醫師？ 這次，我們把民眾的真實疑問帶進展場！透過情境漫畫、迷思投票、數位遊戲及趣味留言互動，一起認識抗生素與健康的關係，也看看醫師如何回應大家的用藥困惑。 從微觀世界到新興傳染病，從科學知識到每天的生活…",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://www.nstm.gov.tw/Exhibition.aspx?KeyID=dc6c067e-1642-4500-990d-94f6b5f899c4"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-16",
+   "sources": [
+    "nstm"
    ]
   },
   {
@@ -5313,6 +5232,60 @@
    "first_seen": "2026-11-07",
    "sources": [
     "ksml"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb6026b3245efc7536f3",
+   "title": "11月高雄市電影館｜讓子彈飛 全新4K修復版",
+   "start": "2026-11-18T14:50:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OE"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753704",
+   "title": "11月高雄市電影館｜放送禁止：一夫三妻",
+   "start": "2026-11-18T17:50:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PR"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -5603,6 +5576,33 @@
    "first_seen": "2026-10-21",
    "sources": [
     "iculture"
+   ]
+  },
+  {
+   "id": "accupass:2611160233208579181550",
+   "title": "AI賦能交易",
+   "start": "2026-11-19T18:30:00+08:00",
+   "end": "2026-11-19T20:00:00+08:00",
+   "venue": "元大期貨7F",
+   "address": "台灣高雄市中正四路143號7樓",
+   "district": "",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "元大期貨高雄分公司",
+   "organizer_type": "民間",
+   "description": "📊 AI賦能交易｜利用 AI 讓你的交易具象化 ✅ 不懂程式，也能開始學習 ✅ 利用 AI 將交易想法轉換成策略程式 ✅ 透過視覺化回測，檢視歷史交易表現 ✅ 現場實際操作示範",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2611160233208579181550"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-16",
+   "sources": [
+    "accupass"
    ]
   },
   {
@@ -9699,6 +9699,33 @@
    ]
   },
   {
+   "id": "accupass:2611141007516388538800",
+   "title": "「 動物說什麼 」做一個牠喜歡的禮物－嗅聞玩具手作工作坊",
+   "start": "2026-11-22T16:00:00+08:00",
+   "end": "2026-11-22T17:00:00+08:00",
+   "venue": "駁二",
+   "address": "台灣高雄市鹽埕區莒光街6號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "無尾香蕉動物學校",
+   "organizer_type": "不確定",
+   "description": "動物說什麼？牠們一直都在透過日常行為、肢體動作告訴我們，只是我們還沒學會觀察， 從觀察、手作到認養，學會了解牠們說的需求，一起更靠近彼此 ❤️ 邀請您一起參與「動物說什麼」年度系列同樂課！ 這堂課讓我們一起了解嗅聞對狗狗的重要性，還可以手動製作他們的玩具喔。",
+   "links": [
+    {
+     "source": "accupass",
+     "url": "https://www.accupass.com/event/2611141007516388538800"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-16",
+   "sources": [
+    "accupass"
+   ]
+  },
+  {
    "id": "khcc:-37738:20261122",
    "title": "藝術市集",
    "start": "2026-11-22T16:00:00+08:00",
@@ -10155,6 +10182,33 @@
    "first_seen": "2026-10-29",
    "sources": [
     "opentix"
+   ]
+  },
+  {
+   "id": "iculture:6ad658f626b3245efc7536ba",
+   "title": "11月高雄市電影館｜紅色情深",
+   "start": "2026-11-25T19:20:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "高雄市電影館3樓",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HF16BD"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -11665,6 +11719,33 @@
    "lng": 120.2891198,
    "aliases": [],
    "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ac7d85426b324165c32e5c8",
+   "title": "11月高雄市電影館｜長短腳電影院－蹦蹦奇遇森友會",
+   "start": "2026-11-28T14:00:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I41"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-19",
    "sources": [
     "iculture"
    ]
@@ -25563,6 +25644,33 @@
    ]
   },
   {
+   "id": "opentix:2120799522899263489:20270110",
+   "title": "就是愛炫5－華韻流彩",
+   "start": "2027-01-10T15:00:00+08:00",
+   "end": "2027-01-10T16:40:00+08:00",
+   "venue": "大東文化藝術中心",
+   "address": "",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
+   "description": "在指揮李英的引領下，本場音樂會匯聚五位優秀青年演奏家，帶來風格各異的協奏作品，最後以大型合奏曲《秦兵馬俑・幻想曲》壓軸結束。從明快奔放的旋律到深沉細膩的情感，透過多變的音樂風格與豐富的表現層次，展現民族音樂的獨特魅力，帶領聽眾走進一場充滿想像與情感的音樂旅程。 曲目 •靈動奔放－李玥錦《笙．臨其境》 由笙團員張琮浩帶來《笙．臨其境》，流行音樂色彩的和聲交織明快節奏，時而奔放有力，時而細膩沉靜，在多變的旋律中展現笙豐富的音色與獨特魅力。 •英雄豪情－王乙聿《英雄路之戰雲》 融合傳統音樂與現代電影配樂風格，王乙聿以琵琶刻畫武俠世界中的刀光劍影、情感糾葛與命運衝突。本曲將由琵琶團員周襄綺詮釋，在華麗…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2120799522899263489"
+    }
+   ],
+   "lat": 22.6247642,
+   "lng": 120.3634355,
+   "aliases": [],
+   "first_seen": "2026-11-16",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "khcc:-39812:20270110",
    "title": "藝術市集",
    "start": "2027-01-10T16:00:00+08:00",
@@ -26886,8 +26994,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270123",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270123",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-01-23T14:00:00+08:00",
    "end": "2027-01-23T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -26901,13 +27009,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -27291,8 +27399,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270124",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270124",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-01-24T14:00:00+08:00",
    "end": "2027-01-24T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -27306,13 +27414,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -27342,6 +27450,33 @@
    "first_seen": "2026-10-20",
    "sources": [
     "twmarket"
+   ]
+  },
+  {
+   "id": "opentix:2120804577930952705:20270124",
+   "title": "交響．命運之聲",
+   "start": "2027-01-24T15:00:00+08:00",
+   "end": "2027-01-24T16:40:00+08:00",
+   "venue": "大東文化藝術中心",
+   "address": "",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "財團法人高雄市愛樂文化藝術基金會",
+   "organizer_type": "民間",
+   "description": "在指揮鮑恆毅的引領下， KSO青少年交響樂團將以豐富多變的交響樂章，帶領聽眾展開一場充滿情感與張力的音樂旅程。 交響樂融合多樣的樂器音色與層次豐富的編曲，既能展現磅礴氣勢，也能刻畫細膩的內心世界。本場音樂會透過三部風格各異的經典作品，從歌劇序曲的戲劇張力、協奏曲的獨奏魅力，到交響曲的宏大格局，邀您在不同的音樂篇章中，探索古典音樂的多元面貌。 曲目 ˙ 羅西尼：《威廉．泰爾》序曲 義大利作曲家羅西尼以明快活潑的節奏與鮮明的旋律著稱，《威廉．泰爾》序曲是其最後一部歌劇的序曲，以四個風格鮮明的段落展開，從清晨山間的寧靜景致，到暴風雨來襲的戲劇張力，再轉入田園般的悠閒氣氛，最後以著名的進行曲主題推向高…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2120804577930952705"
+    }
+   ],
+   "lat": 22.6247642,
+   "lng": 120.3634355,
+   "aliases": [],
+   "first_seen": "2026-11-16",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -28527,8 +28662,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270130",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270130",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-01-30T14:00:00+08:00",
    "end": "2027-01-30T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -28542,13 +28677,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -28831,8 +28966,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270131",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270131",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-01-31T14:00:00+08:00",
    "end": "2027-01-31T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -28846,13 +28981,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -29331,8 +29466,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270206",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270206",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-02-06T14:00:00+08:00",
    "end": "2027-02-06T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -29346,13 +29481,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -29412,8 +29547,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270207",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270207",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-02-07T14:00:00+08:00",
    "end": "2027-02-07T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -29427,13 +29562,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -29493,8 +29628,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270208",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270208",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-02-08T14:00:00+08:00",
    "end": "2027-02-08T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -29508,20 +29643,20 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
   },
   {
-   "id": "twmarket:61940:20270209",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270209",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-02-09T14:00:00+08:00",
    "end": "2027-02-09T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -29535,13 +29670,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -29574,8 +29709,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270210",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270210",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-02-10T14:00:00+08:00",
    "end": "2027-02-10T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -29589,13 +29724,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -29709,8 +29844,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270213",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270213",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-02-13T14:00:00+08:00",
    "end": "2027-02-13T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -29724,13 +29859,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
@@ -29851,8 +29986,8 @@
    ]
   },
   {
-   "id": "twmarket:61940:20270214",
-   "title": "誠品生活 x ingki英吉貓 駁二主題市集",
+   "id": "twmarket:62233:20270214",
+   "title": "誠品生活 x ingki英吉貓春節主題市集",
    "start": "2027-02-14T14:00:00+08:00",
    "end": "2027-02-14T20:00:00+08:00",
    "venue": "駁二藝術特區",
@@ -29866,13 +30001,13 @@
    "links": [
     {
      "source": "twmarket",
-     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93-%e9%a7%81%e4%ba%8c%e4%b8%bb/"
+     "url": "https://www.twmarket.tw/2027-01-232027-02-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%97%9d%e8%a1%93%e7%89%b9%e5%8d%80-%e8%aa%a0%e5%93%81%e7%94%9f%e6%b4%bb-x-ingki%e8%8b%b1%e5%90%89%e8%b2%93%e6%98%a5%e7%af%80/"
     }
    ],
    "lat": null,
    "lng": null,
    "aliases": [],
-   "first_seen": "2026-11-10",
+   "first_seen": "2026-11-16",
    "sources": [
     "twmarket"
    ]
