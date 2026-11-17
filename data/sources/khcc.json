@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T10:47:44.179581+08:00",
+ "fetched_at": "2026-11-17T07:58:15.137477+08:00",
  "warning": "",
  "events": [
   {
@@ -491,7 +491,7 @@
   {
    "id": "khcc:-40205:20261205",
    "title": "IFBBPRO TAIWAN PRO SHOW",
-   "start": "2026-12-05T08:00:00+08:00",
+   "start": "2026-12-05T09:00:00+08:00",
    "end": "2026-12-05T18:00:00+08:00",
    "venue": "高雄市文化中心 至德堂",
    "address": "高雄市苓雅區五福一路67號",
@@ -572,7 +572,7 @@
   {
    "id": "khcc:-40205:20261206",
    "title": "IFBBPRO TAIWAN PRO SHOW",
-   "start": "2026-12-06T08:00:00+08:00",
+   "start": "2026-12-06T09:00:00+08:00",
    "end": "2026-12-06T18:00:00+08:00",
    "venue": "高雄市文化中心 至德堂",
    "address": "高雄市苓雅區五福一路67號",
@@ -1004,7 +1004,7 @@
   {
    "id": "khcc:-40220:20261226",
    "title": "《聲之響宴：宮崎駿動畫音樂會》",
-   "start": "2026-12-26T14:00:00+08:00",
+   "start": "2026-12-26T14:30:00+08:00",
    "end": "2026-12-26T15:40:00+08:00",
    "venue": "高雄市文化中心 至善廳",
    "address": "高雄市苓雅區五福一路67號",
@@ -1720,6 +1720,33 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40494&AP=$M102_DATE-115/11/29"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-40516:20261212",
+   "title": "有您有愛公益音樂會",
+   "start": "2026-12-12T19:00:00+08:00",
+   "end": "2026-12-12T21:00:00+08:00",
+   "venue": "岡山演藝廳",
+   "address": "高雄市岡山區岡山路42號",
+   "district": "岡山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "阿公店扶輪社、尚仁教育發展協會",
+   "organizer_type": "不確定",
+   "description": "演出單位：阿公店扶輪社、尚仁教育發展協會",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40516&AP=$M102_DATE-115/12/12"
     }
    ],
    "lat": null,
