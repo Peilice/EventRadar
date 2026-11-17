@@ -1,7 +1,169 @@
 {
- "fetched_at": "2026-11-17T09:43:50.404558+08:00",
+ "fetched_at": "2026-11-18T07:19:38.056271+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "twmarket:62295:20261216",
+   "title": "YES人生市集 ✘ 大同暖心・聖誕好市",
+   "start": "2026-12-16T15:30:00+08:00",
+   "end": "2026-12-16T18:30:00+08:00",
+   "venue": "大同醫院",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "長庚醫療財團法人高雄長庚紀念醫院職工福利委員會-大同醫院",
+   "organizer_type": "不確定",
+   "description": "場次：12/16（三）\n時間：15:30–18:30\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-16-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e5%90%8c%e9%86%ab%e9%99%a2-yes%e4%ba%ba%e7%94%9f%e5%b8%82%e9%9b%86-%e2%9c%98-%e5%a4%a7%e5%90%8c%e6%9a%96%e5%bf%83%e3%83%bb%e8%81%96%e8%aa%95%e5%a5%bd/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62292:20270123",
+   "title": "好奇生活研究所・新年選物市",
+   "start": "2027-01-23T11:00:00+08:00",
+   "end": "2027-01-23T18:00:00+08:00",
+   "venue": "墨凡美麗島商場",
+   "address": "",
+   "district": "新興區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：1/23（六）、1/24（日）\n時間：11:00–18:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2027-01-2301-24-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a2%a8%e5%87%a1%e7%be%8e%e9%ba%97%e5%b3%b6%e5%95%86%e5%a0%b4-%e5%a5%bd%e5%a5%87%e7%94%9f%e6%b4%bb%e7%a0%94%e7%a9%b6%e6%89%80%e3%83%bb%e6%96%b0%e5%b9%b4/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62292:20270124",
+   "title": "好奇生活研究所・新年選物市",
+   "start": "2027-01-24T11:00:00+08:00",
+   "end": "2027-01-24T18:00:00+08:00",
+   "venue": "墨凡美麗島商場",
+   "address": "",
+   "district": "新興區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：1/23（六）、1/24（日）\n時間：11:00–18:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2027-01-2301-24-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a2%a8%e5%87%a1%e7%be%8e%e9%ba%97%e5%b3%b6%e5%95%86%e5%a0%b4-%e5%a5%bd%e5%a5%87%e7%94%9f%e6%b4%bb%e7%a0%94%e7%a9%b6%e6%89%80%e3%83%bb%e6%96%b0%e5%b9%b4/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62285:20261124",
+   "title": "天涼好個秋",
+   "start": "2026-11-24T12:30:00+08:00",
+   "end": "2026-11-24T19:00:00+08:00",
+   "venue": "文藻外語大學",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/24（二）、11/25（三）、11/26（四）\n時間：12:30–19:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2411-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%96%87%e8%97%bb%e5%a4%96%e8%aa%9e%e5%a4%a7%e5%ad%b8-%e5%a4%a9%e6%b6%bc%e5%a5%bd%e5%80%8b%e7%a7%8b/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62285:20261125",
+   "title": "天涼好個秋",
+   "start": "2026-11-25T12:30:00+08:00",
+   "end": "2026-11-25T19:00:00+08:00",
+   "venue": "文藻外語大學",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/24（二）、11/25（三）、11/26（四）\n時間：12:30–19:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2411-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%96%87%e8%97%bb%e5%a4%96%e8%aa%9e%e5%a4%a7%e5%ad%b8-%e5%a4%a9%e6%b6%bc%e5%a5%bd%e5%80%8b%e7%a7%8b/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62285:20261126",
+   "title": "天涼好個秋",
+   "start": "2026-11-26T12:30:00+08:00",
+   "end": "2026-11-26T19:00:00+08:00",
+   "venue": "文藻外語大學",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "場次：11/24（二）、11/25（三）、11/26（四）\n時間：12:30–19:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-11-2411-26-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%96%87%e8%97%bb%e5%a4%96%e8%aa%9e%e5%a4%a7%e5%ad%b8-%e5%a4%a9%e6%b6%bc%e5%a5%bd%e5%80%8b%e7%a7%8b/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:62248:20261121",
    "title": "高雄親子遊樂園區-11月12月樂園招商",

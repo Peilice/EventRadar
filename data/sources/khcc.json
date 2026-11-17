@@ -1,34 +1,7 @@
 {
- "fetched_at": "2026-11-17T09:43:50.404558+08:00",
+ "fetched_at": "2026-11-18T07:19:38.056271+08:00",
  "warning": "",
  "events": [
-  {
-   "id": "khcc:4325",
-   "title": "馬悅至真 – 高雄市中國書畫學會會員聯展",
-   "start": "2026-11-06T00:00:00+08:00",
-   "end": "2026-11-17T23:59:59+08:00",
-   "venue": "高雄市文化中心 至真堂三館",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "本會秉持「書畫藝術傳承、發揚光大」的主旨，展現會友們持續不輟的藝術創作能量，用筆墨敘述自然及自在的生活故事，以「書畫同源」之論點，追求形神合一的筆墨趣味，透過繪畫、書藝等不同視覺媒介，傳達中華文化精華之美，是匯集會員們心靈創作的藝術篇章。2026/11/08(日)下午14:30舉行開幕,歡迎蒞臨共襄盛舉。",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4325"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
   {
    "id": "khcc:4334",
    "title": "前行-2026臺灣南方藝術聯盟年度大展",
@@ -1191,6 +1164,33 @@
    ]
   },
   {
+   "id": "khcc:4351",
+   "title": "痕跡、物件與自然－葉軒汝、劉季洵創作雙個展",
+   "start": "2027-01-01T00:00:00+08:00",
+   "end": "2027-01-19T23:59:59+08:00",
+   "venue": "高雄市文化中心 至高館(原第一文物館)",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "當細膩寫真遇上奔放寫意，我們將這份視角的差異化作連結，透過畫筆，對生活進行的一次誠懇對話，在《痕跡、物件與自然》中，誠摯邀請觀眾走入我們的畫作，在具象與寫意的筆觸交織間，共同感受生活裡最動人的生命力。",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4351"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
    "id": "khcc:-39812:20270102",
    "title": "藝術市集",
    "start": "2027-01-02T16:00:00+08:00",
@@ -1747,33 +1747,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40516&AP=$M102_DATE-115/12/12"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40293:20261117",
-   "title": "國立中山大學音樂系合唱團音樂會",
-   "start": "2026-11-17T19:30:00+08:00",
-   "end": "2026-11-17T21:30:00+08:00",
-   "venue": "高雄市音樂館",
-   "address": "高雄市鹽埕區河西路99號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "免費",
-   "organizer": "國立中山大學",
-   "organizer_type": "政府",
-   "description": "演出單位：國立中山大學",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40293&AP=$M102_DATE-115/11/17"
     }
    ],
    "lat": null,
