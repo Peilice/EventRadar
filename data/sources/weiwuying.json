@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T10:46:39.335241+08:00",
+ "fetched_at": "2026-11-17T09:42:49.134625+08:00",
  "warning": "",
  "events": [
   {
@@ -46,60 +46,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6ac59a2d7a63f60007735e80",
-   "title": "2026【臺灣舞蹈記憶地圖】「探索身體記憶」系列工作坊",
-   "start": "2026-11-16T19:00:00+08:00",
-   "end": "2026-11-20T19:00:00+08:00",
-   "venue": "衛武營1186排練室",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "身體如何感知所在的空間？日常聲響如何留下身體的記憶？我們如何觀看他人的身體，也如何被他人的觀看影響？當身體持續運動，又會留下什麼樣的痕跡？",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6ac59a2d7a63f60007735e80"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a59cc1e89f59900078c5613",
-   "title": "木樓合唱團2026年度《人聲旅歌： 源自史詩、火焰與聲的歸宿》音樂會",
-   "start": "2026-11-16T19:30:00+08:00",
-   "end": "2026-11-16T19:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "史詩與火焰，唱出跨越世紀的人聲歸宿。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a59cc1e89f59900078c5613"
     }
    ],
    "lat": null,
@@ -181,6 +127,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a728c08c43d9300077d3d02"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6ac59a2d7a63f60007735e80",
+   "title": "2026【臺灣舞蹈記憶地圖】「探索身體記憶」系列工作坊",
+   "start": "2026-11-16T19:00:00+08:00",
+   "end": "2026-11-20T19:00:00+08:00",
+   "venue": "衛武營1186排練室",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "身體如何感知所在的空間？日常聲響如何留下身體的記憶？我們如何觀看他人的身體，也如何被他人的觀看影響？當身體持續運動，又會留下什麼樣的痕跡？",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6ac59a2d7a63f60007735e80"
     }
    ],
    "lat": null,

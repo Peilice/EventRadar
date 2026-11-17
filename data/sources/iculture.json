@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T10:46:39.335241+08:00",
+ "fetched_at": "2026-11-17T09:42:49.134625+08:00",
  "warning": "",
  "events": [
   {
@@ -3162,60 +3162,6 @@
    ]
   },
   {
-   "id": "iculture:6a04ccf326b3243414ccc882",
-   "title": "鹽埕埔文武聖殿聖諭宣講 (高雄市無形文化資產)",
-   "start": "2026-03-20T19:30:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "財團法人高雄市文武聖殿",
-   "address": "高雄市鹽埕區富野路170號",
-   "district": "鹽埕區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "財團法人高雄市文武聖殿",
-   "organizer_type": "不確定",
-   "description": "《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。宣講是明清時期以來的一套教化制度，是透過地方官員或仕紳文人宣頌政令，以達到社會安定的目的。其內容分別涉及了社會關係、教育、生計和安寧及秩序等，是穩定社會的重要機制。 文武聖殿聖諭宣講緣起，據《臺灣日日新報》報導，始於大正15年（1926年）；但若依據民國50年建立的「興建文武…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a04ccf326b3243414ccc882"
-    }
-   ],
-   "lat": 22.6294735,
-   "lng": 120.2815569,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a39871026b3243414ccd4fe",
-   "title": "喜閱網專區書展",
-   "start": "2026-01-02T09:00:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "高雄市立圖書館李科永紀念圖書館",
-   "address": "高雄市前金區民生二路37號",
-   "district": "前金區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館總館",
-   "organizer_type": "政府",
-   "description": "本館特別規劃「喜閱網專區書展」，各類優良讀物，包含童話故事、科學知識、歷史文化、冒險小說及生活教育等豐富內容，讓大家在閱讀中發現樂趣、增廣見聞。 歡迎大家挑選自己喜愛的書籍閱讀，透過喜閱網閱讀認證活動，完成認證測驗後，不僅能檢視自己的閱讀成果，更能累積知識與提升閱讀理解能力喔!",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a39871026b3243414ccd4fe"
-    }
-   ],
-   "lat": 25.0421407,
-   "lng": 121.5198716,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:699f5a5926b32454e437cb40",
    "title": "高雄市電影館親子教育展-光影魔幻樂園",
    "start": "2026-01-01T13:30:00+08:00",
@@ -3290,6 +3236,60 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6a04ccf326b3243414ccc882",
+   "title": "鹽埕埔文武聖殿聖諭宣講 (高雄市無形文化資產)",
+   "start": "2026-03-20T19:30:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "財團法人高雄市文武聖殿",
+   "address": "高雄市鹽埕區富野路170號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "財團法人高雄市文武聖殿",
+   "organizer_type": "不確定",
+   "description": "《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。宣講是明清時期以來的一套教化制度，是透過地方官員或仕紳文人宣頌政令，以達到社會安定的目的。其內容分別涉及了社會關係、教育、生計和安寧及秩序等，是穩定社會的重要機制。 文武聖殿聖諭宣講緣起，據《臺灣日日新報》報導，始於大正15年（1926年）；但若依據民國50年建立的「興建文武…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a04ccf326b3243414ccc882"
+    }
+   ],
+   "lat": 22.6294735,
+   "lng": 120.2815569,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6a39871026b3243414ccd4fe",
+   "title": "喜閱網專區書展",
+   "start": "2026-01-02T09:00:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "高雄市立圖書館李科永紀念圖書館",
+   "address": "高雄市前金區民生二路37號",
+   "district": "前金區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館總館",
+   "organizer_type": "政府",
+   "description": "本館特別規劃「喜閱網專區書展」，各類優良讀物，包含童話故事、科學知識、歷史文化、冒險小說及生活教育等豐富內容，讓大家在閱讀中發現樂趣、增廣見聞。 歡迎大家挑選自己喜愛的書籍閱讀，透過喜閱網閱讀認證活動，完成認證測驗後，不僅能檢視自己的閱讀成果，更能累積知識與提升閱讀理解能力喔!",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a39871026b3243414ccd4fe"
+    }
+   ],
+   "lat": 25.0421407,
+   "lng": 121.5198716,
    "aliases": [],
    "first_seen": "",
    "sources": [
