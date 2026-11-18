@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T10:18:54.554210+08:00",
+ "fetched_at": "2026-11-19T06:50:10.506507+08:00",
  "warning": "",
  "events": [
   {
@@ -509,6 +509,33 @@
    ],
    "lat": 22.61634,
    "lng": 120.32918,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008207",
+   "title": "2026高雄岡山甘味祭",
+   "start": "2026-11-21T00:00:00+08:00",
+   "end": "2026-11-21T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市820岡山區典寶溪劉厝滯洪池（國軒路）",
+   "district": "岡山區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府觀光局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8207/"
+    }
+   ],
+   "lat": 22.78184,
+   "lng": 120.28356,
    "aliases": [],
    "first_seen": "",
    "sources": [

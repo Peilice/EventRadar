@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T10:18:54.554210+08:00",
+ "fetched_at": "2026-11-19T06:50:10.506507+08:00",
  "warning": "",
  "events": [
   {
@@ -2271,6 +2271,33 @@
    ]
   },
   {
+   "id": "nstm:0000015411-5",
+   "title": "大學前導課程-半導體科技探索之旅(本課程為國科會計畫補助)",
+   "start": "2027-01-30T09:00:00+08:00",
+   "end": "2027-01-31T16:00:00+08:00",
+   "venue": "國立科學工藝博物館 趣自造大教室",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：國中二年級至高中學生；領域：科技教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015411&act_seq=5"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
    "id": "nstm:0000015430-8",
    "title": "法老解謎密室逃脫：數學可以這樣玩(國中)",
    "start": "2027-01-30T09:00:00+08:00",
@@ -2962,33 +2989,6 @@
     {
      "source": "nstm",
      "url": "https://www.nstm.gov.tw/Exhibition.aspx?KeyID=fb9226a6-7fb2-4d55-b0c5-c20244488d8b"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:7eb1cb9e-cac9-4136-9025-48a2542439c0",
-   "title": "明心:慈濟心靈史詩 | journey to enlightenment特展",
-   "start": "2026-08-01T00:00:00+08:00",
-   "end": "2026-11-18T23:59:59+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "慈濟基金會 × 哈佛大學 CAMLab 共同策劃，結合3D影像與聲音設計，重現八大佛教歷史遺址。採用「影音沉浸式」手法，結合嚴謹的考古、建築與藝術史研究，運用3D掃描、數位建模與AI修復技術，重建因歲月而風化的石窟、佛塔與聖地景觀，讓文化遺產以高精度數位形式再次被看見。 藝術，是溝通心靈的視覺語言；佛法，是穿越時空的精神橋梁。 從古老石窟到現代劇場，從經文法句到慈濟志工的身影， 這場展覽正是一場穿越兩千五百年的「心靈史詩」。 【好評加場】8天限定！ 11月加場：11/10-11/15、11/17-11/18，(11/16不開放) 開放時間：09:00-17:00 導覽時段：09:10、10:3…",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://www.nstm.gov.tw/Exhibition.aspx?KeyID=7eb1cb9e-cac9-4136-9025-48a2542439c0"
     }
    ],
    "lat": null,
