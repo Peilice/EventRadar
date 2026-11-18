@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T09:42:49.134625+08:00",
+ "fetched_at": "2026-11-18T10:17:46.538276+08:00",
  "warning": "",
  "events": [
   {
@@ -221,11 +221,11 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ee",
    "title": "11月高雄市電影館｜沙央",
-   "start": "2026-11-17T14:00:00+08:00",
+   "start": "2026-11-19T19:40:00+08:00",
    "end": "2026-11-25T23:59:00+08:00",
-   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鹽埕區河西路10號",
-   "district": "鹽埕區",
+   "venue": "內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -237,8 +237,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0PV"
     }
    ],
-   "lat": 22.62268,
-   "lng": 120.2891198,
+   "lat": null,
+   "lng": null,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -302,11 +302,11 @@
   {
    "id": "iculture:6ad91d1d26b3245efc7536ff",
    "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
-   "start": "2026-11-17T14:50:00+08:00",
+   "start": "2026-11-18T16:30:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -318,8 +318,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OS"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -329,11 +329,11 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753702",
    "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-17T16:30:00+08:00",
+   "start": "2026-11-18T20:10:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鹽埕區河西路10號",
-   "district": "鹽埕區",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -345,8 +345,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PD"
     }
    ],
-   "lat": 22.62268,
-   "lng": 120.2891198,
+   "lat": null,
+   "lng": null,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -356,7 +356,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753700",
    "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-17T19:20:00+08:00",
+   "start": "2026-11-18T14:30:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -383,9 +383,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753701",
    "title": "11月高雄市電影館｜有用的人",
-   "start": "2026-11-17T19:40:00+08:00",
+   "start": "2026-11-18T17:30:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -707,7 +707,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ef",
    "title": "11月高雄市電影館｜世紀初戀 楊麗花",
-   "start": "2026-11-17T19:00:00+08:00",
+   "start": "2026-11-18T14:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "高雄市電影館3樓",
    "address": "高雄市鹽埕區河西路10號",
@@ -734,9 +734,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f0",
    "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-17T14:20:00+08:00",
+   "start": "2026-11-18T19:50:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -761,7 +761,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f1",
    "title": "11月高雄市電影館｜廚師發辦",
-   "start": "2026-11-17T17:10:00+08:00",
+   "start": "2026-11-20T16:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -788,11 +788,11 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f2",
    "title": "11月高雄市電影館｜與畢諾許共舞",
-   "start": "2026-11-17T16:50:00+08:00",
+   "start": "2026-11-19T14:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -804,8 +804,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O7"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -1245,6 +1245,33 @@
    ]
   },
   {
+   "id": "iculture:6afc0ec726b3245efc753805",
+   "title": "12月高雄市電影館｜長短腳電影院－蘿拉的魔法鋼琴",
+   "start": "2026-12-13T14:00:00+08:00",
+   "end": "2026-12-19T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "親子",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IL6U83"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:696e973626b3243b1ca0c0ec",
    "title": "東東漫畫親子讀書會遊山玩水尬漫畫(1月~12月)",
    "start": "2026-01-18T10:00:00+08:00",
@@ -1292,6 +1319,33 @@
    ],
    "lat": 22.624172,
    "lng": 120.3422105,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6afc0ec726b3245efc753807",
+   "title": "12月高雄市電影館｜34街的奇蹟",
+   "start": "2026-12-10T19:50:00+08:00",
+   "end": "2026-12-24T23:59:00+08:00",
+   "venue": "高雄市電影館3樓",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ILEQ45"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3425,6 +3479,33 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6afc0ec726b3245efc753806",
+   "title": "12月高雄市電影館｜東京教父 4K修復",
+   "start": "2026-12-25T19:00:00+08:00",
+   "end": "2026-12-31T23:59:00+08:00",
+   "venue": "高雄市電影館3樓",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ILEDRB"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
