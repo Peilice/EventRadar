@@ -1,7 +1,61 @@
 {
- "fetched_at": "2026-11-19T10:10:36.614730+08:00",
+ "fetched_at": "2026-11-20T06:53:50.160298+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "twmarket:62373",
+   "title": "2027高雄冬日樂園小小兵歡樂登陸",
+   "start": "2027-01-23T00:00:00+08:00",
+   "end": "2027-02-14T23:59:59+08:00",
+   "venue": "愛河灣",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2027-01-2302-14-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%84%9b%e6%b2%b3%e7%81%a3-2027%e9%ab%98%e9%9b%84%e5%86%ac%e6%97%a5%e6%a8%82%e5%9c%92%e5%b0%8f%e5%b0%8f%e5%85%b5%e6%ad%a1%e6%a8%82%e7%99%bb%e9%99%b8/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62372",
+   "title": "聖誕跨年快閃",
+   "start": "2026-12-09T00:00:00+08:00",
+   "end": "2027-01-03T23:59:59+08:00",
+   "venue": "高雄夢時代",
+   "address": "",
+   "district": "前鎮區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-092027-01-03-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a2%e6%99%82%e4%bb%a3-%e8%81%96%e8%aa%95%e8%b7%a8%e5%b9%b4%e5%bf%ab%e9%96%83/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:62295:20261216",
    "title": "YES人生市集 ✘ 大同暖心・聖誕好市",
@@ -937,33 +991,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-12-1812-20-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%a7%81%e4%ba%8c%e8%87%aa%e8%a1%8c%e8%bb%8a%e5%80%89%e5%ba%ab-%e5%8d%a1%e5%8d%a1%e6%9d%91%e5%8d%a1%e7%89%8c%e5%b1%95/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:62025:20261119",
-   "title": "演唱會應援市集",
-   "start": "2026-11-19T14:00:00+08:00",
-   "end": "2026-11-19T21:00:00+08:00",
-   "venue": "海軍眷村",
-   "address": "",
-   "district": "",
-   "category": "市集",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "場次：11/19（四）、11/21（六）、11/22（日）\n時間：14:00–21:00\n資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-11-1911-22-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%b5%b7%e8%bb%8d%e7%9c%b7%e6%9d%91-%e6%bc%94%e5%94%b1%e6%9c%83%e6%87%89%e6%8f%b4%e5%b8%82%e9%9b%86/"
     }
    ],
    "lat": null,
@@ -2233,33 +2260,6 @@
     {
      "source": "twmarket",
      "url": "https://www.twmarket.tw/2026-12-19-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%82%85%e8%ae%80%e6%99%82%e4%bb%a3-%e8%81%96%e8%aa%95%e6%b4%bb%e5%8b%95%e5%b8%82%e9%9b%86/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "twmarket"
-   ]
-  },
-  {
-   "id": "twmarket:61455",
-   "title": "聖誕跨年百貨快閃",
-   "start": "2026-12-09T00:00:00+08:00",
-   "end": "2027-01-03T23:59:59+08:00",
-   "venue": "高雄夢時代",
-   "address": "",
-   "district": "前鎮區",
-   "category": "節慶／觀光",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "資料整理自攤商招募文，實際場次以主辦公告為準。",
-   "links": [
-    {
-     "source": "twmarket",
-     "url": "https://www.twmarket.tw/2026-12-092027-01-03-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a2%e6%99%82%e4%bb%a3-%e8%81%96%e8%aa%95%e8%b7%a8%e5%b9%b4%e7%99%be%e8%b2%a8%e5%bf%ab%e9%96%83/"
     }
    ],
    "lat": null,
