@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T10:17:46.538276+08:00",
+ "fetched_at": "2026-11-19T10:09:27.527438+08:00",
  "warning": "",
  "events": [
   {
@@ -84,33 +84,6 @@
    ]
   },
   {
-   "id": "tixcraft:27_megaport",
-   "title": "2027大港開唱X國泰世華銀行",
-   "start": "2027-03-20T00:00:00+08:00",
-   "end": "2027-03-21T23:59:59+08:00",
-   "venue": "高雄駁二藝術特區",
-   "address": "",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "tixcraft",
-     "url": "https://tixcraft.com/activity/detail/27_megaport"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "tixcraft"
-   ]
-  },
-  {
    "id": "tixcraft:27_megaport_d",
    "title": "2027大港開唱X國泰世華銀行【身心障礙票券】",
    "start": "2027-03-20T00:00:00+08:00",
@@ -127,6 +100,33 @@
     {
      "source": "tixcraft",
      "url": "https://tixcraft.com/activity/detail/27_megaport_d"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:27_megaport",
+   "title": "2027大港開唱X國泰世華銀行",
+   "start": "2027-03-20T00:00:00+08:00",
+   "end": "2027-03-21T23:59:59+08:00",
+   "venue": "高雄駁二藝術特區",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/27_megaport"
     }
    ],
    "lat": null,

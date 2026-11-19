@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T10:17:46.538276+08:00",
+ "fetched_at": "2026-11-19T10:09:27.527438+08:00",
  "warning": "",
  "events": [
   {
@@ -73,33 +73,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ac59a2d7a63f60007735e80"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69af96e2738aff000732176e",
-   "title": "【衛武營小時光】紅潮劇集《當亞斯遇見人魚》讀演音樂會——B面歌單",
-   "start": "2026-11-18T20:00:00+08:00",
-   "end": "2026-11-18T20:00:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "當畏懼出門的男孩遇見在夢想面前躊躇的女孩，他們是否能找到圓滿生命的知音？一場療癒系讀劇音樂會，陪你一起找到前進的勇氣。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69af96e2738aff000732176e"
     }
    ],
    "lat": null,
@@ -3918,6 +3891,33 @@
    ]
   },
   {
+   "id": "weiwuying:6afc1a2a4a72cbc6008a18cd",
+   "title": "《貝森朵夫遇見胡琴－維也納鋼琴、大提琴與二胡三重奏》",
+   "start": "2027-02-24T19:30:00+08:00",
+   "end": "2027-02-24T19:30:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "貝森朵夫遇見二胡詩意，跨越萬里的對話",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6afc1a2a4a72cbc6008a18cd"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6ad5df157a63f600077b4107",
    "title": "《高雄市英明國中管弦樂班年度音樂會》",
    "start": "2027-02-25T19:30:00+08:00",
@@ -4026,6 +4026,33 @@
    ]
   },
   {
+   "id": "weiwuying:6afc17b980a8cc0139bc7f4b",
+   "title": "《德奥靈魂與斯拉夫之春》",
+   "start": "2027-02-27T19:30:00+08:00",
+   "end": "2027-02-27T19:30:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "從多瑙河畔的古老琴房，到第聶伯河畔的春意",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6afc17b980a8cc0139bc7f4b"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6ad5db658697570008993031",
    "title": "《雙城樂章》虹韻新春音樂會",
    "start": "2027-02-27T19:30:00+08:00",
@@ -4042,6 +4069,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ad5db658697570008993031"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6afc13974a72cbdd2e8a1690",
+   "title": "狂美《宮崎駿動畫配樂II》交響音樂會-2027燦爛續作、封箱倒數",
+   "start": "2027-02-28T14:30:00+08:00",
+   "end": "2027-03-01T14:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "歷年最受歡迎之作，2027封箱倒數",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6afc13974a72cbdd2e8a1690"
     }
    ],
    "lat": null,
