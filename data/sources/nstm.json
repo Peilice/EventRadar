@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T10:01:03.143751+08:00",
+ "fetched_at": "2026-11-21T06:29:24.629337+08:00",
  "warning": "",
  "events": [
   {
@@ -451,6 +451,33 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015262&act_seq=4"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
+   "id": "nstm:0000015497-3",
+   "title": "/清倉加開/ 原住民建築【排灣族-內文社家屋】動手做課程",
+   "start": "2026-11-29T09:30:00+08:00",
+   "end": "2026-11-29T16:30:00+08:00",
+   "venue": "國立科學工藝博物館 B1 大教室",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：小四以上至國中；領域：科技教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015497&act_seq=3"
     }
    ],
    "lat": null,
@@ -3016,33 +3043,6 @@
     {
      "source": "nstm",
      "url": "https://www.nstm.gov.tw/Exhibition.aspx?KeyID=fb9226a6-7fb2-4d55-b0c5-c20244488d8b"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:2877728d-4be3-4582-b2cc-6d39e24294b1",
-   "title": "船之所向-探索船舶；遊艇與海洋科技的航行展",
-   "start": "2026-09-09T00:00:00+08:00",
-   "end": "2026-11-20T23:59:59+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "臺灣四面環海，數千年來船舶一直是最重要的交通與生活載具。冷戰時期美軍來臺協防，結合臺灣優越的海洋地理環境與在地木工職人精湛的技藝，為臺灣船舶與遊艇製造業奠定了堅實基礎；基隆與高雄更因地利之便，逐步發展為臺灣造船工業與遊艇製造的重鎮。 為推廣海洋科技與彰顯在地產業實力，在經濟部產業發展署推動下，中華民國造船暨輪機工程師學會與財團法人船舶暨海洋產業研發中心，長期致力於「年度船舶獎」與「年度遊艇獎」之評選，表彰具備卓越設計與建造技術的船廠。 本次展覽除精選展出科工館館藏船舶文物外，亦匯集國內知名船廠之獲獎船模、自動控制系統及船舶動力系統等核心技術，同時呈現船舶中心50年來投入船舶設計與海洋產業相關研…",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://www.nstm.gov.tw/Exhibition.aspx?KeyID=2877728d-4be3-4582-b2cc-6d39e24294b1"
     }
    ],
    "lat": null,

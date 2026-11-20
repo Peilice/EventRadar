@@ -1,7 +1,34 @@
 {
- "fetched_at": "2026-11-20T10:01:03.143751+08:00",
+ "fetched_at": "2026-11-21T06:29:24.629337+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "ksml:16513",
+   "title": "高雄市立圖書館115年讀者滿意度調查，邀您一同參與~",
+   "start": "2026-11-21T00:00:00+08:00",
+   "end": "2026-11-29T23:59:59+08:00",
+   "venue": "高雄市立圖書館總館",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "其他",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館研發部",
+   "organizer_type": "政府",
+   "description": "這一年，您在圖書館留下那些美好的記憶呢？\n不論是：「在豐富的館藏，尋得一本值得品味好書」；「在多元的閱讀活動中，收穫知識與感動」；「在精采的主題書展探索不同領域的樂趣」；「透過跨國的文化交流，打開一扇通往世界的窗」。\n每一次閱讀、每一場活動，都是一段值得珍藏的美好的體驗，",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16513"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
   {
    "id": "ksml:16530",
    "title": "【新興民眾閱覽室】12/5(六)上午10:00-11:00寶島台語囡仔古",
@@ -435,33 +462,6 @@
    ]
   },
   {
-   "id": "ksml:16498",
-   "title": "【大東藝術圖書館】11/22(日) ｜跨越字裡遠方｜🎨 畫出好心情： 親子紓壓與情感交流工作坊 🎨",
-   "start": "2026-11-22T10:00:00+08:00",
-   "end": "2026-11-22T12:00:00+08:00",
-   "venue": "大東藝術圖書館2F多功能教室",
-   "address": "高雄市鳳山區光遠路161號",
-   "district": "鳳山區",
-   "category": "親子",
-   "fee": "未知",
-   "organizer": "高雄市立圖書館大東藝術圖書館",
-   "organizer_type": "政府",
-   "description": "活動老師：張錦華\n活動主題： 🎨 畫出好心情： 親子紓壓與情感交流工作坊 🎨\n日期時間：11/22 (日) 10:00~12:00",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16498"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
    "id": "ksml:11329",
    "title": "陽明分館10/28至11/25舉辦免費「親子共學幼兒互動課程」，與您一起開發幼兒潛力，培養寶貝學習能力，歡迎新手父母或祖父母們親子報名參加！",
    "start": "2026-10-28T10:00:00+08:00",
@@ -640,33 +640,6 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16488"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "ksml"
-   ]
-  },
-  {
-   "id": "ksml:16483",
-   "title": "【新興民眾閱覽室】11/21(六)下午14:00-16:00節慶閱讀",
-   "start": "2026-11-21T14:00:00+08:00",
-   "end": "2026-11-21T16:00:00+08:00",
-   "venue": "新興民眾閱覽室",
-   "address": "高雄市新興區民生一路271號",
-   "district": "新興區",
-   "category": "其他",
-   "fee": "付費",
-   "organizer": "高雄市立圖書館新興民眾閱覽室",
-   "organizer_type": "政府",
-   "description": "🎄 溫馨耶誕・綠意手作 🎄\n【聖誕木框植栽 DIY 親子手作工作坊】\n聖誕節即將到來，想不想和孩子一起親手打造一份充滿節慶氛圍又帶有綠意的獨特裝飾呢？",
-   "links": [
-    {
-     "source": "ksml",
-     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16483"
     }
    ],
    "lat": null,
