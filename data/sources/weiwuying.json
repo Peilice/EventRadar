@@ -1,169 +1,7 @@
 {
- "fetched_at": "2026-11-20T09:59:57.511270+08:00",
+ "fetched_at": "2026-11-21T07:17:49.843687+08:00",
  "warning": "",
  "events": [
-  {
-   "id": "weiwuying:6a953c1f3041610007c17381",
-   "title": "跳出來的地圖：那些身體走過的臺灣路",
-   "start": "2026-10-10T00:00:00+08:00",
-   "end": "2027-01-24T23:59:59+08:00",
-   "venue": "衛武營 3F樹冠大廳（西側）",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "展覽",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "衛武營「臺灣舞蹈記憶地圖」2026年度展覽",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a953c1f3041610007c17381"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69dda1ec32116a0007805dd8",
-   "title": "2026臺灣作曲家系列《心繫本土 胸懷亞太》許常惠逝世二十五週年紀念特展",
-   "start": "2026-11-06T00:00:00+08:00",
-   "end": "2026-12-06T23:59:59+08:00",
-   "venue": "衛武營 藝術迴廊",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "展覽",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6ac59a2d7a63f60007735e80",
-   "title": "2026【臺灣舞蹈記憶地圖】「探索身體記憶」系列工作坊",
-   "start": "2026-11-16T19:00:00+08:00",
-   "end": "2026-11-20T19:00:00+08:00",
-   "venue": "衛武營1186排練室",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "身體如何感知所在的空間？日常聲響如何留下身體的記憶？我們如何觀看他人的身體，也如何被他人的觀看影響？當身體持續運動，又會留下什麼樣的痕跡？",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6ac59a2d7a63f60007735e80"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a869d5036422a000830025b",
-   "title": "《天才私語》馬丁．賈西亞．賈西亞 ╳高市交小樂集",
-   "start": "2026-11-20T19:30:00+08:00",
-   "end": "2026-11-20T19:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "高市交再度邀請國際鋼琴名家馬丁．賈西亞．賈西亞，攜手演繹舒伯特與舒曼經典五重奏，細說室內樂最真誠動人的音樂低語。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a869d5036422a000830025b"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a448f867040b10008792454",
-   "title": "《幻光之境-后正宇與ESO》",
-   "start": "2026-11-20T19:30:00+08:00",
-   "end": "2026-11-20T19:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "本場精選德布西《伊貝利亞》、李伯森《聶魯達詩歌選》及尼爾森《第四號交響曲「不朽」》，展現印象色彩、深刻詩意與磅礡生命力。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a448f867040b10008792454"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69c3988d1e6a9400071a7f78",
-   "title": "柏林雷寧廣場劇院《夢想清單》",
-   "start": "2026-11-20T19:30:00+08:00",
-   "end": "2026-11-22T14:30:00+08:00",
-   "venue": "衛武營 戲劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "2024柏林戲劇盛會年度十大的力作，是一齣充滿反諷的音樂劇場，現場樂團搭配爵士、探戈、搖滾和流行情歌，透過一位戰地記者的記憶片段，探索我們當下的時代精神。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69c3988d1e6a9400071a7f78"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
   {
    "id": "weiwuying:69fae7b52404090007fc3925",
    "title": "2026《再一次！唱歌旅行去》十週年親子演唱會",
@@ -219,6 +57,60 @@
    ]
   },
   {
+   "id": "weiwuying:6a953c1f3041610007c17381",
+   "title": "跳出來的地圖：那些身體走過的臺灣路",
+   "start": "2026-10-10T00:00:00+08:00",
+   "end": "2027-01-24T23:59:59+08:00",
+   "venue": "衛武營 3F樹冠大廳（西側）",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "衛武營「臺灣舞蹈記憶地圖」2026年度展覽",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6a953c1f3041610007c17381"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:69dda1ec32116a0007805dd8",
+   "title": "2026臺灣作曲家系列《心繫本土 胸懷亞太》許常惠逝世二十五週年紀念特展",
+   "start": "2026-11-06T00:00:00+08:00",
+   "end": "2026-12-06T23:59:59+08:00",
+   "venue": "衛武營 藝術迴廊",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "展覽",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6a7148ae98558c000705a631",
    "title": "【武營來開槓】今天，你穿的是誰？  —從日常穿搭到舞台角色",
    "start": "2026-11-21T14:00:00+08:00",
@@ -262,6 +154,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a603fc2cdcdfe0008f604d9"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:69c3988d1e6a9400071a7f78",
+   "title": "柏林雷寧廣場劇院《夢想清單》",
+   "start": "2026-11-20T19:30:00+08:00",
+   "end": "2026-11-22T14:30:00+08:00",
+   "venue": "衛武營 戲劇院",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "2024柏林戲劇盛會年度十大的力作，是一齣充滿反諷的音樂劇場，現場樂團搭配爵士、探戈、搖滾和流行情歌，透過一位戰地記者的記憶片段，探索我們當下的時代精神。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/69c3988d1e6a9400071a7f78"
     }
    ],
    "lat": null,
