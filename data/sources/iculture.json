@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T10:09:27.527438+08:00",
+ "fetched_at": "2026-11-20T09:59:57.511270+08:00",
  "warning": "",
  "events": [
   {
@@ -221,7 +221,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ee",
    "title": "11月高雄市電影館｜沙央",
-   "start": "2026-11-19T19:40:00+08:00",
+   "start": "2026-11-25T19:10:00+08:00",
    "end": "2026-11-25T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -275,11 +275,11 @@
   {
    "id": "iculture:6ad7bb6026b3245efc7536f4",
    "title": "11月高雄市電影館｜與達賴喇嘛談心：尋找幸福的智慧",
-   "start": "2026-11-19T17:00:00+08:00",
+   "start": "2026-11-24T14:00:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -291,8 +291,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OL"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -302,7 +302,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc7536ff",
    "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
-   "start": "2026-11-19T19:10:00+08:00",
+   "start": "2026-11-20T14:00:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
    "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鹽埕區河西路10號",
@@ -329,7 +329,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753702",
    "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-19T17:20:00+08:00",
+   "start": "2026-11-22T11:30:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -356,11 +356,11 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753700",
    "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-19T18:50:00+08:00",
+   "start": "2026-11-20T16:20:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -372,8 +372,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -383,7 +383,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753701",
    "title": "11月高雄市電影館｜有用的人",
-   "start": "2026-11-19T14:40:00+08:00",
+   "start": "2026-11-20T14:30:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -707,7 +707,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536ef",
    "title": "11月高雄市電影館｜世紀初戀 楊麗花",
-   "start": "2026-11-19T16:40:00+08:00",
+   "start": "2026-11-24T19:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "高雄市電影館3樓",
    "address": "高雄市鹽埕區河西路10號",
@@ -734,7 +734,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f0",
    "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-19T14:20:00+08:00",
+   "start": "2026-11-22T12:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -788,7 +788,7 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f2",
    "title": "11月高雄市電影館｜與畢諾許共舞",
-   "start": "2026-11-19T14:00:00+08:00",
+   "start": "2026-11-29T19:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "高雄市電影館3樓",
    "address": "高雄市鹽埕區河西路10號",
@@ -1299,6 +1299,33 @@
    ]
   },
   {
+   "id": "iculture:6afeb30b26b3245efc75382a",
+   "title": "弦．深語",
+   "start": "2026-12-20T14:30:00+08:00",
+   "end": "2026-12-20T16:10:00+08:00",
+   "venue": "高雄市音樂館演奏廳",
+   "address": "高雄市鹽埕區河西路99號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOFDIW"
+    }
+   ],
+   "lat": 22.6276246,
+   "lng": 120.2868631,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:6a74f60526b32427d060436a",
    "title": "2026黃詩雅小提琴獨奏會《走向光明》",
    "start": "2026-12-24T19:30:00+08:00",
@@ -1488,6 +1515,33 @@
    ]
   },
   {
+   "id": "iculture:6afeb30b26b3245efc753831",
+   "title": "12月高雄市電影館｜迴山",
+   "start": "2026-12-02T19:00:00+08:00",
+   "end": "2026-12-27T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOW6ON"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:696e972926b3243b1ca0c0e4",
    "title": "樂齡讀書會： 共讀塑膠編織籃、中國結",
    "start": "2026-01-06T10:00:00+08:00",
@@ -1535,6 +1589,60 @@
    ],
    "lat": 22.602476,
    "lng": 120.333005,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6afeb30b26b3245efc75382c",
+   "title": "12月高雄市電影館｜南國再見，南國",
+   "start": "2026-12-11T20:00:00+08:00",
+   "end": "2026-12-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOSO2O"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6afeb30b26b3245efc75382d",
+   "title": "12月高雄市電影館｜海上花",
+   "start": "2026-12-12T21:20:00+08:00",
+   "end": "2026-12-30T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOSO2V"
+    }
+   ],
+   "lat": null,
+   "lng": null,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3216,33 +3324,6 @@
    ]
   },
   {
-   "id": "iculture:6a04ccf326b3243414ccc882",
-   "title": "鹽埕埔文武聖殿聖諭宣講 (高雄市無形文化資產)",
-   "start": "2026-03-20T19:30:00+08:00",
-   "end": "2026-12-31T21:00:00+08:00",
-   "venue": "財團法人高雄市文武聖殿",
-   "address": "高雄市鹽埕區富野路170號",
-   "district": "鹽埕區",
-   "category": "講座／課程",
-   "fee": "未知",
-   "organizer": "財團法人高雄市文武聖殿",
-   "organizer_type": "不確定",
-   "description": "《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。宣講是明清時期以來的一套教化制度，是透過地方官員或仕紳文人宣頌政令，以達到社會安定的目的。其內容分別涉及了社會關係、教育、生計和安寧及秩序等，是穩定社會的重要機制。 文武聖殿聖諭宣講緣起，據《臺灣日日新報》報導，始於大正15年（1926年）；但若依據民國50年建立的「興建文武…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a04ccf326b3243414ccc882"
-    }
-   ],
-   "lat": 22.6294735,
-   "lng": 120.2815569,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:699f5a5926b32454e437cb40",
    "title": "高雄市電影館親子教育展-光影魔幻樂園",
    "start": "2026-01-01T13:30:00+08:00",
@@ -3317,6 +3398,33 @@
    ],
    "lat": null,
    "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6a04ccf326b3243414ccc882",
+   "title": "鹽埕埔文武聖殿聖諭宣講 (高雄市無形文化資產)",
+   "start": "2026-03-20T19:30:00+08:00",
+   "end": "2026-12-31T21:00:00+08:00",
+   "venue": "財團法人高雄市文武聖殿",
+   "address": "高雄市鹽埕區富野路170號",
+   "district": "鹽埕區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "財團法人高雄市文武聖殿",
+   "organizer_type": "不確定",
+   "description": "《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產《鹽埕埔文武聖殿聖諭宣講》承載著百年文化傳承 自大正十四年 (1925年) 延續至今，被列為高雄市無形文化資產 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。 聖諭宣講不僅是歷史的見證，更是教化人心的珍貴傳統。宣講是明清時期以來的一套教化制度，是透過地方官員或仕紳文人宣頌政令，以達到社會安定的目的。其內容分別涉及了社會關係、教育、生計和安寧及秩序等，是穩定社會的重要機制。 文武聖殿聖諭宣講緣起，據《臺灣日日新報》報導，始於大正15年（1926年）；但若依據民國50年建立的「興建文武…",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a04ccf326b3243414ccc882"
+    }
+   ],
+   "lat": 22.6294735,
+   "lng": 120.2815569,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3513,6 +3621,33 @@
    ]
   },
   {
+   "id": "iculture:6afd371beb43b0845c061f75",
+   "title": "大約在冬季—蘇保在・廖禮光・周金團 藝術聯展",
+   "start": "2026-12-19T14:00:00+08:00",
+   "end": "2027-01-16T19:00:00+08:00",
+   "venue": "大唐生活美學館",
+   "address": "三民區九如一路588號",
+   "district": "三民區",
+   "category": "展覽",
+   "fee": "未知",
+   "organizer": "大唐生活美學館",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://studiotang.com.tw/exhibition_detail.php?id=449"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:6afd5e7226b3245efc753821",
    "title": "銅聲迴響",
    "start": "2027-01-24T19:30:00+08:00",
@@ -3533,6 +3668,114 @@
    ],
    "lat": 22.6276246,
    "lng": 120.2868631,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6afeb30b26b3245efc75382b",
+   "title": "雄頌管弦樂團音樂會-北國詩篇",
+   "start": "2027-02-21T14:30:00+08:00",
+   "end": "2027-02-21T16:30:00+08:00",
+   "venue": "大東文化藝術中心演藝廳",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOQV6P"
+    }
+   ],
+   "lat": 22.6247642,
+   "lng": 120.3634355,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6afeb30b26b3245efc75382e",
+   "title": "12月高雄市電影館｜千禧曼波",
+   "start": "2026-12-12T19:10:00+08:00",
+   "end": "2026-12-31T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOSO32"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6afeb30b26b3245efc75382f",
+   "title": "12月高雄市電影館｜辣妹過招",
+   "start": "2026-12-31T20:40:00+08:00",
+   "end": "2026-12-31T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOW6O9"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6afeb30b26b3245efc753830",
+   "title": "12月高雄市電影館｜秘密會議",
+   "start": "2026-12-31T18:00:00+08:00",
+   "end": "2026-12-31T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOW6OG"
+    }
+   ],
+   "lat": null,
+   "lng": null,
    "aliases": [],
    "first_seen": "",
    "sources": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T10:09:27.527438+08:00",
+ "fetched_at": "2026-11-20T09:59:57.511270+08:00",
  "warning": "",
  "events": [
   {
@@ -2352,6 +2352,33 @@
    ]
   },
   {
+   "id": "weiwuying:6afec8b780a8cc6022bdf57a",
+   "title": "【期間限定】表演廳聲學導覽",
+   "start": "2026-12-20T14:00:00+08:00",
+   "end": "2026-12-20T14:00:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "2026 年度壓軸最終場！建築導覽系列壓軸登場－「表演廳聲學導覽」",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6afec8b780a8cc6022bdf57a"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6a8d430736422a0008335c6a",
    "title": "《彼方：春聲回流》梁喬信與高雄市交響樂團",
    "start": "2026-12-20T14:30:00+08:00",
@@ -3891,6 +3918,33 @@
    ]
   },
   {
+   "id": "weiwuying:6aec3e4f91fe510007c86cf1",
+   "title": "2027【探索管風琴音樂】2-6月",
+   "start": "2027-02-24T14:30:00+08:00",
+   "end": "2027-06-23T14:30:00+08:00",
+   "venue": "衛武營 音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "只要一小時，不用超懂古典樂，也能被「全亞洲最大管風琴」的魅力感動！",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6aec3e4f91fe510007c86cf1"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
    "id": "weiwuying:6afc1a2a4a72cbc6008a18cd",
    "title": "《貝森朵夫遇見胡琴－維也納鋼琴、大提琴與二胡三重奏》",
    "start": "2027-02-24T19:30:00+08:00",
@@ -4366,6 +4420,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6abf6aca7a63f600076e7cb6"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6afd54284a72cb51478a5c2e",
+   "title": "【2027衛武營國際音樂節】《成為你自己的聲音：當代作曲家的創作之路》",
+   "start": "2027-04-10T16:30:00+08:00",
+   "end": "2027-04-10T16:30:00+08:00",
+   "venue": "衛武營 演講廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "2027衛武營國際音樂節駐節作曲家多伊奇，擅長交織音色與律動，構築深具生命力的音樂景觀。本講座他將親揭如何淬鍊出獨特的語彙。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6afd54284a72cb51478a5c2e"
     }
    ],
    "lat": null,
