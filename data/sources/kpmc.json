@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T07:19:08.365351+08:00",
+ "fetched_at": "2026-11-22T05:26:56.488227+08:00",
  "warning": "",
  "events": [
   {
@@ -289,114 +289,6 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-hih-0725/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16256",
-   "title": "KEEP ROLLING. KEEP PLAYING! 轉吧! 金曲黑膠之夜",
-   "start": "2026-11-21T19:00:00+08:00",
-   "end": "2026-11-21T19:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "聲日裏物",
-   "organizer_type": "不確定",
-   "description": "演出：DJ｜ 艾比路唱片行 — 陳建勳 James\n票價：每場NT$300/人",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/keep-rolling-keep-playing-%e8%bd%89%e5%90%a7-%e9%87%91%e6%9b%b2%e9%bb%91%e8%86%a0%e4%b9%8b%e5%a4%9c/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15947",
-   "title": "交個朋友吧演出系列-番外",
-   "start": "2026-11-21T19:30:00+08:00",
-   "end": "2026-11-21T19:30:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "HeheHaha、油漬艾莉、秋山 x 高雄流行音樂中心",
-   "organizer_type": "政府",
-   "description": "演出：HeheHaha、油漬艾莉、秋山\n票價：預售票500元 現場票600元",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1121-2/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16284",
-   "title": "迷幻電風琴之夜！第六彈！",
-   "start": "2026-11-21T20:00:00+08:00",
-   "end": "2026-11-21T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：宋易修、許子薇、涂宸華、李祈均\n票價：單人500元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e8%bf%b7%e5%b9%bb%e9%9b%bb%e9%a2%a8%e7%90%b4%e4%b9%8b%e5%a4%9c%ef%bc%81%e7%ac%ac%e5%85%ad%e5%bd%88%ef%bc%81/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:15945",
-   "title": "【高雄場】椅子樂團 Rolling On, Marching On 十週年巡演",
-   "start": "2026-11-21T20:00:00+08:00",
-   "end": "2026-11-21T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 大庫",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "明天的歌",
-   "organizer_type": "不確定",
-   "description": "演出：椅子樂團\n票價：一般票NT$1500 雙人套票NT$1350(人) 雙人套票NT$1350(人) 現場票NT$1700",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/2026-lwh-1121/"
     }
    ],
    "lat": null,

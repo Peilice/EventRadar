@@ -1,115 +1,7 @@
 {
- "fetched_at": "2026-11-21T07:19:08.365351+08:00",
+ "fetched_at": "2026-11-22T05:26:56.488227+08:00",
  "warning": "",
  "events": [
-  {
-   "id": "nstm:0000015250-3",
-   "title": "遇見草本療癒：薰衣草與中藥材的暖心膏劑手作",
-   "start": "2026-11-21T09:30:00+08:00",
-   "end": "2026-11-21T11:30:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國中以上至成人；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015250&act_seq=3"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000014835-63",
-   "title": "石斑魚養成記-認識石斑魚",
-   "start": "2026-11-21T10:00:00+08:00",
-   "end": "2026-11-21T11:30:00+08:00",
-   "venue": "國立科學工藝博物館 植物工坊旁教室",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：6歲以上；領域：科學教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000014835&act_seq=63"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000014835-64",
-   "title": "石斑魚養成記-石斑魚料理",
-   "start": "2026-11-21T14:00:00+08:00",
-   "end": "2026-11-21T15:30:00+08:00",
-   "venue": "國立科學工藝博物館 2F(家庭廚房(機器人主廚旁))",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：6歲以上；領域：科學教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000014835&act_seq=64"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
-   "id": "nstm:0000015480-1",
-   "title": "鳳梨纖維手環編織",
-   "start": "2026-11-21T14:00:00+08:00",
-   "end": "2026-11-21T16:00:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：適合8歲以上孩童；1大人1小孩為1組；領域：環保",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015480&act_seq=1"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
   {
    "id": "nstm:0000015385-4",
    "title": "週日閱讀科學大師系列講座：16之4從無人機看工程師如何解決問題-建模、模擬、實驗與最佳化的工程之旅",
@@ -219,33 +111,6 @@
    ]
   },
   {
-   "id": "nstm:0000014835-50",
-   "title": "節慶小花藝師-感恩節 餐桌花設計",
-   "start": "2026-11-22T14:00:00+08:00",
-   "end": "2026-11-22T16:00:00+08:00",
-   "venue": "國立科學工藝博物館 植物工坊旁教室",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：須滿6歲以上；領域：科學教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000014835&act_seq=50"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
    "id": "nstm:0000014752-27",
    "title": "辣椒農場主人與他的夥伴─鳳櫻辣拌醬手作與品嘗",
    "start": "2026-11-22T10:00:00+08:00",
@@ -262,6 +127,33 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000014752&act_seq=27"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
+   "id": "nstm:0000014835-50",
+   "title": "節慶小花藝師-感恩節 餐桌花設計",
+   "start": "2026-11-22T14:00:00+08:00",
+   "end": "2026-11-22T16:00:00+08:00",
+   "venue": "國立科學工藝博物館 植物工坊旁教室",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：須滿6歲以上；領域：科學教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000014835&act_seq=50"
     }
    ],
    "lat": null,
