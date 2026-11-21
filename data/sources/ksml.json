@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T05:26:56.488227+08:00",
+ "fetched_at": "2026-11-22T07:24:17.792241+08:00",
  "warning": "",
  "events": [
   {
@@ -246,6 +246,33 @@
    ]
   },
   {
+   "id": "ksml:16518",
+   "title": "【高雄文學館】新城憶往──鳳山文學複像｜電影放映｜12/26《童年往事》數位修復版",
+   "start": "2026-12-26T18:00:00+08:00",
+   "end": "2026-12-26T23:59:59+08:00",
+   "venue": "︱高雄文學館2F文學放映室",
+   "address": "高雄市前金區民生二路39號",
+   "district": "前金區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄文學館",
+   "organizer_type": "政府",
+   "description": "時間︱12/26（六）18:00開演；17:45 開放入場\n地點︱高雄文學館2F文學放映室\n名額︱限額60人",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16518"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "ksml:16517",
    "title": "【高雄文學館】新城憶往──鳳山文學複像｜作家講座｜12/27鄭秉泓「城隍廟、芒果樹、眷村與日式宿舍：台灣影視作品中的鳳山」",
    "start": "2026-12-27T10:00:00+08:00",
@@ -300,6 +327,33 @@
    ]
   },
   {
+   "id": "ksml:16515",
+   "title": "【李科永分館】輕塑土-聖誕老公公來送禮🎁 (11月29日)",
+   "start": "2026-11-17T10:00:00+08:00",
+   "end": "2026-11-29T12:00:00+08:00",
+   "venue": "李科永分館B1教室",
+   "address": "高雄市前金區民生二路37號",
+   "district": "前金區",
+   "category": "其他",
+   "fee": "付費",
+   "organizer": "高雄市立圖書館李科永紀念圖書館",
+   "organizer_type": "政府",
+   "description": "【輕塑土-聖誕老公公來送禮🎁】\n叮叮噹～叮叮噹～聖誕節的腳步越來越近了！\n今年不妨親手打造一份充滿溫度與節日氣息的聖誕小作品吧！",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16515"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "ksml:16512",
    "title": "【寶珠分館】「數位性別暴力防治講座｜螢幕裡我的人生，並不是你的色情片!」115/11/22(日)14:00-16:00講師:林奕萱 醫師",
    "start": "2026-11-22T14:00:00+08:00",
@@ -316,6 +370,33 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16512"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16200",
+   "title": "📷大東講堂📷12/12(六)邀請黃景南主講「從社區營造到地景建築的夥伴與修行」，歡迎參加！",
+   "start": "2026-12-12T00:00:00+08:00",
+   "end": "2026-12-12T23:59:59+08:00",
+   "venue": "大東文化藝術中心演講廳（鳳山區光遠路161號）捷運橘線大東站2號出口",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館大東藝術圖書館",
+   "organizer_type": "政府",
+   "description": "※本場次採線上報名，即日起至額滿為止，當天視剩餘座位開放現場候補，報名方式請詳報名網址。\n日 期：2026年12月12日( 六 )\n時 間：14:30 - 17:00 (13:30開放報到入場)",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16200"
     }
    ],
    "lat": null,
@@ -748,6 +829,87 @@
     {
      "source": "ksml",
      "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16432"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16379",
+   "title": "【總館】《你看，有聲音！》主題繪本系列活動",
+   "start": "2026-10-11T00:00:00+08:00",
+   "end": "2027-01-10T23:59:59+08:00",
+   "venue": "高雄市立圖書館總館",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館繪本部",
+   "organizer_type": "政府",
+   "description": "🎶《你看，有聲音！》主題繪本系列活動🎶\n💡時間：2026/10/11（二）-2027/1/10（日）\n💡地點：高雄市立圖書館總館",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16379"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:15995",
+   "title": "🌱CONTIN with you🌱創業課程計畫系列講座",
+   "start": "2026-08-09T14:00:00+08:00",
+   "end": "2026-11-22T17:00:00+08:00",
+   "venue": "高雄市立圖書館總館",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館社會資源整合組",
+   "organizer_type": "政府",
+   "description": "🌱「CONTIN with you X夢想發芽・閱讀創業」🌱創業課程計畫\n想創業卻不知從何開始？\n國民洗髮精品牌【康定CONTIN】推出4場超實用講座！",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,15995"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
+   "id": "ksml:16285",
+   "title": "文化中心分館銀髮健身俱樂部第四期課程即將於115年9/17至12/4開辦，即日起受理現場繳費報名，2班共計24名，額滿為止，歡迎65歲以上健康及亞健康長輩，踴躍報名參加。",
+   "start": "2026-09-17T00:00:00+08:00",
+   "end": "2026-12-04T23:59:59+08:00",
+   "venue": "文化中心分館4樓銀髮健身俱樂部",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄市立圖書館高雄市文化中心分館",
+   "organizer_type": "政府",
+   "description": "上課期間及時間：\n週四班115年9/17-12/3每週四下午14：30-16：30（計12堂課）\n週五班115年9/18-12/4每週五及10/27(二)下午14：30-16：30（計12堂課）",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16285"
     }
    ],
    "lat": null,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:26:56.488227+08:00",
+ "generated_at": "2026-11-22T07:24:17.792241+08:00",
  "events": [
   {
    "id": "nstm:482a5d16-72b3-435a-843b-905f75e9de2c",
@@ -2338,6 +2338,33 @@
    ]
   },
   {
+   "id": "ksml:15995",
+   "title": "🌱CONTIN with you🌱創業課程計畫系列講座",
+   "start": "2026-08-09T14:00:00+08:00",
+   "end": "2026-11-22T17:00:00+08:00",
+   "venue": "高雄市立圖書館總館",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館社會資源整合組",
+   "organizer_type": "政府",
+   "description": "🌱「CONTIN with you X夢想發芽・閱讀創業」🌱創業課程計畫\n想創業卻不知從何開始？\n國民洗髮精品牌【康定CONTIN】推出4場超實用講座！",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,15995"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "weiwuying:6a1ce6997b4519000777aaf5",
    "title": "2026【探索管風琴音樂】8-12月",
    "start": "2026-08-19T14:30:00+08:00",
@@ -2561,6 +2588,33 @@
    ]
   },
   {
+   "id": "ksml:16285",
+   "title": "文化中心分館銀髮健身俱樂部第四期課程即將於115年9/17至12/4開辦，即日起受理現場繳費報名，2班共計24名，額滿為止，歡迎65歲以上健康及亞健康長輩，踴躍報名參加。",
+   "start": "2026-09-17T00:00:00+08:00",
+   "end": "2026-12-04T23:59:59+08:00",
+   "venue": "文化中心分館4樓銀髮健身俱樂部",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "講座／課程",
+   "fee": "付費",
+   "organizer": "高雄市立圖書館高雄市文化中心分館",
+   "organizer_type": "政府",
+   "description": "上課期間及時間：\n週四班115年9/17-12/3每週四下午14：30-16：30（計12堂課）\n週五班115年9/18-12/4每週五及10/27(二)下午14：30-16：30（計12堂課）",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16285"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "twmarket:60356",
    "title": "少女心市集與小島絮語",
    "start": "2026-09-19T11:00:00+08:00",
@@ -2747,6 +2801,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "ksml:16379",
+   "title": "【總館】《你看，有聲音！》主題繪本系列活動",
+   "start": "2026-10-11T00:00:00+08:00",
+   "end": "2027-01-10T23:59:59+08:00",
+   "venue": "高雄市立圖書館總館",
+   "address": "高雄市前鎮區新光路61號",
+   "district": "前鎮區",
+   "category": "親子",
+   "fee": "免費",
+   "organizer": "高雄市立圖書館繪本部",
+   "organizer_type": "政府",
+   "description": "🎶《你看，有聲音！》主題繪本系列活動🎶\n💡時間：2026/10/11（二）-2027/1/10（日）\n💡地點：高雄市立圖書館總館",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16379"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "ksml"
    ]
   },
   {
@@ -4087,6 +4168,33 @@
    ]
   },
   {
+   "id": "ksml:16515",
+   "title": "【李科永分館】輕塑土-聖誕老公公來送禮🎁 (11月29日)",
+   "start": "2026-11-17T10:00:00+08:00",
+   "end": "2026-11-29T12:00:00+08:00",
+   "venue": "李科永分館B1教室",
+   "address": "高雄市前金區民生二路37號",
+   "district": "前金區",
+   "category": "其他",
+   "fee": "付費",
+   "organizer": "高雄市立圖書館李科永紀念圖書館",
+   "organizer_type": "政府",
+   "description": "【輕塑土-聖誕老公公來送禮🎁】\n叮叮噹～叮叮噹～聖誕節的腳步越來越近了！\n今年不妨親手打造一份充滿溫度與節日氣息的聖誕小作品吧！",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16515"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-18",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "nstm:dc6c067e-1642-4500-990d-94f6b5f899c4",
    "title": "哈囉！我有問題：微生物與抗藥性的大小事",
    "start": "2026-11-18T00:00:00+08:00",
@@ -4600,60 +4708,6 @@
    ]
   },
   {
-   "id": "iculture:6ada767326b3245efc753714",
-   "title": "11月高雄市電影館｜第四幕",
-   "start": "2026-11-21T11:30:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-25",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753705",
-   "title": "11月高雄市電影館｜重返巔峰北壁",
-   "start": "2026-11-21T11:50:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PY"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "twmarket:60917",
    "title": "小島絮語·少女心事簿",
    "start": "2026-11-21T12:00:00+08:00",
@@ -4697,33 +4751,6 @@
     {
      "source": "iculture",
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I7E1FE"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-11-09",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6aeeeff126b3245efc7537a8",
-   "title": "《世紀首登：聖母峰1953》VR沉浸大展",
-   "start": "2026-11-21T12:00:00+08:00",
-   "end": "2027-02-14T21:00:00+08:00",
-   "venue": "內惟藝術中心",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I7E1FQ"
     }
    ],
    "lat": null,
@@ -4870,33 +4897,6 @@
    ]
   },
   {
-   "id": "iculture:6ad91d1d26b3245efc753701",
-   "title": "11月高雄市電影館｜有用的人",
-   "start": "2026-11-21T14:20:00+08:00",
-   "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "accupass:2611180734451154554536",
    "title": "《框中之森——在森林裡看見生命的呼吸》溫蒂俞陶瓷框｜謝俞萱 創作個展",
    "start": "2026-11-21T14:30:00+08:00",
@@ -4924,87 +4924,6 @@
    ]
   },
   {
-   "id": "iculture:6ada767326b3245efc753713",
-   "title": "11月高雄市電影館｜善男信女",
-   "start": "2026-11-21T16:00:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QJ"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-25",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753700",
-   "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-21T16:40:00+08:00",
-   "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753706",
-   "title": "11月高雄市電影館｜黑球",
-   "start": "2026-11-21T18:00:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3Q5"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "accupass:2611070607201723923394",
    "title": "《冬日拾明𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠 𝐌𝐨𝐦𝐞𝐧𝐭𝐬 𝐰𝐢𝐭𝐡 𝐌𝐲𝐮𝐧𝐠》",
    "start": "2026-11-21T18:00:00+08:00",
@@ -5029,33 +4948,6 @@
    "first_seen": "2026-11-22",
    "sources": [
     "accupass"
-   ]
-  },
-  {
-   "id": "iculture:6ada767326b3245efc753712",
-   "title": "11月高雄市電影館｜你和我的房間這種感覺",
-   "start": "2026-11-21T19:40:00+08:00",
-   "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-25",
-   "sources": [
-    "iculture"
    ]
   },
   {
@@ -5459,6 +5351,33 @@
    "lng": null,
    "aliases": [],
    "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6aeeeff126b3245efc7537a8",
+   "title": "《世紀首登：聖母峰1953》VR沉浸大展",
+   "start": "2026-11-22T12:00:00+08:00",
+   "end": "2027-02-14T21:00:00+08:00",
+   "venue": "內惟藝術中心",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I7E1FQ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-09",
    "sources": [
     "iculture"
    ]
@@ -5977,6 +5896,33 @@
    ]
   },
   {
+   "id": "iculture:6ada767326b3245efc753713",
+   "title": "11月高雄市電影館｜善男信女",
+   "start": "2026-11-22T14:20:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QJ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-25",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "weiwuying:6a22655a3660ba0008bf76fe",
    "title": "《天才炫技》馬丁．賈西亞．賈西亞與高市交",
    "start": "2026-11-22T14:30:00+08:00",
@@ -6153,6 +6099,33 @@
    ]
   },
   {
+   "id": "iculture:6ad91d1d26b3245efc753705",
+   "title": "11月高雄市電影館｜重返巔峰北壁",
+   "start": "2026-11-22T15:00:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PY"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "weiwuying:6a94f17909ea090008f26705",
    "title": "TCC沙龍音樂會系列 閱讀音樂2《心動莎翁》",
    "start": "2026-11-22T15:30:00+08:00",
@@ -6268,6 +6241,87 @@
    ]
   },
   {
+   "id": "iculture:6ada767326b3245efc753714",
+   "title": "11月高雄市電影館｜第四幕",
+   "start": "2026-11-22T16:30:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-25",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753700",
+   "title": "11月高雄市電影館｜告別的年代",
+   "start": "2026-11-22T17:00:00+08:00",
+   "end": "2026-11-27T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753706",
+   "title": "11月高雄市電影館｜黑球",
+   "start": "2026-11-22T19:00:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3Q5"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "accupass:2610141744548907675560",
    "title": "【即興主題日】那間老鼠開的動畫公司",
    "start": "2026-11-22T19:30:00+08:00",
@@ -6292,6 +6346,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753712",
+   "title": "11月高雄市電影館｜你和我的房間這種感覺",
+   "start": "2026-11-22T20:00:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-25",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -6533,6 +6614,33 @@
    "lng": 120.2891198,
    "aliases": [],
    "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753701",
+   "title": "11月高雄市電影館｜有用的人",
+   "start": "2026-11-24T14:40:00+08:00",
+   "end": "2026-11-27T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
    "sources": [
     "iculture"
    ]
@@ -15258,6 +15366,33 @@
    ]
   },
   {
+   "id": "ksml:16200",
+   "title": "📷大東講堂📷12/12(六)邀請黃景南主講「從社區營造到地景建築的夥伴與修行」，歡迎參加！",
+   "start": "2026-12-12T00:00:00+08:00",
+   "end": "2026-12-12T23:59:59+08:00",
+   "venue": "大東文化藝術中心演講廳（鳳山區光遠路161號）捷運橘線大東站2號出口",
+   "address": "高雄市鳳山區光遠路161號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館大東藝術圖書館",
+   "organizer_type": "政府",
+   "description": "※本場次採線上報名，即日起至額滿為止，當天視剩餘座位開放現場候補，報名方式請詳報名網址。\n日 期：2026年12月12日( 六 )\n時 間：14:30 - 17:00 (13:30開放報到入場)",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16200"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-15",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "twmarket:62139",
    "title": "聖誕音樂糖親子探索派對",
    "start": "2026-12-12T00:00:00+08:00",
@@ -19776,33 +19911,6 @@
    ]
   },
   {
-   "id": "weiwuying:6abc70eb86975700088bedef",
-   "title": "《一封關於歌德的長信－德國藝術歌曲劇場》",
-   "start": "2026-12-19T19:30:00+08:00",
-   "end": "2026-12-19T19:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "結合多媒體之德國藝術歌曲組裝劇場。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6abc70eb86975700088bedef"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-19",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
    "id": "kpmc:16326",
    "title": "《射後不理＃ 爽就好了》Live Podcast 【Six and the Cities】 高雄場",
    "start": "2026-12-19T19:30:00+08:00",
@@ -19853,6 +19961,40 @@
    "aliases": [],
    "first_seen": "2026-10-19",
    "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6abc70eb86975700088bedef",
+   "title": "《一封關於歌德的長信－德國藝術歌曲劇場》",
+   "start": "2026-12-19T19:30:00+08:00",
+   "end": "2026-12-19T21:00:00+08:00",
+   "venue": "衛武營 表演廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "湯發凱",
+   "organizer_type": "不確定",
+   "description": "結合多媒體之德國藝術歌曲組裝劇場。",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6abc70eb86975700088bedef"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2105452507466604545"
+    }
+   ],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2105452507466604545:20261219"
+   ],
+   "first_seen": "2026-10-19",
+   "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -22304,6 +22446,33 @@
    ]
   },
   {
+   "id": "ksml:16518",
+   "title": "【高雄文學館】新城憶往──鳳山文學複像｜電影放映｜12/26《童年往事》數位修復版",
+   "start": "2026-12-26T18:00:00+08:00",
+   "end": "2026-12-26T23:59:59+08:00",
+   "venue": "︱高雄文學館2F文學放映室",
+   "address": "高雄市前金區民生二路39號",
+   "district": "前金區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市立圖書館高雄文學館",
+   "organizer_type": "政府",
+   "description": "時間︱12/26（六）18:00開演；17:45 開放入場\n地點︱高雄文學館2F文學放映室\n名額︱限額60人",
+   "links": [
+    {
+     "source": "ksml",
+     "url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16518"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-18",
+   "sources": [
+    "ksml"
+   ]
+  },
+  {
    "id": "khcc:-40221:20261226",
    "title": "《ACG次元共鳴：當動漫與音樂相遇》",
    "start": "2026-12-26T19:00:00+08:00",
@@ -24092,7 +24261,7 @@
    "id": "weiwuying:6abdcc1486975700088c2d5e",
    "title": "【衛武營小時光】相聲失控《原「聲」ㄅㄧㄢˋ態》",
    "start": "2027-01-06T20:00:00+08:00",
-   "end": "2027-01-06T20:00:00+08:00",
+   "end": "2027-01-06T21:00:00+08:00",
    "venue": "衛武營 表演廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -24105,13 +24274,20 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6abdcc1486975700088c2d5e"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2117232676192620545"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2117232676192620545:20270106"
+   ],
    "first_seen": "2026-11-18",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -31218,7 +31394,7 @@
    "id": "weiwuying:6abdfe327a63f600076e35ea",
    "title": "【衛武營小時光】明和電機 《開箱啦！社長與他的造音好朋友 》",
    "start": "2027-03-17T20:00:00+08:00",
-   "end": "2027-03-17T20:00:00+08:00",
+   "end": "2027-03-17T21:10:00+08:00",
    "venue": "衛武營 表演廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -31231,13 +31407,20 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6abdfe327a63f600076e35ea"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2117235334010728448"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2117235334010728448:20270317"
+   ],
    "first_seen": "2026-11-18",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -31757,6 +31940,33 @@
    ]
   },
   {
+   "id": "opentix:2113554081661919233:20270410",
+   "title": "【2027戲曲新秀專場舞臺】當代傳奇劇場《姚期》",
+   "start": "2027-04-10T14:30:00+08:00",
+   "end": "2027-04-10T16:00:00+08:00",
+   "venue": "高雄中山堂劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "國立傳統藝術中心.",
+   "organizer_type": "政府",
+   "description": "【團隊介紹】 《當代傳奇劇場》 1986年由藝術總監吳興國成立，致力於為傳統戲曲與當代劇場接軌。融合跨越中西劇場的美學精神，從跨文化、跨界到無界限，從傳統到多媒體科技，廣受世界媒體讚譽與觀眾喜愛，巡演足跡至今遍及二十多國，是臺灣唯一登上「世界三大藝術節」英國愛丁堡藝術節、法國亞維儂藝術節與美國林肯中心藝術節的表演團隊。2016年成立興傳奇青年劇場，致力培育傳承青年演員人才，為孕育下一代人才而展現更活潑、多元跨界、創意自由的發展版圖。 【節目特色】 【千生萬旦‧一淨難求｜難得一見的花臉當家大戲】 戲曲界常言：「千生萬旦，一淨難求。」 淨角（花臉）因對天生嗓音條件、體格氣場及唱功修為的要求極高，歷…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2113554081661919233"
+    }
+   ],
+   "lat": 22.68992611,
+   "lng": 120.29194599,
+   "aliases": [],
+   "first_seen": "2026-11-17",
+   "sources": [
+    "opentix"
+   ]
+  },
+  {
    "id": "weiwuying:6afd54284a72cb51478a5c2e",
    "title": "【2027衛武營國際音樂節】《成為你自己的聲音：當代作曲家的創作之路》",
    "start": "2027-04-10T16:30:00+08:00",
@@ -31869,6 +32079,33 @@
    "first_seen": "2026-11-09",
    "sources": [
     "nstm"
+   ]
+  },
+  {
+   "id": "opentix:2113554081661919233:20270411",
+   "title": "【2027戲曲新秀專場舞臺】當代傳奇劇場《姚期》",
+   "start": "2027-04-11T14:30:00+08:00",
+   "end": "2027-04-11T16:00:00+08:00",
+   "venue": "高雄中山堂劇場",
+   "address": "",
+   "district": "",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "國立傳統藝術中心.",
+   "organizer_type": "政府",
+   "description": "【團隊介紹】 《當代傳奇劇場》 1986年由藝術總監吳興國成立，致力於為傳統戲曲與當代劇場接軌。融合跨越中西劇場的美學精神，從跨文化、跨界到無界限，從傳統到多媒體科技，廣受世界媒體讚譽與觀眾喜愛，巡演足跡至今遍及二十多國，是臺灣唯一登上「世界三大藝術節」英國愛丁堡藝術節、法國亞維儂藝術節與美國林肯中心藝術節的表演團隊。2016年成立興傳奇青年劇場，致力培育傳承青年演員人才，為孕育下一代人才而展現更活潑、多元跨界、創意自由的發展版圖。 【節目特色】 【千生萬旦‧一淨難求｜難得一見的花臉當家大戲】 戲曲界常言：「千生萬旦，一淨難求。」 淨角（花臉）因對天生嗓音條件、體格氣場及唱功修為的要求極高，歷…",
+   "links": [
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2113554081661919233"
+    }
+   ],
+   "lat": 22.68992611,
+   "lng": 120.29194599,
+   "aliases": [],
+   "first_seen": "2026-11-17",
+   "sources": [
+    "opentix"
    ]
   },
   {
@@ -32092,7 +32329,7 @@
    "id": "weiwuying:6ad7081d86975700089a469d",
    "title": "【2027衛武營國際音樂節】閉幕音樂會《命運的漫遊者》",
    "start": "2027-04-18T14:30:00+08:00",
-   "end": "2027-04-18T14:30:00+08:00",
+   "end": "2027-04-18T16:15:00+08:00",
    "venue": "衛武營 音樂廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -32105,13 +32342,20 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ad7081d86975700089a469d"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2120001954041536512"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2120001954041536512:20270418"
+   ],
    "first_seen": "2026-11-18",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -32146,7 +32390,7 @@
    "id": "weiwuying:6abe05dd7a63f600076e37ac",
    "title": "【衛武營小時光】日本Zeroko默劇雙人組合《晚茶時光》",
    "start": "2027-04-21T20:00:00+08:00",
-   "end": "2027-04-21T20:00:00+08:00",
+   "end": "2027-04-21T21:00:00+08:00",
    "venue": "衛武營 表演廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -32159,13 +32403,20 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6abe05dd7a63f600076e37ac"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2117518212990480385"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2117518212990480385:20270421"
+   ],
    "first_seen": "2026-11-18",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -32647,7 +32898,7 @@
    "id": "weiwuying:6abe0a8786975700088c3c40",
    "title": "【衛武營小時光】葡萄牙樂集《法朵・靈魂之聲》",
    "start": "2027-05-19T20:00:00+08:00",
-   "end": "2027-05-19T20:00:00+08:00",
+   "end": "2027-05-19T21:00:00+08:00",
    "venue": "衛武營 表演廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -32660,13 +32911,20 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6abe0a8786975700088c3c40"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2117238062469554177"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2117238062469554177:20270519"
+   ],
    "first_seen": "2026-11-18",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -32926,26 +33184,34 @@
    "id": "weiwuying:6ad720667a63f600077b8579",
    "title": "創作社劇團《孃孃狂言》",
    "start": "2027-06-05T14:30:00+08:00",
-   "end": "2027-06-06T14:30:00+08:00",
+   "end": "2027-06-06T16:30:00+08:00",
    "venue": "衛武營 戲劇院",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
    "category": "表演／音樂",
    "fee": "免費",
-   "organizer": "",
-   "organizer_type": "不確定",
+   "organizer": "國家表演藝術中心衛武營國家藝術文化中心",
+   "organizer_type": "政府",
    "description": "在戰火與遷徙交織的二十世紀，兩個女人為了逃離婚姻的安排，從上海到臺灣，短暫的出走卻活成了一生相依。",
    "links": [
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6ad720667a63f600077b8579"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2120024606565634049"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2120024606565634049:20270605",
+    "opentix:2120024606565634049:20270606"
+   ],
    "first_seen": "2026-11-18",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
@@ -33014,7 +33280,7 @@
    "id": "weiwuying:6abe106b86975700088c3db0",
    "title": "【衛武營小時光】林陸傑 《年少時光》",
    "start": "2027-06-16T20:00:00+08:00",
-   "end": "2027-06-16T20:00:00+08:00",
+   "end": "2027-06-16T20:55:00+08:00",
    "venue": "衛武營 表演廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -33027,13 +33293,20 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6abe106b86975700088c3db0"
+    },
+    {
+     "source": "opentix",
+     "url": "https://www.opentix.life/event/2117523772374880257"
     }
    ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
+   "lat": 22.62301792,
+   "lng": 120.34243411,
+   "aliases": [
+    "opentix:2117523772374880257:20270616"
+   ],
    "first_seen": "2026-11-18",
    "sources": [
+    "opentix",
     "weiwuying"
    ]
   },
