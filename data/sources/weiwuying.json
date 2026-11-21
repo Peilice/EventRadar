@@ -1,7 +1,34 @@
 {
- "fetched_at": "2026-11-21T07:17:49.843687+08:00",
+ "fetched_at": "2026-11-22T07:23:18.898465+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "weiwuying:6a9fccdc8979e70007e9ba41",
+   "title": "【2026 場館友善計畫】《永動城市》共融舞蹈工作坊",
+   "start": "2026-11-22T10:00:00+08:00",
+   "end": "2026-11-28T14:30:00+08:00",
+   "venue": "衛武營 排練室",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "搭配主辦節目—【2026臺灣舞蹈平台】《永動城市》滯留島舞蹈劇場＆Kinetic Light＆ONIKHO",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6a9fccdc8979e70007e9ba41"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
   {
    "id": "weiwuying:69fae7b52404090007fc3925",
    "title": "2026《再一次！唱歌旅行去》十週年親子演唱會",
@@ -19,33 +46,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69fae7b52404090007fc3925"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6aa105478979e70007eadc0e",
-   "title": "2026 賦格【小小音樂大師課】高雄場",
-   "start": "2026-09-12T11:00:00+08:00",
-   "end": "2026-11-21T16:30:00+08:00",
-   "venue": "衛武營排練室",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "其他",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "小號明快嘹亮，和小紅帽勇敢走進森林",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6aa105478979e70007eadc0e"
     }
    ],
    "lat": null,
@@ -111,37 +111,10 @@
    ]
   },
   {
-   "id": "weiwuying:6a7148ae98558c000705a631",
-   "title": "【武營來開槓】今天，你穿的是誰？  —從日常穿搭到舞台角色",
-   "start": "2026-11-21T14:00:00+08:00",
-   "end": "2026-11-21T14:00:00+08:00",
-   "venue": "衛武營 演講廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "其他",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "講座將從大家熟悉的日常穿搭出發，帶領大家走進劇場服裝設計的幕後世界。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a7148ae98558c000705a631"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a603fc2cdcdfe0008f604d9",
-   "title": "《鋼琴天后王羽佳 與 馬勒室內樂團》",
-   "start": "2026-11-21T14:00:00+08:00",
-   "end": "2026-11-21T14:00:00+08:00",
+   "id": "weiwuying:6a22655a3660ba0008bf76fe",
+   "title": "《天才炫技》馬丁．賈西亞．賈西亞與高市交",
+   "start": "2026-11-22T14:30:00+08:00",
+   "end": "2026-11-22T14:30:00+08:00",
    "venue": "衛武營 音樂廳",
    "address": "高雄市鳳山區三多一路1號",
    "district": "鳳山區",
@@ -149,11 +122,11 @@
    "fee": "付費",
    "organizer": "",
    "organizer_type": "不確定",
-   "description": "當傳奇樂團遇上鋼琴天后王羽佳，夢幻組合在臺灣，鋼琴與樂團以最直接的對話推進音樂，凝聚出前所未有的能量與默契。邀您親臨當代古典樂壇最受矚目的碰撞時刻。",
+   "description": "極限炫技．磅礴交響．熱血音樂之夜",
    "links": [
     {
      "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a603fc2cdcdfe0008f604d9"
+     "url": "https://www.npac-weiwuying.org/programs/6a22655a3660ba0008bf76fe"
     }
    ],
    "lat": null,
@@ -181,114 +154,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69c3988d1e6a9400071a7f78"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a9918c9d79537000796bc0b",
-   "title": "【幕後解密】探索柏林雷寧廣場劇院《夢想清單》 後台風景",
-   "start": "2026-11-21T16:10:00+08:00",
-   "end": "2026-11-21T16:10:00+08:00",
-   "venue": "衛武營 西側營運辦公室",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "其他",
-   "fee": "未知",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "好奇一部精采節目的製作過程嗎？",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a9918c9d79537000796bc0b"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6aa0d34086975700087e7ba5",
-   "title": "《絕美蕭邦Exquisite Chopin－林瑋祺2026鋼琴獨奏會》",
-   "start": "2026-11-21T19:30:00+08:00",
-   "end": "2026-11-21T19:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "十九世紀最璀璨詩意的藝術，在鋼琴家指尖",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6aa0d34086975700087e7ba5"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a9fccdc8979e70007e9ba41",
-   "title": "【2026 場館友善計畫】《永動城市》共融舞蹈工作坊",
-   "start": "2026-11-22T10:00:00+08:00",
-   "end": "2026-11-28T14:30:00+08:00",
-   "venue": "衛武營 排練室",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "搭配主辦節目—【2026臺灣舞蹈平台】《永動城市》滯留島舞蹈劇場＆Kinetic Light＆ONIKHO",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a9fccdc8979e70007e9ba41"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a22655a3660ba0008bf76fe",
-   "title": "《天才炫技》馬丁．賈西亞．賈西亞與高市交",
-   "start": "2026-11-22T14:30:00+08:00",
-   "end": "2026-11-22T14:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "極限炫技．磅礴交響．熱血音樂之夜",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a22655a3660ba0008bf76fe"
     }
    ],
    "lat": null,

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T07:17:49.843687+08:00",
+ "fetched_at": "2026-11-22T07:23:18.898465+08:00",
  "warning": "",
  "events": [
   {
@@ -57,33 +57,6 @@
    ]
   },
   {
-   "id": "tixcraft:27_megaport_c",
-   "title": "2027大港開唱X國泰世華銀行【國泰世華大樹套票】",
-   "start": "2027-03-20T00:00:00+08:00",
-   "end": "2027-03-21T23:59:59+08:00",
-   "venue": "高雄駁二藝術特區",
-   "address": "",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "tixcraft",
-     "url": "https://tixcraft.com/activity/detail/27_megaport_c"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "tixcraft"
-   ]
-  },
-  {
    "id": "tixcraft:27_megaport",
    "title": "2027大港開唱X國泰世華銀行",
    "start": "2027-03-20T00:00:00+08:00",
@@ -100,6 +73,33 @@
     {
      "source": "tixcraft",
      "url": "https://tixcraft.com/activity/detail/27_megaport"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "tixcraft"
+   ]
+  },
+  {
+   "id": "tixcraft:27_megaport_c",
+   "title": "2027大港開唱X國泰世華銀行【國泰世華大樹套票】",
+   "start": "2027-03-20T00:00:00+08:00",
+   "end": "2027-03-21T23:59:59+08:00",
+   "venue": "高雄駁二藝術特區",
+   "address": "",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "tixcraft",
+     "url": "https://tixcraft.com/activity/detail/27_megaport_c"
     }
    ],
    "lat": null,
