@@ -1,142 +1,7 @@
 {
- "fetched_at": "2026-11-22T07:23:18.898465+08:00",
+ "fetched_at": "2026-11-23T09:57:58.971825+08:00",
  "warning": "",
  "events": [
-  {
-   "id": "iculture:6ad87d18eb43549b707fe242",
-   "title": "潮間湧動——海灣中的承浪與造浪",
-   "start": "2026-10-28T12:00:00+08:00",
-   "end": "2026-11-22T19:00:00+08:00",
-   "venue": "潮間湧動——海灣中的承浪與造浪",
-   "address": "鹽埕區大仁路146號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6ad87d18eb43549b707fe242"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6af2b304eb43549b707fe24f",
-   "title": "數位擱淺",
-   "start": "2026-11-14T12:00:00+08:00",
-   "end": "2026-11-22T19:00:00+08:00",
-   "venue": "數位擱淺",
-   "address": "鹽埕區大仁路146號",
-   "district": "鹽埕區",
-   "category": "展覽",
-   "fee": "未知",
-   "organizer": "國科會人文社會科學研究中心、國立臺灣大學、國立中興大學",
-   "organizer_type": "政府",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6af2b304eb43549b707fe24f"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6a319eb426b3243414ccd38f",
-   "title": "BTS WORLD TOUR′ARIRANG′IN KAOHSIUNG",
-   "start": "2026-11-19T19:00:00+08:00",
-   "end": "2026-11-22T21:00:00+08:00",
-   "venue": "高雄國家體育場﹝2009世運會主場館﹞",
-   "address": "高雄市左營區002鄰世運大道100號",
-   "district": "左營區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "Live Nation理想國演藝股份有限公司",
-   "organizer_type": "民間",
-   "description": "2026 世界級大秀！ BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG 11月 19 & 21 & 22日 高雄世運 終於降臨 BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG 時間： 2026年11月19日(四) 19:00 2026年11月21日(六) 19:00 2026年11月22日(日) 19:00 地點：高雄國家體育場 (世運主場館) 票價： 一般NT$ 7,980 / 6,980 / 5,980 / 4,980 / 3,980 / 2,980 / 3,490（身障優惠票）/ 2,990（身障優惠票） VIP 套票 NT$ 9,…",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://cloud.culture.tw/frontsite/inquiry/eventInquiryAction.do?method=showEventDetail&uid=6a319eb426b3243414ccd38f"
-    }
-   ],
-   "lat": 22.7023314,
-   "lng": 120.2946956,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:69f8f79326b3243414ccc573",
-   "title": "2026《再一次！唱歌旅行去》十週年親子演唱會",
-   "start": "2026-11-22T10:30:00+08:00",
-   "end": "2026-11-22T23:59:00+08:00",
-   "venue": "衛武營國家藝術文化中心歌劇院",
-   "address": "高雄市鳳山區三多一路 1 號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19I4966"
-    }
-   ],
-   "lat": 22.624172,
-   "lng": 120.3422105,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ac7d85426b324165c32e5c6",
-   "title": "11月高雄市電影館｜長短腳電影院－O!PLA 波蘭兒童短片集",
-   "start": "2026-11-22T14:00:00+08:00",
-   "end": "2026-11-22T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "親子",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I3L"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
   {
    "id": "iculture:6a988e4026b32434f43580c1",
    "title": "2026黃品潔大提琴獨奏會",
@@ -275,9 +140,9 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753702",
    "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-22T11:30:00+08:00",
+   "start": "2026-11-24T17:20:00+08:00",
    "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -302,11 +167,11 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753700",
    "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-22T17:00:00+08:00",
+   "start": "2026-11-25T14:00:00+08:00",
    "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -318,8 +183,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -518,11 +383,11 @@
   {
    "id": "iculture:6ada767326b3245efc753712",
    "title": "11月高雄市電影館｜你和我的房間這種感覺",
-   "start": "2026-11-22T20:00:00+08:00",
+   "start": "2026-11-24T16:30:00+08:00",
    "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -534,8 +399,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -680,9 +545,9 @@
   {
    "id": "iculture:6ad7bb5f26b3245efc7536f0",
    "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-22T12:00:00+08:00",
+   "start": "2026-11-29T19:30:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "venue": "內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
    "district": "鼓山區",
    "category": "表演／音樂",
@@ -761,7 +626,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753705",
    "title": "11月高雄市電影館｜重返巔峰北壁",
-   "start": "2026-11-22T15:00:00+08:00",
+   "start": "2026-11-24T20:00:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -788,7 +653,7 @@
   {
    "id": "iculture:6ad91d1d26b3245efc753706",
    "title": "11月高雄市電影館｜黑球",
-   "start": "2026-11-22T19:00:00+08:00",
+   "start": "2026-11-24T14:20:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -815,7 +680,7 @@
   {
    "id": "iculture:6ada767326b3245efc753713",
    "title": "11月高雄市電影館｜善男信女",
-   "start": "2026-11-22T14:20:00+08:00",
+   "start": "2026-11-24T19:50:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
    "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
    "address": "高雄市鼓山區馬卡道路329號",
@@ -842,11 +707,11 @@
   {
    "id": "iculture:6ada767326b3245efc753714",
    "title": "11月高雄市電影館｜第四幕",
-   "start": "2026-11-22T16:30:00+08:00",
+   "start": "2026-11-26T16:30:00+08:00",
    "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
    "category": "表演／音樂",
    "fee": "付費",
    "organizer": "",
@@ -858,8 +723,8 @@
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32"
     }
    ],
-   "lat": null,
-   "lng": null,
+   "lat": 22.62268,
+   "lng": 120.2891198,
    "aliases": [],
    "first_seen": "",
    "sources": [
@@ -3486,6 +3351,33 @@
    ]
   },
   {
+   "id": "iculture:6aeeeff126b3245efc7537a6",
+   "title": "希望盛典・新・英雄再現",
+   "start": "2027-01-04T19:30:00+08:00",
+   "end": "2027-01-04T21:10:00+08:00",
+   "venue": "衛武營國家藝術文化中心音樂廳",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I73209"
+    }
+   ],
+   "lat": 22.624172,
+   "lng": 120.3422105,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:69fa47ba26b3243414ccc5f7",
    "title": "郵玩數世界",
    "start": "2027-01-01T09:00:00+08:00",
@@ -3567,33 +3459,6 @@
    ]
   },
   {
-   "id": "iculture:6aeeeff126b3245efc7537a6",
-   "title": "希望盛典・新・英雄再現",
-   "start": "2027-01-04T19:30:00+08:00",
-   "end": "2027-01-04T21:10:00+08:00",
-   "venue": "衛武營國家藝術文化中心音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I73209"
-    }
-   ],
-   "lat": 22.624172,
-   "lng": 120.3422105,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "iculture:6aeeeff126b3245efc7537a7",
    "title": "《世紀首登：聖母峰1953》VR自選套票",
    "start": "2026-11-21T12:00:00+08:00",
@@ -3623,7 +3488,7 @@
   {
    "id": "iculture:6aeeeff126b3245efc7537a8",
    "title": "《世紀首登：聖母峰1953》VR沉浸大展",
-   "start": "2026-11-22T12:00:00+08:00",
+   "start": "2026-11-24T14:00:00+08:00",
    "end": "2027-02-14T21:00:00+08:00",
    "venue": "內惟藝術中心",
    "address": "高雄市鼓山區馬卡道路329號",

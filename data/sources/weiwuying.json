@@ -1,61 +1,7 @@
 {
- "fetched_at": "2026-11-22T07:23:18.898465+08:00",
+ "fetched_at": "2026-11-23T09:57:58.971825+08:00",
  "warning": "",
  "events": [
-  {
-   "id": "weiwuying:6a9fccdc8979e70007e9ba41",
-   "title": "【2026 場館友善計畫】《永動城市》共融舞蹈工作坊",
-   "start": "2026-11-22T10:00:00+08:00",
-   "end": "2026-11-28T14:30:00+08:00",
-   "venue": "衛武營 排練室",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "講座／課程",
-   "fee": "免費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "搭配主辦節目—【2026臺灣舞蹈平台】《永動城市》滯留島舞蹈劇場＆Kinetic Light＆ONIKHO",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a9fccdc8979e70007e9ba41"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69fae7b52404090007fc3925",
-   "title": "2026《再一次！唱歌旅行去》十週年親子演唱會",
-   "start": "2026-11-21T10:30:00+08:00",
-   "end": "2026-11-22T10:30:00+08:00",
-   "venue": "衛武營 歌劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "一趟平凡的探親路程，一場家庭的修復之旅",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69fae7b52404090007fc3925"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
   {
    "id": "weiwuying:6a953c1f3041610007c17381",
    "title": "跳出來的地圖：那些身體走過的臺灣路",
@@ -100,87 +46,6 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a22655a3660ba0008bf76fe",
-   "title": "《天才炫技》馬丁．賈西亞．賈西亞與高市交",
-   "start": "2026-11-22T14:30:00+08:00",
-   "end": "2026-11-22T14:30:00+08:00",
-   "venue": "衛武營 音樂廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "極限炫技．磅礴交響．熱血音樂之夜",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a22655a3660ba0008bf76fe"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:69c3988d1e6a9400071a7f78",
-   "title": "柏林雷寧廣場劇院《夢想清單》",
-   "start": "2026-11-20T19:30:00+08:00",
-   "end": "2026-11-22T14:30:00+08:00",
-   "venue": "衛武營 戲劇院",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "衛武營國家藝術文化中心",
-   "organizer_type": "政府",
-   "description": "2024柏林戲劇盛會年度十大的力作，是一齣充滿反諷的音樂劇場，現場樂團搭配爵士、探戈、搖滾和流行情歌，透過一位戰地記者的記憶片段，探索我們當下的時代精神。",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/69c3988d1e6a9400071a7f78"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "weiwuying"
-   ]
-  },
-  {
-   "id": "weiwuying:6a94f17909ea090008f26705",
-   "title": "TCC沙龍音樂會系列 閱讀音樂2《心動莎翁》",
-   "start": "2026-11-22T15:30:00+08:00",
-   "end": "2026-11-22T15:30:00+08:00",
-   "venue": "衛武營 表演廳",
-   "address": "高雄市鳳山區三多一路1號",
-   "district": "鳳山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "TCC 2026沙龍音樂會系列",
-   "links": [
-    {
-     "source": "weiwuying",
-     "url": "https://www.npac-weiwuying.org/programs/6a94f17909ea090008f26705"
     }
    ],
    "lat": null,
@@ -667,6 +532,33 @@
     {
      "source": "weiwuying",
      "url": "https://www.npac-weiwuying.org/programs/6a4c5fb47fbab00007d48756"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "weiwuying"
+   ]
+  },
+  {
+   "id": "weiwuying:6a9fccdc8979e70007e9ba41",
+   "title": "【2026 場館友善計畫】《永動城市》共融舞蹈工作坊",
+   "start": "2026-11-22T10:00:00+08:00",
+   "end": "2026-11-28T14:30:00+08:00",
+   "venue": "衛武營 排練室",
+   "address": "高雄市鳳山區三多一路1號",
+   "district": "鳳山區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "衛武營國家藝術文化中心",
+   "organizer_type": "政府",
+   "description": "搭配主辦節目—【2026臺灣舞蹈平台】《永動城市》滯留島舞蹈劇場＆Kinetic Light＆ONIKHO",
+   "links": [
+    {
+     "source": "weiwuying",
+     "url": "https://www.npac-weiwuying.org/programs/6a9fccdc8979e70007e9ba41"
     }
    ],
    "lat": null,
