@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:31:46.178761+08:00",
+ "generated_at": "2026-11-23T09:58:55.306769+08:00",
  "events": [
   {
    "id": "nstm:482a5d16-72b3-435a-843b-905f75e9de2c",
@@ -4424,249 +4424,6 @@
    ]
   },
   {
-   "id": "iculture:6ad91d1d26b3245efc753702",
-   "title": "11月高雄市電影館｜黑潮",
-   "start": "2026-11-22T11:30:00+08:00",
-   "end": "2026-11-26T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PD"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad7bb5f26b3245efc7536f0",
-   "title": "11月高雄市電影館｜屍控片場性愛死",
-   "start": "2026-11-22T12:00:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q9"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-21",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6aeeeff126b3245efc7537a8",
-   "title": "《世紀首登：聖母峰1953》VR沉浸大展",
-   "start": "2026-11-22T12:00:00+08:00",
-   "end": "2027-02-14T21:00:00+08:00",
-   "venue": "內惟藝術中心",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I7E1FQ"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-11-09",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ada767326b3245efc753713",
-   "title": "11月高雄市電影館｜善男信女",
-   "start": "2026-11-22T14:20:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QJ"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-25",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753705",
-   "title": "11月高雄市電影館｜重返巔峰北壁",
-   "start": "2026-11-22T15:00:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PY"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ada767326b3245efc753714",
-   "title": "11月高雄市電影館｜第四幕",
-   "start": "2026-11-22T16:30:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-25",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753700",
-   "title": "11月高雄市電影館｜告別的年代",
-   "start": "2026-11-22T17:00:00+08:00",
-   "end": "2026-11-27T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ad91d1d26b3245efc753706",
-   "title": "11月高雄市電影館｜黑球",
-   "start": "2026-11-22T19:00:00+08:00",
-   "end": "2026-11-29T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3Q5"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-23",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
-   "id": "iculture:6ada767326b3245efc753712",
-   "title": "11月高雄市電影館｜你和我的房間這種感覺",
-   "start": "2026-11-22T20:00:00+08:00",
-   "end": "2026-11-28T23:59:00+08:00",
-   "venue": "內惟藝術中心 Reel two 2廳、高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
-   "address": "高雄市鼓山區馬卡道路329號",
-   "district": "鼓山區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "",
-   "organizer_type": "不確定",
-   "description": "",
-   "links": [
-    {
-     "source": "iculture",
-     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "2026-10-25",
-   "sources": [
-    "iculture"
-   ]
-  },
-  {
    "id": "accupass:2611160916321481954493",
    "title": "【免費實體講座】家族辦公室｜創富・守富・傳富｜SPARK 思博客學院",
    "start": "2026-11-23T14:00:00+08:00",
@@ -4910,6 +4667,60 @@
    ]
   },
   {
+   "id": "iculture:6aeeeff126b3245efc7537a8",
+   "title": "《世紀首登：聖母峰1953》VR沉浸大展",
+   "start": "2026-11-24T14:00:00+08:00",
+   "end": "2027-02-14T21:00:00+08:00",
+   "venue": "內惟藝術中心",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I7E1FQ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-11-09",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753706",
+   "title": "11月高雄市電影館｜黑球",
+   "start": "2026-11-24T14:20:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3Q5"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "iculture:6ad91d1d26b3245efc753701",
    "title": "11月高雄市電影館｜有用的人",
    "start": "2026-11-24T14:40:00+08:00",
@@ -4926,6 +4737,60 @@
     {
      "source": "iculture",
      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753712",
+   "title": "11月高雄市電影館｜你和我的房間這種感覺",
+   "start": "2026-11-24T16:30:00+08:00",
+   "end": "2026-11-28T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "first_seen": "2026-10-25",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753702",
+   "title": "11月高雄市電影館｜黑潮",
+   "start": "2026-11-24T17:20:00+08:00",
+   "end": "2026-11-26T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PD"
     }
    ],
    "lat": null,
@@ -5126,6 +4991,60 @@
    ]
   },
   {
+   "id": "iculture:6ada767326b3245efc753713",
+   "title": "11月高雄市電影館｜善男信女",
+   "start": "2026-11-24T19:50:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel one 1廳、內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QJ"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-25",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753705",
+   "title": "11月高雄市電影館｜重返巔峰北壁",
+   "start": "2026-11-24T20:00:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳、高雄市電影館3樓",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PY"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
+   ]
+  },
+  {
    "id": "twmarket:60913:20261125",
    "title": "2026橫山藝術季原住民文化市集",
    "start": "2026-11-25T10:00:00+08:00",
@@ -5285,6 +5204,33 @@
    "first_seen": "2026-11-20",
    "sources": [
     "accupass"
+   ]
+  },
+  {
+   "id": "iculture:6ad91d1d26b3245efc753700",
+   "title": "11月高雄市電影館｜告別的年代",
+   "start": "2026-11-25T14:00:00+08:00",
+   "end": "2026-11-27T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "first_seen": "2026-10-23",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -5616,6 +5562,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "weiwuying"
+   ]
+  },
+  {
+   "id": "iculture:6ada767326b3245efc753714",
+   "title": "11月高雄市電影館｜第四幕",
+   "start": "2026-11-26T16:30:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "高雄市電影館3樓、內惟藝術中心 Reel two 2廳、內惟藝術中心 Reel one 1廳",
+   "address": "高雄市鹽埕區河西路10號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32"
+    }
+   ],
+   "lat": 22.62268,
+   "lng": 120.2891198,
+   "aliases": [],
+   "first_seen": "2026-10-25",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -9103,6 +9076,33 @@
    "first_seen": "2026-10-19",
    "sources": [
     "kpmc"
+   ]
+  },
+  {
+   "id": "iculture:6ad7bb5f26b3245efc7536f0",
+   "title": "11月高雄市電影館｜屍控片場性愛死",
+   "start": "2026-11-29T19:30:00+08:00",
+   "end": "2026-11-29T23:59:00+08:00",
+   "venue": "內惟藝術中心 Reel two 2廳",
+   "address": "高雄市鼓山區馬卡道路329號",
+   "district": "鼓山區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "",
+   "links": [
+    {
+     "source": "iculture",
+     "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE0Q9"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "2026-10-21",
+   "sources": [
+    "iculture"
    ]
   },
   {
@@ -14798,33 +14798,6 @@
    ]
   },
   {
-   "id": "opentix:2100901655904559105:20261212",
-   "title": "笑點工作室《停下來！漫才笑響曲》",
-   "start": "2026-12-12T14:30:00+08:00",
-   "end": "2026-12-12T21:00:00+08:00",
-   "venue": "駁二正港小劇場",
-   "address": "",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "笑點工作室",
-   "organizer_type": "民間",
-   "description": "🎭 漫才 × 🎵 音樂 × 😂 喜劇 × 💭 人生 ：「等一下，這誰寫的啊？誰准你的笑響曲只有休止符啊！」 長大 不會停下來！ 戀愛 如何停下來？ 工作 選擇停下來⋯ 生命 總會停下來～ 不斷奔跑的人生，是不是該停下來好好笑一笑了呢？！ 《停下來！漫才笑響曲》以五個人生階段， 從童年到告別，看見每個人都努力向前， 也都曾因為某些人、某些事，不得不停下腳步。 最後，當所有人在音樂祭相遇，才發現 —— 原來一路上，在某些瞬間，早已成為人生最重要的旋律。 人生很難，那就先笑一下。 這次，真的可以停下來！ 反正⋯票都買了。 【 笑點工作室 】 笑點工作室於2022年創立於高雄，以歐尼獎作為藝名。 ——…",
-   "links": [
-    {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2100901655904559105"
-    }
-   ],
-   "lat": 22.6201549,
-   "lng": 120.2786076,
-   "aliases": [],
-   "first_seen": "2026-10-29",
-   "sources": [
-    "opentix"
-   ]
-  },
-  {
    "id": "weiwuying:6a792e31d9f99a000814f5d4",
    "title": "《南都幽靈夜譚》",
    "start": "2026-12-12T14:30:00+08:00",
@@ -15947,33 +15920,6 @@
    ],
    "lat": 22.6914486,
    "lng": 120.2904458,
-   "aliases": [],
-   "first_seen": "2026-10-29",
-   "sources": [
-    "opentix"
-   ]
-  },
-  {
-   "id": "opentix:2100901655904559105:20261213",
-   "title": "笑點工作室《停下來！漫才笑響曲》",
-   "start": "2026-12-13T14:30:00+08:00",
-   "end": "2026-12-13T16:00:00+08:00",
-   "venue": "駁二正港小劇場",
-   "address": "",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "笑點工作室",
-   "organizer_type": "民間",
-   "description": "🎭 漫才 × 🎵 音樂 × 😂 喜劇 × 💭 人生 ：「等一下，這誰寫的啊？誰准你的笑響曲只有休止符啊！」 長大 不會停下來！ 戀愛 如何停下來？ 工作 選擇停下來⋯ 生命 總會停下來～ 不斷奔跑的人生，是不是該停下來好好笑一笑了呢？！ 《停下來！漫才笑響曲》以五個人生階段， 從童年到告別，看見每個人都努力向前， 也都曾因為某些人、某些事，不得不停下腳步。 最後，當所有人在音樂祭相遇，才發現 —— 原來一路上，在某些瞬間，早已成為人生最重要的旋律。 人生很難，那就先笑一下。 這次，真的可以停下來！ 反正⋯票都買了。 【 笑點工作室 】 笑點工作室於2022年創立於高雄，以歐尼獎作為藝名。 ——…",
-   "links": [
-    {
-     "source": "opentix",
-     "url": "https://www.opentix.life/event/2100901655904559105"
-    }
-   ],
-   "lat": 22.6201549,
-   "lng": 120.2786076,
    "aliases": [],
    "first_seen": "2026-10-29",
    "sources": [
