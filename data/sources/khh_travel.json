@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T09:58:55.306769+08:00",
+ "fetched_at": "2026-11-24T10:44:32.238468+08:00",
  "warning": "",
  "events": [
   {
@@ -401,6 +401,33 @@
    ],
    "lat": 22.61597,
    "lng": 120.29208,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008235",
+   "title": "2026高雄聖誕生活節",
+   "start": "2026-11-13T00:00:00+08:00",
+   "end": "2027-01-03T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市801前金區中央公園",
+   "district": "前金區",
+   "category": "節慶／觀光",
+   "fee": "未知",
+   "organizer": "高雄市政府經濟發展局、高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8235/"
+    }
+   ],
+   "lat": 22.6249,
+   "lng": 120.3009,
    "aliases": [],
    "first_seen": "",
    "sources": [

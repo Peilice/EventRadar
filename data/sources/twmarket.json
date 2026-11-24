@@ -1,7 +1,61 @@
 {
- "fetched_at": "2026-11-23T09:58:55.306769+08:00",
+ "fetched_at": "2026-11-24T10:44:32.238468+08:00",
  "warning": "",
  "events": [
+  {
+   "id": "twmarket:62446",
+   "title": "2027農曆春節市集",
+   "start": "2027-02-01T00:00:00+08:00",
+   "end": "2027-02-28T23:59:59+08:00",
+   "venue": "高雄親子樂園",
+   "address": "",
+   "district": "",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2027-02-0102-28-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%a6%aa%e5%ad%90%e6%a8%82%e5%9c%92-2027%e8%be%b2%e6%9b%86%e6%98%a5%e7%af%80%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
+  {
+   "id": "twmarket:62439",
+   "title": "聖誕市集",
+   "start": "2026-12-20T00:00:00+08:00",
+   "end": "2026-12-20T23:59:59+08:00",
+   "venue": "高雄市左營區博愛匯大樓",
+   "address": "",
+   "district": "左營區",
+   "category": "市集",
+   "fee": "未知",
+   "organizer": "",
+   "organizer_type": "不確定",
+   "description": "資料整理自攤商招募文，實際場次以主辦公告為準。",
+   "links": [
+    {
+     "source": "twmarket",
+     "url": "https://www.twmarket.tw/2026-12-2012-20-%e9%ab%98%e9%9b%84%e5%b8%82%e9%9b%86-%e9%ab%98%e9%9b%84%e5%b8%82%e5%b7%a6%e7%87%9f%e5%8d%80%e5%8d%9a%e6%84%9b%e5%8c%af%e5%a4%a7%e6%a8%93-%e8%81%96%e8%aa%95%e5%b8%82%e9%9b%86/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "twmarket"
+   ]
+  },
   {
    "id": "twmarket:62422:20270101",
    "title": "2027衛武營雙節慶市集",
