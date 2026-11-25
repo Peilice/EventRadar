@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T10:44:32.238468+08:00",
+ "fetched_at": "2026-11-25T08:19:41.906727+08:00",
  "warning": "",
  "events": [
   {
@@ -651,6 +651,33 @@
    ]
   },
   {
+   "id": "kpmc:16456",
+   "title": "2026下酒祭 FEAT.日本 .",
+   "start": "2026-12-06T15:00:00+08:00",
+   "end": "2026-12-06T15:00:00+08:00",
+   "venue": "高雄流行音樂中心 海風廣場",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "免費",
+   "organizer": "高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：THE WAVY (𝙅𝙋) 、 DSPS 、 工口紳士 Ero Gent、 存在証明 NO FACE NO REaLiTY、 蛋頭 BG8Locc、 庸俗救星 、薄荷綠工廠 Mint Green Mill 、宅邦戰隊/otakuni/オタク二\n票價：免費參加",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026%e4%b8%8b%e9%85%92%e7%a5%ad-feat-%e6%97%a5%e6%9c%ac-2/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
    "id": "kpmc:16297",
    "title": "【美秀集團《等無》巡迴 2026】",
    "start": "2026-12-06T20:00:00+08:00",
@@ -1126,6 +1153,33 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2026-lwh-1227/"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "kpmc"
+   ]
+  },
+  {
+   "id": "kpmc:16431",
+   "title": "BUTTER RIOT presents：Right here， RIOT now Vol.2",
+   "start": "2026-12-27T19:30:00+08:00",
+   "end": "2026-12-27T19:30:00+08:00",
+   "venue": "高雄流行音樂中心 LIVE WAREHOUSE 小庫",
+   "address": "高雄市鹽埕區真愛路1號",
+   "district": "鹽埕區",
+   "category": "表演／音樂",
+   "fee": "付費",
+   "organizer": "夕陽武士 Sunset Samurai／BUTTER RIOT／蘿拉 LOLLA x 高雄流行音樂中心",
+   "organizer_type": "政府",
+   "description": "演出：夕陽武士 Sunset Samurai／BUTTER RIOT／蘿拉 LOLLA\n票價：預售 $700 現場 $850 身障 $350（線上購票）",
+   "links": [
+    {
+     "source": "kpmc",
+     "url": "https://kpmc.com.tw/program/2026-lwh-1227-2/"
     }
    ],
    "lat": null,
