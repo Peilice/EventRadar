@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T10:44:32.238468+08:00",
+ "fetched_at": "2026-11-26T07:58:47.402833+08:00",
  "warning": "",
  "events": [
   {
@@ -192,33 +192,6 @@
    ]
   },
   {
-   "id": "nstm:0000015497-3",
-   "title": "/清倉加開/ 原住民建築【排灣族-內文社家屋】動手做課程",
-   "start": "2026-11-29T09:30:00+08:00",
-   "end": "2026-11-29T16:30:00+08:00",
-   "venue": "國立科學工藝博物館 B1 大教室",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：小四以上至國中；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015497&act_seq=3"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
    "id": "nstm:0000014835-69",
    "title": "【報名成功即贈水耕蔬菜一包】天使的眼淚，誰來守護？ 嘉明湖山屋管理員的日常工作分享",
    "start": "2026-12-05T10:00:00+08:00",
@@ -327,33 +300,6 @@
    ]
   },
   {
-   "id": "nstm:0000015276-7",
-   "title": "微氣候工程師：微景觀龍貓盆栽手作",
-   "start": "2026-12-06T09:00:00+08:00",
-   "end": "2026-12-06T16:00:00+08:00",
-   "venue": "國立科學工藝博物館",
-   "address": "高雄市三民區九如一路720號",
-   "district": "三民區",
-   "category": "講座／課程",
-   "fee": "付費",
-   "organizer": "國立科學工藝博物館",
-   "organizer_type": "政府",
-   "description": "對象：國中以上~大人；領域：科技教育",
-   "links": [
-    {
-     "source": "nstm",
-     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015276&act_seq=7"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "nstm"
-   ]
-  },
-  {
    "id": "nstm:0000014835-70",
    "title": "愛的Pizza配方！幸福親子料理所！",
    "start": "2026-12-06T09:30:00+08:00",
@@ -370,6 +316,33 @@
     {
      "source": "nstm",
      "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000014835&act_seq=70"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "nstm"
+   ]
+  },
+  {
+   "id": "nstm:0000015497-3",
+   "title": "/清倉加開/ 原住民建築【排灣族-內文社家屋】動手做課程",
+   "start": "2026-12-06T09:30:00+08:00",
+   "end": "2026-12-06T16:30:00+08:00",
+   "venue": "國立科學工藝博物館 B1 大教室",
+   "address": "高雄市三民區九如一路720號",
+   "district": "三民區",
+   "category": "講座／課程",
+   "fee": "免費",
+   "organizer": "國立科學工藝博物館",
+   "organizer_type": "政府",
+   "description": "對象：小四以上至國中；領域：科技教育",
+   "links": [
+    {
+     "source": "nstm",
+     "url": "https://serv.nstm.gov.tw/act_detail.aspx?act_no=0000015497&act_seq=3"
     }
    ],
    "lat": null,
