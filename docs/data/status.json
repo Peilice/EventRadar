@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T08:17:28.526646+08:00",
+ "generated_at": "2026-11-28T07:54:40.581843+08:00",
  "sources": {
   "weiwuying": {
    "label": "衛武營",
@@ -7,33 +7,33 @@
    "last_success": "2026-11-23T09:57:58.971825+08:00",
    "ok": false,
    "count": 0,
-   "cached_count": 168,
+   "cached_count": 165,
    "error": "超過 2 天沒有更新（由本機 runner 抓取）"
   },
   "kpmc": {
    "label": "高雄流行音樂中心",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
-   "count": 44,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "count": 42,
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   },
   "ksml": {
    "label": "高雄市立圖書館",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
-   "count": 35,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "count": 34,
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   },
   "khcc": {
    "label": "文化局展演（文化中心）",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
    "count": 101,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   },
@@ -48,28 +48,28 @@
   },
   "khm": {
    "label": "高雄市立歷史博物館",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
    "count": 4,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   },
   "nstm": {
    "label": "國立科學工藝博物館",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
    "count": 105,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   },
   "opentix": {
    "label": "OPENTIX",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
-   "count": 228,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "count": 223,
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   },
@@ -79,24 +79,24 @@
    "last_success": "2026-11-23T09:57:58.971825+08:00",
    "ok": false,
    "count": 0,
-   "cached_count": 127,
+   "cached_count": 125,
    "error": "超過 2 天沒有更新（由本機 runner 抓取）"
   },
   "khh_travel": {
    "label": "高雄旅遊網",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
-   "count": 16,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "count": 17,
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   },
   "accupass": {
    "label": "Accupass 活動通",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
-   "count": 329,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "count": 332,
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   },
@@ -106,15 +106,15 @@
    "last_success": "2026-11-23T09:57:58.971825+08:00",
    "ok": false,
    "count": 0,
-   "cached_count": 12,
+   "cached_count": 11,
    "error": "超過 2 天沒有更新（由本機 runner 抓取）"
   },
   "twmarket": {
    "label": "台灣市集整合資訊網",
-   "last_attempt": "2026-11-27T08:17:28.526646+08:00",
+   "last_attempt": "2026-11-28T07:54:40.581843+08:00",
    "ok": true,
-   "count": 148,
-   "last_success": "2026-11-27T08:17:28.526646+08:00",
+   "count": 147,
+   "last_success": "2026-11-28T07:54:40.581843+08:00",
    "error": "",
    "warning": ""
   }

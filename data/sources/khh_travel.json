@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T08:17:28.526646+08:00",
+ "fetched_at": "2026-11-28T07:54:40.581843+08:00",
  "warning": "",
  "events": [
   {
@@ -428,6 +428,33 @@
    ],
    "lat": 22.6249,
    "lng": 120.3009,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khh_travel"
+   ]
+  },
+  {
+   "id": "khh_travel:C2_397000000A_008248",
+   "title": "第七屆 Kahuzas 音樂節｜嘎呼拉斯",
+   "start": "2026-12-05T00:00:00+08:00",
+   "end": "2026-12-05T23:59:59+08:00",
+   "venue": "",
+   "address": "高雄市844六龜區寶來國中操場",
+   "district": "六龜區",
+   "category": "表演／音樂",
+   "fee": "未知",
+   "organizer": "高雄市政府",
+   "organizer_type": "政府",
+   "description": "",
+   "links": [
+    {
+     "source": "khh_travel",
+     "url": "https://khh.travel/zh-tw/event/calendardetail/8248/"
+    }
+   ],
+   "lat": 23.10943,
+   "lng": 120.70401,
    "aliases": [],
    "first_seen": "",
    "sources": [

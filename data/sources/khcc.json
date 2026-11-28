@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T08:17:28.526646+08:00",
+ "fetched_at": "2026-11-28T07:54:40.581843+08:00",
  "warning": "",
  "events": [
   {
@@ -19,33 +19,6 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4310"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "khcc"
-   ]
-  },
-  {
-   "id": "khcc:-40000:20261127",
-   "title": "娛人時代《後台，我總算學會了如何去愛》八週年旗艦製作",
-   "start": "2026-11-27T19:30:00+08:00",
-   "end": "2026-11-27T22:00:00+08:00",
-   "venue": "高雄市文化中心 至善廳",
-   "address": "高雄市苓雅區五福一路67號",
-   "district": "苓雅區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "靖學表演工作室",
-   "organizer_type": "民間",
-   "description": "演出單位：娛人時代-靖兒、喜德、丹利、小蓉包 福狸男孩-哈姆、劉向 春雨-聖博、照明",
-   "links": [
-    {
-     "source": "khcc",
-     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-40000&AP=$M102_DATE-115/11/27"
     }
    ],
    "lat": null,
@@ -1909,6 +1882,33 @@
     {
      "source": "khcc",
      "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39813&AP=$M102_DATE-116/02/27"
+    }
+   ],
+   "lat": null,
+   "lng": null,
+   "aliases": [],
+   "first_seen": "",
+   "sources": [
+    "khcc"
+   ]
+  },
+  {
+   "id": "khcc:-39813:20270228",
+   "title": "藝術市集",
+   "start": "2027-02-28T16:00:00+08:00",
+   "end": "2027-02-28T21:30:00+08:00",
+   "venue": "高雄市文化中心 藝術大道",
+   "address": "高雄市苓雅區五福一路67號",
+   "district": "苓雅區",
+   "category": "市集",
+   "fee": "免費",
+   "organizer": "高雄市政府文化局",
+   "organizer_type": "政府",
+   "description": "演出單位：高雄市政府文化局",
+   "links": [
+    {
+     "source": "khcc",
+     "url": "https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=-39813&AP=$M102_DATE-116/02/28"
     }
    ],
    "lat": null,

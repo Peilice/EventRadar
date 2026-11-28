@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T08:17:28.526646+08:00",
+ "fetched_at": "2026-11-28T07:54:40.581843+08:00",
  "warning": "",
  "events": [
   {
@@ -289,60 +289,6 @@
     {
      "source": "kpmc",
      "url": "https://kpmc.com.tw/program/2027-hih-0725/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16288",
-   "title": "【The Oldies but Goodies】午後西洋金曲時光：7＆80年代金曲",
-   "start": "2026-11-27T15:00:00+08:00",
-   "end": "2026-11-27T15:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：蘇珊Susan、王威凱、董杰安\n票價：單人400元 含150元午茶飲品 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/%e3%80%90the-oldies-but-goodies%e3%80%91%e5%8d%88%e5%be%8c%e8%a5%bf%e6%b4%8b%e9%87%91%e6%9b%b2%e6%99%82%e5%85%89%ef%bc%9a7%ef%bc%8680%e5%b9%b4%e4%bb%a3%e9%87%91%e6%9b%b2/"
-    }
-   ],
-   "lat": null,
-   "lng": null,
-   "aliases": [],
-   "first_seen": "",
-   "sources": [
-    "kpmc"
-   ]
-  },
-  {
-   "id": "kpmc:16290",
-   "title": "Voyager Collective ft. Pablo Liebhaber",
-   "start": "2026-11-27T20:00:00+08:00",
-   "end": "2026-11-27T20:00:00+08:00",
-   "venue": "高雄流行音樂中心 音浪塔 高音塔",
-   "address": "高雄市鹽埕區真愛路1號",
-   "district": "鹽埕區",
-   "category": "表演／音樂",
-   "fee": "付費",
-   "organizer": "爵式 WiJazz Records",
-   "organizer_type": "民間",
-   "description": "演出：林佳穎、宋易修、Pablo Liebhaber、涂宸華、湯銘鴻\n票價：單人500元 現場收費",
-   "links": [
-    {
-     "source": "kpmc",
-     "url": "https://kpmc.com.tw/program/voyager-collective-ft-pablo-liebhaber/"
     }
    ],
    "lat": null,
